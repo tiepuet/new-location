@@ -1,0 +1,902 @@
+{
+  "24118": {
+    "provinceCode": "66",
+    "oldWardCode": "24118",
+    "newWardCode": "24118"
+  },
+  "24121": {
+    "provinceCode": "66",
+    "oldWardCode": "24121",
+    "newWardCode": "24121"
+  },
+  "24124": {
+    "provinceCode": "66",
+    "oldWardCode": "24124",
+    "newWardCode": "24124"
+  },
+  "24130": {
+    "provinceCode": "66",
+    "oldWardCode": "24130",
+    "newWardCode": "24130"
+  },
+  "24133": {
+    "provinceCode": "66",
+    "oldWardCode": "24133",
+    "newWardCode": "24133"
+  },
+  "24136": {
+    "provinceCode": "66",
+    "oldWardCode": "24136",
+    "newWardCode": "24136"
+  },
+  "24142": {
+    "provinceCode": "66",
+    "oldWardCode": "24142",
+    "newWardCode": "24142"
+  },
+  "24145": {
+    "provinceCode": "66",
+    "oldWardCode": "24145",
+    "newWardCode": "24145"
+  },
+  "24148": {
+    "provinceCode": "66",
+    "oldWardCode": "24148",
+    "newWardCode": "24148"
+  },
+  "24151": {
+    "provinceCode": "66",
+    "oldWardCode": "24151",
+    "newWardCode": "24151"
+  },
+  "24154": {
+    "provinceCode": "66",
+    "oldWardCode": "24154",
+    "newWardCode": "24154"
+  },
+  "24157": {
+    "provinceCode": "66",
+    "oldWardCode": "24157",
+    "newWardCode": "24157"
+  },
+  "24160": {
+    "provinceCode": "66",
+    "oldWardCode": "24160",
+    "newWardCode": "24160"
+  },
+  "24163": {
+    "provinceCode": "66",
+    "oldWardCode": "24163",
+    "newWardCode": "24163"
+  },
+  "24166": {
+    "provinceCode": "66",
+    "oldWardCode": "24166",
+    "newWardCode": "24166"
+  },
+  "24169": {
+    "provinceCode": "66",
+    "oldWardCode": "24169",
+    "newWardCode": "24169"
+  },
+  "24172": {
+    "provinceCode": "66",
+    "oldWardCode": "24172",
+    "newWardCode": "24172"
+  },
+  "24175": {
+    "provinceCode": "66",
+    "oldWardCode": "24175",
+    "newWardCode": "24175"
+  },
+  "24178": {
+    "provinceCode": "66",
+    "oldWardCode": "24178",
+    "newWardCode": "24178"
+  },
+  "24181": {
+    "provinceCode": "66",
+    "oldWardCode": "24181",
+    "newWardCode": "24181"
+  },
+  "24184": {
+    "provinceCode": "66",
+    "oldWardCode": "24184",
+    "newWardCode": "24184"
+  },
+  "24187": {
+    "provinceCode": "66",
+    "oldWardCode": "24187",
+    "newWardCode": "24187"
+  },
+  "24190": {
+    "provinceCode": "66",
+    "oldWardCode": "24190",
+    "newWardCode": "24190"
+  },
+  "24193": {
+    "provinceCode": "66",
+    "oldWardCode": "24193",
+    "newWardCode": "24193"
+  },
+  "24194": {
+    "provinceCode": "66",
+    "oldWardCode": "24194",
+    "newWardCode": "24194"
+  },
+  "24196": {
+    "provinceCode": "66",
+    "oldWardCode": "24196",
+    "newWardCode": "24196"
+  },
+  "24199": {
+    "provinceCode": "66",
+    "oldWardCode": "24199",
+    "newWardCode": "24199"
+  },
+  "24202": {
+    "provinceCode": "66",
+    "oldWardCode": "24202",
+    "newWardCode": "24202"
+  },
+  "24205": {
+    "provinceCode": "66",
+    "oldWardCode": "24205",
+    "newWardCode": "24205"
+  },
+  "24207": {
+    "provinceCode": "66",
+    "oldWardCode": "24207",
+    "newWardCode": "24207"
+  },
+  "24208": {
+    "provinceCode": "66",
+    "oldWardCode": "24208",
+    "newWardCode": "24208"
+  },
+  "24211": {
+    "provinceCode": "66",
+    "oldWardCode": "24211",
+    "newWardCode": "24211"
+  },
+  "24214": {
+    "provinceCode": "66",
+    "oldWardCode": "24214",
+    "newWardCode": "24214"
+  },
+  "24215": {
+    "provinceCode": "66",
+    "oldWardCode": "24215",
+    "newWardCode": "24215"
+  },
+  "24217": {
+    "provinceCode": "66",
+    "oldWardCode": "24217",
+    "newWardCode": "24217"
+  },
+  "24220": {
+    "provinceCode": "66",
+    "oldWardCode": "24220",
+    "newWardCode": "24220"
+  },
+  "24221": {
+    "provinceCode": "66",
+    "oldWardCode": "24221",
+    "newWardCode": "24221"
+  },
+  "24223": {
+    "provinceCode": "66",
+    "oldWardCode": "24223",
+    "newWardCode": "24223"
+  },
+  "24226": {
+    "provinceCode": "66",
+    "oldWardCode": "24226",
+    "newWardCode": "24226"
+  },
+  "24229": {
+    "provinceCode": "66",
+    "oldWardCode": "24229",
+    "newWardCode": "24229"
+  },
+  "24232": {
+    "provinceCode": "66",
+    "oldWardCode": "24232",
+    "newWardCode": "24232"
+  },
+  "24235": {
+    "provinceCode": "66",
+    "oldWardCode": "24235",
+    "newWardCode": "24235"
+  },
+  "24238": {
+    "provinceCode": "66",
+    "oldWardCode": "24238",
+    "newWardCode": "24238"
+  },
+  "24241": {
+    "provinceCode": "66",
+    "oldWardCode": "24241",
+    "newWardCode": "24241"
+  },
+  "24244": {
+    "provinceCode": "66",
+    "oldWardCode": "24244",
+    "newWardCode": "24244"
+  },
+  "24247": {
+    "provinceCode": "66",
+    "oldWardCode": "24247",
+    "newWardCode": "24247"
+  },
+  "24250": {
+    "provinceCode": "66",
+    "oldWardCode": "24250",
+    "newWardCode": "24250"
+  },
+  "24253": {
+    "provinceCode": "66",
+    "oldWardCode": "24253",
+    "newWardCode": "24253"
+  },
+  "24256": {
+    "provinceCode": "66",
+    "oldWardCode": "24256",
+    "newWardCode": "24256"
+  },
+  "24259": {
+    "provinceCode": "66",
+    "oldWardCode": "24259",
+    "newWardCode": "24259"
+  },
+  "24262": {
+    "provinceCode": "66",
+    "oldWardCode": "24262",
+    "newWardCode": "24262"
+  },
+  "24264": {
+    "provinceCode": "66",
+    "oldWardCode": "24264",
+    "newWardCode": "24264"
+  },
+  "24265": {
+    "provinceCode": "66",
+    "oldWardCode": "24265",
+    "newWardCode": "24265"
+  },
+  "24268": {
+    "provinceCode": "66",
+    "oldWardCode": "24268",
+    "newWardCode": "24268"
+  },
+  "24271": {
+    "provinceCode": "66",
+    "oldWardCode": "24271",
+    "newWardCode": "24271"
+  },
+  "24274": {
+    "provinceCode": "66",
+    "oldWardCode": "24274",
+    "newWardCode": "24274"
+  },
+  "24277": {
+    "provinceCode": "66",
+    "oldWardCode": "24277",
+    "newWardCode": "24277"
+  },
+  "24280": {
+    "provinceCode": "66",
+    "oldWardCode": "24280",
+    "newWardCode": "24280"
+  },
+  "24283": {
+    "provinceCode": "66",
+    "oldWardCode": "24283",
+    "newWardCode": "24283"
+  },
+  "24286": {
+    "provinceCode": "66",
+    "oldWardCode": "24286",
+    "newWardCode": "24286"
+  },
+  "24289": {
+    "provinceCode": "66",
+    "oldWardCode": "24289",
+    "newWardCode": "24289"
+  },
+  "24292": {
+    "provinceCode": "66",
+    "oldWardCode": "24292",
+    "newWardCode": "24292"
+  },
+  "24295": {
+    "provinceCode": "66",
+    "oldWardCode": "24295",
+    "newWardCode": "24295"
+  },
+  "24298": {
+    "provinceCode": "66",
+    "oldWardCode": "24298",
+    "newWardCode": "24298"
+  },
+  "24301": {
+    "provinceCode": "66",
+    "oldWardCode": "24301",
+    "newWardCode": "24301"
+  },
+  "24305": {
+    "provinceCode": "66",
+    "oldWardCode": "24305",
+    "newWardCode": "24305"
+  },
+  "24307": {
+    "provinceCode": "66",
+    "oldWardCode": "24307",
+    "newWardCode": "24307"
+  },
+  "24308": {
+    "provinceCode": "66",
+    "oldWardCode": "24308",
+    "newWardCode": "24308"
+  },
+  "24310": {
+    "provinceCode": "66",
+    "oldWardCode": "24310",
+    "newWardCode": "24310"
+  },
+  "24311": {
+    "provinceCode": "66",
+    "oldWardCode": "24311",
+    "newWardCode": "24311"
+  },
+  "24313": {
+    "provinceCode": "66",
+    "oldWardCode": "24313",
+    "newWardCode": "24313"
+  },
+  "24314": {
+    "provinceCode": "66",
+    "oldWardCode": "24314",
+    "newWardCode": "24314"
+  },
+  "24316": {
+    "provinceCode": "66",
+    "oldWardCode": "24316",
+    "newWardCode": "24316"
+  },
+  "24317": {
+    "provinceCode": "66",
+    "oldWardCode": "24317",
+    "newWardCode": "24317"
+  },
+  "24318": {
+    "provinceCode": "66",
+    "oldWardCode": "24318",
+    "newWardCode": "24318"
+  },
+  "24319": {
+    "provinceCode": "66",
+    "oldWardCode": "24319",
+    "newWardCode": "24319"
+  },
+  "24322": {
+    "provinceCode": "66",
+    "oldWardCode": "24322",
+    "newWardCode": "24322"
+  },
+  "24328": {
+    "provinceCode": "66",
+    "oldWardCode": "24328",
+    "newWardCode": "24328"
+  },
+  "24331": {
+    "provinceCode": "66",
+    "oldWardCode": "24331",
+    "newWardCode": "24331"
+  },
+  "24332": {
+    "provinceCode": "66",
+    "oldWardCode": "24332",
+    "newWardCode": "24332"
+  },
+  "24334": {
+    "provinceCode": "66",
+    "oldWardCode": "24334",
+    "newWardCode": "24334"
+  },
+  "24337": {
+    "provinceCode": "66",
+    "oldWardCode": "24337",
+    "newWardCode": "24337"
+  },
+  "24340": {
+    "provinceCode": "66",
+    "oldWardCode": "24340",
+    "newWardCode": "24340"
+  },
+  "24343": {
+    "provinceCode": "66",
+    "oldWardCode": "24343",
+    "newWardCode": "24343"
+  },
+  "24346": {
+    "provinceCode": "66",
+    "oldWardCode": "24346",
+    "newWardCode": "24346"
+  },
+  "24349": {
+    "provinceCode": "66",
+    "oldWardCode": "24349",
+    "newWardCode": "24349"
+  },
+  "24352": {
+    "provinceCode": "66",
+    "oldWardCode": "24352",
+    "newWardCode": "24352"
+  },
+  "24355": {
+    "provinceCode": "66",
+    "oldWardCode": "24355",
+    "newWardCode": "24355"
+  },
+  "24358": {
+    "provinceCode": "66",
+    "oldWardCode": "24358",
+    "newWardCode": "24358"
+  },
+  "24359": {
+    "provinceCode": "66",
+    "oldWardCode": "24359",
+    "newWardCode": "24359"
+  },
+  "24360": {
+    "provinceCode": "66",
+    "oldWardCode": "24360",
+    "newWardCode": "24360"
+  },
+  "24361": {
+    "provinceCode": "66",
+    "oldWardCode": "24361",
+    "newWardCode": "24361"
+  },
+  "24364": {
+    "provinceCode": "66",
+    "oldWardCode": "24364",
+    "newWardCode": "24364"
+  },
+  "24367": {
+    "provinceCode": "66",
+    "oldWardCode": "24367",
+    "newWardCode": "24367"
+  },
+  "24370": {
+    "provinceCode": "66",
+    "oldWardCode": "24370",
+    "newWardCode": "24370"
+  },
+  "24373": {
+    "provinceCode": "66",
+    "oldWardCode": "24373",
+    "newWardCode": "24373"
+  },
+  "24376": {
+    "provinceCode": "66",
+    "oldWardCode": "24376",
+    "newWardCode": "24376"
+  },
+  "24379": {
+    "provinceCode": "66",
+    "oldWardCode": "24379",
+    "newWardCode": "24379"
+  },
+  "24380": {
+    "provinceCode": "66",
+    "oldWardCode": "24380",
+    "newWardCode": "24380"
+  },
+  "24382": {
+    "provinceCode": "66",
+    "oldWardCode": "24382",
+    "newWardCode": "24382"
+  },
+  "24385": {
+    "provinceCode": "66",
+    "oldWardCode": "24385",
+    "newWardCode": "24385"
+  },
+  "24388": {
+    "provinceCode": "66",
+    "oldWardCode": "24388",
+    "newWardCode": "24388"
+  },
+  "24391": {
+    "provinceCode": "66",
+    "oldWardCode": "24391",
+    "newWardCode": "24391"
+  },
+  "24394": {
+    "provinceCode": "66",
+    "oldWardCode": "24394",
+    "newWardCode": "24394"
+  },
+  "24397": {
+    "provinceCode": "66",
+    "oldWardCode": "24397",
+    "newWardCode": "24397"
+  },
+  "24400": {
+    "provinceCode": "66",
+    "oldWardCode": "24400",
+    "newWardCode": "24400"
+  },
+  "24401": {
+    "provinceCode": "66",
+    "oldWardCode": "24401",
+    "newWardCode": "24401"
+  },
+  "24403": {
+    "provinceCode": "66",
+    "oldWardCode": "24403",
+    "newWardCode": "24403"
+  },
+  "24404": {
+    "provinceCode": "66",
+    "oldWardCode": "24404",
+    "newWardCode": "24404"
+  },
+  "24406": {
+    "provinceCode": "66",
+    "oldWardCode": "24406",
+    "newWardCode": "24406"
+  },
+  "24409": {
+    "provinceCode": "66",
+    "oldWardCode": "24409",
+    "newWardCode": "24409"
+  },
+  "24412": {
+    "provinceCode": "66",
+    "oldWardCode": "24412",
+    "newWardCode": "24412"
+  },
+  "24415": {
+    "provinceCode": "66",
+    "oldWardCode": "24415",
+    "newWardCode": "24415"
+  },
+  "24418": {
+    "provinceCode": "66",
+    "oldWardCode": "24418",
+    "newWardCode": "24418"
+  },
+  "24421": {
+    "provinceCode": "66",
+    "oldWardCode": "24421",
+    "newWardCode": "24421"
+  },
+  "24424": {
+    "provinceCode": "66",
+    "oldWardCode": "24424",
+    "newWardCode": "24424"
+  },
+  "24427": {
+    "provinceCode": "66",
+    "oldWardCode": "24427",
+    "newWardCode": "24427"
+  },
+  "24430": {
+    "provinceCode": "66",
+    "oldWardCode": "24430",
+    "newWardCode": "24430"
+  },
+  "24433": {
+    "provinceCode": "66",
+    "oldWardCode": "24433",
+    "newWardCode": "24433"
+  },
+  "24436": {
+    "provinceCode": "66",
+    "oldWardCode": "24436",
+    "newWardCode": "24436"
+  },
+  "24439": {
+    "provinceCode": "66",
+    "oldWardCode": "24439",
+    "newWardCode": "24439"
+  },
+  "24442": {
+    "provinceCode": "66",
+    "oldWardCode": "24442",
+    "newWardCode": "24442"
+  },
+  "24444": {
+    "provinceCode": "66",
+    "oldWardCode": "24444",
+    "newWardCode": "24444"
+  },
+  "24445": {
+    "provinceCode": "66",
+    "oldWardCode": "24445",
+    "newWardCode": "24445"
+  },
+  "24448": {
+    "provinceCode": "66",
+    "oldWardCode": "24448",
+    "newWardCode": "24448"
+  },
+  "24451": {
+    "provinceCode": "66",
+    "oldWardCode": "24451",
+    "newWardCode": "24451"
+  },
+  "24454": {
+    "provinceCode": "66",
+    "oldWardCode": "24454",
+    "newWardCode": "24454"
+  },
+  "24457": {
+    "provinceCode": "66",
+    "oldWardCode": "24457",
+    "newWardCode": "24457"
+  },
+  "24463": {
+    "provinceCode": "66",
+    "oldWardCode": "24463",
+    "newWardCode": "24463"
+  },
+  "24466": {
+    "provinceCode": "66",
+    "oldWardCode": "24466",
+    "newWardCode": "24466"
+  },
+  "24469": {
+    "provinceCode": "66",
+    "oldWardCode": "24469",
+    "newWardCode": "24469"
+  },
+  "24472": {
+    "provinceCode": "66",
+    "oldWardCode": "24472",
+    "newWardCode": "24472"
+  },
+  "24475": {
+    "provinceCode": "66",
+    "oldWardCode": "24475",
+    "newWardCode": "24475"
+  },
+  "24478": {
+    "provinceCode": "66",
+    "oldWardCode": "24478",
+    "newWardCode": "24478"
+  },
+  "24481": {
+    "provinceCode": "66",
+    "oldWardCode": "24481",
+    "newWardCode": "24481"
+  },
+  "24484": {
+    "provinceCode": "66",
+    "oldWardCode": "24484",
+    "newWardCode": "24484"
+  },
+  "24487": {
+    "provinceCode": "66",
+    "oldWardCode": "24487",
+    "newWardCode": "24487"
+  },
+  "24490": {
+    "provinceCode": "66",
+    "oldWardCode": "24490",
+    "newWardCode": "24490"
+  },
+  "24493": {
+    "provinceCode": "66",
+    "oldWardCode": "24493",
+    "newWardCode": "24493"
+  },
+  "24496": {
+    "provinceCode": "66",
+    "oldWardCode": "24496",
+    "newWardCode": "24496"
+  },
+  "24499": {
+    "provinceCode": "66",
+    "oldWardCode": "24499",
+    "newWardCode": "24499"
+  },
+  "24502": {
+    "provinceCode": "66",
+    "oldWardCode": "24502",
+    "newWardCode": "24502"
+  },
+  "24505": {
+    "provinceCode": "66",
+    "oldWardCode": "24505",
+    "newWardCode": "24505"
+  },
+  "24508": {
+    "provinceCode": "66",
+    "oldWardCode": "24508",
+    "newWardCode": "24508"
+  },
+  "24511": {
+    "provinceCode": "66",
+    "oldWardCode": "24511",
+    "newWardCode": "24511"
+  },
+  "24514": {
+    "provinceCode": "66",
+    "oldWardCode": "24514",
+    "newWardCode": "24514"
+  },
+  "24517": {
+    "provinceCode": "66",
+    "oldWardCode": "24517",
+    "newWardCode": "24517"
+  },
+  "24520": {
+    "provinceCode": "66",
+    "oldWardCode": "24520",
+    "newWardCode": "24520"
+  },
+  "24523": {
+    "provinceCode": "66",
+    "oldWardCode": "24523",
+    "newWardCode": "24523"
+  },
+  "24526": {
+    "provinceCode": "66",
+    "oldWardCode": "24526",
+    "newWardCode": "24526"
+  },
+  "24529": {
+    "provinceCode": "66",
+    "oldWardCode": "24529",
+    "newWardCode": "24529"
+  },
+  "24532": {
+    "provinceCode": "66",
+    "oldWardCode": "24532",
+    "newWardCode": "24532"
+  },
+  "24535": {
+    "provinceCode": "66",
+    "oldWardCode": "24535",
+    "newWardCode": "24535"
+  },
+  "24538": {
+    "provinceCode": "66",
+    "oldWardCode": "24538",
+    "newWardCode": "24538"
+  },
+  "24540": {
+    "provinceCode": "66",
+    "oldWardCode": "24540",
+    "newWardCode": "24540"
+  },
+  "24541": {
+    "provinceCode": "66",
+    "oldWardCode": "24541",
+    "newWardCode": "24541"
+  },
+  "24544": {
+    "provinceCode": "66",
+    "oldWardCode": "24544",
+    "newWardCode": "24544"
+  },
+  "24547": {
+    "provinceCode": "66",
+    "oldWardCode": "24547",
+    "newWardCode": "24547"
+  },
+  "24550": {
+    "provinceCode": "66",
+    "oldWardCode": "24550",
+    "newWardCode": "24550"
+  },
+  "24553": {
+    "provinceCode": "66",
+    "oldWardCode": "24553",
+    "newWardCode": "24553"
+  },
+  "24556": {
+    "provinceCode": "66",
+    "oldWardCode": "24556",
+    "newWardCode": "24556"
+  },
+  "24559": {
+    "provinceCode": "66",
+    "oldWardCode": "24559",
+    "newWardCode": "24559"
+  },
+  "24561": {
+    "provinceCode": "66",
+    "oldWardCode": "24561",
+    "newWardCode": "24561"
+  },
+  "24562": {
+    "provinceCode": "66",
+    "oldWardCode": "24562",
+    "newWardCode": "24562"
+  },
+  "24565": {
+    "provinceCode": "66",
+    "oldWardCode": "24565",
+    "newWardCode": "24565"
+  },
+  "24568": {
+    "provinceCode": "66",
+    "oldWardCode": "24568",
+    "newWardCode": "24568"
+  },
+  "24571": {
+    "provinceCode": "66",
+    "oldWardCode": "24571",
+    "newWardCode": "24571"
+  },
+  "24574": {
+    "provinceCode": "66",
+    "oldWardCode": "24574",
+    "newWardCode": "24574"
+  },
+  "24577": {
+    "provinceCode": "66",
+    "oldWardCode": "24577",
+    "newWardCode": "24577"
+  },
+  "24580": {
+    "provinceCode": "66",
+    "oldWardCode": "24580",
+    "newWardCode": "24580"
+  },
+  "24583": {
+    "provinceCode": "66",
+    "oldWardCode": "24583",
+    "newWardCode": "24583"
+  },
+  "24586": {
+    "provinceCode": "66",
+    "oldWardCode": "24586",
+    "newWardCode": "24586"
+  },
+  "24589": {
+    "provinceCode": "66",
+    "oldWardCode": "24589",
+    "newWardCode": "24589"
+  },
+  "24592": {
+    "provinceCode": "66",
+    "oldWardCode": "24592",
+    "newWardCode": "24592"
+  },
+  "24595": {
+    "provinceCode": "66",
+    "oldWardCode": "24595",
+    "newWardCode": "24595"
+  },
+  "24598": {
+    "provinceCode": "66",
+    "oldWardCode": "24598",
+    "newWardCode": "24598"
+  },
+  "24601": {
+    "provinceCode": "66",
+    "oldWardCode": "24601",
+    "newWardCode": "24601"
+  },
+  "24604": {
+    "provinceCode": "66",
+    "oldWardCode": "24604",
+    "newWardCode": "24604"
+  },
+  "24607": {
+    "provinceCode": "66",
+    "oldWardCode": "24607",
+    "newWardCode": "24607"
+  },
+  "24610": {
+    "provinceCode": "66",
+    "oldWardCode": "24610",
+    "newWardCode": "24610"
+  }
+}
