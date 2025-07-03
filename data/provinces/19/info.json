@@ -1,0 +1,75 @@
+{
+  "name": "Thái Nguyên",
+  "code": "19",
+  "from": "Thái Nguyên, Bắc Kạn",
+  "area": 8375.21,
+  "population": 1799489,
+  "adminCenter": "Thái Nguyên",
+  "hasSeaport": false,
+  "numSeaports": null,
+  "numBerths": null,
+  "grdp": 185.614,
+  "licensePlates": [
+    20,
+    97
+  ],
+  "density": 215,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Phú Bình",
+      "code": "173",
+      "provinceName": "Tỉnh Thái Nguyên",
+      "provinceCode": "19"
+    },
+    {
+      "name": "Huyện Phú Lương",
+      "code": "168",
+      "provinceName": "Tỉnh Thái Nguyên",
+      "provinceCode": "19"
+    },
+    {
+      "name": "Huyện Võ Nhai",
+      "code": "170",
+      "provinceName": "Tỉnh Thái Nguyên",
+      "provinceCode": "19"
+    },
+    {
+      "name": "Huyện Đại Từ",
+      "code": "171",
+      "provinceName": "Tỉnh Thái Nguyên",
+      "provinceCode": "19"
+    },
+    {
+      "name": "Huyện Định Hóa",
+      "code": "167",
+      "provinceName": "Tỉnh Thái Nguyên",
+      "provinceCode": "19"
+    },
+    {
+      "name": "Huyện Đồng Hỷ",
+      "code": "169",
+      "provinceName": "Tỉnh Thái Nguyên",
+      "provinceCode": "19"
+    },
+    {
+      "name": "Thành phố Phổ Yên",
+      "code": "172",
+      "provinceName": "Tỉnh Thái Nguyên",
+      "provinceCode": "19"
+    },
+    {
+      "name": "Thành phố Sông Công",
+      "code": "165",
+      "provinceName": "Tỉnh Thái Nguyên",
+      "provinceCode": "19"
+    },
+    {
+      "name": "Thành phố Thái Nguyên",
+      "code": "164",
+      "provinceName": "Tỉnh Thái Nguyên",
+      "provinceCode": "19"
+    }
+  ]
+}

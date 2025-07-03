@@ -1,0 +1,498 @@
+[
+  {
+    "name": "Xã Phước Bình",
+    "code": "22783",
+    "districtName": "Huyện Bác Ái",
+    "districtCode": "584",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Chính",
+    "code": "22804",
+    "districtName": "Huyện Bác Ái",
+    "districtCode": "584",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Hòa",
+    "code": "22786",
+    "districtName": "Huyện Bác Ái",
+    "districtCode": "584",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Thành",
+    "code": "22798",
+    "districtName": "Huyện Bác Ái",
+    "districtCode": "584",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Thắng",
+    "code": "22795",
+    "districtName": "Huyện Bác Ái",
+    "districtCode": "584",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Tiến",
+    "code": "22792",
+    "districtName": "Huyện Bác Ái",
+    "districtCode": "584",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Trung",
+    "code": "22807",
+    "districtName": "Huyện Bác Ái",
+    "districtCode": "584",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Tân",
+    "code": "22789",
+    "districtName": "Huyện Bác Ái",
+    "districtCode": "584",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Đại",
+    "code": "22801",
+    "districtName": "Huyện Bác Ái",
+    "districtCode": "584",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Thị trấn Khánh Hải",
+    "code": "22834",
+    "districtName": "Huyện Ninh Hải",
+    "districtCode": "586",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Hộ Hải",
+    "code": "22861",
+    "districtName": "Huyện Ninh Hải",
+    "districtCode": "586",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Nhơn Hải",
+    "code": "22867",
+    "districtName": "Huyện Ninh Hải",
+    "districtCode": "586",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phương Hải",
+    "code": "22852",
+    "districtName": "Huyện Ninh Hải",
+    "districtCode": "586",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Thanh Hải",
+    "code": "22868",
+    "districtName": "Huyện Ninh Hải",
+    "districtCode": "586",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Tri Hải",
+    "code": "22864",
+    "districtName": "Huyện Ninh Hải",
+    "districtCode": "586",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Tân Hải",
+    "code": "22855",
+    "districtName": "Huyện Ninh Hải",
+    "districtCode": "586",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Vĩnh Hải",
+    "code": "22846",
+    "districtName": "Huyện Ninh Hải",
+    "districtCode": "586",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Xuân Hải",
+    "code": "22858",
+    "districtName": "Huyện Ninh Hải",
+    "districtCode": "586",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Thị trấn Phước Dân",
+    "code": "22870",
+    "districtName": "Huyện Ninh Phước",
+    "districtCode": "587",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã An Hải",
+    "code": "22888",
+    "districtName": "Huyện Ninh Phước",
+    "districtCode": "587",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Hải",
+    "code": "22894",
+    "districtName": "Huyện Ninh Phước",
+    "districtCode": "587",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Hậu",
+    "code": "22879",
+    "districtName": "Huyện Ninh Phước",
+    "districtCode": "587",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Hữu",
+    "code": "22891",
+    "districtName": "Huyện Ninh Phước",
+    "districtCode": "587",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Sơn",
+    "code": "22873",
+    "districtName": "Huyện Ninh Phước",
+    "districtCode": "587",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Thuận",
+    "code": "22882",
+    "districtName": "Huyện Ninh Phước",
+    "districtCode": "587",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Thái",
+    "code": "22876",
+    "districtName": "Huyện Ninh Phước",
+    "districtCode": "587",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Vinh",
+    "code": "22912",
+    "districtName": "Huyện Ninh Phước",
+    "districtCode": "587",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Thị trấn Tân Sơn",
+    "code": "22810",
+    "districtName": "Huyện Ninh Sơn",
+    "districtCode": "585",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Hòa Sơn",
+    "code": "22825",
+    "districtName": "Huyện Ninh Sơn",
+    "districtCode": "585",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Lâm Sơn",
+    "code": "22813",
+    "districtName": "Huyện Ninh Sơn",
+    "districtCode": "585",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Lương Sơn",
+    "code": "22816",
+    "districtName": "Huyện Ninh Sơn",
+    "districtCode": "585",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Ma Nới",
+    "code": "22828",
+    "districtName": "Huyện Ninh Sơn",
+    "districtCode": "585",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Mỹ Sơn",
+    "code": "22822",
+    "districtName": "Huyện Ninh Sơn",
+    "districtCode": "585",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Nhơn Sơn",
+    "code": "22831",
+    "districtName": "Huyện Ninh Sơn",
+    "districtCode": "585",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Quảng Sơn",
+    "code": "22819",
+    "districtName": "Huyện Ninh Sơn",
+    "districtCode": "585",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Bắc Phong",
+    "code": "22856",
+    "districtName": "Huyện Thuận Bắc",
+    "districtCode": "588",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Bắc Sơn",
+    "code": "22853",
+    "districtName": "Huyện Thuận Bắc",
+    "districtCode": "588",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Công Hải",
+    "code": "22840",
+    "districtName": "Huyện Thuận Bắc",
+    "districtCode": "588",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Lợi Hải",
+    "code": "22849",
+    "districtName": "Huyện Thuận Bắc",
+    "districtCode": "588",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Chiến",
+    "code": "22837",
+    "districtName": "Huyện Thuận Bắc",
+    "districtCode": "588",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Kháng",
+    "code": "22843",
+    "districtName": "Huyện Thuận Bắc",
+    "districtCode": "588",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Cà Ná",
+    "code": "22910",
+    "districtName": "Huyện Thuận Nam",
+    "districtCode": "589",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Nhị Hà",
+    "code": "22900",
+    "districtName": "Huyện Thuận Nam",
+    "districtCode": "589",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Dinh",
+    "code": "22903",
+    "districtName": "Huyện Thuận Nam",
+    "districtCode": "589",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Diêm",
+    "code": "22909",
+    "districtName": "Huyện Thuận Nam",
+    "districtCode": "589",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Hà",
+    "code": "22885",
+    "districtName": "Huyện Thuận Nam",
+    "districtCode": "589",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Minh",
+    "code": "22906",
+    "districtName": "Huyện Thuận Nam",
+    "districtCode": "589",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Nam",
+    "code": "22897",
+    "districtName": "Huyện Thuận Nam",
+    "districtCode": "589",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Phước Ninh",
+    "code": "22898",
+    "districtName": "Huyện Thuận Nam",
+    "districtCode": "589",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Phường Bảo An",
+    "code": "22744",
+    "districtName": "Thành phố Phan Rang-Tháp Chàm",
+    "districtCode": "582",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Phường Kinh Dinh",
+    "code": "22759",
+    "districtName": "Thành phố Phan Rang-Tháp Chàm",
+    "districtCode": "582",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Phường Mỹ Bình",
+    "code": "22779",
+    "districtName": "Thành phố Phan Rang-Tháp Chàm",
+    "districtCode": "582",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Phường Mỹ Hải",
+    "code": "22780",
+    "districtName": "Thành phố Phan Rang-Tháp Chàm",
+    "districtCode": "582",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Phường Mỹ Đông",
+    "code": "22771",
+    "districtName": "Thành phố Phan Rang-Tháp Chàm",
+    "districtCode": "582",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Phường Phước Mỹ",
+    "code": "22741",
+    "districtName": "Thành phố Phan Rang-Tháp Chàm",
+    "districtCode": "582",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Phường Phủ Hà",
+    "code": "22750",
+    "districtName": "Thành phố Phan Rang-Tháp Chàm",
+    "districtCode": "582",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Phường Văn Hải",
+    "code": "22777",
+    "districtName": "Thành phố Phan Rang-Tháp Chàm",
+    "districtCode": "582",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Phường Đài Sơn",
+    "code": "22765",
+    "districtName": "Thành phố Phan Rang-Tháp Chàm",
+    "districtCode": "582",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Phường Đô Vinh",
+    "code": "22738",
+    "districtName": "Thành phố Phan Rang-Tháp Chàm",
+    "districtCode": "582",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Phường Đông Hải",
+    "code": "22768",
+    "districtName": "Thành phố Phan Rang-Tháp Chàm",
+    "districtCode": "582",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Phường Đạo Long",
+    "code": "22762",
+    "districtName": "Thành phố Phan Rang-Tháp Chàm",
+    "districtCode": "582",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  },
+  {
+    "name": "Xã Thành Hải",
+    "code": "22774",
+    "districtName": "Thành phố Phan Rang-Tháp Chàm",
+    "districtCode": "582",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "provinceCode": "58"
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "name": "Tỉnh Bạc Liêu",
+  "code": "95",
+  "districts": [
+    {
+      "name": "Huyện Hoà Bình",
+      "code": "961",
+      "provinceName": "Tỉnh Bạc Liêu",
+      "provinceCode": "95"
+    },
+    {
+      "name": "Huyện Hồng Dân",
+      "code": "956",
+      "provinceName": "Tỉnh Bạc Liêu",
+      "provinceCode": "95"
+    },
+    {
+      "name": "Huyện Phước Long",
+      "code": "957",
+      "provinceName": "Tỉnh Bạc Liêu",
+      "provinceCode": "95"
+    },
+    {
+      "name": "Huyện Vĩnh Lợi",
+      "code": "958",
+      "provinceName": "Tỉnh Bạc Liêu",
+      "provinceCode": "95"
+    },
+    {
+      "name": "Huyện Đông Hải",
+      "code": "960",
+      "provinceName": "Tỉnh Bạc Liêu",
+      "provinceCode": "95"
+    },
+    {
+      "name": "Thành phố Bạc Liêu",
+      "code": "954",
+      "provinceName": "Tỉnh Bạc Liêu",
+      "provinceCode": "95"
+    },
+    {
+      "name": "Thị xã Giá Rai",
+      "code": "959",
+      "provinceName": "Tỉnh Bạc Liêu",
+      "provinceCode": "95"
+    }
+  ]
+}

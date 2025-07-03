@@ -1,0 +1,512 @@
+[
+  {
+    "ward_code": "22015",
+    "name": "Phường Tuy Hòa",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22045",
+    "name": "Phường Bình Kiến",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22051",
+    "name": "Phường Sông Cầu",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22057",
+    "name": "Xã Xuân Lộc",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22060",
+    "name": "Xã Xuân Cảnh",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22075",
+    "name": "Xã Xuân Thọ",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22076",
+    "name": "Phường Xuân Đài",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22081",
+    "name": "Xã Đồng Xuân",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22090",
+    "name": "Xã Xuân Lãnh",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22096",
+    "name": "Xã Phú Mỡ",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22111",
+    "name": "Xã Xuân Phước",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22114",
+    "name": "Xã Tuy An Bắc",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22120",
+    "name": "Xã Tuy An Đông",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22132",
+    "name": "Xã Tuy An Tây",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22147",
+    "name": "Xã Ô Loan",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22153",
+    "name": "Xã Tuy An Nam",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22165",
+    "name": "Xã Sơn Hòa",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22171",
+    "name": "Xã Tây Sơn",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22177",
+    "name": "Xã Vân Hòa",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22192",
+    "name": "Xã Suối Trai",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22207",
+    "name": "Xã Sông Hinh",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22222",
+    "name": "Xã Đức Bình",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22225",
+    "name": "Xã Ea Bá",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22237",
+    "name": "Xã Ea Ly",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22240",
+    "name": "Phường Phú Yên",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22250",
+    "name": "Xã Sơn Thành",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22255",
+    "name": "Xã Tây Hòa",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22258",
+    "name": "Phường Đông Hòa",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22261",
+    "name": "Phường Hòa Hiệp",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22276",
+    "name": "Xã Hòa Thịnh",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22285",
+    "name": "Xã Hòa Mỹ",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22291",
+    "name": "Xã Hòa Xuân",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22303",
+    "name": "Xã Phú Hòa 2",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "22319",
+    "name": "Xã Phú Hòa 1",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24121",
+    "name": "Phường Tân Lập",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24133",
+    "name": "Phường Buôn Ma Thuột",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24154",
+    "name": "Phường Thành Nhất",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24163",
+    "name": "Phường Tân An",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24169",
+    "name": "Phường Ea Kao",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24175",
+    "name": "Xã Hòa Phú",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24181",
+    "name": "Xã Ea Drăng",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24184",
+    "name": "Xã Ea H’Leo",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24187",
+    "name": "Xã Ea Hiao",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24193",
+    "name": "Xã Ea Wy",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24208",
+    "name": "Xã Ea Khăl",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24211",
+    "name": "Xã Ea Súp",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24214",
+    "name": "Xã Ia Lốp",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24217",
+    "name": "Xã Ea Rốk",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24221",
+    "name": "Xã Ia Rvê",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24229",
+    "name": "Xã Ea Bung",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24235",
+    "name": "Xã Buôn Đôn",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24241",
+    "name": "Xã Ea Wer",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24250",
+    "name": "Xã Ea Nuôl",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24259",
+    "name": "Xã Quảng Phú",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24265",
+    "name": "Xã Ea Kiết",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24277",
+    "name": "Xã Ea Tul",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24280",
+    "name": "Xã Cư M’gar",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24286",
+    "name": "Xã Ea M’Droh",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24301",
+    "name": "Xã Cuôr Đăng",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24305",
+    "name": "Phường Buôn Hồ",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24310",
+    "name": "Xã Krông Búk",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24313",
+    "name": "Xã Cư Pơng",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24316",
+    "name": "Xã Pơng Drang",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24328",
+    "name": "Xã Ea Drông",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24340",
+    "name": "Phường Cư Bao",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24343",
+    "name": "Xã Krông Năng",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24346",
+    "name": "Xã Dliê Ya",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24352",
+    "name": "Xã Tam Giang",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24364",
+    "name": "Xã Phú Xuân",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24373",
+    "name": "Xã Ea Kar",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24376",
+    "name": "Xã Ea Knốp",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24400",
+    "name": "Xã Ea Păl",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24403",
+    "name": "Xã Ea Ô",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24406",
+    "name": "Xã Cư Yang",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24412",
+    "name": "Xã M’Drắk",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24415",
+    "name": "Xã Cư Prao",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24433",
+    "name": "Xã Ea Riêng",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24436",
+    "name": "Xã Cư M’ta",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24444",
+    "name": "Xã Krông Á",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24445",
+    "name": "Xã Ea Trang",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24448",
+    "name": "Xã Krông Bông",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24454",
+    "name": "Xã Dang Kang",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24472",
+    "name": "Xã Hòa Sơn",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24478",
+    "name": "Xã Cư Pui",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24484",
+    "name": "Xã Yang Mao",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24490",
+    "name": "Xã Krông Pắc",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24496",
+    "name": "Xã Ea Kly",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24502",
+    "name": "Xã Ea Phê",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24505",
+    "name": "Xã Ea Knuếc",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24526",
+    "name": "Xã Tân Tiến",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24529",
+    "name": "Xã Vụ Bổn",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24538",
+    "name": "Xã Krông Ana",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24540",
+    "name": "Xã Ea Ning",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24544",
+    "name": "Xã Ea Ktur",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24559",
+    "name": "Xã Ea Na",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24561",
+    "name": "Xã Dray Bhăng",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24568",
+    "name": "Xã Dur Kmăl",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24580",
+    "name": "Xã Liên Sơn Lắk",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24595",
+    "name": "Xã Đắk Liêng",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24598",
+    "name": "Xã Đắk Phơi",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24604",
+    "name": "Xã Krông Nô",
+    "province_code": "66"
+  },
+  {
+    "ward_code": "24607",
+    "name": "Xã Nam Ka",
+    "province_code": "66"
+  }
+]

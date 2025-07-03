@@ -1,0 +1,88 @@
+{
+  "name": "Đồng Nai",
+  "code": "75",
+  "from": "Bình Phước, Đồng Nai",
+  "area": 12737.18,
+  "population": 4491408,
+  "adminCenter": "TP Biên Hòa",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 19,
+  "grdp": 609.176,
+  "licensePlates": [
+    39,
+    60,
+    93
+  ],
+  "density": 353,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Cẩm Mỹ",
+      "code": "739",
+      "provinceName": "Tỉnh Đồng Nai",
+      "provinceCode": "75"
+    },
+    {
+      "name": "Huyện Long Thành",
+      "code": "740",
+      "provinceName": "Tỉnh Đồng Nai",
+      "provinceCode": "75"
+    },
+    {
+      "name": "Huyện Nhơn Trạch",
+      "code": "742",
+      "provinceName": "Tỉnh Đồng Nai",
+      "provinceCode": "75"
+    },
+    {
+      "name": "Huyện Thống Nhất",
+      "code": "738",
+      "provinceName": "Tỉnh Đồng Nai",
+      "provinceCode": "75"
+    },
+    {
+      "name": "Huyện Trảng Bom",
+      "code": "737",
+      "provinceName": "Tỉnh Đồng Nai",
+      "provinceCode": "75"
+    },
+    {
+      "name": "Huyện Tân Phú",
+      "code": "734",
+      "provinceName": "Tỉnh Đồng Nai",
+      "provinceCode": "75"
+    },
+    {
+      "name": "Huyện Vĩnh Cửu",
+      "code": "735",
+      "provinceName": "Tỉnh Đồng Nai",
+      "provinceCode": "75"
+    },
+    {
+      "name": "Huyện Xuân Lộc",
+      "code": "741",
+      "provinceName": "Tỉnh Đồng Nai",
+      "provinceCode": "75"
+    },
+    {
+      "name": "Huyện Định Quán",
+      "code": "736",
+      "provinceName": "Tỉnh Đồng Nai",
+      "provinceCode": "75"
+    },
+    {
+      "name": "Thành phố Biên Hòa",
+      "code": "731",
+      "provinceName": "Tỉnh Đồng Nai",
+      "provinceCode": "75"
+    },
+    {
+      "name": "Thành phố Long Khánh",
+      "code": "732",
+      "provinceName": "Tỉnh Đồng Nai",
+      "provinceCode": "75"
+    }
+  ]
+}

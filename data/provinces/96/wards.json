@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Thị trấn Cái Nước",
+    "code": "32128",
+    "districtName": "Huyện Cái Nước",
+    "districtCode": "969",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Hoà Mỹ",
+    "code": "32141",
+    "districtName": "Huyện Cái Nước",
+    "districtCode": "969",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Hưng Mỹ",
+    "code": "32140",
+    "districtName": "Huyện Cái Nước",
+    "districtCode": "969",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Lương Thế Trân",
+    "code": "32131",
+    "districtName": "Huyện Cái Nước",
+    "districtCode": "969",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Phú Hưng",
+    "code": "32134",
+    "districtName": "Huyện Cái Nước",
+    "districtCode": "969",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Thạnh Phú",
+    "code": "32130",
+    "districtName": "Huyện Cái Nước",
+    "districtCode": "969",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Trần Thới",
+    "code": "32149",
+    "districtName": "Huyện Cái Nước",
+    "districtCode": "969",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Hưng",
+    "code": "32137",
+    "districtName": "Huyện Cái Nước",
+    "districtCode": "969",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Hưng Đông",
+    "code": "32146",
+    "districtName": "Huyện Cái Nước",
+    "districtCode": "969",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Đông Hưng",
+    "code": "32142",
+    "districtName": "Huyện Cái Nước",
+    "districtCode": "969",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Đông Thới",
+    "code": "32143",
+    "districtName": "Huyện Cái Nước",
+    "districtCode": "969",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Thị trấn Rạch Gốc",
+    "code": "32244",
+    "districtName": "Huyện Ngọc Hiển",
+    "districtCode": "973",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tam Giang Tây",
+    "code": "32233",
+    "districtName": "Huyện Ngọc Hiển",
+    "districtCode": "973",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Ân",
+    "code": "32245",
+    "districtName": "Huyện Ngọc Hiển",
+    "districtCode": "973",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Ân Tây",
+    "code": "32236",
+    "districtName": "Huyện Ngọc Hiển",
+    "districtCode": "973",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Viên An",
+    "code": "32242",
+    "districtName": "Huyện Ngọc Hiển",
+    "districtCode": "973",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Viên An Đông",
+    "code": "32239",
+    "districtName": "Huyện Ngọc Hiển",
+    "districtCode": "973",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Đất Mũi",
+    "code": "32248",
+    "districtName": "Huyện Ngọc Hiển",
+    "districtCode": "973",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Thị Trấn Năm Căn",
+    "code": "32191",
+    "districtName": "Huyện Năm Căn",
+    "districtCode": "971",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Hiệp Tùng",
+    "code": "32197",
+    "districtName": "Huyện Năm Căn",
+    "districtCode": "971",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Hàm Rồng",
+    "code": "32194",
+    "districtName": "Huyện Năm Căn",
+    "districtCode": "971",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Hàng Vịnh",
+    "code": "32203",
+    "districtName": "Huyện Năm Căn",
+    "districtCode": "971",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Lâm Hải",
+    "code": "32201",
+    "districtName": "Huyện Năm Căn",
+    "districtCode": "971",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tam Giang",
+    "code": "32206",
+    "districtName": "Huyện Năm Căn",
+    "districtCode": "971",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tam Giang Đông",
+    "code": "32209",
+    "districtName": "Huyện Năm Căn",
+    "districtCode": "971",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Đất Mới",
+    "code": "32200",
+    "districtName": "Huyện Năm Căn",
+    "districtCode": "971",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Thị trấn Cái Đôi Vàm",
+    "code": "32212",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "972",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Nguyễn Việt Khái",
+    "code": "32230",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "972",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Phú Mỹ",
+    "code": "32215",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "972",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Phú Thuận",
+    "code": "32214",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "972",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Phú Tân",
+    "code": "32218",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "972",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Rạch Chèo",
+    "code": "32228",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "972",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Hưng Tây",
+    "code": "32227",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "972",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Hải",
+    "code": "32221",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "972",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Việt Thắng",
+    "code": "32224",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "972",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Thị trấn Thới Bình",
+    "code": "32065",
+    "districtName": "Huyện Thới Bình",
+    "districtCode": "967",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Biển Bạch",
+    "code": "32068",
+    "districtName": "Huyện Thới Bình",
+    "districtCode": "967",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Biển Bạch Đông",
+    "code": "32074",
+    "districtName": "Huyện Thới Bình",
+    "districtCode": "967",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Hồ Thị Kỷ",
+    "code": "32092",
+    "districtName": "Huyện Thới Bình",
+    "districtCode": "967",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Thới Bình",
+    "code": "32077",
+    "districtName": "Huyện Thới Bình",
+    "districtCode": "967",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Trí Lực",
+    "code": "32072",
+    "districtName": "Huyện Thới Bình",
+    "districtCode": "967",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Trí Phải",
+    "code": "32071",
+    "districtName": "Huyện Thới Bình",
+    "districtCode": "967",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Bằng",
+    "code": "32069",
+    "districtName": "Huyện Thới Bình",
+    "districtCode": "967",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Lộc",
+    "code": "32086",
+    "districtName": "Huyện Thới Bình",
+    "districtCode": "967",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Lộc Bắc",
+    "code": "32083",
+    "districtName": "Huyện Thới Bình",
+    "districtCode": "967",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Lộc Đông",
+    "code": "32089",
+    "districtName": "Huyện Thới Bình",
+    "districtCode": "967",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Phú",
+    "code": "32080",
+    "districtName": "Huyện Thới Bình",
+    "districtCode": "967",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Thị trấn Sông Đốc",
+    "code": "32098",
+    "districtName": "Huyện Trần Văn Thời",
+    "districtCode": "968",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Thị trấn Trần Văn Thời",
+    "code": "32095",
+    "districtName": "Huyện Trần Văn Thời",
+    "districtCode": "968",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Khánh Bình",
+    "code": "32110",
+    "districtName": "Huyện Trần Văn Thời",
+    "districtCode": "968",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Khánh Bình Tây",
+    "code": "32104",
+    "districtName": "Huyện Trần Văn Thời",
+    "districtCode": "968",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Khánh Bình Tây Bắc",
+    "code": "32101",
+    "districtName": "Huyện Trần Văn Thời",
+    "districtCode": "968",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Khánh Bình Đông",
+    "code": "32116",
+    "districtName": "Huyện Trần Văn Thời",
+    "districtCode": "968",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Khánh Hưng",
+    "code": "32113",
+    "districtName": "Huyện Trần Văn Thời",
+    "districtCode": "968",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Khánh Hải",
+    "code": "32119",
+    "districtName": "Huyện Trần Văn Thời",
+    "districtCode": "968",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Khánh Lộc",
+    "code": "32108",
+    "districtName": "Huyện Trần Văn Thời",
+    "districtCode": "968",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Lợi An",
+    "code": "32122",
+    "districtName": "Huyện Trần Văn Thời",
+    "districtCode": "968",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Phong Lạc",
+    "code": "32125",
+    "districtName": "Huyện Trần Văn Thời",
+    "districtCode": "968",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Phong Điền",
+    "code": "32124",
+    "districtName": "Huyện Trần Văn Thời",
+    "districtCode": "968",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Trần Hợi",
+    "code": "32107",
+    "districtName": "Huyện Trần Văn Thời",
+    "districtCode": "968",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Thị trấn U Minh",
+    "code": "32044",
+    "districtName": "Huyện U Minh",
+    "districtCode": "966",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Khánh An",
+    "code": "32059",
+    "districtName": "Huyện U Minh",
+    "districtCode": "966",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Khánh Hòa",
+    "code": "32047",
+    "districtName": "Huyện U Minh",
+    "districtCode": "966",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Khánh Hội",
+    "code": "32062",
+    "districtName": "Huyện U Minh",
+    "districtCode": "966",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Khánh Lâm",
+    "code": "32056",
+    "districtName": "Huyện U Minh",
+    "districtCode": "966",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Khánh Thuận",
+    "code": "32048",
+    "districtName": "Huyện U Minh",
+    "districtCode": "966",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Khánh Tiến",
+    "code": "32050",
+    "districtName": "Huyện U Minh",
+    "districtCode": "966",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Nguyễn Phích",
+    "code": "32053",
+    "districtName": "Huyện U Minh",
+    "districtCode": "966",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Thị trấn Đầm Dơi",
+    "code": "32152",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Nguyễn Huân",
+    "code": "32188",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Ngọc Chánh",
+    "code": "32186",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Quách Phẩm",
+    "code": "32182",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Quách Phẩm Bắc",
+    "code": "32179",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Thanh Tùng",
+    "code": "32185",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Trần Phán",
+    "code": "32161",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Duyệt",
+    "code": "32173",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Dân",
+    "code": "32174",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Thuận",
+    "code": "32167",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Tiến",
+    "code": "32176",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Trung",
+    "code": "32162",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Đức",
+    "code": "32164",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tạ An Khương",
+    "code": "32155",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tạ An Khương Nam",
+    "code": "32170",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tạ An Khương Đông",
+    "code": "32158",
+    "districtName": "Huyện Đầm Dơi",
+    "districtCode": "970",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Phường 1",
+    "code": "32005",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Phường 2",
+    "code": "32002",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Phường 5",
+    "code": "32008",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Phường 6",
+    "code": "32017",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Phường 7",
+    "code": "32020",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Phường 8",
+    "code": "32014",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Phường 9",
+    "code": "31999",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Phường Tân Thành",
+    "code": "32025",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Phường Tân Xuyên",
+    "code": "32022",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã An Xuyên",
+    "code": "32023",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Hòa Thành",
+    "code": "32038",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Hòa Tân",
+    "code": "32041",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Lý Văn Lâm",
+    "code": "32032",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "32026",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Tắc Vân",
+    "code": "32029",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  },
+  {
+    "name": "Xã Định Bình",
+    "code": "32035",
+    "districtName": "Thành phố Cà Mau",
+    "districtCode": "964",
+    "provinceName": "Tỉnh Cà Mau",
+    "provinceCode": "96"
+  }
+]

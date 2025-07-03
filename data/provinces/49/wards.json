@@ -1,0 +1,1866 @@
+[
+  {
+    "name": "Thị trấn Trà My",
+    "code": "20899",
+    "districtName": "Huyện Bắc Trà My",
+    "districtCode": "515",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Bui",
+    "code": "20917",
+    "districtName": "Huyện Bắc Trà My",
+    "districtCode": "515",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Dương",
+    "code": "20911",
+    "districtName": "Huyện Bắc Trà My",
+    "districtCode": "515",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Giang",
+    "code": "20914",
+    "districtName": "Huyện Bắc Trà My",
+    "districtCode": "515",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Giác",
+    "code": "20926",
+    "districtName": "Huyện Bắc Trà My",
+    "districtCode": "515",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Giáp",
+    "code": "20929",
+    "districtName": "Huyện Bắc Trà My",
+    "districtCode": "515",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Ka",
+    "code": "20932",
+    "districtName": "Huyện Bắc Trà My",
+    "districtCode": "515",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Kót",
+    "code": "20902",
+    "districtName": "Huyện Bắc Trà My",
+    "districtCode": "515",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Nú",
+    "code": "20905",
+    "districtName": "Huyện Bắc Trà My",
+    "districtCode": "515",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Sơn",
+    "code": "20900",
+    "districtName": "Huyện Bắc Trà My",
+    "districtCode": "515",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Tân",
+    "code": "20923",
+    "districtName": "Huyện Bắc Trà My",
+    "districtCode": "515",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Đông",
+    "code": "20908",
+    "districtName": "Huyện Bắc Trà My",
+    "districtCode": "515",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Đốc",
+    "code": "20920",
+    "districtName": "Huyện Bắc Trà My",
+    "districtCode": "515",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Thị trấn Nam Phước",
+    "code": "20599",
+    "districtName": "Huyện Duy Xuyên",
+    "districtCode": "508",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Duy Châu",
+    "code": "20614",
+    "districtName": "Huyện Duy Xuyên",
+    "districtCode": "508",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Duy Hòa",
+    "code": "20611",
+    "districtName": "Huyện Duy Xuyên",
+    "districtCode": "508",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Duy Hải",
+    "code": "20638",
+    "districtName": "Huyện Duy Xuyên",
+    "districtCode": "508",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Duy Nghĩa",
+    "code": "20635",
+    "districtName": "Huyện Duy Xuyên",
+    "districtCode": "508",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Duy Phú",
+    "code": "20605",
+    "districtName": "Huyện Duy Xuyên",
+    "districtCode": "508",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Duy Phước",
+    "code": "20626",
+    "districtName": "Huyện Duy Xuyên",
+    "districtCode": "508",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Duy Sơn",
+    "code": "20620",
+    "districtName": "Huyện Duy Xuyên",
+    "districtCode": "508",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Duy Thành",
+    "code": "20629",
+    "districtName": "Huyện Duy Xuyên",
+    "districtCode": "508",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Duy Trinh",
+    "code": "20617",
+    "districtName": "Huyện Duy Xuyên",
+    "districtCode": "508",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Duy Trung",
+    "code": "20623",
+    "districtName": "Huyện Duy Xuyên",
+    "districtCode": "508",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Duy Tân",
+    "code": "20608",
+    "districtName": "Huyện Duy Xuyên",
+    "districtCode": "508",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Duy Vinh",
+    "code": "20632",
+    "districtName": "Huyện Duy Xuyên",
+    "districtCode": "508",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Thị trấn Tân Bình",
+    "code": "20779",
+    "districtName": "Huyện Hiệp Đức",
+    "districtCode": "512",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Lâm",
+    "code": "20767",
+    "districtName": "Huyện Hiệp Đức",
+    "districtCode": "512",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Sơn",
+    "code": "20788",
+    "districtName": "Huyện Hiệp Đức",
+    "districtCode": "512",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Gia",
+    "code": "20776",
+    "districtName": "Huyện Hiệp Đức",
+    "districtCode": "512",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Trà",
+    "code": "20773",
+    "districtName": "Huyện Hiệp Đức",
+    "districtCode": "512",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Lưu",
+    "code": "20782",
+    "districtName": "Huyện Hiệp Đức",
+    "districtCode": "512",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Thọ",
+    "code": "20764",
+    "districtName": "Huyện Hiệp Đức",
+    "districtCode": "512",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Tân",
+    "code": "20758",
+    "districtName": "Huyện Hiệp Đức",
+    "districtCode": "512",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Sông Trà",
+    "code": "20770",
+    "districtName": "Huyện Hiệp Đức",
+    "districtCode": "512",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Thăng Phước",
+    "code": "20785",
+    "districtName": "Huyện Hiệp Đức",
+    "districtCode": "512",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Thị trấn Thạnh Mỹ",
+    "code": "20695",
+    "districtName": "Huyện Nam Giang",
+    "districtCode": "510",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Chà Vàl",
+    "code": "20707",
+    "districtName": "Huyện Nam Giang",
+    "districtCode": "510",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Chơ Chun",
+    "code": "20699",
+    "districtName": "Huyện Nam Giang",
+    "districtCode": "510",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Cà Dy",
+    "code": "20713",
+    "districtName": "Huyện Nam Giang",
+    "districtCode": "510",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã La Dêê",
+    "code": "20704",
+    "districtName": "Huyện Nam Giang",
+    "districtCode": "510",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Laêê",
+    "code": "20698",
+    "districtName": "Huyện Nam Giang",
+    "districtCode": "510",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tà Bhinh",
+    "code": "20710",
+    "districtName": "Huyện Nam Giang",
+    "districtCode": "510",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tà Pơơ",
+    "code": "20702",
+    "districtName": "Huyện Nam Giang",
+    "districtCode": "510",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Zuôich",
+    "code": "20701",
+    "districtName": "Huyện Nam Giang",
+    "districtCode": "510",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đắc Pre",
+    "code": "20716",
+    "districtName": "Huyện Nam Giang",
+    "districtCode": "510",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đắc Pring",
+    "code": "20719",
+    "districtName": "Huyện Nam Giang",
+    "districtCode": "510",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đắc Tôi",
+    "code": "20705",
+    "districtName": "Huyện Nam Giang",
+    "districtCode": "510",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Cang",
+    "code": "20947",
+    "districtName": "Huyện Nam Trà My",
+    "districtCode": "516",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Don",
+    "code": "20956",
+    "districtName": "Huyện Nam Trà My",
+    "districtCode": "516",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Dơn",
+    "code": "20938",
+    "districtName": "Huyện Nam Trà My",
+    "districtCode": "516",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Leng",
+    "code": "20935",
+    "districtName": "Huyện Nam Trà My",
+    "districtCode": "516",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Linh",
+    "code": "20950",
+    "districtName": "Huyện Nam Trà My",
+    "districtCode": "516",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Mai",
+    "code": "20944",
+    "districtName": "Huyện Nam Trà My",
+    "districtCode": "516",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Nam",
+    "code": "20953",
+    "districtName": "Huyện Nam Trà My",
+    "districtCode": "516",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Tập",
+    "code": "20941",
+    "districtName": "Huyện Nam Trà My",
+    "districtCode": "516",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Vinh",
+    "code": "20962",
+    "districtName": "Huyện Nam Trà My",
+    "districtCode": "516",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Trà Vân",
+    "code": "20959",
+    "districtName": "Huyện Nam Trà My",
+    "districtCode": "516",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Thị trấn Núi Thành",
+    "code": "20965",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Anh Bắc",
+    "code": "20983",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Anh Nam",
+    "code": "20984",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Giang",
+    "code": "20995",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Hiệp",
+    "code": "20989",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Hòa",
+    "code": "20986",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Hải",
+    "code": "20992",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Mỹ Tây",
+    "code": "21004",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Mỹ Đông",
+    "code": "21005",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Nghĩa",
+    "code": "21001",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Quang",
+    "code": "20998",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Sơn",
+    "code": "20977",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Thạnh",
+    "code": "20980",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Tiến",
+    "code": "20974",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Trà",
+    "code": "21007",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Xuân I",
+    "code": "20968",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Xuân II",
+    "code": "20971",
+    "districtName": "Huyện Núi Thành",
+    "districtCode": "517",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Thị trấn Phú Thịnh",
+    "code": "20364",
+    "districtName": "Huyện Phú Ninh",
+    "districtCode": "518",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam An",
+    "code": "20368",
+    "districtName": "Huyện Phú Ninh",
+    "districtCode": "518",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Dân",
+    "code": "20392",
+    "districtName": "Huyện Phú Ninh",
+    "districtCode": "518",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Lãnh",
+    "code": "20395",
+    "districtName": "Huyện Phú Ninh",
+    "districtCode": "518",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Lộc",
+    "code": "20377",
+    "districtName": "Huyện Phú Ninh",
+    "districtCode": "518",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Phước",
+    "code": "20380",
+    "districtName": "Huyện Phú Ninh",
+    "districtCode": "518",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Thành",
+    "code": "20365",
+    "districtName": "Huyện Phú Ninh",
+    "districtCode": "518",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Thái",
+    "code": "20386",
+    "districtName": "Huyện Phú Ninh",
+    "districtCode": "518",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Đàn",
+    "code": "20374",
+    "districtName": "Huyện Phú Ninh",
+    "districtCode": "518",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Đại",
+    "code": "20387",
+    "districtName": "Huyện Phú Ninh",
+    "districtCode": "518",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Thị trấn Khâm Đức",
+    "code": "20722",
+    "districtName": "Huyện Phước Sơn",
+    "districtCode": "511",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Chánh",
+    "code": "20740",
+    "districtName": "Huyện Phước Sơn",
+    "districtCode": "511",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Công",
+    "code": "20743",
+    "districtName": "Huyện Phước Sơn",
+    "districtCode": "511",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Hiệp",
+    "code": "20728",
+    "districtName": "Huyện Phước Sơn",
+    "districtCode": "511",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Hoà",
+    "code": "20729",
+    "districtName": "Huyện Phước Sơn",
+    "districtCode": "511",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Kim",
+    "code": "20746",
+    "districtName": "Huyện Phước Sơn",
+    "districtCode": "511",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Lộc",
+    "code": "20749",
+    "districtName": "Huyện Phước Sơn",
+    "districtCode": "511",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Mỹ",
+    "code": "20737",
+    "districtName": "Huyện Phước Sơn",
+    "districtCode": "511",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Năng",
+    "code": "20734",
+    "districtName": "Huyện Phước Sơn",
+    "districtCode": "511",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Thành",
+    "code": "20752",
+    "districtName": "Huyện Phước Sơn",
+    "districtCode": "511",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Xuân",
+    "code": "20725",
+    "districtName": "Huyện Phước Sơn",
+    "districtCode": "511",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Đức",
+    "code": "20731",
+    "districtName": "Huyện Phước Sơn",
+    "districtCode": "511",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Thị trấn Hương An",
+    "code": "20651",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Thị trấn Trung Phước",
+    "code": "20656",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Thị trấn Đông Phú",
+    "code": "20641",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Ninh Phước",
+    "code": "20668",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Phước Ninh",
+    "code": "20669",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế An",
+    "code": "20686",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Châu",
+    "code": "20680",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Hiệp",
+    "code": "20659",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Long",
+    "code": "20677",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Lâm",
+    "code": "20692",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Lộc",
+    "code": "20671",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Minh",
+    "code": "20689",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Mỹ",
+    "code": "20665",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Phong",
+    "code": "20683",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Phú",
+    "code": "20650",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Thuận",
+    "code": "20662",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Xuân 1",
+    "code": "20644",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Quế Xuân 2",
+    "code": "20647",
+    "districtName": "Huyện Quế Sơn",
+    "districtCode": "509",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Thị trấn Hà Lam",
+    "code": "20791",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình An",
+    "code": "20845",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Dương",
+    "code": "20794",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Giang",
+    "code": "20797",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Hải",
+    "code": "20839",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Lãnh",
+    "code": "20815",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Minh",
+    "code": "20812",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Nam",
+    "code": "20851",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Nguyên",
+    "code": "20800",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Phú",
+    "code": "20827",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Phục",
+    "code": "20803",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Quý",
+    "code": "20824",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Quế",
+    "code": "20842",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Sa",
+    "code": "20836",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Triều",
+    "code": "20806",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Trung",
+    "code": "20848",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Trị",
+    "code": "20818",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Tú",
+    "code": "20833",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Đào",
+    "code": "20809",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bình Định",
+    "code": "20821",
+    "districtName": "Huyện Thăng Bình",
+    "districtCode": "513",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Thị trấn Tiên Kỳ",
+    "code": "20854",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tiên An",
+    "code": "20890",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tiên Châu",
+    "code": "20866",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tiên Cảnh",
+    "code": "20878",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tiên Hiệp",
+    "code": "20875",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tiên Hà",
+    "code": "20860",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tiên Lãnh",
+    "code": "20869",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tiên Lập",
+    "code": "20896",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tiên Lộc",
+    "code": "20893",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tiên Mỹ",
+    "code": "20881",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tiên Ngọc",
+    "code": "20872",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tiên Phong",
+    "code": "20884",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tiên Sơn",
+    "code": "20857",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tiên Thọ",
+    "code": "20887",
+    "districtName": "Huyện Tiên Phước",
+    "districtCode": "514",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã A Nông",
+    "code": "20452",
+    "districtName": "Huyện Tây Giang",
+    "districtCode": "504",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã A Tiêng",
+    "code": "20455",
+    "districtName": "Huyện Tây Giang",
+    "districtCode": "504",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã A Vương",
+    "code": "20461",
+    "districtName": "Huyện Tây Giang",
+    "districtCode": "504",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã A Xan",
+    "code": "20443",
+    "districtName": "Huyện Tây Giang",
+    "districtCode": "504",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Bha Lê",
+    "code": "20458",
+    "districtName": "Huyện Tây Giang",
+    "districtCode": "504",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Ch'ơm",
+    "code": "20437",
+    "districtName": "Huyện Tây Giang",
+    "districtCode": "504",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Dang",
+    "code": "20464",
+    "districtName": "Huyện Tây Giang",
+    "districtCode": "504",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Ga Ri",
+    "code": "20440",
+    "districtName": "Huyện Tây Giang",
+    "districtCode": "504",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Lăng",
+    "code": "20449",
+    "districtName": "Huyện Tây Giang",
+    "districtCode": "504",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tr'Hy",
+    "code": "20446",
+    "districtName": "Huyện Tây Giang",
+    "districtCode": "504",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Thị trấn P Rao",
+    "code": "20467",
+    "districtName": "Huyện Đông Giang",
+    "districtCode": "505",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã A Rooi",
+    "code": "20488",
+    "districtName": "Huyện Đông Giang",
+    "districtCode": "505",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã A Ting",
+    "code": "20479",
+    "districtName": "Huyện Đông Giang",
+    "districtCode": "505",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Ba",
+    "code": "20485",
+    "districtName": "Huyện Đông Giang",
+    "districtCode": "505",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Jơ Ngây",
+    "code": "20476",
+    "districtName": "Huyện Đông Giang",
+    "districtCode": "505",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Ka Dăng",
+    "code": "20497",
+    "districtName": "Huyện Đông Giang",
+    "districtCode": "505",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Mà Cooi",
+    "code": "20494",
+    "districtName": "Huyện Đông Giang",
+    "districtCode": "505",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Sông Kôn",
+    "code": "20473",
+    "districtName": "Huyện Đông Giang",
+    "districtCode": "505",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tà Lu",
+    "code": "20470",
+    "districtName": "Huyện Đông Giang",
+    "districtCode": "505",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tư",
+    "code": "20482",
+    "districtName": "Huyện Đông Giang",
+    "districtCode": "505",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Za Hung",
+    "code": "20491",
+    "districtName": "Huyện Đông Giang",
+    "districtCode": "505",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Thị trấn Ái Nghĩa",
+    "code": "20500",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại An",
+    "code": "20547",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Chánh",
+    "code": "20530",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Cường",
+    "code": "20545",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Hiệp",
+    "code": "20524",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Hòa",
+    "code": "20548",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Hưng",
+    "code": "20509",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Hồng",
+    "code": "20512",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Lãnh",
+    "code": "20506",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Minh",
+    "code": "20539",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Nghĩa",
+    "code": "20521",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Phong",
+    "code": "20536",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Quang",
+    "code": "20518",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Sơn",
+    "code": "20503",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Thạnh",
+    "code": "20527",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Thắng",
+    "code": "20542",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Tân",
+    "code": "20533",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Đại Đồng",
+    "code": "20515",
+    "districtName": "Huyện Đại Lộc",
+    "districtCode": "506",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Cẩm An",
+    "code": "20419",
+    "districtName": "Thành phố Hội An",
+    "districtCode": "503",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Cẩm Châu",
+    "code": "20413",
+    "districtName": "Thành phố Hội An",
+    "districtCode": "503",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Cẩm Nam",
+    "code": "20428",
+    "districtName": "Thành phố Hội An",
+    "districtCode": "503",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Cẩm Phô",
+    "code": "20404",
+    "districtName": "Thành phố Hội An",
+    "districtCode": "503",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Cửa Đại",
+    "code": "20416",
+    "districtName": "Thành phố Hội An",
+    "districtCode": "503",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Minh An",
+    "code": "20398",
+    "districtName": "Thành phố Hội An",
+    "districtCode": "503",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Sơn Phong",
+    "code": "20410",
+    "districtName": "Thành phố Hội An",
+    "districtCode": "503",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Thanh Hà",
+    "code": "20407",
+    "districtName": "Thành phố Hội An",
+    "districtCode": "503",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Tân An",
+    "code": "20401",
+    "districtName": "Thành phố Hội An",
+    "districtCode": "503",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Cẩm Hà",
+    "code": "20422",
+    "districtName": "Thành phố Hội An",
+    "districtCode": "503",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Cẩm Kim",
+    "code": "20425",
+    "districtName": "Thành phố Hội An",
+    "districtCode": "503",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Cẩm Thanh",
+    "code": "20431",
+    "districtName": "Thành phố Hội An",
+    "districtCode": "503",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tân Hiệp",
+    "code": "20434",
+    "districtName": "Thành phố Hội An",
+    "districtCode": "503",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường An Mỹ",
+    "code": "20341",
+    "districtName": "Thành phố Tam Kỳ",
+    "districtCode": "502",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường An Phú",
+    "code": "20356",
+    "districtName": "Thành phố Tam Kỳ",
+    "districtCode": "502",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường An Sơn",
+    "code": "20350",
+    "districtName": "Thành phố Tam Kỳ",
+    "districtCode": "502",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường An Xuân",
+    "code": "20347",
+    "districtName": "Thành phố Tam Kỳ",
+    "districtCode": "502",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Hoà Thuận",
+    "code": "20375",
+    "districtName": "Thành phố Tam Kỳ",
+    "districtCode": "502",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Hòa Hương",
+    "code": "20344",
+    "districtName": "Thành phố Tam Kỳ",
+    "districtCode": "502",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Trường Xuân",
+    "code": "20353",
+    "districtName": "Thành phố Tam Kỳ",
+    "districtCode": "502",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Tân Thạnh",
+    "code": "20335",
+    "districtName": "Thành phố Tam Kỳ",
+    "districtCode": "502",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Ngọc",
+    "code": "20389",
+    "districtName": "Thành phố Tam Kỳ",
+    "districtCode": "502",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Phú",
+    "code": "20371",
+    "districtName": "Thành phố Tam Kỳ",
+    "districtCode": "502",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Thanh",
+    "code": "20359",
+    "districtName": "Thành phố Tam Kỳ",
+    "districtCode": "502",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Tam Thăng",
+    "code": "20362",
+    "districtName": "Thành phố Tam Kỳ",
+    "districtCode": "502",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Vĩnh Điện",
+    "code": "20551",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Điện An",
+    "code": "20575",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Điện Dương",
+    "code": "20581",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Điện Minh",
+    "code": "20593",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Điện Nam Bắc",
+    "code": "20578",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Điện Nam Trung",
+    "code": "20579",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Điện Nam Đông",
+    "code": "20580",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Điện Ngọc",
+    "code": "20563",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Điện Phương",
+    "code": "20596",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Điện Thắng Bắc",
+    "code": "20560",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Điện Thắng Nam",
+    "code": "20562",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Phường Điện Thắng Trung",
+    "code": "20561",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Điện Hòa",
+    "code": "20557",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Điện Hồng",
+    "code": "20566",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Điện Phong",
+    "code": "20590",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Điện Phước",
+    "code": "20572",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Điện Quang",
+    "code": "20584",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Điện Thọ",
+    "code": "20569",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Điện Tiến",
+    "code": "20554",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  },
+  {
+    "name": "Xã Điện Trung",
+    "code": "20587",
+    "districtName": "Thị xã Điện Bàn",
+    "districtCode": "507",
+    "provinceName": "Tỉnh Quảng Nam",
+    "provinceCode": "49"
+  }
+]

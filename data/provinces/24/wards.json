@@ -1,0 +1,1538 @@
+[
+  {
+    "name": "Thị trấn Bắc Lý",
+    "code": "07870",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Thị trấn Thắng",
+    "code": "07840",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Châu Minh",
+    "code": "07882",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Danh Thắng",
+    "code": "07861",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Hoàng Vân",
+    "code": "07822",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Hùng Thái",
+    "code": "07849",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Hương Lâm",
+    "code": "07876",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Hợp Thịnh",
+    "code": "07858",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Lương Phong",
+    "code": "07846",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Mai Trung",
+    "code": "07864",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Mai Đình",
+    "code": "07885",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Ngọc Sơn",
+    "code": "07831",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Sơn Thịnh",
+    "code": "07843",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Thường Thắng",
+    "code": "07855",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Toàn Thắng",
+    "code": "07825",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Xuân Cẩm",
+    "code": "07873",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đoan Bái",
+    "code": "07867",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đông Lỗ",
+    "code": "07879",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đồng Tiến",
+    "code": "07816",
+    "districtName": "Huyện Hiệp Hòa",
+    "districtCode": "223",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Thị trấn Kép",
+    "code": "07399",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Thị trấn Vôi",
+    "code": "07375",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã An Hà",
+    "code": "07396",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Dương Đức",
+    "code": "07408",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Hương Lạc",
+    "code": "07405",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Hương Sơn",
+    "code": "07387",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Mỹ Thái",
+    "code": "07420",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Nghĩa Hòa",
+    "code": "07378",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Nghĩa Hưng",
+    "code": "07381",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Quang Thịnh",
+    "code": "07384",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Thái Đào",
+    "code": "07438",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tiên Lục",
+    "code": "07393",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tân Dĩnh",
+    "code": "07432",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tân Hưng",
+    "code": "07417",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tân Thanh",
+    "code": "07411",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Xuân Hương",
+    "code": "07429",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Xương Lâm",
+    "code": "07426",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đào Mỹ",
+    "code": "07390",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đại Lâm",
+    "code": "07435",
+    "districtName": "Huyện Lạng Giang",
+    "districtCode": "217",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Thị trấn Phương Sơn",
+    "code": "07477",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Thị trấn Đồi Ngô",
+    "code": "07444",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Bình Sơn",
+    "code": "07492",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Bảo Sơn",
+    "code": "07459",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Bảo Đài",
+    "code": "07462",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Bắc Lũng",
+    "code": "07513",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Chu Điện",
+    "code": "07480",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Cương Sơn",
+    "code": "07483",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Cẩm Lý",
+    "code": "07519",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Huyền Sơn",
+    "code": "07504",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Khám Lạng",
+    "code": "07501",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Lan Mẫu",
+    "code": "07495",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Lục Sơn",
+    "code": "07510",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Nghĩa Phương",
+    "code": "07486",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tam Dị",
+    "code": "07456",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Thanh Lâm",
+    "code": "07465",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tiên Nha",
+    "code": "07468",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Trường Giang",
+    "code": "07471",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Trường Sơn",
+    "code": "07507",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Vô Tranh",
+    "code": "07489",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Yên Sơn",
+    "code": "07498",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đan Hội",
+    "code": "07522",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đông Hưng",
+    "code": "07450",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đông Phú",
+    "code": "07453",
+    "districtName": "Huyện Lục Nam",
+    "districtCode": "218",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Thị trấn Biển Động",
+    "code": "07573",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Thị trấn Phì Điền",
+    "code": "07582",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Biên Sơn",
+    "code": "07555",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Cấm Sơn",
+    "code": "07528",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Giáp Sơn",
+    "code": "07570",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Hộ Đáp",
+    "code": "07543",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Kim Sơn",
+    "code": "07564",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Phong Minh",
+    "code": "07534",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Phong Vân",
+    "code": "07537",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Phú Nhuận",
+    "code": "07597",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Sa Lý",
+    "code": "07540",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Sơn Hải",
+    "code": "07546",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tân Hoa",
+    "code": "07567",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "07594",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tân Mộc",
+    "code": "07606",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tân Quang",
+    "code": "07588",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tân Sơn",
+    "code": "07531",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đèo Gia",
+    "code": "07609",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đồng Cốc",
+    "code": "07591",
+    "districtName": "Huyện Lục Ngạn",
+    "districtCode": "219",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Thị trấn An Châu",
+    "code": "07615",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Thị trấn Tây Yên Tử",
+    "code": "07616",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã An Bá",
+    "code": "07660",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã An Lạc",
+    "code": "07645",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Cẩm Đàn",
+    "code": "07642",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Dương Hưu",
+    "code": "07666",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Giáo Liêm",
+    "code": "07636",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Hữu Sản",
+    "code": "07624",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Long Sơn",
+    "code": "07672",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Lệ Viễn",
+    "code": "07654",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Phúc Sơn",
+    "code": "07630",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Thanh Luận",
+    "code": "07678",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tuấn Đạo",
+    "code": "07663",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Vân Sơn",
+    "code": "07621",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Vĩnh An",
+    "code": "07648",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Yên Định",
+    "code": "07651",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đại Sơn",
+    "code": "07627",
+    "districtName": "Huyện Sơn Động",
+    "districtCode": "220",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Thị trấn Cao Thượng",
+    "code": "07339",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Thị trấn Nhã Nam",
+    "code": "07306",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã An Dương",
+    "code": "07321",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Cao Xá",
+    "code": "07336",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Hợp Đức",
+    "code": "07330",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Lam Sơn",
+    "code": "07333",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Liên Chung",
+    "code": "07357",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Liên Sơn",
+    "code": "07327",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Ngọc Châu",
+    "code": "07348",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Ngọc Lý",
+    "code": "07363",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Ngọc Thiện",
+    "code": "07360",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Ngọc Vân",
+    "code": "07351",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Phúc Hòa",
+    "code": "07324",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Quang Trung",
+    "code": "07315",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Quế Nham",
+    "code": "07366",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Song Vân",
+    "code": "07345",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tân Trung",
+    "code": "07309",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Việt Lập",
+    "code": "07354",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Việt Ngọc",
+    "code": "07342",
+    "districtName": "Huyện Tân Yên",
+    "districtCode": "216",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Thị trấn Bố Hạ",
+    "code": "07294",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Thị trấn Phồn Xương",
+    "code": "07288",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã An Thượng",
+    "code": "07285",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Canh Nậu",
+    "code": "07246",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Hương Vĩ",
+    "code": "07279",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tam Tiến",
+    "code": "07252",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tiến Thắng",
+    "code": "07264",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tân Hiệp",
+    "code": "07261",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tân Sỏi",
+    "code": "07291",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Xuân Lương",
+    "code": "07249",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đông Sơn",
+    "code": "07273",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đồng Hưu",
+    "code": "07258",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đồng Kỳ",
+    "code": "07282",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đồng Lạc",
+    "code": "07270",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đồng Tiến",
+    "code": "07243",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đồng Tâm",
+    "code": "07260",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đồng Vương",
+    "code": "07255",
+    "districtName": "Huyện Yên Thế",
+    "districtCode": "215",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Cảnh Thụy",
+    "code": "07738",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Dĩnh Kế",
+    "code": "07231",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Dĩnh Trì",
+    "code": "07441",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Hoàng Văn Thụ",
+    "code": "07210",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Hương Gián",
+    "code": "07690",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Mỹ Độ",
+    "code": "07216",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Ngô Quyền",
+    "code": "07207",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Nham Biền",
+    "code": "07681",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Nội Hoàng",
+    "code": "07708",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Song Khê",
+    "code": "07705",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Song Mai",
+    "code": "07222",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Thọ Xương",
+    "code": "07201",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Tiền Phong",
+    "code": "07711",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Trần Phú",
+    "code": "07213",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Tân An",
+    "code": "07682",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Tân Liễu",
+    "code": "07717",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Tân Mỹ",
+    "code": "07687",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Tân Tiến",
+    "code": "07699",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Xương Giang",
+    "code": "07225",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Đa Mai",
+    "code": "07228",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Đồng Sơn",
+    "code": "07696",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Lãng Sơn",
+    "code": "07723",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Quỳnh Sơn",
+    "code": "07702",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tiến Dũng",
+    "code": "07729",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Trí Yên",
+    "code": "07720",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tư Mại",
+    "code": "07741",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Xuân Phú",
+    "code": "07714",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Yên Lư",
+    "code": "07726",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đồng Phúc",
+    "code": "07750",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đồng Việt",
+    "code": "07747",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Đức Giang",
+    "code": "07735",
+    "districtName": "Thành phố Bắc Giang",
+    "districtCode": "213",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Bích Động",
+    "code": "07777",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Hồng Thái",
+    "code": "07783",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Ninh Sơn",
+    "code": "07798",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Nếnh",
+    "code": "07795",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Quang Châu",
+    "code": "07807",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Quảng Minh",
+    "code": "07792",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Tăng Tiến",
+    "code": "07789",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Tự Lạn",
+    "code": "07774",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Vân Trung",
+    "code": "07801",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Hương Mai",
+    "code": "07771",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Minh Đức",
+    "code": "07768",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Nghĩa Trung",
+    "code": "07765",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Thượng Lan",
+    "code": "07759",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Tiên Sơn",
+    "code": "07786",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Trung Sơn",
+    "code": "07780",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Việt Tiến",
+    "code": "07762",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Vân Hà",
+    "code": "07804",
+    "districtName": "Thị Xã Việt Yên",
+    "districtCode": "222",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Chũ",
+    "code": "07525",
+    "districtName": "Thị xã Chũ",
+    "districtCode": "224",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Hồng Giang",
+    "code": "07561",
+    "districtName": "Thị xã Chũ",
+    "districtCode": "224",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Phượng Sơn",
+    "code": "07612",
+    "districtName": "Thị xã Chũ",
+    "districtCode": "224",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Thanh Hải",
+    "code": "07549",
+    "districtName": "Thị xã Chũ",
+    "districtCode": "224",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Phường Trù Hựu",
+    "code": "07579",
+    "districtName": "Thị xã Chũ",
+    "districtCode": "224",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Kiên Lao",
+    "code": "07552",
+    "districtName": "Thị xã Chũ",
+    "districtCode": "224",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Kiên Thành",
+    "code": "07558",
+    "districtName": "Thị xã Chũ",
+    "districtCode": "224",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Mỹ An",
+    "code": "07600",
+    "districtName": "Thị xã Chũ",
+    "districtCode": "224",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Nam Dương",
+    "code": "07603",
+    "districtName": "Thị xã Chũ",
+    "districtCode": "224",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  },
+  {
+    "name": "Xã Quý Sơn",
+    "code": "07576",
+    "districtName": "Thị xã Chũ",
+    "districtCode": "224",
+    "provinceName": "Tỉnh Bắc Giang",
+    "provinceCode": "24"
+  }
+]

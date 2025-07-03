@@ -1,0 +1,1370 @@
+[
+  {
+    "name": "Thị trấn Ba Chẽ",
+    "code": "06970",
+    "districtName": "Huyện Ba Chẽ",
+    "districtCode": "202",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Lương Minh",
+    "code": "06985",
+    "districtName": "Huyện Ba Chẽ",
+    "districtCode": "202",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Nam Sơn",
+    "code": "06982",
+    "districtName": "Huyện Ba Chẽ",
+    "districtCode": "202",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Thanh Lâm",
+    "code": "06976",
+    "districtName": "Huyện Ba Chẽ",
+    "districtCode": "202",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Thanh Sơn",
+    "code": "06973",
+    "districtName": "Huyện Ba Chẽ",
+    "districtCode": "202",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đạp Thanh",
+    "code": "06979",
+    "districtName": "Huyện Ba Chẽ",
+    "districtCode": "202",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đồn Đạc",
+    "code": "06988",
+    "districtName": "Huyện Ba Chẽ",
+    "districtCode": "202",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Thị trấn Bình Liêu",
+    "code": "06838",
+    "districtName": "Huyện Bình Liêu",
+    "districtCode": "198",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hoành Mô",
+    "code": "06841",
+    "districtName": "Huyện Bình Liêu",
+    "districtCode": "198",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Húc Động",
+    "code": "06859",
+    "districtName": "Huyện Bình Liêu",
+    "districtCode": "198",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Lục Hồn",
+    "code": "06856",
+    "districtName": "Huyện Bình Liêu",
+    "districtCode": "198",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Vô Ngại",
+    "code": "06853",
+    "districtName": "Huyện Bình Liêu",
+    "districtCode": "198",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đồng Tâm",
+    "code": "06844",
+    "districtName": "Huyện Bình Liêu",
+    "districtCode": "198",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đồng Văn",
+    "code": "06847",
+    "districtName": "Huyện Bình Liêu",
+    "districtCode": "198",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Thị trấn Cô Tô",
+    "code": "07192",
+    "districtName": "Huyện Cô Tô",
+    "districtCode": "207",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Thanh Lân",
+    "code": "07198",
+    "districtName": "Huyện Cô Tô",
+    "districtCode": "207",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đồng Tiến",
+    "code": "07195",
+    "districtName": "Huyện Cô Tô",
+    "districtCode": "207",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Thị trấn Quảng Hà",
+    "code": "06922",
+    "districtName": "Huyện Hải Hà",
+    "districtCode": "201",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Cái Chiên",
+    "code": "06967",
+    "districtName": "Huyện Hải Hà",
+    "districtCode": "201",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quảng Chính",
+    "code": "06943",
+    "districtName": "Huyện Hải Hà",
+    "districtCode": "201",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quảng Long",
+    "code": "06946",
+    "districtName": "Huyện Hải Hà",
+    "districtCode": "201",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quảng Minh",
+    "code": "06940",
+    "districtName": "Huyện Hải Hà",
+    "districtCode": "201",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quảng Phong",
+    "code": "06952",
+    "districtName": "Huyện Hải Hà",
+    "districtCode": "201",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quảng Sơn",
+    "code": "06928",
+    "districtName": "Huyện Hải Hà",
+    "districtCode": "201",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quảng Thành",
+    "code": "06931",
+    "districtName": "Huyện Hải Hà",
+    "districtCode": "201",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quảng Thịnh",
+    "code": "06937",
+    "districtName": "Huyện Hải Hà",
+    "districtCode": "201",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quảng Đức",
+    "code": "06925",
+    "districtName": "Huyện Hải Hà",
+    "districtCode": "201",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đường Hoa",
+    "code": "06949",
+    "districtName": "Huyện Hải Hà",
+    "districtCode": "201",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Thị trấn Tiên Yên",
+    "code": "06862",
+    "districtName": "Huyện Tiên Yên",
+    "districtCode": "199",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hà Lâu",
+    "code": "06865",
+    "districtName": "Huyện Tiên Yên",
+    "districtCode": "199",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hải Lạng",
+    "code": "06886",
+    "districtName": "Huyện Tiên Yên",
+    "districtCode": "199",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Phong Dụ",
+    "code": "06871",
+    "districtName": "Huyện Tiên Yên",
+    "districtCode": "199",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Tiên Lãng",
+    "code": "06889",
+    "districtName": "Huyện Tiên Yên",
+    "districtCode": "199",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Yên Than",
+    "code": "06880",
+    "districtName": "Huyện Tiên Yên",
+    "districtCode": "199",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Điền Xá",
+    "code": "06874",
+    "districtName": "Huyện Tiên Yên",
+    "districtCode": "199",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đông Hải",
+    "code": "06883",
+    "districtName": "Huyện Tiên Yên",
+    "districtCode": "199",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đông Ngũ",
+    "code": "06877",
+    "districtName": "Huyện Tiên Yên",
+    "districtCode": "199",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đại Dực",
+    "code": "06868",
+    "districtName": "Huyện Tiên Yên",
+    "districtCode": "199",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đồng Rui",
+    "code": "06892",
+    "districtName": "Huyện Tiên Yên",
+    "districtCode": "199",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Thị trấn Cái Rồng",
+    "code": "06994",
+    "districtName": "Huyện Vân Đồn",
+    "districtCode": "203",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Bình Dân",
+    "code": "07000",
+    "districtName": "Huyện Vân Đồn",
+    "districtCode": "203",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Bản Sen",
+    "code": "07018",
+    "districtName": "Huyện Vân Đồn",
+    "districtCode": "203",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hạ Long",
+    "code": "07012",
+    "districtName": "Huyện Vân Đồn",
+    "districtCode": "203",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Minh Châu",
+    "code": "07006",
+    "districtName": "Huyện Vân Đồn",
+    "districtCode": "203",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Ngọc Vừng",
+    "code": "07027",
+    "districtName": "Huyện Vân Đồn",
+    "districtCode": "203",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quan Lạn",
+    "code": "07024",
+    "districtName": "Huyện Vân Đồn",
+    "districtCode": "203",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Thắng Lợi",
+    "code": "07021",
+    "districtName": "Huyện Vân Đồn",
+    "districtCode": "203",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Vạn Yên",
+    "code": "07003",
+    "districtName": "Huyện Vân Đồn",
+    "districtCode": "203",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đoàn Kết",
+    "code": "07009",
+    "districtName": "Huyện Vân Đồn",
+    "districtCode": "203",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đài Xuyên",
+    "code": "06997",
+    "districtName": "Huyện Vân Đồn",
+    "districtCode": "203",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đông Xá",
+    "code": "07015",
+    "districtName": "Huyện Vân Đồn",
+    "districtCode": "203",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Thị trấn Đầm Hà",
+    "code": "06895",
+    "districtName": "Huyện Đầm Hà",
+    "districtCode": "200",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Dực Yên",
+    "code": "06910",
+    "districtName": "Huyện Đầm Hà",
+    "districtCode": "200",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quảng An",
+    "code": "06901",
+    "districtName": "Huyện Đầm Hà",
+    "districtCode": "200",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quảng Lâm",
+    "code": "06898",
+    "districtName": "Huyện Đầm Hà",
+    "districtCode": "200",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quảng Tân",
+    "code": "06913",
+    "districtName": "Huyện Đầm Hà",
+    "districtCode": "200",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Tân Bình",
+    "code": "06904",
+    "districtName": "Huyện Đầm Hà",
+    "districtCode": "200",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "06917",
+    "districtName": "Huyện Đầm Hà",
+    "districtCode": "200",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đại Bình",
+    "code": "06919",
+    "districtName": "Huyện Đầm Hà",
+    "districtCode": "200",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đầm Hà",
+    "code": "06916",
+    "districtName": "Huyện Đầm Hà",
+    "districtCode": "200",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cẩm Bình",
+    "code": "06796",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cẩm Phú",
+    "code": "06772",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cẩm Sơn",
+    "code": "06766",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cẩm Thành",
+    "code": "06790",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cẩm Thạch",
+    "code": "06787",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cẩm Thịnh",
+    "code": "06781",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cẩm Thủy",
+    "code": "06784",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cẩm Trung",
+    "code": "06793",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cẩm Tây",
+    "code": "06775",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cẩm Đông",
+    "code": "06769",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cửa Ông",
+    "code": "06763",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Mông Dương",
+    "code": "06760",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Quang Hanh",
+    "code": "06778",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Dương Huy",
+    "code": "06805",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hải Hòa",
+    "code": "06799",
+    "districtName": "Thành phố Cẩm Phả",
+    "districtCode": "195",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Bãi Cháy",
+    "code": "06673",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Bạch Đằng",
+    "code": "06694",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cao Thắng",
+    "code": "06676",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cao Xanh",
+    "code": "06658",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Giếng Đáy",
+    "code": "06661",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hoành Bồ",
+    "code": "07030",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hà Khánh",
+    "code": "06649",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hà Khẩu",
+    "code": "06655",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hà Lầm",
+    "code": "06670",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hà Phong",
+    "code": "06652",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hà Trung",
+    "code": "06667",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hà Tu",
+    "code": "06664",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hùng Thắng",
+    "code": "06679",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hồng Gai",
+    "code": "06691",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hồng Hà",
+    "code": "06697",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hồng Hải",
+    "code": "06688",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Trần Hưng Đạo",
+    "code": "06685",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Tuần Châu",
+    "code": "06700",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Việt Hưng",
+    "code": "06703",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Đại Yên",
+    "code": "06706",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Bằng Cả",
+    "code": "07057",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Dân Chủ",
+    "code": "07051",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "07045",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Kỳ Thượng",
+    "code": "07033",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Lê Lợi",
+    "code": "07066",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quảng La",
+    "code": "07054",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Sơn Dương",
+    "code": "07063",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Thống Nhất",
+    "code": "07060",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Tân Dân",
+    "code": "07039",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Vũ Oai",
+    "code": "07048",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đồng Lâm",
+    "code": "07042",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Đồng Sơn",
+    "code": "07036",
+    "districtName": "Thành phố Hạ Long",
+    "districtCode": "193",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Bình Ngọc",
+    "code": "06751",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hải Hoà",
+    "code": "06742",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hải Yên",
+    "code": "06736",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Ka Long",
+    "code": "06709",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Ninh Dương",
+    "code": "06715",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Trà Cổ",
+    "code": "06721",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Trần Phú",
+    "code": "06712",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Bắc Sơn",
+    "code": "06727",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hải Sơn",
+    "code": "06724",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hải Tiến",
+    "code": "06733",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hải Xuân",
+    "code": "06745",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hải Đông",
+    "code": "06730",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Quảng Nghĩa",
+    "code": "06739",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Vĩnh Thực",
+    "code": "06757",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Vĩnh Trung",
+    "code": "06754",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Vạn Ninh",
+    "code": "06748",
+    "districtName": "Thành phố Móng Cái",
+    "districtCode": "194",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Bắc Sơn",
+    "code": "06814",
+    "districtName": "Thành phố Uông Bí",
+    "districtCode": "196",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Nam Khê",
+    "code": "06823",
+    "districtName": "Thành phố Uông Bí",
+    "districtCode": "196",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Phương Nam",
+    "code": "06835",
+    "districtName": "Thành phố Uông Bí",
+    "districtCode": "196",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Phương Đông",
+    "code": "06832",
+    "districtName": "Thành phố Uông Bí",
+    "districtCode": "196",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Quang Trung",
+    "code": "06817",
+    "districtName": "Thành phố Uông Bí",
+    "districtCode": "196",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Thanh Sơn",
+    "code": "06811",
+    "districtName": "Thành phố Uông Bí",
+    "districtCode": "196",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Trưng Vương",
+    "code": "06820",
+    "districtName": "Thành phố Uông Bí",
+    "districtCode": "196",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Vàng Danh",
+    "code": "06808",
+    "districtName": "Thành phố Uông Bí",
+    "districtCode": "196",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Yên Thanh",
+    "code": "06826",
+    "districtName": "Thành phố Uông Bí",
+    "districtCode": "196",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Thượng Yên Công",
+    "code": "06829",
+    "districtName": "Thành phố Uông Bí",
+    "districtCode": "196",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Bình Dương",
+    "code": "07090",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Bình Khê",
+    "code": "07081",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hoàng Quế",
+    "code": "07114",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hưng Đạo",
+    "code": "07126",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hồng Phong",
+    "code": "07120",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Kim Sơn",
+    "code": "07123",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Mạo Khê",
+    "code": "07069",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Thủy An",
+    "code": "07102",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Tràng An",
+    "code": "07096",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Xuân Sơn",
+    "code": "07105",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Yên Thọ",
+    "code": "07117",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Yên Đức",
+    "code": "07129",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Đức Chính",
+    "code": "07093",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã An Sinh",
+    "code": "07075",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hồng Thái Tây",
+    "code": "07108",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hồng Thái Đông",
+    "code": "07111",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Nguyễn Huệ",
+    "code": "07099",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Tràng Lương",
+    "code": "07078",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Việt Dân",
+    "code": "07084",
+    "districtName": "Thành phố Đông Triều",
+    "districtCode": "205",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Cộng Hòa",
+    "code": "07150",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Hà An",
+    "code": "07168",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Minh Thành",
+    "code": "07138",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Nam Hoà",
+    "code": "07165",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Phong Cốc",
+    "code": "07183",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Phong Hải",
+    "code": "07174",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Quảng Yên",
+    "code": "07132",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Tân An",
+    "code": "07159",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Yên Giang",
+    "code": "07162",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Yên Hải",
+    "code": "07177",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Phường Đông Mai",
+    "code": "07135",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Cẩm La",
+    "code": "07171",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hiệp Hòa",
+    "code": "07147",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Hoàng Tân",
+    "code": "07156",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Liên Hòa",
+    "code": "07180",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Liên Vị",
+    "code": "07186",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Sông Khoai",
+    "code": "07144",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Tiền An",
+    "code": "07153",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  },
+  {
+    "name": "Xã Tiền Phong",
+    "code": "07189",
+    "districtName": "Thị xã Quảng Yên",
+    "districtCode": "206",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "provinceCode": "22"
+  }
+]

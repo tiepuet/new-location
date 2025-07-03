@@ -1,0 +1,111 @@
+{
+  "name": "An Giang",
+  "code": "91",
+  "from": "Kiên Giang, An Giang",
+  "area": 9888.91,
+  "population": 4952238,
+  "adminCenter": "TP Rạch Giá",
+  "hasSeaport": true,
+  "numSeaports": 2,
+  "numBerths": 5,
+  "grdp": 271.346,
+  "licensePlates": [
+    67,
+    68
+  ],
+  "density": 501,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện An Biên",
+      "code": "908",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Huyện An Minh",
+      "code": "909",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Huyện Châu Thành",
+      "code": "905",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Huyện Giang Thành",
+      "code": "914",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Huyện Giồng Riềng",
+      "code": "906",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Huyện Gò Quao",
+      "code": "907",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Huyện Hòn Đất",
+      "code": "903",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Huyện Kiên Hải",
+      "code": "912",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Huyện Kiên Lương",
+      "code": "902",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Huyện Tân Hiệp",
+      "code": "904",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Huyện U Minh Thượng",
+      "code": "913",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Huyện Vĩnh Thuận",
+      "code": "910",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Thành phố Hà Tiên",
+      "code": "900",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Thành phố Phú Quốc",
+      "code": "911",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    },
+    {
+      "name": "Thành phố Rạch Giá",
+      "code": "899",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceCode": "91"
+    }
+  ]
+}

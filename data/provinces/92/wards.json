@@ -1,0 +1,642 @@
+[
+  {
+    "name": "Thị trấn Cờ Đỏ",
+    "code": "31261",
+    "districtName": "Huyện Cờ Đỏ",
+    "districtCode": "925",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Thạnh Phú",
+    "code": "31249",
+    "districtName": "Huyện Cờ Đỏ",
+    "districtCode": "925",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Thới Hưng",
+    "code": "31264",
+    "districtName": "Huyện Cờ Đỏ",
+    "districtCode": "925",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Thới Xuân",
+    "code": "31277",
+    "districtName": "Huyện Cờ Đỏ",
+    "districtCode": "925",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Thới Đông",
+    "code": "31276",
+    "districtName": "Huyện Cờ Đỏ",
+    "districtCode": "925",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Trung An",
+    "code": "31222",
+    "districtName": "Huyện Cờ Đỏ",
+    "districtCode": "925",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Trung Hưng",
+    "code": "31255",
+    "districtName": "Huyện Cờ Đỏ",
+    "districtCode": "925",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Trung Thạnh",
+    "code": "31225",
+    "districtName": "Huyện Cờ Đỏ",
+    "districtCode": "925",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Đông Hiệp",
+    "code": "31273",
+    "districtName": "Huyện Cờ Đỏ",
+    "districtCode": "925",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Đông Thắng",
+    "code": "31274",
+    "districtName": "Huyện Cờ Đỏ",
+    "districtCode": "925",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Thị trấn Phong Điền",
+    "code": "31299",
+    "districtName": "Huyện Phong Điền",
+    "districtCode": "926",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Giai Xuân",
+    "code": "31303",
+    "districtName": "Huyện Phong Điền",
+    "districtCode": "926",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Mỹ Khánh",
+    "code": "31312",
+    "districtName": "Huyện Phong Điền",
+    "districtCode": "926",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Nhơn Nghĩa",
+    "code": "31315",
+    "districtName": "Huyện Phong Điền",
+    "districtCode": "926",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Nhơn Ái",
+    "code": "31300",
+    "districtName": "Huyện Phong Điền",
+    "districtCode": "926",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Trường Long",
+    "code": "31309",
+    "districtName": "Huyện Phong Điền",
+    "districtCode": "926",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Tân Thới",
+    "code": "31306",
+    "districtName": "Huyện Phong Điền",
+    "districtCode": "926",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Thị trấn Thới Lai",
+    "code": "31258",
+    "districtName": "Huyện Thới Lai",
+    "districtCode": "927",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Thới Thạnh",
+    "code": "31267",
+    "districtName": "Huyện Thới Lai",
+    "districtCode": "927",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Thới Tân",
+    "code": "31285",
+    "districtName": "Huyện Thới Lai",
+    "districtCode": "927",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Trường Thành",
+    "code": "31291",
+    "districtName": "Huyện Thới Lai",
+    "districtCode": "927",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Trường Thắng",
+    "code": "31286",
+    "districtName": "Huyện Thới Lai",
+    "districtCode": "927",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Trường Xuân",
+    "code": "31294",
+    "districtName": "Huyện Thới Lai",
+    "districtCode": "927",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Trường Xuân A",
+    "code": "31297",
+    "districtName": "Huyện Thới Lai",
+    "districtCode": "927",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Trường Xuân B",
+    "code": "31298",
+    "districtName": "Huyện Thới Lai",
+    "districtCode": "927",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Tân Thạnh",
+    "code": "31268",
+    "districtName": "Huyện Thới Lai",
+    "districtCode": "927",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Xuân Thắng",
+    "code": "31270",
+    "districtName": "Huyện Thới Lai",
+    "districtCode": "927",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Đông Bình",
+    "code": "31279",
+    "districtName": "Huyện Thới Lai",
+    "districtCode": "927",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Đông Thuận",
+    "code": "31282",
+    "districtName": "Huyện Thới Lai",
+    "districtCode": "927",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Định Môn",
+    "code": "31288",
+    "districtName": "Huyện Thới Lai",
+    "districtCode": "927",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Thị trấn Thanh An",
+    "code": "31231",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "924",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Thị trấn Vĩnh Thạnh",
+    "code": "31232",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "924",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Thạnh An",
+    "code": "31240",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "924",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Thạnh Lộc",
+    "code": "31252",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "924",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Thạnh Lợi",
+    "code": "31244",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "924",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Thạnh Mỹ",
+    "code": "31234",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "924",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Thạnh Quới",
+    "code": "31246",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "924",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Thạnh Thắng",
+    "code": "31243",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "924",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Thạnh Tiến",
+    "code": "31241",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "924",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Vĩnh Bình",
+    "code": "31211",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "924",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Xã Vĩnh Trinh",
+    "code": "31237",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "924",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường An Thới",
+    "code": "31177",
+    "districtName": "Quận Bình Thuỷ",
+    "districtCode": "918",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Bình Thủy",
+    "code": "31168",
+    "districtName": "Quận Bình Thuỷ",
+    "districtCode": "918",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Bùi Hữu Nghĩa",
+    "code": "31178",
+    "districtName": "Quận Bình Thuỷ",
+    "districtCode": "918",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Long Hòa",
+    "code": "31180",
+    "districtName": "Quận Bình Thuỷ",
+    "districtCode": "918",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Long Tuyền",
+    "code": "31183",
+    "districtName": "Quận Bình Thuỷ",
+    "districtCode": "918",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Thới An Đông",
+    "code": "31174",
+    "districtName": "Quận Bình Thuỷ",
+    "districtCode": "918",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Trà An",
+    "code": "31169",
+    "districtName": "Quận Bình Thuỷ",
+    "districtCode": "918",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Trà Nóc",
+    "code": "31171",
+    "districtName": "Quận Bình Thuỷ",
+    "districtCode": "918",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Ba Láng",
+    "code": "31195",
+    "districtName": "Quận Cái Răng",
+    "districtCode": "919",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Hưng Phú",
+    "code": "31189",
+    "districtName": "Quận Cái Răng",
+    "districtCode": "919",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Hưng Thạnh",
+    "code": "31192",
+    "districtName": "Quận Cái Răng",
+    "districtCode": "919",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Lê Bình",
+    "code": "31186",
+    "districtName": "Quận Cái Răng",
+    "districtCode": "919",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Phú Thứ",
+    "code": "31201",
+    "districtName": "Quận Cái Răng",
+    "districtCode": "919",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Thường Thạnh",
+    "code": "31198",
+    "districtName": "Quận Cái Răng",
+    "districtCode": "919",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Tân Phú",
+    "code": "31204",
+    "districtName": "Quận Cái Răng",
+    "districtCode": "919",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường An Bình",
+    "code": "31150",
+    "districtName": "Quận Ninh Kiều",
+    "districtCode": "916",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường An Hòa",
+    "code": "31120",
+    "districtName": "Quận Ninh Kiều",
+    "districtCode": "916",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường An Khánh",
+    "code": "31149",
+    "districtName": "Quận Ninh Kiều",
+    "districtCode": "916",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Cái Khế",
+    "code": "31117",
+    "districtName": "Quận Ninh Kiều",
+    "districtCode": "916",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Hưng Lợi",
+    "code": "31147",
+    "districtName": "Quận Ninh Kiều",
+    "districtCode": "916",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Thới Bình",
+    "code": "31123",
+    "districtName": "Quận Ninh Kiều",
+    "districtCode": "916",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Tân An",
+    "code": "31135",
+    "districtName": "Quận Ninh Kiều",
+    "districtCode": "916",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Xuân Khánh",
+    "code": "31144",
+    "districtName": "Quận Ninh Kiều",
+    "districtCode": "916",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Thuận An",
+    "code": "31212",
+    "districtName": "Quận Thốt Nốt",
+    "districtCode": "923",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Thuận Hưng",
+    "code": "31228",
+    "districtName": "Quận Thốt Nốt",
+    "districtCode": "923",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Thạnh Hoà",
+    "code": "31217",
+    "districtName": "Quận Thốt Nốt",
+    "districtCode": "923",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Thốt Nốt",
+    "code": "31207",
+    "districtName": "Quận Thốt Nốt",
+    "districtCode": "923",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Thới Thuận",
+    "code": "31210",
+    "districtName": "Quận Thốt Nốt",
+    "districtCode": "923",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Trung Kiên",
+    "code": "31219",
+    "districtName": "Quận Thốt Nốt",
+    "districtCode": "923",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Trung Nhứt",
+    "code": "31216",
+    "districtName": "Quận Thốt Nốt",
+    "districtCode": "923",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Tân Hưng",
+    "code": "31227",
+    "districtName": "Quận Thốt Nốt",
+    "districtCode": "923",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Tân Lộc",
+    "code": "31213",
+    "districtName": "Quận Thốt Nốt",
+    "districtCode": "923",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Châu Văn Liêm",
+    "code": "31153",
+    "districtName": "Quận Ô Môn",
+    "districtCode": "917",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Long Hưng",
+    "code": "31157",
+    "districtName": "Quận Ô Môn",
+    "districtCode": "917",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Phước Thới",
+    "code": "31162",
+    "districtName": "Quận Ô Môn",
+    "districtCode": "917",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Thới An",
+    "code": "31159",
+    "districtName": "Quận Ô Môn",
+    "districtCode": "917",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Thới Hòa",
+    "code": "31154",
+    "districtName": "Quận Ô Môn",
+    "districtCode": "917",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Thới Long",
+    "code": "31156",
+    "districtName": "Quận Ô Môn",
+    "districtCode": "917",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  },
+  {
+    "name": "Phường Trường Lạc",
+    "code": "31165",
+    "districtName": "Quận Ô Môn",
+    "districtCode": "917",
+    "provinceName": "Thành phố Cần Thơ",
+    "provinceCode": "92"
+  }
+]

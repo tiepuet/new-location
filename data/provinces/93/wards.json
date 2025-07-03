@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Thị trấn Mái Dầm",
+    "code": "31381",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "933",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Thị trấn Ngã Sáu",
+    "code": "31366",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "933",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Phú Hữu",
+    "code": "31378",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "933",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Phú Tân",
+    "code": "31379",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "933",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Đông Phú",
+    "code": "31375",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "933",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Đông Phước",
+    "code": "31384",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "933",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Đông Phước A",
+    "code": "31387",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "933",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Đông Thạnh",
+    "code": "31369",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "933",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Thị trấn Bảy Ngàn",
+    "code": "31346",
+    "districtName": "Huyện Châu Thành A",
+    "districtCode": "932",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Thị trấn Cái Tắc",
+    "code": "31362",
+    "districtName": "Huyện Châu Thành A",
+    "districtCode": "932",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Thị trấn Một Ngàn",
+    "code": "31342",
+    "districtName": "Huyện Châu Thành A",
+    "districtCode": "932",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Thị trấn Rạch Gòi",
+    "code": "31359",
+    "districtName": "Huyện Châu Thành A",
+    "districtCode": "932",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Nhơn Nghĩa A",
+    "code": "31357",
+    "districtName": "Huyện Châu Thành A",
+    "districtCode": "932",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Thạnh Xuân",
+    "code": "31360",
+    "districtName": "Huyện Châu Thành A",
+    "districtCode": "932",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Trường Long A",
+    "code": "31351",
+    "districtName": "Huyện Châu Thành A",
+    "districtCode": "932",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Trường Long Tây",
+    "code": "31348",
+    "districtName": "Huyện Châu Thành A",
+    "districtCode": "932",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Tân Hoà",
+    "code": "31345",
+    "districtName": "Huyện Châu Thành A",
+    "districtCode": "932",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Tân Phú Thạnh",
+    "code": "31363",
+    "districtName": "Huyện Châu Thành A",
+    "districtCode": "932",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Thị trấn Vĩnh Viễn",
+    "code": "31489",
+    "districtName": "Huyện Long Mỹ",
+    "districtCode": "936",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Lương Nghĩa",
+    "code": "31493",
+    "districtName": "Huyện Long Mỹ",
+    "districtCode": "936",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Lương Tâm",
+    "code": "31492",
+    "districtName": "Huyện Long Mỹ",
+    "districtCode": "936",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Thuận Hòa",
+    "code": "31484",
+    "districtName": "Huyện Long Mỹ",
+    "districtCode": "936",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Thuận Hưng",
+    "code": "31483",
+    "districtName": "Huyện Long Mỹ",
+    "districtCode": "936",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Vĩnh Thuận Đông",
+    "code": "31486",
+    "districtName": "Huyện Long Mỹ",
+    "districtCode": "936",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Vĩnh Viễn A",
+    "code": "31490",
+    "districtName": "Huyện Long Mỹ",
+    "districtCode": "936",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Xà Phiên",
+    "code": "31495",
+    "districtName": "Huyện Long Mỹ",
+    "districtCode": "936",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Thị trấn Búng Tàu",
+    "code": "31433",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Thị trấn Cây Dương",
+    "code": "31396",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Thị trấn Kinh Cùng",
+    "code": "31393",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Bình Thành",
+    "code": "31402",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Hiệp Hưng",
+    "code": "31429",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Hòa An",
+    "code": "31423",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Hòa Mỹ",
+    "code": "31420",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Long Thạnh",
+    "code": "31408",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Phương Bình",
+    "code": "31426",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Phương Phú",
+    "code": "31435",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Phụng Hiệp",
+    "code": "31417",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Thạnh Hòa",
+    "code": "31405",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Tân Bình",
+    "code": "31399",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Tân Long",
+    "code": "31438",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Tân Phước Hưng",
+    "code": "31432",
+    "districtName": "Huyện Phụng Hiệp",
+    "districtCode": "934",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Thị trấn Nàng Mau",
+    "code": "31441",
+    "districtName": "Huyện Vị Thuỷ",
+    "districtCode": "935",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Vĩnh Thuận Tây",
+    "code": "31453",
+    "districtName": "Huyện Vị Thuỷ",
+    "districtCode": "935",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Vĩnh Trung",
+    "code": "31456",
+    "districtName": "Huyện Vị Thuỷ",
+    "districtCode": "935",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Vĩnh Tường",
+    "code": "31459",
+    "districtName": "Huyện Vị Thuỷ",
+    "districtCode": "935",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Vị Bình",
+    "code": "31468",
+    "districtName": "Huyện Vị Thuỷ",
+    "districtCode": "935",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Vị Thanh",
+    "code": "31465",
+    "districtName": "Huyện Vị Thuỷ",
+    "districtCode": "935",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Vị Thuỷ",
+    "code": "31447",
+    "districtName": "Huyện Vị Thuỷ",
+    "districtCode": "935",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Vị Thắng",
+    "code": "31450",
+    "districtName": "Huyện Vị Thuỷ",
+    "districtCode": "935",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Vị Trung",
+    "code": "31444",
+    "districtName": "Huyện Vị Thuỷ",
+    "districtCode": "935",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Vị Đông",
+    "code": "31462",
+    "districtName": "Huyện Vị Thuỷ",
+    "districtCode": "935",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Phường Hiệp Lợi",
+    "code": "31344",
+    "districtName": "Thành phố Ngã Bảy",
+    "districtCode": "931",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Phường Hiệp Thành",
+    "code": "31343",
+    "districtName": "Thành phố Ngã Bảy",
+    "districtCode": "931",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Phường Lái Hiếu",
+    "code": "31341",
+    "districtName": "Thành phố Ngã Bảy",
+    "districtCode": "931",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Phường Ngã Bảy",
+    "code": "31340",
+    "districtName": "Thành phố Ngã Bảy",
+    "districtCode": "931",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "31414",
+    "districtName": "Thành phố Ngã Bảy",
+    "districtCode": "931",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Đại Thành",
+    "code": "31411",
+    "districtName": "Thành phố Ngã Bảy",
+    "districtCode": "931",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Phường I",
+    "code": "31318",
+    "districtName": "Thành phố Vị Thanh",
+    "districtCode": "930",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Phường III",
+    "code": "31321",
+    "districtName": "Thành phố Vị Thanh",
+    "districtCode": "930",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Phường IV",
+    "code": "31324",
+    "districtName": "Thành phố Vị Thanh",
+    "districtCode": "930",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Phường V",
+    "code": "31327",
+    "districtName": "Thành phố Vị Thanh",
+    "districtCode": "930",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Phường VII",
+    "code": "31330",
+    "districtName": "Thành phố Vị Thanh",
+    "districtCode": "930",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Hoả Lựu",
+    "code": "31336",
+    "districtName": "Thành phố Vị Thanh",
+    "districtCode": "930",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Hoả Tiến",
+    "code": "31339",
+    "districtName": "Thành phố Vị Thanh",
+    "districtCode": "930",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Tân Tiến",
+    "code": "31338",
+    "districtName": "Thành phố Vị Thanh",
+    "districtCode": "930",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Vị Tân",
+    "code": "31333",
+    "districtName": "Thành phố Vị Thanh",
+    "districtCode": "930",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Phường Bình Thạnh",
+    "code": "31473",
+    "districtName": "Thị xã Long Mỹ",
+    "districtCode": "937",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Phường Thuận An",
+    "code": "31471",
+    "districtName": "Thị xã Long Mỹ",
+    "districtCode": "937",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Phường Trà Lồng",
+    "code": "31472",
+    "districtName": "Thị xã Long Mỹ",
+    "districtCode": "937",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Phường Vĩnh Tường",
+    "code": "31475",
+    "districtName": "Thị xã Long Mỹ",
+    "districtCode": "937",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Long Bình",
+    "code": "31474",
+    "districtName": "Thị xã Long Mỹ",
+    "districtCode": "937",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Long Phú",
+    "code": "31480",
+    "districtName": "Thị xã Long Mỹ",
+    "districtCode": "937",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Long Trị",
+    "code": "31477",
+    "districtName": "Thị xã Long Mỹ",
+    "districtCode": "937",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Long Trị A",
+    "code": "31478",
+    "districtName": "Thị xã Long Mỹ",
+    "districtCode": "937",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  },
+  {
+    "name": "Xã Tân Phú",
+    "code": "31481",
+    "districtName": "Thị xã Long Mỹ",
+    "districtCode": "937",
+    "provinceName": "Tỉnh Hậu Giang",
+    "provinceCode": "93"
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "name": "Thị trấn Bình Mỹ",
+    "code": "13501",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã An Lão",
+    "code": "13561",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã An Ninh",
+    "code": "13528",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã An Đổ",
+    "code": "13552",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Bình An",
+    "code": "13540",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Bình Nghĩa",
+    "code": "13504",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Bồ Đề",
+    "code": "13531",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã La Sơn",
+    "code": "13555",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Ngọc Lũ",
+    "code": "13519",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Tiêu Động",
+    "code": "13558",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Trung Lương",
+    "code": "13546",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Tràng An",
+    "code": "13510",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Vũ Bản",
+    "code": "13543",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Đồn Xá",
+    "code": "13525",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Đồng Du",
+    "code": "13516",
+    "districtName": "Huyện Bình Lục",
+    "districtCode": "352",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Thị trấn Vĩnh Trụ",
+    "code": "13597",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Bắc Lý",
+    "code": "13588",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Chân Lý",
+    "code": "13576",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Chính Lý",
+    "code": "13573",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Công Lý",
+    "code": "13582",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Hòa Hậu",
+    "code": "13630",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Hợp Lý",
+    "code": "13567",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Nguyên Lý",
+    "code": "13570",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Nhân Bình",
+    "code": "13618",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Nhân Chính",
+    "code": "13615",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Nhân Khang",
+    "code": "13606",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Nhân Mỹ",
+    "code": "13609",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Nhân Nghĩa",
+    "code": "13612",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Nhân Thịnh",
+    "code": "13600",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Phú Phúc",
+    "code": "13621",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Tiến Thắng",
+    "code": "13627",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Trần Hưng Đạo",
+    "code": "13594",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Văn Lý",
+    "code": "13585",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Xuân Khê",
+    "code": "13624",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Đạo Lý",
+    "code": "13579",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Đức Lý",
+    "code": "13591",
+    "districtName": "Huyện Lý Nhân",
+    "districtCode": "353",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Thị trấn Kiện Khê",
+    "code": "13441",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Thị trấn Tân Thanh",
+    "code": "13474",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Liêm Cần",
+    "code": "13456",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Liêm Phong",
+    "code": "13450",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Liêm Sơn",
+    "code": "13483",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Liêm Thuận",
+    "code": "13465",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Liêm Túc",
+    "code": "13480",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Thanh Hà",
+    "code": "13453",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Thanh Hương",
+    "code": "13486",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Thanh Hải",
+    "code": "13498",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Thanh Nghị",
+    "code": "13489",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Thanh Nguyên",
+    "code": "13495",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Thanh Phong",
+    "code": "13471",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Thanh Thủy",
+    "code": "13468",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Thanh Tâm",
+    "code": "13492",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Thanh Tân",
+    "code": "13477",
+    "districtName": "Huyện Thanh Liêm",
+    "districtCode": "351",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Châu Cầu",
+    "code": "13294",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Châu Sơn",
+    "code": "13318",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Lam Hạ",
+    "code": "13303",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Liêm Chính",
+    "code": "13309",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Lê Hồng Phong",
+    "code": "13291",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Quang Trung",
+    "code": "13285",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Thanh Châu",
+    "code": "13315",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Thanh Tuyền",
+    "code": "13459",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Tân Hiệp",
+    "code": "13366",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Tân Liêm",
+    "code": "13444",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Kim Bình",
+    "code": "13426",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Phù Vân",
+    "code": "13306",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Trịnh Xá",
+    "code": "13513",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Đinh Xá",
+    "code": "13507",
+    "districtName": "Thành phố Phủ Lý",
+    "districtCode": "347",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Bạch Thượng",
+    "code": "13333",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Châu Giang",
+    "code": "13330",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Duy Hải",
+    "code": "13342",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Duy Minh",
+    "code": "13336",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Hoàng Đông",
+    "code": "13357",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Hòa Mạc",
+    "code": "13324",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Tiên Nội",
+    "code": "13354",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Yên Bắc",
+    "code": "13348",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Đồng Văn",
+    "code": "13321",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Chuyên Ngoại",
+    "code": "13345",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Mộc Hoàn",
+    "code": "13327",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Tiên Ngoại",
+    "code": "13363",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Tiên Sơn",
+    "code": "13369",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Trác Văn",
+    "code": "13351",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Yên Nam",
+    "code": "13360",
+    "districtName": "Thị xã Duy Tiên",
+    "districtCode": "349",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Ba Sao",
+    "code": "13429",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Lê Hồ",
+    "code": "13393",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Ngọc Sơn",
+    "code": "13423",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Quế",
+    "code": "13384",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Thi Sơn",
+    "code": "13435",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Tân Sơn",
+    "code": "13411",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Tân Tựu",
+    "code": "13402",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Tượng Lĩnh",
+    "code": "13396",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Đại Cương",
+    "code": "13390",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Phường Đồng Hóa",
+    "code": "13405",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Hoàng Tây",
+    "code": "13408",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Khả Phong",
+    "code": "13420",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Liên Sơn",
+    "code": "13432",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Nguyễn Úy",
+    "code": "13387",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Thanh Sơn",
+    "code": "13438",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Thụy Lôi",
+    "code": "13414",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  },
+  {
+    "name": "Xã Văn Xá",
+    "code": "13417",
+    "districtName": "Thị xã Kim Bảng",
+    "districtCode": "350",
+    "provinceName": "Tỉnh Hà Nam",
+    "provinceCode": "35"
+  }
+]

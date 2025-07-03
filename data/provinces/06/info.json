@@ -1,0 +1,54 @@
+{
+  "name": "Tỉnh Bắc Kạn",
+  "code": "06",
+  "districts": [
+    {
+      "name": "Huyện Ba Bể",
+      "code": "61",
+      "provinceName": "Tỉnh Bắc Kạn",
+      "provinceCode": "06"
+    },
+    {
+      "name": "Huyện Bạch Thông",
+      "code": "63",
+      "provinceName": "Tỉnh Bắc Kạn",
+      "provinceCode": "06"
+    },
+    {
+      "name": "Huyện Chợ Mới",
+      "code": "65",
+      "provinceName": "Tỉnh Bắc Kạn",
+      "provinceCode": "06"
+    },
+    {
+      "name": "Huyện Chợ Đồn",
+      "code": "64",
+      "provinceName": "Tỉnh Bắc Kạn",
+      "provinceCode": "06"
+    },
+    {
+      "name": "Huyện Na Rì",
+      "code": "66",
+      "provinceName": "Tỉnh Bắc Kạn",
+      "provinceCode": "06"
+    },
+    {
+      "name": "Huyện Ngân Sơn",
+      "code": "62",
+      "provinceName": "Tỉnh Bắc Kạn",
+      "provinceCode": "06"
+    },
+    {
+      "name": "Huyện Pác Nặm",
+      "code": "60",
+      "provinceName": "Tỉnh Bắc Kạn",
+      "provinceCode": "06"
+    },
+    {
+      "name": "Thành Phố Bắc Kạn",
+      "code": "58",
+      "provinceName": "Tỉnh Bắc Kạn",
+      "provinceCode": "06"
+    }
+  ]
+}

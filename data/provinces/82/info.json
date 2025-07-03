@@ -1,0 +1,87 @@
+{
+  "name": "Đồng Tháp",
+  "code": "82",
+  "from": "Tiền Giang, Đồng Tháp",
+  "area": 5938.64,
+  "population": 4370046,
+  "adminCenter": "TP Mỹ Tho",
+  "hasSeaport": true,
+  "numSeaports": 2,
+  "numBerths": 5,
+  "grdp": 260.036,
+  "licensePlates": [
+    63,
+    66
+  ],
+  "density": 736,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Cai Lậy",
+      "code": "820",
+      "provinceName": "Tỉnh Tiền Giang",
+      "provinceCode": "82"
+    },
+    {
+      "name": "Huyện Châu Thành",
+      "code": "821",
+      "provinceName": "Tỉnh Tiền Giang",
+      "provinceCode": "82"
+    },
+    {
+      "name": "Huyện Chợ Gạo",
+      "code": "822",
+      "provinceName": "Tỉnh Tiền Giang",
+      "provinceCode": "82"
+    },
+    {
+      "name": "Huyện Cái Bè",
+      "code": "819",
+      "provinceName": "Tỉnh Tiền Giang",
+      "provinceCode": "82"
+    },
+    {
+      "name": "Huyện Gò Công Tây",
+      "code": "823",
+      "provinceName": "Tỉnh Tiền Giang",
+      "provinceCode": "82"
+    },
+    {
+      "name": "Huyện Gò Công Đông",
+      "code": "824",
+      "provinceName": "Tỉnh Tiền Giang",
+      "provinceCode": "82"
+    },
+    {
+      "name": "Huyện Tân Phú Đông",
+      "code": "825",
+      "provinceName": "Tỉnh Tiền Giang",
+      "provinceCode": "82"
+    },
+    {
+      "name": "Huyện Tân Phước",
+      "code": "818",
+      "provinceName": "Tỉnh Tiền Giang",
+      "provinceCode": "82"
+    },
+    {
+      "name": "Thành phố Gò Công",
+      "code": "816",
+      "provinceName": "Tỉnh Tiền Giang",
+      "provinceCode": "82"
+    },
+    {
+      "name": "Thành phố Mỹ Tho",
+      "code": "815",
+      "provinceName": "Tỉnh Tiền Giang",
+      "provinceCode": "82"
+    },
+    {
+      "name": "Thị xã Cai Lậy",
+      "code": "817",
+      "provinceName": "Tỉnh Tiền Giang",
+      "provinceCode": "82"
+    }
+  ]
+}

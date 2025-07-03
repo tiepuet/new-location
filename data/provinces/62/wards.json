@@ -1,0 +1,818 @@
+[
+  {
+    "name": "Xã Ia Dom",
+    "code": "23537",
+    "districtName": "Huyện Ia H' Drai",
+    "districtCode": "618",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ia Tơi",
+    "code": "23538",
+    "districtName": "Huyện Ia H' Drai",
+    "districtCode": "618",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ia Đal",
+    "code": "23535",
+    "districtName": "Huyện Ia H' Drai",
+    "districtCode": "618",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Thị trấn Măng Đen",
+    "code": "23473",
+    "districtName": "Huyện Kon Plông",
+    "districtCode": "613",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Hiếu",
+    "code": "23476",
+    "districtName": "Huyện Kon Plông",
+    "districtCode": "613",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Măng Buk",
+    "code": "23458",
+    "districtName": "Huyện Kon Plông",
+    "districtCode": "613",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Măng Cành",
+    "code": "23470",
+    "districtName": "Huyện Kon Plông",
+    "districtCode": "613",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ngok Tem",
+    "code": "23464",
+    "districtName": "Huyện Kon Plông",
+    "districtCode": "613",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Pờ Ê",
+    "code": "23467",
+    "districtName": "Huyện Kon Plông",
+    "districtCode": "613",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Nên",
+    "code": "23452",
+    "districtName": "Huyện Kon Plông",
+    "districtCode": "613",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Ring",
+    "code": "23455",
+    "districtName": "Huyện Kon Plông",
+    "districtCode": "613",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Tăng",
+    "code": "23461",
+    "districtName": "Huyện Kon Plông",
+    "districtCode": "613",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Thị trấn Đắk Rve",
+    "code": "23479",
+    "districtName": "Huyện Kon Rẫy",
+    "districtCode": "614",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "23497",
+    "districtName": "Huyện Kon Rẫy",
+    "districtCode": "614",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Kôi",
+    "code": "23482",
+    "districtName": "Huyện Kon Rẫy",
+    "districtCode": "614",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Pne",
+    "code": "23491",
+    "districtName": "Huyện Kon Rẫy",
+    "districtCode": "614",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Ruồng",
+    "code": "23488",
+    "districtName": "Huyện Kon Rẫy",
+    "districtCode": "614",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Tơ Lung",
+    "code": "23485",
+    "districtName": "Huyện Kon Rẫy",
+    "districtCode": "614",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Tờ Re",
+    "code": "23494",
+    "districtName": "Huyện Kon Rẫy",
+    "districtCode": "614",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Thị trấn Plei Kần",
+    "code": "23377",
+    "districtName": "Huyện Ngọc Hồi",
+    "districtCode": "611",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Bờ Y",
+    "code": "23395",
+    "districtName": "Huyện Ngọc Hồi",
+    "districtCode": "611",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Sa Loong",
+    "code": "23398",
+    "districtName": "Huyện Ngọc Hồi",
+    "districtCode": "611",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Ang",
+    "code": "23380",
+    "districtName": "Huyện Ngọc Hồi",
+    "districtCode": "611",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Dục",
+    "code": "23383",
+    "districtName": "Huyện Ngọc Hồi",
+    "districtCode": "611",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Kan",
+    "code": "23392",
+    "districtName": "Huyện Ngọc Hồi",
+    "districtCode": "611",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Nông",
+    "code": "23386",
+    "districtName": "Huyện Ngọc Hồi",
+    "districtCode": "611",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Xú",
+    "code": "23389",
+    "districtName": "Huyện Ngọc Hồi",
+    "districtCode": "611",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Thị trấn Sa Thầy",
+    "code": "23527",
+    "districtName": "Huyện Sa Thầy",
+    "districtCode": "616",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Hơ Moong",
+    "code": "23534",
+    "districtName": "Huyện Sa Thầy",
+    "districtCode": "616",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Mô Rai",
+    "code": "23536",
+    "districtName": "Huyện Sa Thầy",
+    "districtCode": "616",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Rơ Kơi",
+    "code": "23530",
+    "districtName": "Huyện Sa Thầy",
+    "districtCode": "616",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Sa Bình",
+    "code": "23545",
+    "districtName": "Huyện Sa Thầy",
+    "districtCode": "616",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Sa Nghĩa",
+    "code": "23542",
+    "districtName": "Huyện Sa Thầy",
+    "districtCode": "616",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Sa Nhơn",
+    "code": "23533",
+    "districtName": "Huyện Sa Thầy",
+    "districtCode": "616",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Sa Sơn",
+    "code": "23539",
+    "districtName": "Huyện Sa Thầy",
+    "districtCode": "616",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ya Tăng",
+    "code": "23551",
+    "districtName": "Huyện Sa Thầy",
+    "districtCode": "616",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ya Xiêr",
+    "code": "23548",
+    "districtName": "Huyện Sa Thầy",
+    "districtCode": "616",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ya ly",
+    "code": "23554",
+    "districtName": "Huyện Sa Thầy",
+    "districtCode": "616",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Măng Ri",
+    "code": "23410",
+    "districtName": "Huyện Tu Mơ Rông",
+    "districtCode": "617",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ngọc Lây",
+    "code": "23404",
+    "districtName": "Huyện Tu Mơ Rông",
+    "districtCode": "617",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ngọc Yêu",
+    "code": "23413",
+    "districtName": "Huyện Tu Mơ Rông",
+    "districtCode": "617",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Tu Mơ Rông",
+    "code": "23422",
+    "districtName": "Huyện Tu Mơ Rông",
+    "districtCode": "617",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Tê Xăng",
+    "code": "23446",
+    "districtName": "Huyện Tu Mơ Rông",
+    "districtCode": "617",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Văn Xuôi",
+    "code": "23449",
+    "districtName": "Huyện Tu Mơ Rông",
+    "districtCode": "617",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Hà",
+    "code": "23425",
+    "districtName": "Huyện Tu Mơ Rông",
+    "districtCode": "617",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Na",
+    "code": "23407",
+    "districtName": "Huyện Tu Mơ Rông",
+    "districtCode": "617",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Rơ Ông",
+    "code": "23417",
+    "districtName": "Huyện Tu Mơ Rông",
+    "districtCode": "617",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Sao",
+    "code": "23416",
+    "districtName": "Huyện Tu Mơ Rông",
+    "districtCode": "617",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Tờ Kan",
+    "code": "23419",
+    "districtName": "Huyện Tu Mơ Rông",
+    "districtCode": "617",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Thị trấn Đắk Glei",
+    "code": "23341",
+    "districtName": "Huyện Đắk Glei",
+    "districtCode": "610",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Mường Hoong",
+    "code": "23362",
+    "districtName": "Huyện Đắk Glei",
+    "districtCode": "610",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ngọc Linh",
+    "code": "23365",
+    "districtName": "Huyện Đắk Glei",
+    "districtCode": "610",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Xốp",
+    "code": "23359",
+    "districtName": "Huyện Đắk Glei",
+    "districtCode": "610",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Blô",
+    "code": "23344",
+    "districtName": "Huyện Đắk Glei",
+    "districtCode": "610",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Choong",
+    "code": "23356",
+    "districtName": "Huyện Đắk Glei",
+    "districtCode": "610",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk KRoong",
+    "code": "23371",
+    "districtName": "Huyện Đắk Glei",
+    "districtCode": "610",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Long",
+    "code": "23368",
+    "districtName": "Huyện Đắk Glei",
+    "districtCode": "610",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Man",
+    "code": "23347",
+    "districtName": "Huyện Đắk Glei",
+    "districtCode": "610",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Môn",
+    "code": "23374",
+    "districtName": "Huyện Đắk Glei",
+    "districtCode": "610",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Nhoong",
+    "code": "23350",
+    "districtName": "Huyện Đắk Glei",
+    "districtCode": "610",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Pék",
+    "code": "23353",
+    "districtName": "Huyện Đắk Glei",
+    "districtCode": "610",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Thị trấn Đắk Hà",
+    "code": "23500",
+    "districtName": "Huyện Đắk Hà",
+    "districtCode": "615",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Hà Mòn",
+    "code": "23521",
+    "districtName": "Huyện Đắk Hà",
+    "districtCode": "615",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ngok Réo",
+    "code": "23518",
+    "districtName": "Huyện Đắk Hà",
+    "districtCode": "615",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ngok Wang",
+    "code": "23515",
+    "districtName": "Huyện Đắk Hà",
+    "districtCode": "615",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đăk Long",
+    "code": "23504",
+    "districtName": "Huyện Đắk Hà",
+    "districtCode": "615",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đăk Ngọk",
+    "code": "23510",
+    "districtName": "Huyện Đắk Hà",
+    "districtCode": "615",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk HRing",
+    "code": "23506",
+    "districtName": "Huyện Đắk Hà",
+    "districtCode": "615",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk La",
+    "code": "23524",
+    "districtName": "Huyện Đắk Hà",
+    "districtCode": "615",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Mar",
+    "code": "23512",
+    "districtName": "Huyện Đắk Hà",
+    "districtCode": "615",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk PXi",
+    "code": "23503",
+    "districtName": "Huyện Đắk Hà",
+    "districtCode": "615",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Ui",
+    "code": "23509",
+    "districtName": "Huyện Đắk Hà",
+    "districtCode": "615",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Thị trấn Đắk Tô",
+    "code": "23401",
+    "districtName": "Huyện Đắk Tô",
+    "districtCode": "612",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Diên Bình",
+    "code": "23440",
+    "districtName": "Huyện Đắk Tô",
+    "districtCode": "612",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Kon Đào",
+    "code": "23434",
+    "districtName": "Huyện Đắk Tô",
+    "districtCode": "612",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ngọk Tụ",
+    "code": "23428",
+    "districtName": "Huyện Đắk Tô",
+    "districtCode": "612",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Pô Kô",
+    "code": "23443",
+    "districtName": "Huyện Đắk Tô",
+    "districtCode": "612",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Tân Cảnh",
+    "code": "23437",
+    "districtName": "Huyện Đắk Tô",
+    "districtCode": "612",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Văn Lem",
+    "code": "23431",
+    "districtName": "Huyện Đắk Tô",
+    "districtCode": "612",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Rơ Nga",
+    "code": "23427",
+    "districtName": "Huyện Đắk Tô",
+    "districtCode": "612",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Trăm",
+    "code": "23430",
+    "districtName": "Huyện Đắk Tô",
+    "districtCode": "612",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Phường Duy Tân",
+    "code": "23284",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Phường Lê Lợi",
+    "code": "23302",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Phường Nguyễn Trãi",
+    "code": "23305",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Phường Ngô Mây",
+    "code": "23296",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Phường Quang Trung",
+    "code": "23281",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Phường Quyết Thắng",
+    "code": "23287",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Phường Thắng Lợi",
+    "code": "23293",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Phường Thống Nhất",
+    "code": "23299",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Phường Trường Chinh",
+    "code": "23290",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Phường Trần Hưng Đạo",
+    "code": "23308",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Chư Hreng",
+    "code": "23332",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "23338",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ia Chim",
+    "code": "23326",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Kroong",
+    "code": "23314",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Ngọk Bay",
+    "code": "23317",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Vinh Quang",
+    "code": "23320",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đoàn Kết",
+    "code": "23329",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đăk Năng",
+    "code": "23327",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Blà",
+    "code": "23323",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Cấm",
+    "code": "23311",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  },
+  {
+    "name": "Xã Đắk Rơ Wa",
+    "code": "23335",
+    "districtName": "Thành phố Kon Tum",
+    "districtCode": "608",
+    "provinceName": "Tỉnh Kon Tum",
+    "provinceCode": "62"
+  }
+]

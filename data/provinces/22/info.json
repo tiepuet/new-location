@@ -1,0 +1,98 @@
+{
+  "name": "Quảng Ninh",
+  "code": "22",
+  "from": "Quảng Ninh",
+  "area": 6207.9,
+  "population": 1429841,
+  "adminCenter": "TP Hạ Long",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 15,
+  "grdp": 347.534,
+  "licensePlates": [
+    14
+  ],
+  "density": 230,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Ba Chẽ",
+      "code": "202",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceCode": "22"
+    },
+    {
+      "name": "Huyện Bình Liêu",
+      "code": "198",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceCode": "22"
+    },
+    {
+      "name": "Huyện Cô Tô",
+      "code": "207",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceCode": "22"
+    },
+    {
+      "name": "Huyện Hải Hà",
+      "code": "201",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceCode": "22"
+    },
+    {
+      "name": "Huyện Tiên Yên",
+      "code": "199",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceCode": "22"
+    },
+    {
+      "name": "Huyện Vân Đồn",
+      "code": "203",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceCode": "22"
+    },
+    {
+      "name": "Huyện Đầm Hà",
+      "code": "200",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceCode": "22"
+    },
+    {
+      "name": "Thành phố Cẩm Phả",
+      "code": "195",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceCode": "22"
+    },
+    {
+      "name": "Thành phố Hạ Long",
+      "code": "193",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceCode": "22"
+    },
+    {
+      "name": "Thành phố Móng Cái",
+      "code": "194",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceCode": "22"
+    },
+    {
+      "name": "Thành phố Uông Bí",
+      "code": "196",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceCode": "22"
+    },
+    {
+      "name": "Thành phố Đông Triều",
+      "code": "205",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceCode": "22"
+    },
+    {
+      "name": "Thị xã Quảng Yên",
+      "code": "206",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceCode": "22"
+    }
+  ]
+}

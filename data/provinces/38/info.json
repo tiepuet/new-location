@@ -1,0 +1,176 @@
+{
+  "name": "Thanh Hóa",
+  "code": "38",
+  "from": "Thanh Hóa",
+  "area": 11114.7,
+  "population": 3760650,
+  "adminCenter": "TP Thanh Hóa",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 10,
+  "grdp": 316.995,
+  "licensePlates": [
+    36
+  ],
+  "density": 338,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Bá Thước",
+      "code": "386",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Cẩm Thủy",
+      "code": "390",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Hoằng Hóa",
+      "code": "399",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Hà Trung",
+      "code": "392",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Hậu Lộc",
+      "code": "400",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Lang Chánh",
+      "code": "388",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Mường Lát",
+      "code": "384",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Nga Sơn",
+      "code": "401",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Ngọc Lặc",
+      "code": "389",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Như Thanh",
+      "code": "403",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Như Xuân",
+      "code": "402",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Nông Cống",
+      "code": "404",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Quan Hóa",
+      "code": "385",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Quan Sơn",
+      "code": "387",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Quảng Xương",
+      "code": "406",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Thiệu Hóa",
+      "code": "398",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Thường Xuân",
+      "code": "396",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Thạch Thành",
+      "code": "391",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Thọ Xuân",
+      "code": "395",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Triệu Sơn",
+      "code": "397",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Vĩnh Lộc",
+      "code": "393",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Huyện Yên Định",
+      "code": "394",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Thành phố Sầm Sơn",
+      "code": "382",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Thành phố Thanh Hóa",
+      "code": "380",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Thị xã Bỉm Sơn",
+      "code": "381",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    },
+    {
+      "name": "Thị xã Nghi Sơn",
+      "code": "407",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceCode": "38"
+    }
+  ]
+}

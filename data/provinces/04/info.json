@@ -1,0 +1,80 @@
+{
+  "name": "Cao Bằng",
+  "code": "04",
+  "from": "Cao Bằng",
+  "area": 6700.4,
+  "population": 555809,
+  "adminCenter": "Cao Bằng",
+  "hasSeaport": false,
+  "numSeaports": null,
+  "numBerths": null,
+  "grdp": 22.42,
+  "licensePlates": [
+    11
+  ],
+  "density": 83,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Bảo Lâm",
+      "code": "42",
+      "provinceName": "Tỉnh Cao Bằng",
+      "provinceCode": "04"
+    },
+    {
+      "name": "Huyện Bảo Lạc",
+      "code": "43",
+      "provinceName": "Tỉnh Cao Bằng",
+      "provinceCode": "04"
+    },
+    {
+      "name": "Huyện Hoà An",
+      "code": "51",
+      "provinceName": "Tỉnh Cao Bằng",
+      "provinceCode": "04"
+    },
+    {
+      "name": "Huyện Hà Quảng",
+      "code": "45",
+      "provinceName": "Tỉnh Cao Bằng",
+      "provinceCode": "04"
+    },
+    {
+      "name": "Huyện Hạ Lang",
+      "code": "48",
+      "provinceName": "Tỉnh Cao Bằng",
+      "provinceCode": "04"
+    },
+    {
+      "name": "Huyện Nguyên Bình",
+      "code": "52",
+      "provinceName": "Tỉnh Cao Bằng",
+      "provinceCode": "04"
+    },
+    {
+      "name": "Huyện Quảng Hòa",
+      "code": "49",
+      "provinceName": "Tỉnh Cao Bằng",
+      "provinceCode": "04"
+    },
+    {
+      "name": "Huyện Thạch An",
+      "code": "53",
+      "provinceName": "Tỉnh Cao Bằng",
+      "provinceCode": "04"
+    },
+    {
+      "name": "Huyện Trùng Khánh",
+      "code": "47",
+      "provinceName": "Tỉnh Cao Bằng",
+      "provinceCode": "04"
+    },
+    {
+      "name": "Thành phố Cao Bằng",
+      "code": "40",
+      "provinceName": "Tỉnh Cao Bằng",
+      "provinceCode": "04"
+    }
+  ]
+}

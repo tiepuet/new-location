@@ -1,0 +1,754 @@
+[
+  {
+    "name": "Thị trấn Bến Cầu",
+    "code": "25681",
+    "districtName": "Huyện Bến Cầu",
+    "districtCode": "711",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã An Thạnh",
+    "code": "25705",
+    "districtName": "Huyện Bến Cầu",
+    "districtCode": "711",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Long Chữ",
+    "code": "25684",
+    "districtName": "Huyện Bến Cầu",
+    "districtCode": "711",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Long Giang",
+    "code": "25690",
+    "districtName": "Huyện Bến Cầu",
+    "districtCode": "711",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Long Khánh",
+    "code": "25696",
+    "districtName": "Huyện Bến Cầu",
+    "districtCode": "711",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Long Phước",
+    "code": "25687",
+    "districtName": "Huyện Bến Cầu",
+    "districtCode": "711",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Long Thuận",
+    "code": "25702",
+    "districtName": "Huyện Bến Cầu",
+    "districtCode": "711",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Lợi Thuận",
+    "code": "25699",
+    "districtName": "Huyện Bến Cầu",
+    "districtCode": "711",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Tiên Thuận",
+    "code": "25693",
+    "districtName": "Huyện Bến Cầu",
+    "districtCode": "711",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Thị trấn Châu Thành",
+    "code": "25585",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã An Bình",
+    "code": "25615",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã An Cơ",
+    "code": "25600",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Biên Giới",
+    "code": "25603",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Hòa Hội",
+    "code": "25612",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Hòa Thạnh",
+    "code": "25606",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Hảo Đước",
+    "code": "25588",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Long Vĩnh",
+    "code": "25627",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Ninh Điền",
+    "code": "25624",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Phước Vinh",
+    "code": "25591",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Thanh Điền",
+    "code": "25618",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Thành Long",
+    "code": "25621",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Thái Bình",
+    "code": "25597",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Trí Bình",
+    "code": "25609",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Đồng Khởi",
+    "code": "25594",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "708",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Thị trấn Dương Minh Châu",
+    "code": "25552",
+    "districtName": "Huyện Dương Minh Châu",
+    "districtCode": "707",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Bàu Năng",
+    "code": "25567",
+    "districtName": "Huyện Dương Minh Châu",
+    "districtCode": "707",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Bến Củi",
+    "code": "25576",
+    "districtName": "Huyện Dương Minh Châu",
+    "districtCode": "707",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Chà Là",
+    "code": "25570",
+    "districtName": "Huyện Dương Minh Châu",
+    "districtCode": "707",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Cầu Khởi",
+    "code": "25573",
+    "districtName": "Huyện Dương Minh Châu",
+    "districtCode": "707",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Lộc Ninh",
+    "code": "25579",
+    "districtName": "Huyện Dương Minh Châu",
+    "districtCode": "707",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Phan",
+    "code": "25558",
+    "districtName": "Huyện Dương Minh Châu",
+    "districtCode": "707",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Phước Minh",
+    "code": "25564",
+    "districtName": "Huyện Dương Minh Châu",
+    "districtCode": "707",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Phước Ninh",
+    "code": "25561",
+    "districtName": "Huyện Dương Minh Châu",
+    "districtCode": "707",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Suối Đá",
+    "code": "25555",
+    "districtName": "Huyện Dương Minh Châu",
+    "districtCode": "707",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Truông Mít",
+    "code": "25582",
+    "districtName": "Huyện Dương Minh Châu",
+    "districtCode": "707",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Thị trấn Gò Dầu",
+    "code": "25654",
+    "districtName": "Huyện Gò Dầu",
+    "districtCode": "710",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Bàu Đồn",
+    "code": "25666",
+    "districtName": "Huyện Gò Dầu",
+    "districtCode": "710",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Cẩm Giang",
+    "code": "25660",
+    "districtName": "Huyện Gò Dầu",
+    "districtCode": "710",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Hiệp Thạnh",
+    "code": "25663",
+    "districtName": "Huyện Gò Dầu",
+    "districtCode": "710",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Phước Thạnh",
+    "code": "25669",
+    "districtName": "Huyện Gò Dầu",
+    "districtCode": "710",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Phước Trạch",
+    "code": "25675",
+    "districtName": "Huyện Gò Dầu",
+    "districtCode": "710",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Phước Đông",
+    "code": "25672",
+    "districtName": "Huyện Gò Dầu",
+    "districtCode": "710",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Thanh Phước",
+    "code": "25678",
+    "districtName": "Huyện Gò Dầu",
+    "districtCode": "710",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Thạnh Đức",
+    "code": "25657",
+    "districtName": "Huyện Gò Dầu",
+    "districtCode": "710",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Thị trấn Tân Biên",
+    "code": "25486",
+    "districtName": "Huyện Tân Biên",
+    "districtCode": "705",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Hòa Hiệp",
+    "code": "25504",
+    "districtName": "Huyện Tân Biên",
+    "districtCode": "705",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Mỏ Công",
+    "code": "25510",
+    "districtName": "Huyện Tân Biên",
+    "districtCode": "705",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Thạnh Bình",
+    "code": "25498",
+    "districtName": "Huyện Tân Biên",
+    "districtCode": "705",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Thạnh Bắc",
+    "code": "25492",
+    "districtName": "Huyện Tân Biên",
+    "districtCode": "705",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Thạnh Tây",
+    "code": "25501",
+    "districtName": "Huyện Tân Biên",
+    "districtCode": "705",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Trà Vong",
+    "code": "25513",
+    "districtName": "Huyện Tân Biên",
+    "districtCode": "705",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Tân Bình",
+    "code": "25495",
+    "districtName": "Huyện Tân Biên",
+    "districtCode": "705",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "25489",
+    "districtName": "Huyện Tân Biên",
+    "districtCode": "705",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Tân Phong",
+    "code": "25507",
+    "districtName": "Huyện Tân Biên",
+    "districtCode": "705",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Thị trấn Tân Châu",
+    "code": "25516",
+    "districtName": "Huyện Tân Châu",
+    "districtCode": "706",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Suối Dây",
+    "code": "25534",
+    "districtName": "Huyện Tân Châu",
+    "districtCode": "706",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Suối Ngô",
+    "code": "25531",
+    "districtName": "Huyện Tân Châu",
+    "districtCode": "706",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Thạnh Đông",
+    "code": "25540",
+    "districtName": "Huyện Tân Châu",
+    "districtCode": "706",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Tân Hiệp",
+    "code": "25537",
+    "districtName": "Huyện Tân Châu",
+    "districtCode": "706",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Tân Hà",
+    "code": "25519",
+    "districtName": "Huyện Tân Châu",
+    "districtCode": "706",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Tân Hòa",
+    "code": "25528",
+    "districtName": "Huyện Tân Châu",
+    "districtCode": "706",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Tân Hưng",
+    "code": "25549",
+    "districtName": "Huyện Tân Châu",
+    "districtCode": "706",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Tân Hội",
+    "code": "25525",
+    "districtName": "Huyện Tân Châu",
+    "districtCode": "706",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Tân Phú",
+    "code": "25546",
+    "districtName": "Huyện Tân Châu",
+    "districtCode": "706",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "25543",
+    "districtName": "Huyện Tân Châu",
+    "districtCode": "706",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Tân Đông",
+    "code": "25522",
+    "districtName": "Huyện Tân Châu",
+    "districtCode": "706",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường 1",
+    "code": "25456",
+    "districtName": "Thành phố Tây Ninh",
+    "districtCode": "703",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường 2",
+    "code": "25468",
+    "districtName": "Thành phố Tây Ninh",
+    "districtCode": "703",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường 3",
+    "code": "25459",
+    "districtName": "Thành phố Tây Ninh",
+    "districtCode": "703",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường 4",
+    "code": "25462",
+    "districtName": "Thành phố Tây Ninh",
+    "districtCode": "703",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường Hiệp Ninh",
+    "code": "25465",
+    "districtName": "Thành phố Tây Ninh",
+    "districtCode": "703",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường Ninh Sơn",
+    "code": "25480",
+    "districtName": "Thành phố Tây Ninh",
+    "districtCode": "703",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường Ninh Thạnh",
+    "code": "25483",
+    "districtName": "Thành phố Tây Ninh",
+    "districtCode": "703",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Bình Minh",
+    "code": "25477",
+    "districtName": "Thành phố Tây Ninh",
+    "districtCode": "703",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Thạnh Tân",
+    "code": "25471",
+    "districtName": "Thành phố Tây Ninh",
+    "districtCode": "703",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Tân Bình",
+    "code": "25474",
+    "districtName": "Thành phố Tây Ninh",
+    "districtCode": "703",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường Hiệp Tân",
+    "code": "25633",
+    "districtName": "Thị xã Hòa Thành",
+    "districtCode": "709",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường Long Hoa",
+    "code": "25630",
+    "districtName": "Thị xã Hòa Thành",
+    "districtCode": "709",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường Long Thành Bắc",
+    "code": "25636",
+    "districtName": "Thị xã Hòa Thành",
+    "districtCode": "709",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường Long Thành Trung",
+    "code": "25645",
+    "districtName": "Thị xã Hòa Thành",
+    "districtCode": "709",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Long Thành Nam",
+    "code": "25651",
+    "districtName": "Thị xã Hòa Thành",
+    "districtCode": "709",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Trường Hòa",
+    "code": "25639",
+    "districtName": "Thị xã Hòa Thành",
+    "districtCode": "709",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Trường Tây",
+    "code": "25648",
+    "districtName": "Thị xã Hòa Thành",
+    "districtCode": "709",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Trường Đông",
+    "code": "25642",
+    "districtName": "Thị xã Hòa Thành",
+    "districtCode": "709",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường An Hòa",
+    "code": "25735",
+    "districtName": "Thị xã Trảng Bàng",
+    "districtCode": "712",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường An Tịnh",
+    "code": "25732",
+    "districtName": "Thị xã Trảng Bàng",
+    "districtCode": "712",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường Gia Bình",
+    "code": "25723",
+    "districtName": "Thị xã Trảng Bàng",
+    "districtCode": "712",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường Gia Lộc",
+    "code": "25720",
+    "districtName": "Thị xã Trảng Bàng",
+    "districtCode": "712",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường Lộc Hưng",
+    "code": "25717",
+    "districtName": "Thị xã Trảng Bàng",
+    "districtCode": "712",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Phường Trảng Bàng",
+    "code": "25708",
+    "districtName": "Thị xã Trảng Bàng",
+    "districtCode": "712",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Hưng Thuận",
+    "code": "25714",
+    "districtName": "Thị xã Trảng Bàng",
+    "districtCode": "712",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Phước Bình",
+    "code": "25729",
+    "districtName": "Thị xã Trảng Bàng",
+    "districtCode": "712",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Phước Chỉ",
+    "code": "25738",
+    "districtName": "Thị xã Trảng Bàng",
+    "districtCode": "712",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  },
+  {
+    "name": "Xã Đôn Thuận",
+    "code": "25711",
+    "districtName": "Thị xã Trảng Bàng",
+    "districtCode": "712",
+    "provinceName": "Tỉnh Tây Ninh",
+    "provinceCode": "72"
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "name": "Tỉnh Gia Lai",
+  "code": "64",
+  "districts": [
+    {
+      "name": "Huyện Chư Prông",
+      "code": "632",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Huyện Chư Păh",
+      "code": "627",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Huyện Chư Pưh",
+      "code": "639",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Huyện Chư Sê",
+      "code": "633",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Huyện Ia Grai",
+      "code": "628",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Huyện Ia Pa",
+      "code": "635",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Huyện KBang",
+      "code": "625",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Huyện Krông Pa",
+      "code": "637",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Huyện Kông Chro",
+      "code": "630",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Huyện Mang Yang",
+      "code": "629",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Huyện Phú Thiện",
+      "code": "638",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Huyện Đăk Pơ",
+      "code": "634",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Huyện Đăk Đoa",
+      "code": "626",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Huyện Đức Cơ",
+      "code": "631",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Thành phố Pleiku",
+      "code": "622",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Thị xã An Khê",
+      "code": "623",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    },
+    {
+      "name": "Thị xã Ayun Pa",
+      "code": "624",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceCode": "64"
+    }
+  ]
+}

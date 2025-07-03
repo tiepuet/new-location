@@ -1,0 +1,42 @@
+{
+  "name": "Tỉnh Bà Rịa - Vũng Tàu",
+  "code": "77",
+  "districts": [
+    {
+      "name": "Huyện Châu Đức",
+      "code": "750",
+      "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+      "provinceCode": "77"
+    },
+    {
+      "name": "Huyện Long Đất",
+      "code": "753",
+      "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+      "provinceCode": "77"
+    },
+    {
+      "name": "Huyện Xuyên Mộc",
+      "code": "751",
+      "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+      "provinceCode": "77"
+    },
+    {
+      "name": "Thành phố Bà Rịa",
+      "code": "748",
+      "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+      "provinceCode": "77"
+    },
+    {
+      "name": "Thành phố Phú Mỹ",
+      "code": "754",
+      "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+      "provinceCode": "77"
+    },
+    {
+      "name": "Thành phố Vũng Tàu",
+      "code": "747",
+      "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+      "provinceCode": "77"
+    }
+  ]
+}

@@ -1,0 +1,1146 @@
+[
+  {
+    "name": "Thị trấn Thứ Ba",
+    "code": "30985",
+    "districtName": "Huyện An Biên",
+    "districtCode": "908",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Hưng Yên",
+    "code": "30997",
+    "districtName": "Huyện An Biên",
+    "districtCode": "908",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Nam Thái",
+    "code": "31000",
+    "districtName": "Huyện An Biên",
+    "districtCode": "908",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Nam Thái A",
+    "code": "31003",
+    "districtName": "Huyện An Biên",
+    "districtCode": "908",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Nam Yên",
+    "code": "30994",
+    "districtName": "Huyện An Biên",
+    "districtCode": "908",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Tây Yên",
+    "code": "30988",
+    "districtName": "Huyện An Biên",
+    "districtCode": "908",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Tây Yên A",
+    "code": "30991",
+    "districtName": "Huyện An Biên",
+    "districtCode": "908",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Đông Thái",
+    "code": "31006",
+    "districtName": "Huyện An Biên",
+    "districtCode": "908",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Đông Yên",
+    "code": "31009",
+    "districtName": "Huyện An Biên",
+    "districtCode": "908",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Thị trấn Thứ Mười Một",
+    "code": "31018",
+    "districtName": "Huyện An Minh",
+    "districtCode": "909",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thuận Hoà",
+    "code": "31021",
+    "districtName": "Huyện An Minh",
+    "districtCode": "909",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Tân Thạnh",
+    "code": "31031",
+    "districtName": "Huyện An Minh",
+    "districtCode": "909",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vân Khánh",
+    "code": "31042",
+    "districtName": "Huyện An Minh",
+    "districtCode": "909",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vân Khánh Tây",
+    "code": "31048",
+    "districtName": "Huyện An Minh",
+    "districtCode": "909",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vân Khánh Đông",
+    "code": "31045",
+    "districtName": "Huyện An Minh",
+    "districtCode": "909",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Đông Hòa",
+    "code": "31024",
+    "districtName": "Huyện An Minh",
+    "districtCode": "909",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Đông Hưng",
+    "code": "31033",
+    "districtName": "Huyện An Minh",
+    "districtCode": "909",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Đông Hưng A",
+    "code": "31036",
+    "districtName": "Huyện An Minh",
+    "districtCode": "909",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Đông Hưng B",
+    "code": "31039",
+    "districtName": "Huyện An Minh",
+    "districtCode": "909",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Đông Thạnh",
+    "code": "31030",
+    "districtName": "Huyện An Minh",
+    "districtCode": "909",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Thị trấn Minh Lương",
+    "code": "30880",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "905",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Bình An",
+    "code": "30898",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "905",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Giục Tượng",
+    "code": "30889",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "905",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Minh Hòa",
+    "code": "30895",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "905",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Mong Thọ",
+    "code": "30887",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "905",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Mong Thọ A",
+    "code": "30883",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "905",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Mong Thọ B",
+    "code": "30886",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "905",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thạnh Lộc",
+    "code": "30901",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "905",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Hoà Phú",
+    "code": "30893",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "905",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Hòa Hiệp",
+    "code": "30892",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "905",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Phú Lợi",
+    "code": "30797",
+    "districtName": "Huyện Giang Thành",
+    "districtCode": "914",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Phú Mỹ",
+    "code": "30799",
+    "districtName": "Huyện Giang Thành",
+    "districtCode": "914",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Tân Khánh Hòa",
+    "code": "30796",
+    "districtName": "Huyện Giang Thành",
+    "districtCode": "914",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Phú",
+    "code": "30791",
+    "districtName": "Huyện Giang Thành",
+    "districtCode": "914",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Điều",
+    "code": "30793",
+    "districtName": "Huyện Giang Thành",
+    "districtCode": "914",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Thị trấn Giồng Riềng",
+    "code": "30904",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Bàn Thạch",
+    "code": "30919",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Bàn Tân Định",
+    "code": "30922",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Hoà An",
+    "code": "30940",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Hoà Lợi",
+    "code": "30937",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Hòa Hưng",
+    "code": "30934",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Hòa Thuận",
+    "code": "30949",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Long Thạnh",
+    "code": "30943",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Ngọc Chúc",
+    "code": "30928",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Ngọc Hoà",
+    "code": "30950",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Ngọc Thuận",
+    "code": "30931",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Ngọc Thành",
+    "code": "30925",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thạnh Bình",
+    "code": "30917",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thạnh Hòa",
+    "code": "30916",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thạnh Hưng",
+    "code": "30907",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thạnh Lộc",
+    "code": "30913",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thạnh Phước",
+    "code": "30910",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Phú",
+    "code": "30947",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Thạnh",
+    "code": "30946",
+    "districtName": "Huyện Giồng Riềng",
+    "districtCode": "906",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Thị trấn Gò Quao",
+    "code": "30952",
+    "districtName": "Huyện Gò Quao",
+    "districtCode": "907",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thới Quản",
+    "code": "30961",
+    "districtName": "Huyện Gò Quao",
+    "districtCode": "907",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thủy Liễu",
+    "code": "30967",
+    "districtName": "Huyện Gò Quao",
+    "districtCode": "907",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Hòa Hưng Bắc",
+    "code": "30955",
+    "districtName": "Huyện Gò Quao",
+    "districtCode": "907",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Hòa Hưng Nam",
+    "code": "30970",
+    "districtName": "Huyện Gò Quao",
+    "districtCode": "907",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Phước A",
+    "code": "30973",
+    "districtName": "Huyện Gò Quao",
+    "districtCode": "907",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Phước B",
+    "code": "30976",
+    "districtName": "Huyện Gò Quao",
+    "districtCode": "907",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Thắng",
+    "code": "30982",
+    "districtName": "Huyện Gò Quao",
+    "districtCode": "907",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Tuy",
+    "code": "30979",
+    "districtName": "Huyện Gò Quao",
+    "districtCode": "907",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Định An",
+    "code": "30964",
+    "districtName": "Huyện Gò Quao",
+    "districtCode": "907",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Định Hòa",
+    "code": "30958",
+    "districtName": "Huyện Gò Quao",
+    "districtCode": "907",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Thị trấn Hòn Đất",
+    "code": "30817",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Thị trấn Sóc Sơn",
+    "code": "30820",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Bình Giang",
+    "code": "30826",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Bình Sơn",
+    "code": "30823",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Lình Huỳnh",
+    "code": "30840",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Mỹ Hiệp Sơn",
+    "code": "30832",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Mỹ Lâm",
+    "code": "30844",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Mỹ Phước",
+    "code": "30847",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Mỹ Thuận",
+    "code": "30838",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Mỹ Thái",
+    "code": "30828",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Nam Thái Sơn",
+    "code": "30829",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Sơn Bình",
+    "code": "30836",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Sơn Kiên",
+    "code": "30835",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thổ Sơn",
+    "code": "30841",
+    "districtName": "Huyện Hòn Đất",
+    "districtCode": "903",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã An Sơn",
+    "code": "31114",
+    "districtName": "Huyện Kiên Hải",
+    "districtCode": "912",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Hòn Tre",
+    "code": "31108",
+    "districtName": "Huyện Kiên Hải",
+    "districtCode": "912",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Lại Sơn",
+    "code": "31111",
+    "districtName": "Huyện Kiên Hải",
+    "districtCode": "912",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Nam Du",
+    "code": "31115",
+    "districtName": "Huyện Kiên Hải",
+    "districtCode": "912",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Thị trấn Kiên Lương",
+    "code": "30787",
+    "districtName": "Huyện Kiên Lương",
+    "districtCode": "902",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Bình An",
+    "code": "30808",
+    "districtName": "Huyện Kiên Lương",
+    "districtCode": "902",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Bình Trị",
+    "code": "30809",
+    "districtName": "Huyện Kiên Lương",
+    "districtCode": "902",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Dương Hòa",
+    "code": "30805",
+    "districtName": "Huyện Kiên Lương",
+    "districtCode": "902",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Hòa Điền",
+    "code": "30802",
+    "districtName": "Huyện Kiên Lương",
+    "districtCode": "902",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Hòn Nghệ",
+    "code": "30814",
+    "districtName": "Huyện Kiên Lương",
+    "districtCode": "902",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Kiên Bình",
+    "code": "30790",
+    "districtName": "Huyện Kiên Lương",
+    "districtCode": "902",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Sơn Hải",
+    "code": "30811",
+    "districtName": "Huyện Kiên Lương",
+    "districtCode": "902",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Thị trấn Tân Hiệp",
+    "code": "30850",
+    "districtName": "Huyện Tân Hiệp",
+    "districtCode": "904",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thạnh Trị",
+    "code": "30877",
+    "districtName": "Huyện Tân Hiệp",
+    "districtCode": "904",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thạnh Đông",
+    "code": "30865",
+    "districtName": "Huyện Tân Hiệp",
+    "districtCode": "904",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thạnh Đông A",
+    "code": "30874",
+    "districtName": "Huyện Tân Hiệp",
+    "districtCode": "904",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thạnh Đông B",
+    "code": "30862",
+    "districtName": "Huyện Tân Hiệp",
+    "districtCode": "904",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Tân An",
+    "code": "30871",
+    "districtName": "Huyện Tân Hiệp",
+    "districtCode": "904",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Tân Hiệp A",
+    "code": "30868",
+    "districtName": "Huyện Tân Hiệp",
+    "districtCode": "904",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Tân Hiệp B",
+    "code": "30859",
+    "districtName": "Huyện Tân Hiệp",
+    "districtCode": "904",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Tân Hoà",
+    "code": "30860",
+    "districtName": "Huyện Tân Hiệp",
+    "districtCode": "904",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Tân Hội",
+    "code": "30853",
+    "districtName": "Huyện Tân Hiệp",
+    "districtCode": "904",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "30856",
+    "districtName": "Huyện Tân Hiệp",
+    "districtCode": "904",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã An Minh Bắc",
+    "code": "31027",
+    "districtName": "Huyện U Minh Thượng",
+    "districtCode": "913",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Hoà Chánh",
+    "code": "31057",
+    "districtName": "Huyện U Minh Thượng",
+    "districtCode": "913",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Minh Thuận",
+    "code": "31066",
+    "districtName": "Huyện U Minh Thượng",
+    "districtCode": "913",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thạnh Yên",
+    "code": "31012",
+    "districtName": "Huyện U Minh Thượng",
+    "districtCode": "913",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thạnh Yên A",
+    "code": "31015",
+    "districtName": "Huyện U Minh Thượng",
+    "districtCode": "913",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Hòa",
+    "code": "31054",
+    "districtName": "Huyện U Minh Thượng",
+    "districtCode": "913",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Thị trấn Vĩnh Thuận",
+    "code": "31051",
+    "districtName": "Huyện Vĩnh Thuận",
+    "districtCode": "910",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Bình Minh",
+    "code": "31064",
+    "districtName": "Huyện Vĩnh Thuận",
+    "districtCode": "910",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Phong Đông",
+    "code": "31074",
+    "districtName": "Huyện Vĩnh Thuận",
+    "districtCode": "910",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Tân Thuận",
+    "code": "31072",
+    "districtName": "Huyện Vĩnh Thuận",
+    "districtCode": "910",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Bình Bắc",
+    "code": "31060",
+    "districtName": "Huyện Vĩnh Thuận",
+    "districtCode": "910",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Bình Nam",
+    "code": "31063",
+    "districtName": "Huyện Vĩnh Thuận",
+    "districtCode": "910",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Phong",
+    "code": "31075",
+    "districtName": "Huyện Vĩnh Thuận",
+    "districtCode": "910",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Vĩnh Thuận",
+    "code": "31069",
+    "districtName": "Huyện Vĩnh Thuận",
+    "districtCode": "910",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Bình San",
+    "code": "30772",
+    "districtName": "Thành phố Hà Tiên",
+    "districtCode": "900",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Mỹ Đức",
+    "code": "30778",
+    "districtName": "Thành phố Hà Tiên",
+    "districtCode": "900",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Pháo Đài",
+    "code": "30775",
+    "districtName": "Thành phố Hà Tiên",
+    "districtCode": "900",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Tô Châu",
+    "code": "30766",
+    "districtName": "Thành phố Hà Tiên",
+    "districtCode": "900",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Đông Hồ",
+    "code": "30769",
+    "districtName": "Thành phố Hà Tiên",
+    "districtCode": "900",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thuận Yên",
+    "code": "30784",
+    "districtName": "Thành phố Hà Tiên",
+    "districtCode": "900",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Tiên Hải",
+    "code": "30781",
+    "districtName": "Thành phố Hà Tiên",
+    "districtCode": "900",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường An Thới",
+    "code": "31081",
+    "districtName": "Thành phố Phú Quốc",
+    "districtCode": "911",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Dương Đông",
+    "code": "31078",
+    "districtName": "Thành phố Phú Quốc",
+    "districtCode": "911",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Bãi Thơm",
+    "code": "31102",
+    "districtName": "Thành phố Phú Quốc",
+    "districtCode": "911",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Cửa Cạn",
+    "code": "31084",
+    "districtName": "Thành phố Phú Quốc",
+    "districtCode": "911",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Cửa Dương",
+    "code": "31090",
+    "districtName": "Thành phố Phú Quốc",
+    "districtCode": "911",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Dương Tơ",
+    "code": "31096",
+    "districtName": "Thành phố Phú Quốc",
+    "districtCode": "911",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Gành Dầu",
+    "code": "31087",
+    "districtName": "Thành phố Phú Quốc",
+    "districtCode": "911",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Hàm Ninh",
+    "code": "31093",
+    "districtName": "Thành phố Phú Quốc",
+    "districtCode": "911",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Thổ Châu",
+    "code": "31105",
+    "districtName": "Thành phố Phú Quốc",
+    "districtCode": "911",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường An Bình",
+    "code": "30751",
+    "districtName": "Thành phố Rạch Giá",
+    "districtCode": "899",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường An Hòa",
+    "code": "30748",
+    "districtName": "Thành phố Rạch Giá",
+    "districtCode": "899",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Rạch Sỏi",
+    "code": "30754",
+    "districtName": "Thành phố Rạch Giá",
+    "districtCode": "899",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Vĩnh Hiệp",
+    "code": "30739",
+    "districtName": "Thành phố Rạch Giá",
+    "districtCode": "899",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Vĩnh Lạc",
+    "code": "30745",
+    "districtName": "Thành phố Rạch Giá",
+    "districtCode": "899",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Vĩnh Lợi",
+    "code": "30757",
+    "districtName": "Thành phố Rạch Giá",
+    "districtCode": "899",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Vĩnh Quang",
+    "code": "30736",
+    "districtName": "Thành phố Rạch Giá",
+    "districtCode": "899",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Vĩnh Thanh",
+    "code": "30733",
+    "districtName": "Thành phố Rạch Giá",
+    "districtCode": "899",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Vĩnh Thanh Vân",
+    "code": "30742",
+    "districtName": "Thành phố Rạch Giá",
+    "districtCode": "899",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Phường Vĩnh Thông",
+    "code": "30760",
+    "districtName": "Thành phố Rạch Giá",
+    "districtCode": "899",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  },
+  {
+    "name": "Xã Phi Thông",
+    "code": "30763",
+    "districtName": "Thành phố Rạch Giá",
+    "districtCode": "899",
+    "provinceName": "Tỉnh Kiên Giang",
+    "provinceCode": "91"
+  }
+]

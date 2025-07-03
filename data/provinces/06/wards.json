@@ -1,0 +1,866 @@
+[
+  {
+    "name": "Thị trấn Chợ Rã",
+    "code": "01888",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Bành Trạch",
+    "code": "01891",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Cao Thượng",
+    "code": "01900",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Chu Hương",
+    "code": "01921",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Hoàng Trĩ",
+    "code": "01930",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Hà Hiệu",
+    "code": "01897",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Khang Ninh",
+    "code": "01906",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Mỹ Phương",
+    "code": "01927",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Nam Mẫu",
+    "code": "01909",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Phúc Lộc",
+    "code": "01894",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Quảng Khê",
+    "code": "01924",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Thượng Giáo",
+    "code": "01912",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Yến Dương",
+    "code": "01918",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Địa Linh",
+    "code": "01915",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Đồng Phúc",
+    "code": "01933",
+    "districtName": "Huyện Ba Bể",
+    "districtCode": "61",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Thị trấn Phủ Thông",
+    "code": "01969",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Cao Sơn",
+    "code": "02002",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Cẩm Giàng",
+    "code": "02008",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Dương Phong",
+    "code": "02014",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Lục Bình",
+    "code": "01990",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Mỹ Thanh",
+    "code": "02011",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Nguyên Phúc",
+    "code": "01999",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Quang Thuận",
+    "code": "02017",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Quân Hà",
+    "code": "02005",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Sĩ Bình",
+    "code": "01978",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Tân Tú",
+    "code": "01993",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Vi Hương",
+    "code": "01975",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Vũ Muộn",
+    "code": "01981",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Đôn Phong",
+    "code": "01984",
+    "districtName": "Huyện Bạch Thông",
+    "districtCode": "63",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Thị trấn Đồng Tâm",
+    "code": "02086",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Bình Văn",
+    "code": "02125",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Cao Kỳ",
+    "code": "02104",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Hoà Mục",
+    "code": "02098",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Mai Lạp",
+    "code": "02095",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Như Cố",
+    "code": "02122",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Nông Hạ",
+    "code": "02107",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Quảng Chu",
+    "code": "02131",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Thanh Mai",
+    "code": "02101",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Thanh Thịnh",
+    "code": "02113",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Thanh Vận",
+    "code": "02092",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Tân Sơn",
+    "code": "02089",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Yên Cư",
+    "code": "02110",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Yên Hân",
+    "code": "02116",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "65",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Thị trấn Bằng Lũng",
+    "code": "02020",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Bình Trung",
+    "code": "02080",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Bản Thi",
+    "code": "02035",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Bằng Lãng",
+    "code": "02065",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Bằng Phúc",
+    "code": "02041",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Lương Bằng",
+    "code": "02062",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Nam Cường",
+    "code": "02026",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Nghĩa Tá",
+    "code": "02071",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Ngọc Phái",
+    "code": "02053",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Phương Viên",
+    "code": "02050",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Quảng Bạch",
+    "code": "02038",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "02032",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Xuân Lạc",
+    "code": "02023",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Yên Mỹ",
+    "code": "02077",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Yên Phong",
+    "code": "02083",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Yên Thượng",
+    "code": "02047",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Yên Thịnh",
+    "code": "02044",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Đại Sảo",
+    "code": "02068",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Đồng Lạc",
+    "code": "02029",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Đồng Thắng",
+    "code": "02059",
+    "districtName": "Huyện Chợ Đồn",
+    "districtCode": "64",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Thị trấn Yến Lạc",
+    "code": "02155",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Côn Minh",
+    "code": "02173",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Cư Lễ",
+    "code": "02176",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Cường Lợi",
+    "code": "02152",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Dương Sơn",
+    "code": "02188",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Kim Hỷ",
+    "code": "02146",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Kim Lư",
+    "code": "02158",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Liêm Thuỷ",
+    "code": "02197",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Lương Thượng",
+    "code": "02143",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Quang Phong",
+    "code": "02185",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Sơn Thành",
+    "code": "02161",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Trần Phú",
+    "code": "02179",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Văn Lang",
+    "code": "02140",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Văn Minh",
+    "code": "02170",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Văn Vũ",
+    "code": "02137",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Xuân Dương",
+    "code": "02191",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Đổng Xá",
+    "code": "02194",
+    "districtName": "Huyện Na Rì",
+    "districtCode": "66",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Thị trấn Nà Phặc",
+    "code": "01936",
+    "districtName": "Huyện Ngân Sơn",
+    "districtCode": "62",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Thị trấn Vân Tùng",
+    "code": "01954",
+    "districtName": "Huyện Ngân Sơn",
+    "districtCode": "62",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Bằng Vân",
+    "code": "01942",
+    "districtName": "Huyện Ngân Sơn",
+    "districtCode": "62",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Cốc Đán",
+    "code": "01945",
+    "districtName": "Huyện Ngân Sơn",
+    "districtCode": "62",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Hiệp Lực",
+    "code": "01960",
+    "districtName": "Huyện Ngân Sơn",
+    "districtCode": "62",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Thuần Mang",
+    "code": "01963",
+    "districtName": "Huyện Ngân Sơn",
+    "districtCode": "62",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Thượng Quan",
+    "code": "01957",
+    "districtName": "Huyện Ngân Sơn",
+    "districtCode": "62",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Thượng Ân",
+    "code": "01939",
+    "districtName": "Huyện Ngân Sơn",
+    "districtCode": "62",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Trung Hoà",
+    "code": "01948",
+    "districtName": "Huyện Ngân Sơn",
+    "districtCode": "62",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Đức Vân",
+    "code": "01951",
+    "districtName": "Huyện Ngân Sơn",
+    "districtCode": "62",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã An Thắng",
+    "code": "01876",
+    "districtName": "Huyện Pác Nặm",
+    "districtCode": "60",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Bằng Thành",
+    "code": "01858",
+    "districtName": "Huyện Pác Nặm",
+    "districtCode": "60",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Bộc Bố",
+    "code": "01864",
+    "districtName": "Huyện Pác Nặm",
+    "districtCode": "60",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Cao Tân",
+    "code": "01885",
+    "districtName": "Huyện Pác Nặm",
+    "districtCode": "60",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Công Bằng",
+    "code": "01867",
+    "districtName": "Huyện Pác Nặm",
+    "districtCode": "60",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Cổ Linh",
+    "code": "01879",
+    "districtName": "Huyện Pác Nặm",
+    "districtCode": "60",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Giáo Hiệu",
+    "code": "01870",
+    "districtName": "Huyện Pác Nặm",
+    "districtCode": "60",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Nghiên Loan",
+    "code": "01882",
+    "districtName": "Huyện Pác Nặm",
+    "districtCode": "60",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Nhạn Môn",
+    "code": "01861",
+    "districtName": "Huyện Pác Nặm",
+    "districtCode": "60",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Xuân La",
+    "code": "01873",
+    "districtName": "Huyện Pác Nặm",
+    "districtCode": "60",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Phường Huyền Tụng",
+    "code": "01846",
+    "districtName": "Thành Phố Bắc Kạn",
+    "districtCode": "58",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Phường Nguyễn Thị Minh Khai",
+    "code": "01834",
+    "districtName": "Thành Phố Bắc Kạn",
+    "districtCode": "58",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Phường Phùng Chí Kiên",
+    "code": "01843",
+    "districtName": "Thành Phố Bắc Kạn",
+    "districtCode": "58",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Phường Sông Cầu",
+    "code": "01837",
+    "districtName": "Thành Phố Bắc Kạn",
+    "districtCode": "58",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Phường Xuất Hóa",
+    "code": "01855",
+    "districtName": "Thành Phố Bắc Kạn",
+    "districtCode": "58",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Phường Đức Xuân",
+    "code": "01840",
+    "districtName": "Thành Phố Bắc Kạn",
+    "districtCode": "58",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Dương Quang",
+    "code": "01849",
+    "districtName": "Thành Phố Bắc Kạn",
+    "districtCode": "58",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  },
+  {
+    "name": "Xã Nông Thượng",
+    "code": "01852",
+    "districtName": "Thành Phố Bắc Kạn",
+    "districtCode": "58",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "provinceCode": "06"
+  }
+]

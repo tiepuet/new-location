@@ -1,0 +1,730 @@
+[
+  {
+    "name": "Thị trấn Lai Uyên",
+    "code": "25822",
+    "districtName": "Huyện Bàu Bàng",
+    "districtCode": "719",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Cây Trường II",
+    "code": "25819",
+    "districtName": "Huyện Bàu Bàng",
+    "districtCode": "719",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Hưng Hòa",
+    "code": "25831",
+    "districtName": "Huyện Bàu Bàng",
+    "districtCode": "719",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Lai Hưng",
+    "code": "25834",
+    "districtName": "Huyện Bàu Bàng",
+    "districtCode": "719",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Long Nguyên",
+    "code": "25828",
+    "districtName": "Huyện Bàu Bàng",
+    "districtCode": "719",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Trừ Văn Thố",
+    "code": "25816",
+    "districtName": "Huyện Bàu Bàng",
+    "districtCode": "719",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Tân Hưng",
+    "code": "25825",
+    "districtName": "Huyện Bàu Bàng",
+    "districtCode": "719",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Thị trấn Tân Bình",
+    "code": "25900",
+    "districtName": "Huyện Bắc Tân Uyên",
+    "districtCode": "726",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Thị trấn Tân Thành",
+    "code": "25906",
+    "districtName": "Huyện Bắc Tân Uyên",
+    "districtCode": "726",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Bình Mỹ",
+    "code": "25897",
+    "districtName": "Huyện Bắc Tân Uyên",
+    "districtCode": "726",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Hiếu Liêm",
+    "code": "25908",
+    "districtName": "Huyện Bắc Tân Uyên",
+    "districtCode": "726",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Lạc An",
+    "code": "25909",
+    "districtName": "Huyện Bắc Tân Uyên",
+    "districtCode": "726",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Thường Tân",
+    "code": "25927",
+    "districtName": "Huyện Bắc Tân Uyên",
+    "districtCode": "726",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "25903",
+    "districtName": "Huyện Bắc Tân Uyên",
+    "districtCode": "726",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Tân Mỹ",
+    "code": "25918",
+    "districtName": "Huyện Bắc Tân Uyên",
+    "districtCode": "726",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Tân Định",
+    "code": "25894",
+    "districtName": "Huyện Bắc Tân Uyên",
+    "districtCode": "726",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Đất Cuốc",
+    "code": "25907",
+    "districtName": "Huyện Bắc Tân Uyên",
+    "districtCode": "726",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Thị trấn Dầu Tiếng",
+    "code": "25777",
+    "districtName": "Huyện Dầu Tiếng",
+    "districtCode": "720",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã An Lập",
+    "code": "25801",
+    "districtName": "Huyện Dầu Tiếng",
+    "districtCode": "720",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Long Hoà",
+    "code": "25792",
+    "districtName": "Huyện Dầu Tiếng",
+    "districtCode": "720",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Long Tân",
+    "code": "25804",
+    "districtName": "Huyện Dầu Tiếng",
+    "districtCode": "720",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Minh Hoà",
+    "code": "25780",
+    "districtName": "Huyện Dầu Tiếng",
+    "districtCode": "720",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Minh Thạnh",
+    "code": "25783",
+    "districtName": "Huyện Dầu Tiếng",
+    "districtCode": "720",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Minh Tân",
+    "code": "25786",
+    "districtName": "Huyện Dầu Tiếng",
+    "districtCode": "720",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Thanh An",
+    "code": "25807",
+    "districtName": "Huyện Dầu Tiếng",
+    "districtCode": "720",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Thanh Tuyền",
+    "code": "25810",
+    "districtName": "Huyện Dầu Tiếng",
+    "districtCode": "720",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Định An",
+    "code": "25789",
+    "districtName": "Huyện Dầu Tiếng",
+    "districtCode": "720",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Định Hiệp",
+    "code": "25798",
+    "districtName": "Huyện Dầu Tiếng",
+    "districtCode": "720",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Định Thành",
+    "code": "25795",
+    "districtName": "Huyện Dầu Tiếng",
+    "districtCode": "720",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Thị trấn Phước Vĩnh",
+    "code": "25858",
+    "districtName": "Huyện Phú Giáo",
+    "districtCode": "722",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã An Bình",
+    "code": "25870",
+    "districtName": "Huyện Phú Giáo",
+    "districtCode": "722",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã An Linh",
+    "code": "25861",
+    "districtName": "Huyện Phú Giáo",
+    "districtCode": "722",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã An Long",
+    "code": "25867",
+    "districtName": "Huyện Phú Giáo",
+    "districtCode": "722",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã An Thái",
+    "code": "25865",
+    "districtName": "Huyện Phú Giáo",
+    "districtCode": "722",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Phước Hoà",
+    "code": "25885",
+    "districtName": "Huyện Phú Giáo",
+    "districtCode": "722",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Phước Sang",
+    "code": "25864",
+    "districtName": "Huyện Phú Giáo",
+    "districtCode": "722",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Tam Lập",
+    "code": "25876",
+    "districtName": "Huyện Phú Giáo",
+    "districtCode": "722",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Tân Hiệp",
+    "code": "25873",
+    "districtName": "Huyện Phú Giáo",
+    "districtCode": "722",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Tân Long",
+    "code": "25879",
+    "districtName": "Huyện Phú Giáo",
+    "districtCode": "722",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Vĩnh Hoà",
+    "code": "25882",
+    "districtName": "Huyện Phú Giáo",
+    "districtCode": "722",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường An Tây",
+    "code": "25843",
+    "districtName": "Thành phố Bến Cát",
+    "districtCode": "721",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường An Điền",
+    "code": "25840",
+    "districtName": "Thành phố Bến Cát",
+    "districtCode": "721",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Chánh Phú Hòa",
+    "code": "25837",
+    "districtName": "Thành phố Bến Cát",
+    "districtCode": "721",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Hòa Lợi",
+    "code": "25849",
+    "districtName": "Thành phố Bến Cát",
+    "districtCode": "721",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Mỹ Phước",
+    "code": "25813",
+    "districtName": "Thành phố Bến Cát",
+    "districtCode": "721",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Thới Hòa",
+    "code": "25846",
+    "districtName": "Thành phố Bến Cát",
+    "districtCode": "721",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Tân Định",
+    "code": "25852",
+    "districtName": "Thành phố Bến Cát",
+    "districtCode": "721",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Phú An",
+    "code": "25855",
+    "districtName": "Thành phố Bến Cát",
+    "districtCode": "721",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường An Bình",
+    "code": "25960",
+    "districtName": "Thành phố Dĩ An",
+    "districtCode": "724",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Bình An",
+    "code": "25951",
+    "districtName": "Thành phố Dĩ An",
+    "districtCode": "724",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Bình Thắng",
+    "code": "25954",
+    "districtName": "Thành phố Dĩ An",
+    "districtCode": "724",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Dĩ An",
+    "code": "25942",
+    "districtName": "Thành phố Dĩ An",
+    "districtCode": "724",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Tân Bình",
+    "code": "25945",
+    "districtName": "Thành phố Dĩ An",
+    "districtCode": "724",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Tân Đông Hiệp",
+    "code": "25948",
+    "districtName": "Thành phố Dĩ An",
+    "districtCode": "724",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Đông Hòa",
+    "code": "25957",
+    "districtName": "Thành phố Dĩ An",
+    "districtCode": "724",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường An Phú",
+    "code": "25975",
+    "districtName": "Thành phố Thuận An",
+    "districtCode": "725",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường An Thạnh",
+    "code": "25963",
+    "districtName": "Thành phố Thuận An",
+    "districtCode": "725",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Bình Chuẩn",
+    "code": "25969",
+    "districtName": "Thành phố Thuận An",
+    "districtCode": "725",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Bình Hòa",
+    "code": "25987",
+    "districtName": "Thành phố Thuận An",
+    "districtCode": "725",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Bình Nhâm",
+    "code": "25984",
+    "districtName": "Thành phố Thuận An",
+    "districtCode": "725",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Hưng Định",
+    "code": "25978",
+    "districtName": "Thành phố Thuận An",
+    "districtCode": "725",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Lái Thiêu",
+    "code": "25966",
+    "districtName": "Thành phố Thuận An",
+    "districtCode": "725",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Thuận Giao",
+    "code": "25972",
+    "districtName": "Thành phố Thuận An",
+    "districtCode": "725",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Vĩnh Phú",
+    "code": "25990",
+    "districtName": "Thành phố Thuận An",
+    "districtCode": "725",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã An Sơn",
+    "code": "25981",
+    "districtName": "Thành phố Thuận An",
+    "districtCode": "725",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Chánh Mỹ",
+    "code": "25774",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Chánh Nghĩa",
+    "code": "25756",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Hiệp An",
+    "code": "25768",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Hiệp Thành",
+    "code": "25741",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Hoà Phú",
+    "code": "25760",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Phú Cường",
+    "code": "25747",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Phú Hòa",
+    "code": "25750",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Phú Lợi",
+    "code": "25744",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Phú Mỹ",
+    "code": "25762",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Phú Thọ",
+    "code": "25753",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Phú Tân",
+    "code": "25763",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Tân An",
+    "code": "25765",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Tương Bình Hiệp",
+    "code": "25771",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Định Hoà",
+    "code": "25759",
+    "districtName": "Thành phố Thủ Dầu Một",
+    "districtCode": "718",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Hội Nghĩa",
+    "code": "25915",
+    "districtName": "Thành phố Tân Uyên",
+    "districtCode": "723",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Khánh Bình",
+    "code": "25921",
+    "districtName": "Thành phố Tân Uyên",
+    "districtCode": "723",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Phú Chánh",
+    "code": "25924",
+    "districtName": "Thành phố Tân Uyên",
+    "districtCode": "723",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Thái Hòa",
+    "code": "25939",
+    "districtName": "Thành phố Tân Uyên",
+    "districtCode": "723",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Thạnh Phước",
+    "code": "25936",
+    "districtName": "Thành phố Tân Uyên",
+    "districtCode": "723",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Tân Hiệp",
+    "code": "25920",
+    "districtName": "Thành phố Tân Uyên",
+    "districtCode": "723",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Tân Phước Khánh",
+    "code": "25891",
+    "districtName": "Thành phố Tân Uyên",
+    "districtCode": "723",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Tân Vĩnh Hiệp",
+    "code": "25933",
+    "districtName": "Thành phố Tân Uyên",
+    "districtCode": "723",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Uyên Hưng",
+    "code": "25888",
+    "districtName": "Thành phố Tân Uyên",
+    "districtCode": "723",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Phường Vĩnh Tân",
+    "code": "25912",
+    "districtName": "Thành phố Tân Uyên",
+    "districtCode": "723",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Bạch Đằng",
+    "code": "25930",
+    "districtName": "Thành phố Tân Uyên",
+    "districtCode": "723",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  },
+  {
+    "name": "Xã Thạnh Hội",
+    "code": "25937",
+    "districtName": "Thành phố Tân Uyên",
+    "districtCode": "723",
+    "provinceName": "Tỉnh Bình Dương",
+    "provinceCode": "74"
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "name": "Tỉnh Hậu Giang",
+  "code": "93",
+  "districts": [
+    {
+      "name": "Huyện Châu Thành",
+      "code": "933",
+      "provinceName": "Tỉnh Hậu Giang",
+      "provinceCode": "93"
+    },
+    {
+      "name": "Huyện Châu Thành A",
+      "code": "932",
+      "provinceName": "Tỉnh Hậu Giang",
+      "provinceCode": "93"
+    },
+    {
+      "name": "Huyện Long Mỹ",
+      "code": "936",
+      "provinceName": "Tỉnh Hậu Giang",
+      "provinceCode": "93"
+    },
+    {
+      "name": "Huyện Phụng Hiệp",
+      "code": "934",
+      "provinceName": "Tỉnh Hậu Giang",
+      "provinceCode": "93"
+    },
+    {
+      "name": "Huyện Vị Thuỷ",
+      "code": "935",
+      "provinceName": "Tỉnh Hậu Giang",
+      "provinceCode": "93"
+    },
+    {
+      "name": "Thành phố Ngã Bảy",
+      "code": "931",
+      "provinceName": "Tỉnh Hậu Giang",
+      "provinceCode": "93"
+    },
+    {
+      "name": "Thành phố Vị Thanh",
+      "code": "930",
+      "provinceName": "Tỉnh Hậu Giang",
+      "provinceCode": "93"
+    },
+    {
+      "name": "Thị xã Long Mỹ",
+      "code": "937",
+      "provinceName": "Tỉnh Hậu Giang",
+      "provinceCode": "93"
+    }
+  ]
+}

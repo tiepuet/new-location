@@ -1,0 +1,850 @@
+[
+  {
+    "name": "Thị Trấn Phú Hoà",
+    "code": "22319",
+    "districtName": "Huyện Phú Hoà",
+    "districtCode": "563",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa An",
+    "code": "22315",
+    "districtName": "Huyện Phú Hoà",
+    "districtCode": "563",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Hội",
+    "code": "22309",
+    "districtName": "Huyện Phú Hoà",
+    "districtCode": "563",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Quang Bắc",
+    "code": "22303",
+    "districtName": "Huyện Phú Hoà",
+    "districtCode": "563",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Quang Nam",
+    "code": "22306",
+    "districtName": "Huyện Phú Hoà",
+    "districtCode": "563",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Thắng",
+    "code": "22324",
+    "districtName": "Huyện Phú Hoà",
+    "districtCode": "563",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Trị",
+    "code": "22312",
+    "districtName": "Huyện Phú Hoà",
+    "districtCode": "563",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Định Tây",
+    "code": "22321",
+    "districtName": "Huyện Phú Hoà",
+    "districtCode": "563",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Định Đông",
+    "code": "22318",
+    "districtName": "Huyện Phú Hoà",
+    "districtCode": "563",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Thị trấn Hai Riêng",
+    "code": "22207",
+    "districtName": "Huyện Sông Hinh",
+    "districtCode": "561",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Ea Bá",
+    "code": "22216",
+    "districtName": "Huyện Sông Hinh",
+    "districtCode": "561",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Ea Lâm",
+    "code": "22210",
+    "districtName": "Huyện Sông Hinh",
+    "districtCode": "561",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã EaBar",
+    "code": "22225",
+    "districtName": "Huyện Sông Hinh",
+    "districtCode": "561",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã EaBia",
+    "code": "22228",
+    "districtName": "Huyện Sông Hinh",
+    "districtCode": "561",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã EaTrol",
+    "code": "22231",
+    "districtName": "Huyện Sông Hinh",
+    "districtCode": "561",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Ealy",
+    "code": "22237",
+    "districtName": "Huyện Sông Hinh",
+    "districtCode": "561",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Sông Hinh",
+    "code": "22234",
+    "districtName": "Huyện Sông Hinh",
+    "districtCode": "561",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Sơn Giang",
+    "code": "22219",
+    "districtName": "Huyện Sông Hinh",
+    "districtCode": "561",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Đức Bình Tây",
+    "code": "22213",
+    "districtName": "Huyện Sông Hinh",
+    "districtCode": "561",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Đức Bình Đông",
+    "code": "22222",
+    "districtName": "Huyện Sông Hinh",
+    "districtCode": "561",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Thị trấn Củng Sơn",
+    "code": "22165",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Cà Lúi",
+    "code": "22180",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Eachà Rang",
+    "code": "22192",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Krông Pa",
+    "code": "22195",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Phước Tân",
+    "code": "22168",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Suối Bạc",
+    "code": "22198",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Suối Trai",
+    "code": "22204",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Sơn Hà",
+    "code": "22201",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Sơn Hội",
+    "code": "22171",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Sơn Long",
+    "code": "22177",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Sơn Nguyên",
+    "code": "22189",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Sơn Phước",
+    "code": "22183",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Sơn Xuân",
+    "code": "22186",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Sơn Định",
+    "code": "22174",
+    "districtName": "Huyện Sơn Hòa",
+    "districtCode": "560",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Thị trấn Chí Thạnh",
+    "code": "22114",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Chấn",
+    "code": "22156",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Cư",
+    "code": "22138",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Dân",
+    "code": "22117",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Hiệp",
+    "code": "22150",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Hòa Hải",
+    "code": "22147",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Lĩnh",
+    "code": "22144",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Mỹ",
+    "code": "22153",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Nghiệp",
+    "code": "22132",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Ninh Tây",
+    "code": "22120",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Ninh Đông",
+    "code": "22123",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Thạch",
+    "code": "22126",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Thọ",
+    "code": "22159",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Xuân",
+    "code": "22141",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Định",
+    "code": "22129",
+    "districtName": "Huyện Tuy An",
+    "districtCode": "559",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Thị trấn Phú Thứ",
+    "code": "22255",
+    "districtName": "Huyện Tây Hoà",
+    "districtCode": "562",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Bình 1",
+    "code": "22252",
+    "districtName": "Huyện Tây Hoà",
+    "districtCode": "562",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Mỹ Tây",
+    "code": "22288",
+    "districtName": "Huyện Tây Hoà",
+    "districtCode": "562",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Mỹ Đông",
+    "code": "22285",
+    "districtName": "Huyện Tây Hoà",
+    "districtCode": "562",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Phong",
+    "code": "22264",
+    "districtName": "Huyện Tây Hoà",
+    "districtCode": "562",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Phú",
+    "code": "22270",
+    "districtName": "Huyện Tây Hoà",
+    "districtCode": "562",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Thịnh",
+    "code": "22294",
+    "districtName": "Huyện Tây Hoà",
+    "districtCode": "562",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Tân Tây",
+    "code": "22273",
+    "districtName": "Huyện Tây Hoà",
+    "districtCode": "562",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Đồng",
+    "code": "22276",
+    "districtName": "Huyện Tây Hoà",
+    "districtCode": "562",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Sơn Thành Tây",
+    "code": "22249",
+    "districtName": "Huyện Tây Hoà",
+    "districtCode": "562",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Sơn Thành Đông",
+    "code": "22250",
+    "districtName": "Huyện Tây Hoà",
+    "districtCode": "562",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Thị trấn La Hai",
+    "code": "22081",
+    "districtName": "Huyện Đồng Xuân",
+    "districtCode": "558",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Phú Mỡ",
+    "code": "22087",
+    "districtName": "Huyện Đồng Xuân",
+    "districtCode": "558",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Long",
+    "code": "22093",
+    "districtName": "Huyện Đồng Xuân",
+    "districtCode": "558",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Lãnh",
+    "code": "22090",
+    "districtName": "Huyện Đồng Xuân",
+    "districtCode": "558",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Phước",
+    "code": "22111",
+    "districtName": "Huyện Đồng Xuân",
+    "districtCode": "558",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Quang 1",
+    "code": "22096",
+    "districtName": "Huyện Đồng Xuân",
+    "districtCode": "558",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Quang 2",
+    "code": "22102",
+    "districtName": "Huyện Đồng Xuân",
+    "districtCode": "558",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Quang 3",
+    "code": "22108",
+    "districtName": "Huyện Đồng Xuân",
+    "districtCode": "558",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Sơn Bắc",
+    "code": "22099",
+    "districtName": "Huyện Đồng Xuân",
+    "districtCode": "558",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Sơn Nam",
+    "code": "22105",
+    "districtName": "Huyện Đồng Xuân",
+    "districtCode": "558",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Đa Lộc",
+    "code": "22084",
+    "districtName": "Huyện Đồng Xuân",
+    "districtCode": "558",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường 1",
+    "code": "22015",
+    "districtName": "Thành phố Tuy Hoà",
+    "districtCode": "555",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường 2",
+    "code": "22018",
+    "districtName": "Thành phố Tuy Hoà",
+    "districtCode": "555",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường 4",
+    "code": "22030",
+    "districtName": "Thành phố Tuy Hoà",
+    "districtCode": "555",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường 5",
+    "code": "22033",
+    "districtName": "Thành phố Tuy Hoà",
+    "districtCode": "555",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường 7",
+    "code": "22036",
+    "districtName": "Thành phố Tuy Hoà",
+    "districtCode": "555",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường 9",
+    "code": "22024",
+    "districtName": "Thành phố Tuy Hoà",
+    "districtCode": "555",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường Phú Lâm",
+    "code": "22240",
+    "districtName": "Thành phố Tuy Hoà",
+    "districtCode": "555",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường Phú Thạnh",
+    "code": "22040",
+    "districtName": "Thành phố Tuy Hoà",
+    "districtCode": "555",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường Phú Đông",
+    "code": "22041",
+    "districtName": "Thành phố Tuy Hoà",
+    "districtCode": "555",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã An Phú",
+    "code": "22162",
+    "districtName": "Thành phố Tuy Hoà",
+    "districtCode": "555",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Bình Kiến",
+    "code": "22045",
+    "districtName": "Thành phố Tuy Hoà",
+    "districtCode": "555",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Kiến",
+    "code": "22042",
+    "districtName": "Thành phố Tuy Hoà",
+    "districtCode": "555",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường Xuân Phú",
+    "code": "22051",
+    "districtName": "Thị xã Sông Cầu",
+    "districtCode": "557",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường Xuân Thành",
+    "code": "22053",
+    "districtName": "Thị xã Sông Cầu",
+    "districtCode": "557",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường Xuân Yên",
+    "code": "22073",
+    "districtName": "Thị xã Sông Cầu",
+    "districtCode": "557",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường Xuân Đài",
+    "code": "22076",
+    "districtName": "Thị xã Sông Cầu",
+    "districtCode": "557",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Bình",
+    "code": "22060",
+    "districtName": "Thị xã Sông Cầu",
+    "districtCode": "557",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Cảnh",
+    "code": "22066",
+    "districtName": "Thị xã Sông Cầu",
+    "districtCode": "557",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Hải",
+    "code": "22054",
+    "districtName": "Thị xã Sông Cầu",
+    "districtCode": "557",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Lâm",
+    "code": "22052",
+    "districtName": "Thị xã Sông Cầu",
+    "districtCode": "557",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Lộc",
+    "code": "22057",
+    "districtName": "Thị xã Sông Cầu",
+    "districtCode": "557",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Phương",
+    "code": "22072",
+    "districtName": "Thị xã Sông Cầu",
+    "districtCode": "557",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Thịnh",
+    "code": "22069",
+    "districtName": "Thị xã Sông Cầu",
+    "districtCode": "557",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Thọ 1",
+    "code": "22075",
+    "districtName": "Thị xã Sông Cầu",
+    "districtCode": "557",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Xuân Thọ 2",
+    "code": "22078",
+    "districtName": "Thị xã Sông Cầu",
+    "districtCode": "557",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường Hoà Hiệp Trung",
+    "code": "22261",
+    "districtName": "Thị xã Đông Hòa",
+    "districtCode": "564",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường Hoà Vinh",
+    "code": "22258",
+    "districtName": "Thị xã Đông Hòa",
+    "districtCode": "564",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường Hòa Hiệp Bắc",
+    "code": "22246",
+    "districtName": "Thị xã Đông Hòa",
+    "districtCode": "564",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường Hòa Hiệp Nam",
+    "code": "22282",
+    "districtName": "Thị xã Đông Hòa",
+    "districtCode": "564",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Phường Hòa Xuân Tây",
+    "code": "22279",
+    "districtName": "Thị xã Đông Hòa",
+    "districtCode": "564",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Thành",
+    "code": "22243",
+    "districtName": "Thị xã Đông Hòa",
+    "districtCode": "564",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Tâm",
+    "code": "22297",
+    "districtName": "Thị xã Đông Hòa",
+    "districtCode": "564",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Tân Đông",
+    "code": "22267",
+    "districtName": "Thị xã Đông Hòa",
+    "districtCode": "564",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Xuân Nam",
+    "code": "22300",
+    "districtName": "Thị xã Đông Hòa",
+    "districtCode": "564",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  },
+  {
+    "name": "Xã Hòa Xuân Đông",
+    "code": "22291",
+    "districtName": "Thị xã Đông Hòa",
+    "districtCode": "564",
+    "provinceName": "Tỉnh Phú Yên",
+    "provinceCode": "54"
+  }
+]

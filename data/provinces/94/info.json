@@ -1,0 +1,72 @@
+{
+  "name": "Tỉnh Sóc Trăng",
+  "code": "94",
+  "districts": [
+    {
+      "name": "Huyện Châu Thành",
+      "code": "942",
+      "provinceName": "Tỉnh Sóc Trăng",
+      "provinceCode": "94"
+    },
+    {
+      "name": "Huyện Cù Lao Dung",
+      "code": "945",
+      "provinceName": "Tỉnh Sóc Trăng",
+      "provinceCode": "94"
+    },
+    {
+      "name": "Huyện Kế Sách",
+      "code": "943",
+      "provinceName": "Tỉnh Sóc Trăng",
+      "provinceCode": "94"
+    },
+    {
+      "name": "Huyện Long Phú",
+      "code": "946",
+      "provinceName": "Tỉnh Sóc Trăng",
+      "provinceCode": "94"
+    },
+    {
+      "name": "Huyện Mỹ Tú",
+      "code": "944",
+      "provinceName": "Tỉnh Sóc Trăng",
+      "provinceCode": "94"
+    },
+    {
+      "name": "Huyện Mỹ Xuyên",
+      "code": "947",
+      "provinceName": "Tỉnh Sóc Trăng",
+      "provinceCode": "94"
+    },
+    {
+      "name": "Huyện Thạnh Trị",
+      "code": "949",
+      "provinceName": "Tỉnh Sóc Trăng",
+      "provinceCode": "94"
+    },
+    {
+      "name": "Huyện Trần Đề",
+      "code": "951",
+      "provinceName": "Tỉnh Sóc Trăng",
+      "provinceCode": "94"
+    },
+    {
+      "name": "Thành phố Sóc Trăng",
+      "code": "941",
+      "provinceName": "Tỉnh Sóc Trăng",
+      "provinceCode": "94"
+    },
+    {
+      "name": "Thị xã Ngã Năm",
+      "code": "948",
+      "provinceName": "Tỉnh Sóc Trăng",
+      "provinceCode": "94"
+    },
+    {
+      "name": "Thị xã Vĩnh Châu",
+      "code": "950",
+      "provinceName": "Tỉnh Sóc Trăng",
+      "provinceCode": "94"
+    }
+  ]
+}

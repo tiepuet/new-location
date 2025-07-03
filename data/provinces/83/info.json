@@ -1,0 +1,60 @@
+{
+  "name": "Tỉnh Bến Tre",
+  "code": "83",
+  "districts": [
+    {
+      "name": "Huyện Ba Tri",
+      "code": "836",
+      "provinceName": "Tỉnh Bến Tre",
+      "provinceCode": "83"
+    },
+    {
+      "name": "Huyện Bình Đại",
+      "code": "835",
+      "provinceName": "Tỉnh Bến Tre",
+      "provinceCode": "83"
+    },
+    {
+      "name": "Huyện Châu Thành",
+      "code": "831",
+      "provinceName": "Tỉnh Bến Tre",
+      "provinceCode": "83"
+    },
+    {
+      "name": "Huyện Chợ Lách",
+      "code": "832",
+      "provinceName": "Tỉnh Bến Tre",
+      "provinceCode": "83"
+    },
+    {
+      "name": "Huyện Giồng Trôm",
+      "code": "834",
+      "provinceName": "Tỉnh Bến Tre",
+      "provinceCode": "83"
+    },
+    {
+      "name": "Huyện Mỏ Cày Bắc",
+      "code": "838",
+      "provinceName": "Tỉnh Bến Tre",
+      "provinceCode": "83"
+    },
+    {
+      "name": "Huyện Mỏ Cày Nam",
+      "code": "833",
+      "provinceName": "Tỉnh Bến Tre",
+      "provinceCode": "83"
+    },
+    {
+      "name": "Huyện Thạnh Phú",
+      "code": "837",
+      "provinceName": "Tỉnh Bến Tre",
+      "provinceCode": "83"
+    },
+    {
+      "name": "Thành phố Bến Tre",
+      "code": "829",
+      "provinceName": "Tỉnh Bến Tre",
+      "provinceCode": "83"
+    }
+  ]
+}

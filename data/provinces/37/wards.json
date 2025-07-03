@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Thị trấn Thịnh Vượng",
+    "code": "14464",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Hòa",
+    "code": "14467",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Hưng",
+    "code": "14470",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Lạc",
+    "code": "14515",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Lập",
+    "code": "14488",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Minh",
+    "code": "14512",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Phong",
+    "code": "14524",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Phú",
+    "code": "14482",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Phương",
+    "code": "14500",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Sinh",
+    "code": "14521",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Thanh",
+    "code": "14476",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Trung",
+    "code": "14509",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Trấn",
+    "code": "14494",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Tân",
+    "code": "14503",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Vân",
+    "code": "14479",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Xuân",
+    "code": "14485",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Liên Sơn",
+    "code": "14473",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Tiến Thắng",
+    "code": "14506",
+    "districtName": "Huyện Gia Viễn",
+    "districtCode": "373",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Thị trấn Bình Minh",
+    "code": "14623",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Thị trấn Phát Diệm",
+    "code": "14620",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Chất Bình",
+    "code": "14653",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Cồn Thoi",
+    "code": "14689",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Hùng Tiến",
+    "code": "14641",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Hồi Ninh",
+    "code": "14629",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Kim Chính",
+    "code": "14659",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Kim Mỹ",
+    "code": "14686",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Kim Trung",
+    "code": "14695",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Kim Tân",
+    "code": "14683",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Kim Đông",
+    "code": "14698",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Kim Định",
+    "code": "14635",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Lai Thành",
+    "code": "14674",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Như Hòa",
+    "code": "14650",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Quang Thiện",
+    "code": "14647",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Thượng Kiệm",
+    "code": "14662",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "14668",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Văn Hải",
+    "code": "14680",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Xuân Chính",
+    "code": "14632",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Lộc",
+    "code": "14671",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Ân Hòa",
+    "code": "14638",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Định Hóa",
+    "code": "14677",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Đồng Hướng",
+    "code": "14656",
+    "districtName": "Huyện Kim Sơn",
+    "districtCode": "376",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Thị trấn Nho Quan",
+    "code": "14428",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Cúc Phương",
+    "code": "14404",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Lâm",
+    "code": "14389",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Sơn",
+    "code": "14392",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Thủy",
+    "code": "14398",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Gia Tường",
+    "code": "14401",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Kỳ Phú",
+    "code": "14449",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Lạc Vân",
+    "code": "14413",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Phú Long",
+    "code": "14458",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Phú Lộc",
+    "code": "14446",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Phú Sơn",
+    "code": "14407",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Phúc Sơn",
+    "code": "14437",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Quảng Lạc",
+    "code": "14461",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Quỳnh Lưu",
+    "code": "14452",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Thanh Sơn",
+    "code": "14434",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Thượng Hòa",
+    "code": "14425",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Thạch Bình",
+    "code": "14395",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Văn Phú",
+    "code": "14443",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Văn Phương",
+    "code": "14431",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Xích Thổ",
+    "code": "14386",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Quang",
+    "code": "14419",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Đồng Phong",
+    "code": "14416",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Đức Long",
+    "code": "14410",
+    "districtName": "Huyện Nho Quan",
+    "districtCode": "372",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Thị trấn Yên Ninh",
+    "code": "14560",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh An",
+    "code": "14575",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Công",
+    "code": "14602",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Cư",
+    "code": "14581",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Cường",
+    "code": "14578",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Hòa",
+    "code": "14569",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Hải",
+    "code": "14587",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Hồng",
+    "code": "14617",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Hội",
+    "code": "14599",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Lợi",
+    "code": "14572",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Mậu",
+    "code": "14593",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Nhạc",
+    "code": "14611",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Phú",
+    "code": "14566",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Thiện",
+    "code": "14563",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Thành",
+    "code": "14608",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Thủy",
+    "code": "14614",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Trung",
+    "code": "14590",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Vân",
+    "code": "14596",
+    "districtName": "Huyện Yên Khánh",
+    "districtCode": "375",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Thị trấn Yên Thịnh",
+    "code": "14701",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Dương",
+    "code": "14707",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Khánh Thượng",
+    "code": "14704",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Hòa",
+    "code": "14722",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Lâm",
+    "code": "14752",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Mạc",
+    "code": "14743",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Mỹ",
+    "code": "14740",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Nhân",
+    "code": "14737",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Phong",
+    "code": "14719",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Thành",
+    "code": "14734",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Thái",
+    "code": "14749",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Thắng",
+    "code": "14725",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Từ",
+    "code": "14728",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Đồng",
+    "code": "14746",
+    "districtName": "Huyện Yên Mô",
+    "districtCode": "377",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Bích Đào",
+    "code": "14332",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Nam Bình",
+    "code": "14338",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Nam Thành",
+    "code": "14341",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Ninh Giang",
+    "code": "14530",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Ninh Khánh",
+    "code": "14344",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Ninh Mỹ",
+    "code": "14527",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Ninh Phong",
+    "code": "14359",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Ninh Phúc",
+    "code": "14353",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Ninh Sơn",
+    "code": "14356",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Tân Thành",
+    "code": "14323",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Vân Giang",
+    "code": "14329",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Đông Thành",
+    "code": "14320",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Ninh An",
+    "code": "14557",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Ninh Hòa",
+    "code": "14542",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Ninh Hải",
+    "code": "14551",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Ninh Khang",
+    "code": "14536",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Ninh Nhất",
+    "code": "14347",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Ninh Tiến",
+    "code": "14350",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Ninh Vân",
+    "code": "14554",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Trường Yên",
+    "code": "14533",
+    "districtName": "Thành phố Hoa Lư",
+    "districtCode": "374",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Bắc Sơn",
+    "code": "14362",
+    "districtName": "Thành phố Tam Điệp",
+    "districtCode": "370",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Nam Sơn",
+    "code": "14368",
+    "districtName": "Thành phố Tam Điệp",
+    "districtCode": "370",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Trung Sơn",
+    "code": "14365",
+    "districtName": "Thành phố Tam Điệp",
+    "districtCode": "370",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Tân Bình",
+    "code": "14375",
+    "districtName": "Thành phố Tam Điệp",
+    "districtCode": "370",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Tây Sơn",
+    "code": "14369",
+    "districtName": "Thành phố Tam Điệp",
+    "districtCode": "370",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Phường Yên Bình",
+    "code": "14374",
+    "districtName": "Thành phố Tam Điệp",
+    "districtCode": "370",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Quang Sơn",
+    "code": "14377",
+    "districtName": "Thành phố Tam Điệp",
+    "districtCode": "370",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Yên Sơn",
+    "code": "14371",
+    "districtName": "Thành phố Tam Điệp",
+    "districtCode": "370",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  },
+  {
+    "name": "Xã Đông Sơn",
+    "code": "14380",
+    "districtName": "Thành phố Tam Điệp",
+    "districtCode": "370",
+    "provinceName": "Tỉnh Ninh Bình",
+    "provinceCode": "37"
+  }
+]

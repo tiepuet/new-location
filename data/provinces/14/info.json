@@ -1,0 +1,92 @@
+{
+  "name": "Sơn La",
+  "code": "14",
+  "from": "Sơn La",
+  "area": 14109.8,
+  "population": 1327430,
+  "adminCenter": "Sơn La",
+  "hasSeaport": false,
+  "numSeaports": null,
+  "numBerths": null,
+  "grdp": 76.62,
+  "licensePlates": [
+    26
+  ],
+  "density": 94,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Bắc Yên",
+      "code": "121",
+      "provinceName": "Tỉnh Sơn La",
+      "provinceCode": "14"
+    },
+    {
+      "name": "Huyện Mai Sơn",
+      "code": "125",
+      "provinceName": "Tỉnh Sơn La",
+      "provinceCode": "14"
+    },
+    {
+      "name": "Huyện Mường La",
+      "code": "120",
+      "provinceName": "Tỉnh Sơn La",
+      "provinceCode": "14"
+    },
+    {
+      "name": "Huyện Phù Yên",
+      "code": "122",
+      "provinceName": "Tỉnh Sơn La",
+      "provinceCode": "14"
+    },
+    {
+      "name": "Huyện Quỳnh Nhai",
+      "code": "118",
+      "provinceName": "Tỉnh Sơn La",
+      "provinceCode": "14"
+    },
+    {
+      "name": "Huyện Sông Mã",
+      "code": "126",
+      "provinceName": "Tỉnh Sơn La",
+      "provinceCode": "14"
+    },
+    {
+      "name": "Huyện Sốp Cộp",
+      "code": "127",
+      "provinceName": "Tỉnh Sơn La",
+      "provinceCode": "14"
+    },
+    {
+      "name": "Huyện Thuận Châu",
+      "code": "119",
+      "provinceName": "Tỉnh Sơn La",
+      "provinceCode": "14"
+    },
+    {
+      "name": "Huyện Vân Hồ",
+      "code": "128",
+      "provinceName": "Tỉnh Sơn La",
+      "provinceCode": "14"
+    },
+    {
+      "name": "Huyện Yên Châu",
+      "code": "124",
+      "provinceName": "Tỉnh Sơn La",
+      "provinceCode": "14"
+    },
+    {
+      "name": "Thành phố Sơn La",
+      "code": "116",
+      "provinceName": "Tỉnh Sơn La",
+      "provinceCode": "14"
+    },
+    {
+      "name": "Thị xã Mộc Châu",
+      "code": "123",
+      "provinceName": "Tỉnh Sơn La",
+      "provinceCode": "14"
+    }
+  ]
+}

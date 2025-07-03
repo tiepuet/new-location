@@ -1,0 +1,111 @@
+{
+  "name": "Đắk Lắk",
+  "code": "66",
+  "from": "Phú Yên, Đắk Lắk",
+  "area": 18096.4,
+  "population": 3346853,
+  "adminCenter": "TP Buôn Ma Thuột",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 1,
+  "grdp": 203.923,
+  "licensePlates": [
+    47,
+    78
+  ],
+  "density": 185,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Buôn Đôn",
+      "code": "647",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Huyện Cư Kuin",
+      "code": "657",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Huyện Cư M'gar",
+      "code": "648",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Huyện Ea H'leo",
+      "code": "645",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Huyện Ea Kar",
+      "code": "651",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Huyện Ea Súp",
+      "code": "646",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Huyện Krông A Na",
+      "code": "655",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Huyện Krông Bông",
+      "code": "653",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Huyện Krông Búk",
+      "code": "649",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Huyện Krông Năng",
+      "code": "650",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Huyện Krông Pắc",
+      "code": "654",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Huyện Lắk",
+      "code": "656",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Huyện M'Đrắk",
+      "code": "652",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Thành phố Buôn Ma Thuột",
+      "code": "643",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    },
+    {
+      "name": "Thị Xã Buôn Hồ",
+      "code": "644",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceCode": "66"
+    }
+  ]
+}

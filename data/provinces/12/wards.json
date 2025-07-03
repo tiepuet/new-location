@@ -1,0 +1,858 @@
+[
+  {
+    "name": "Thị trấn Mường Tè",
+    "code": "03433",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Bum Nưa",
+    "code": "03466",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Bum Tở",
+    "code": "03454",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Ka Lăng",
+    "code": "03439",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Kan Hồ",
+    "code": "03469",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Mù Cả",
+    "code": "03451",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Mường Tè",
+    "code": "03445",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Khao",
+    "code": "03457",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Pa Vệ Sử",
+    "code": "03448",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Pa ủ",
+    "code": "03442",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Thu Lũm",
+    "code": "03436",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Tà Tổng",
+    "code": "03463",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Tá Bạ",
+    "code": "03440",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Vàng San",
+    "code": "03467",
+    "districtName": "Huyện Mường Tè",
+    "districtCode": "107",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Thị trấn Nậm Nhùn",
+    "code": "03434",
+    "districtName": "Huyện Nậm Nhùn",
+    "districtCode": "112",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Hua Bum",
+    "code": "03460",
+    "districtName": "Huyện Nậm Nhùn",
+    "districtCode": "112",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Lê Lợi",
+    "code": "03481",
+    "districtName": "Huyện Nậm Nhùn",
+    "districtCode": "112",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Mường Mô",
+    "code": "03472",
+    "districtName": "Huyện Nậm Nhùn",
+    "districtCode": "112",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Ban",
+    "code": "03502",
+    "districtName": "Huyện Nậm Nhùn",
+    "districtCode": "112",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Chà",
+    "code": "03473",
+    "districtName": "Huyện Nậm Nhùn",
+    "districtCode": "112",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Hàng",
+    "code": "03475",
+    "districtName": "Huyện Nậm Nhùn",
+    "districtCode": "112",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Manh",
+    "code": "03474",
+    "districtName": "Huyện Nậm Nhùn",
+    "districtCode": "112",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Pì",
+    "code": "03488",
+    "districtName": "Huyện Nậm Nhùn",
+    "districtCode": "112",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Pú Đao",
+    "code": "03484",
+    "districtName": "Huyện Nậm Nhùn",
+    "districtCode": "112",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Trung Chải",
+    "code": "03503",
+    "districtName": "Huyện Nậm Nhùn",
+    "districtCode": "112",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "xã Hua Bum",
+    "code": "03460",
+    "districtName": "Huyện Nậm Nhùn",
+    "districtCode": "112",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Thị trấn Phong Thổ",
+    "code": "03549",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Bản Lang",
+    "code": "03577",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Dào San",
+    "code": "03571",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Hoang Thèn",
+    "code": "03580",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Huổi Luông",
+    "code": "03490",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Khổng Lào",
+    "code": "03583",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Lả Nhì Thàng",
+    "code": "03391",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Ma Ly Pho",
+    "code": "03574",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Mù Sang",
+    "code": "03568",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Mường So",
+    "code": "03589",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Mồ Sì San",
+    "code": "03553",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Xe",
+    "code": "03586",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Pa Vây Sử",
+    "code": "03559",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Sin Suối Hồ",
+    "code": "03592",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Sì Lở Lầu",
+    "code": "03550",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Tông Qua Lìn",
+    "code": "03565",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Vàng Ma Chải",
+    "code": "03562",
+    "districtName": "Huyện Phong Thổ",
+    "districtCode": "109",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Thị trấn Sìn Hồ",
+    "code": "03478",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Chăn Nưa",
+    "code": "03487",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Căn Co",
+    "code": "03538",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Hồng Thu",
+    "code": "03499",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Làng Mô",
+    "code": "03529",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Lùng Thàng",
+    "code": "03509",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Ma Quai",
+    "code": "03508",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Noong Hẻo",
+    "code": "03532",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Cha",
+    "code": "03526",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Cuổi",
+    "code": "03544",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Hăn",
+    "code": "03547",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Mạ",
+    "code": "03535",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Tăm",
+    "code": "03517",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Pa Khoá",
+    "code": "03527",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Pa Tần",
+    "code": "03493",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Phìn Hồ",
+    "code": "03496",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Phăng Sô Lin",
+    "code": "03505",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Pu Sam Cáp",
+    "code": "03523",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Sà Dề Phìn",
+    "code": "03514",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Tả Ngảo",
+    "code": "03520",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Tả Phìn",
+    "code": "03511",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Tủa Sín Chải",
+    "code": "03541",
+    "districtName": "Huyện Sìn Hồ",
+    "districtCode": "108",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Thị trấn Tam Đường",
+    "code": "03390",
+    "districtName": "Huyện Tam Đường",
+    "districtCode": "106",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Bình Lư",
+    "code": "03412",
+    "districtName": "Huyện Tam Đường",
+    "districtCode": "106",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Bản Bo",
+    "code": "03424",
+    "districtName": "Huyện Tam Đường",
+    "districtCode": "106",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Bản Giang",
+    "code": "03418",
+    "districtName": "Huyện Tam Đường",
+    "districtCode": "106",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Bản Hon",
+    "code": "03421",
+    "districtName": "Huyện Tam Đường",
+    "districtCode": "106",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Giang Ma",
+    "code": "03405",
+    "districtName": "Huyện Tam Đường",
+    "districtCode": "106",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Hồ Thầu",
+    "code": "03406",
+    "districtName": "Huyện Tam Đường",
+    "districtCode": "106",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Khun Há",
+    "code": "03430",
+    "districtName": "Huyện Tam Đường",
+    "districtCode": "106",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nà Tăm",
+    "code": "03427",
+    "districtName": "Huyện Tam Đường",
+    "districtCode": "106",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nùng Nàng",
+    "code": "03415",
+    "districtName": "Huyện Tam Đường",
+    "districtCode": "106",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Sơn Bình",
+    "code": "03413",
+    "districtName": "Huyện Tam Đường",
+    "districtCode": "106",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Thèn Sin",
+    "code": "03394",
+    "districtName": "Huyện Tam Đường",
+    "districtCode": "106",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Tả Lèng",
+    "code": "03400",
+    "districtName": "Huyện Tam Đường",
+    "districtCode": "106",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Thị trấn Than Uyên",
+    "code": "03595",
+    "districtName": "Huyện Than Uyên",
+    "districtCode": "110",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Hua Nà",
+    "code": "03632",
+    "districtName": "Huyện Than Uyên",
+    "districtCode": "110",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Khoen On",
+    "code": "03643",
+    "districtName": "Huyện Than Uyên",
+    "districtCode": "110",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Mường Cang",
+    "code": "03631",
+    "districtName": "Huyện Than Uyên",
+    "districtCode": "110",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Mường Kim",
+    "code": "03637",
+    "districtName": "Huyện Than Uyên",
+    "districtCode": "110",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Mường Mít",
+    "code": "03625",
+    "districtName": "Huyện Than Uyên",
+    "districtCode": "110",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Mường Than",
+    "code": "03619",
+    "districtName": "Huyện Than Uyên",
+    "districtCode": "110",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Pha Mu",
+    "code": "03628",
+    "districtName": "Huyện Than Uyên",
+    "districtCode": "110",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Phúc Than",
+    "code": "03618",
+    "districtName": "Huyện Than Uyên",
+    "districtCode": "110",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Tà Gia",
+    "code": "03640",
+    "districtName": "Huyện Than Uyên",
+    "districtCode": "110",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Tà Hừa",
+    "code": "03634",
+    "districtName": "Huyện Than Uyên",
+    "districtCode": "110",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Tà Mung",
+    "code": "03638",
+    "districtName": "Huyện Than Uyên",
+    "districtCode": "110",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Thị trấn Tân Uyên",
+    "code": "03598",
+    "districtName": "Huyện Tân Uyên",
+    "districtCode": "111",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Hố Mít",
+    "code": "03607",
+    "districtName": "Huyện Tân Uyên",
+    "districtCode": "111",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Mường Khoa",
+    "code": "03601",
+    "districtName": "Huyện Tân Uyên",
+    "districtCode": "111",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Cần",
+    "code": "03610",
+    "districtName": "Huyện Tân Uyên",
+    "districtCode": "111",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Nậm Sỏ",
+    "code": "03613",
+    "districtName": "Huyện Tân Uyên",
+    "districtCode": "111",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Phúc Khoa",
+    "code": "03602",
+    "districtName": "Huyện Tân Uyên",
+    "districtCode": "111",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Pắc Ta",
+    "code": "03616",
+    "districtName": "Huyện Tân Uyên",
+    "districtCode": "111",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Thân Thuộc",
+    "code": "03604",
+    "districtName": "Huyện Tân Uyên",
+    "districtCode": "111",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Trung Đồng",
+    "code": "03605",
+    "districtName": "Huyện Tân Uyên",
+    "districtCode": "111",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Tà Mít",
+    "code": "03622",
+    "districtName": "Huyện Tân Uyên",
+    "districtCode": "111",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Phường Quyết Thắng",
+    "code": "03386",
+    "districtName": "Thành phố Lai Châu",
+    "districtCode": "105",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Phường Quyết Tiến",
+    "code": "03388",
+    "districtName": "Thành phố Lai Châu",
+    "districtCode": "105",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Phường Tân Phong",
+    "code": "03387",
+    "districtName": "Thành phố Lai Châu",
+    "districtCode": "105",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Phường Đoàn Kết",
+    "code": "03389",
+    "districtName": "Thành phố Lai Châu",
+    "districtCode": "105",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Phường Đông Phong",
+    "code": "03408",
+    "districtName": "Thành phố Lai Châu",
+    "districtCode": "105",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã San Thàng",
+    "code": "03409",
+    "districtName": "Thành phố Lai Châu",
+    "districtCode": "105",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  },
+  {
+    "name": "Xã Sùng Phài",
+    "code": "03403",
+    "districtName": "Thành phố Lai Châu",
+    "districtCode": "105",
+    "provinceName": "Tỉnh Lai Châu",
+    "provinceCode": "12"
+  }
+]

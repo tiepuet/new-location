@@ -1,0 +1,818 @@
+[
+  {
+    "name": "Thị trấn Vũng Liêm",
+    "code": "29659",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hiếu Nghĩa",
+    "code": "29716",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hiếu Nhơn",
+    "code": "29710",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hiếu Phụng",
+    "code": "29686",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hiếu Thuận",
+    "code": "29701",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hiếu Thành",
+    "code": "29713",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Quới An",
+    "code": "29668",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Quới Thiện",
+    "code": "29665",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Thanh Bình",
+    "code": "29677",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Trung An",
+    "code": "29707",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Trung Chánh",
+    "code": "29671",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Trung Hiếu",
+    "code": "29695",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Trung Hiệp",
+    "code": "29683",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Trung Nghĩa",
+    "code": "29704",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Trung Ngãi",
+    "code": "29698",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Trung Thành",
+    "code": "29692",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Trung Thành Tây",
+    "code": "29680",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Trung Thành Đông",
+    "code": "29689",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tân An Luông",
+    "code": "29674",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tân Quới Trung",
+    "code": "29662",
+    "districtName": "Huyện  Vũng Liêm",
+    "districtCode": "859",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Thị trấn Tân Quới",
+    "code": "29800",
+    "districtName": "Huyện Bình Tân",
+    "districtCode": "863",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Mỹ Thuận",
+    "code": "29794",
+    "districtName": "Huyện Bình Tân",
+    "districtCode": "863",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Nguyễn Văn Thảnh",
+    "code": "29788",
+    "districtName": "Huyện Bình Tân",
+    "districtCode": "863",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Thành Lợi",
+    "code": "29791",
+    "districtName": "Huyện Bình Tân",
+    "districtCode": "863",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Thành Trung",
+    "code": "29779",
+    "districtName": "Huyện Bình Tân",
+    "districtCode": "863",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tân An Thạnh",
+    "code": "29782",
+    "districtName": "Huyện Bình Tân",
+    "districtCode": "863",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tân Bình",
+    "code": "29797",
+    "districtName": "Huyện Bình Tân",
+    "districtCode": "863",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tân Lược",
+    "code": "29785",
+    "districtName": "Huyện Bình Tân",
+    "districtCode": "863",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "29776",
+    "districtName": "Huyện Bình Tân",
+    "districtCode": "863",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Thị trấn Long Hồ",
+    "code": "29602",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã An Bình",
+    "code": "29587",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Bình Hòa Phước",
+    "code": "29581",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hòa Ninh",
+    "code": "29584",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hòa Phú",
+    "code": "29617",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Long An",
+    "code": "29608",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Long Phước",
+    "code": "29599",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Lộc Hòa",
+    "code": "29605",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Phú Quới",
+    "code": "29611",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Phước Hậu",
+    "code": "29596",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Thanh Đức",
+    "code": "29590",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Thạnh Quới",
+    "code": "29614",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tân Hạnh",
+    "code": "29593",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Đồng Phú",
+    "code": "29578",
+    "districtName": "Huyện Long Hồ",
+    "districtCode": "857",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Thị trấn Cái Nhum",
+    "code": "29641",
+    "districtName": "Huyện Mang Thít",
+    "districtCode": "858",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã An Phước",
+    "code": "29629",
+    "districtName": "Huyện Mang Thít",
+    "districtCode": "858",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Bình Phước",
+    "code": "29644",
+    "districtName": "Huyện Mang Thít",
+    "districtCode": "858",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Chánh An",
+    "code": "29647",
+    "districtName": "Huyện Mang Thít",
+    "districtCode": "858",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hòa Tịnh",
+    "code": "29638",
+    "districtName": "Huyện Mang Thít",
+    "districtCode": "858",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Long Mỹ",
+    "code": "29635",
+    "districtName": "Huyện Mang Thít",
+    "districtCode": "858",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Mỹ An",
+    "code": "29623",
+    "districtName": "Huyện Mang Thít",
+    "districtCode": "858",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Mỹ Phước",
+    "code": "29626",
+    "districtName": "Huyện Mang Thít",
+    "districtCode": "858",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Nhơn Phú",
+    "code": "29632",
+    "districtName": "Huyện Mang Thít",
+    "districtCode": "858",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tân An Hội",
+    "code": "29650",
+    "districtName": "Huyện Mang Thít",
+    "districtCode": "858",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tân Long",
+    "code": "29653",
+    "districtName": "Huyện Mang Thít",
+    "districtCode": "858",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tân Long Hội",
+    "code": "29656",
+    "districtName": "Huyện Mang Thít",
+    "districtCode": "858",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Thị trấn Tam Bình",
+    "code": "29719",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Bình Ninh",
+    "code": "29767",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hoà Lộc",
+    "code": "29734",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hòa Hiệp",
+    "code": "29743",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hòa Thạnh",
+    "code": "29731",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hậu Lộc",
+    "code": "29728",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Loan Mỹ",
+    "code": "29761",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Long Phú",
+    "code": "29752",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Mỹ Lộc",
+    "code": "29746",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Mỹ Thạnh Trung",
+    "code": "29755",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Ngãi Tứ",
+    "code": "29764",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Phú Lộc",
+    "code": "29737",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Phú Thịnh",
+    "code": "29725",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Song Phú",
+    "code": "29740",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tân Lộc",
+    "code": "29722",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tân Phú",
+    "code": "29749",
+    "districtName": "Huyện Tam Bình",
+    "districtCode": "860",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Thị trấn Trà Ôn",
+    "code": "29821",
+    "districtName": "Huyện Trà Ôn",
+    "districtCode": "862",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "29830",
+    "districtName": "Huyện Trà Ôn",
+    "districtCode": "862",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Hựu Thành",
+    "code": "29842",
+    "districtName": "Huyện Trà Ôn",
+    "districtCode": "862",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Lục Sỹ Thành",
+    "code": "29857",
+    "districtName": "Huyện Trà Ôn",
+    "districtCode": "862",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Nhơn Bình",
+    "code": "29827",
+    "districtName": "Huyện Trà Ôn",
+    "districtCode": "862",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Phú Thành",
+    "code": "29851",
+    "districtName": "Huyện Trà Ôn",
+    "districtCode": "862",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Thuận Thới",
+    "code": "29848",
+    "districtName": "Huyện Trà Ôn",
+    "districtCode": "862",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Thới Hòa",
+    "code": "29833",
+    "districtName": "Huyện Trà Ôn",
+    "districtCode": "862",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Trà Côn",
+    "code": "29836",
+    "districtName": "Huyện Trà Ôn",
+    "districtCode": "862",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tân Mỹ",
+    "code": "29839",
+    "districtName": "Huyện Trà Ôn",
+    "districtCode": "862",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Tích Thiện",
+    "code": "29860",
+    "districtName": "Huyện Trà Ôn",
+    "districtCode": "862",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Vĩnh Xuân",
+    "code": "29845",
+    "districtName": "Huyện Trà Ôn",
+    "districtCode": "862",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Xuân Hiệp",
+    "code": "29824",
+    "districtName": "Huyện Trà Ôn",
+    "districtCode": "862",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Phường 1",
+    "code": "29551",
+    "districtName": "Thành phố Vĩnh Long",
+    "districtCode": "855",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Phường 3",
+    "code": "29557",
+    "districtName": "Thành phố Vĩnh Long",
+    "districtCode": "855",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Phường 4",
+    "code": "29554",
+    "districtName": "Thành phố Vĩnh Long",
+    "districtCode": "855",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Phường 5",
+    "code": "29545",
+    "districtName": "Thành phố Vĩnh Long",
+    "districtCode": "855",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Phường 8",
+    "code": "29560",
+    "districtName": "Thành phố Vĩnh Long",
+    "districtCode": "855",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Phường 9",
+    "code": "29542",
+    "districtName": "Thành phố Vĩnh Long",
+    "districtCode": "855",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Phường Trường An",
+    "code": "29572",
+    "districtName": "Thành phố Vĩnh Long",
+    "districtCode": "855",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Phường Tân Hòa",
+    "code": "29566",
+    "districtName": "Thành phố Vĩnh Long",
+    "districtCode": "855",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Phường Tân Hội",
+    "code": "29569",
+    "districtName": "Thành phố Vĩnh Long",
+    "districtCode": "855",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Phường Tân Ngãi",
+    "code": "29563",
+    "districtName": "Thành phố Vĩnh Long",
+    "districtCode": "855",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Phường Cái Vồn",
+    "code": "29770",
+    "districtName": "Thị xã Bình Minh",
+    "districtCode": "861",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Phường Thành Phước",
+    "code": "29771",
+    "districtName": "Thị xã Bình Minh",
+    "districtCode": "861",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Phường Đông Thuận",
+    "code": "29813",
+    "districtName": "Thị xã Bình Minh",
+    "districtCode": "861",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Mỹ Hòa",
+    "code": "29815",
+    "districtName": "Thị xã Bình Minh",
+    "districtCode": "861",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Thuận An",
+    "code": "29806",
+    "districtName": "Thị xã Bình Minh",
+    "districtCode": "861",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Đông Bình",
+    "code": "29812",
+    "districtName": "Thị xã Bình Minh",
+    "districtCode": "861",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Đông Thành",
+    "code": "29818",
+    "districtName": "Thị xã Bình Minh",
+    "districtCode": "861",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  },
+  {
+    "name": "Xã Đông Thạnh",
+    "code": "29809",
+    "districtName": "Thị xã Bình Minh",
+    "districtCode": "861",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "provinceCode": "86"
+  }
+]

@@ -1,0 +1,1658 @@
+[
+  {
+    "name": "Thị trấn Kẻ Sặt",
+    "code": "10945",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Bình Xuyên",
+    "code": "10996",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Cổ Bì",
+    "code": "10984",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hùng Thắng",
+    "code": "10954",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hồng Khê",
+    "code": "10978",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Long Xuyên",
+    "code": "10963",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Nhân Quyền",
+    "code": "10987",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thái Dương",
+    "code": "10990",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thái Hòa",
+    "code": "10993",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thái Minh",
+    "code": "10981",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thúc Kháng",
+    "code": "10969",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tân Hồng",
+    "code": "10972",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tân Việt",
+    "code": "10966",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Vĩnh Hưng",
+    "code": "10951",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Vĩnh Hồng",
+    "code": "10960",
+    "districtName": "Huyện Bình Giang",
+    "districtCode": "296",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Thị trấn Cẩm Giang",
+    "code": "10888",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Thị trấn Lai Cách",
+    "code": "10891",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Cao An",
+    "code": "10927",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Cẩm Hoàng",
+    "code": "10897",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Cẩm Hưng",
+    "code": "10894",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Cẩm Văn",
+    "code": "10900",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Cẩm Vũ",
+    "code": "10909",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Cẩm Đoài",
+    "code": "10942",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Cẩm Đông",
+    "code": "10939",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Lương Điền",
+    "code": "10924",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Ngọc Liên",
+    "code": "10903",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Phúc Điền",
+    "code": "10933",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tân Trường",
+    "code": "10930",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Định Sơn",
+    "code": "10918",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Đức Chính",
+    "code": "10912",
+    "districtName": "Huyện Cẩm Giàng",
+    "districtCode": "295",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Thị trấn Gia Lộc",
+    "code": "10999",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Gia Phúc",
+    "code": "11035",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Gia Tiến",
+    "code": "11038",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hoàng Diệu",
+    "code": "11047",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hồng Hưng",
+    "code": "11050",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Lê Lợi",
+    "code": "11041",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Nhật Quang",
+    "code": "11065",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Phạm Trấn",
+    "code": "11053",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Quang Đức",
+    "code": "11071",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thống Kênh",
+    "code": "11059",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thống Nhất",
+    "code": "11008",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Toàn Thắng",
+    "code": "11044",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Yết Kiêu",
+    "code": "11020",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Đoàn Thượng",
+    "code": "11056",
+    "districtName": "Huyện Gia Lộc",
+    "districtCode": "297",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Thị trấn Phú Thái",
+    "code": "10750",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "10798",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Kim Anh",
+    "code": "10780",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Kim Liên",
+    "code": "10783",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Kim Tân",
+    "code": "10786",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Kim Xuyên",
+    "code": "10771",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Kim Đính",
+    "code": "10792",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Lai Khê",
+    "code": "10756",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Ngũ Phúc",
+    "code": "10777",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tam Kỳ",
+    "code": "10801",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tuấn Việt",
+    "code": "10768",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Vũ Dũng",
+    "code": "10762",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Đại Đức",
+    "code": "10810",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Đồng Cẩm",
+    "code": "10804",
+    "districtName": "Huyện Kim Thành",
+    "districtCode": "293",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Thị trấn Nam Sách",
+    "code": "10606",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã An Bình",
+    "code": "10630",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã An Phú",
+    "code": "10645",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã An Sơn",
+    "code": "10636",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Cộng Hòa",
+    "code": "10639",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hiệp Cát",
+    "code": "10618",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hồng Phong",
+    "code": "10654",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hợp Tiến",
+    "code": "10615",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Minh Tân",
+    "code": "10666",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Nam Hưng",
+    "code": "10609",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Nam Tân",
+    "code": "10612",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Quốc Tuấn",
+    "code": "10621",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thái Tân",
+    "code": "10642",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Trần Phú",
+    "code": "10633",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Đồng Lạc",
+    "code": "10657",
+    "districtName": "Huyện Nam Sách",
+    "districtCode": "291",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Thị trấn Ninh Giang",
+    "code": "11203",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã An Đức",
+    "code": "11173",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Bình Xuyên",
+    "code": "11188",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hiệp Lực",
+    "code": "11227",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hưng Long",
+    "code": "11233",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hồng Dụ",
+    "code": "11215",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hồng Phong",
+    "code": "11224",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Kiến Phúc",
+    "code": "11230",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Nghĩa An",
+    "code": "11164",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tân Hương",
+    "code": "11179",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tân Phong",
+    "code": "11197",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tân Quang",
+    "code": "11206",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Văn Hội",
+    "code": "11218",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Vĩnh Hòa",
+    "code": "11185",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Đức Phúc",
+    "code": "11167",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Ứng Hoè",
+    "code": "11161",
+    "districtName": "Huyện Ninh Giang",
+    "districtCode": "299",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Thị trấn Thanh Hà",
+    "code": "10813",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã An Phượng",
+    "code": "10864",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Cẩm Việt",
+    "code": "10828",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hồng Lạc",
+    "code": "10816",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Liên Mạc",
+    "code": "10843",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thanh An",
+    "code": "10831",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thanh Hải",
+    "code": "10846",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thanh Hồng",
+    "code": "10879",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thanh Lang",
+    "code": "10834",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thanh Quang",
+    "code": "10876",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thanh Sơn",
+    "code": "10867",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thanh Tân",
+    "code": "10861",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thanh Xuân",
+    "code": "10855",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tân An",
+    "code": "10840",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tân Việt",
+    "code": "10825",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Vĩnh Cường",
+    "code": "10882",
+    "districtName": "Huyện Thanh Hà",
+    "districtCode": "294",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Thị trấn Thanh Miện",
+    "code": "11239",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Cao Thắng",
+    "code": "11278",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Chi Lăng Bắc",
+    "code": "11281",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Chi Lăng Nam",
+    "code": "11284",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hồng Phong",
+    "code": "11293",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hồng Quang",
+    "code": "11254",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Lam Sơn",
+    "code": "11260",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Lê Hồng",
+    "code": "11266",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Ngô Quyền",
+    "code": "11248",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Ngũ Hùng",
+    "code": "11275",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Phạm Kha",
+    "code": "11245",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thanh Giang",
+    "code": "11287",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thanh Tùng",
+    "code": "11242",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tân Trào",
+    "code": "11257",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tứ Cường",
+    "code": "11269",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Đoàn Kết",
+    "code": "11263",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Đoàn Tùng",
+    "code": "11251",
+    "districtName": "Huyện Thanh Miện",
+    "districtCode": "300",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Thị trấn Tứ Kỳ",
+    "code": "11074",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã An Thanh",
+    "code": "11125",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Bình Lăng",
+    "code": "11092",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Chí Minh",
+    "code": "11095",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Dân An",
+    "code": "11122",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hà Kỳ",
+    "code": "11149",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hà Thanh",
+    "code": "11152",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hưng Đạo",
+    "code": "11086",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Kỳ Sơn",
+    "code": "11098",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Lạc Phượng",
+    "code": "11140",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Minh Đức",
+    "code": "11128",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Nguyên Giáp",
+    "code": "11146",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Quang Khải",
+    "code": "11116",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Quang Phục",
+    "code": "11101",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Quang Trung",
+    "code": "11134",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tiên Động",
+    "code": "11143",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tân Kỳ",
+    "code": "11113",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Văn Tố",
+    "code": "11131",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Đại Hợp",
+    "code": "11119",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Đại Sơn",
+    "code": "11083",
+    "districtName": "Huyện Tứ Kỳ",
+    "districtCode": "298",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường An Lạc",
+    "code": "10594",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Bến Tắm",
+    "code": "10552",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Chí Minh",
+    "code": "10582",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Cổ Thành",
+    "code": "10576",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Cộng Hoà",
+    "code": "10570",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Hoàng Tiến",
+    "code": "10567",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Hoàng Tân",
+    "code": "10573",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Phả Lại",
+    "code": "10546",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Sao Đỏ",
+    "code": "10549",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Thái Học",
+    "code": "10588",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Tân Dân",
+    "code": "10603",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Văn An",
+    "code": "10579",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Văn Đức",
+    "code": "10585",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Đồng Lạc",
+    "code": "10600",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Bắc An",
+    "code": "10558",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hoàng Hoa Thám",
+    "code": "10555",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hưng Đạo",
+    "code": "10561",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Lê Lợi",
+    "code": "10564",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Nhân Huệ",
+    "code": "10591",
+    "districtName": "Thành phố Chí Linh",
+    "districtCode": "290",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Bình Hàn",
+    "code": "10510",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Cẩm Thượng",
+    "code": "10507",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Hải Tân",
+    "code": "10537",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Lê Thanh Nghị",
+    "code": "10534",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Nam Đồng",
+    "code": "10672",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Nguyễn Trãi",
+    "code": "10519",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Ngọc Châu",
+    "code": "10513",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Nhị Châu",
+    "code": "10514",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Quang Trung",
+    "code": "10516",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Thanh Bình",
+    "code": "10531",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Thạch Khôi",
+    "code": "11002",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Trần Hưng Đạo",
+    "code": "10525",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Trần Phú",
+    "code": "10528",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Tân Bình",
+    "code": "10532",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Tân Hưng",
+    "code": "11011",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Tứ Minh",
+    "code": "10540",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Việt Hoà",
+    "code": "10543",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Ái Quốc",
+    "code": "10660",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã An Thượng",
+    "code": "10663",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Gia Xuyên",
+    "code": "11017",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Liên Hồng",
+    "code": "11005",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Ngọc Sơn",
+    "code": "11077",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Quyết Thắng",
+    "code": "10822",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Tiền Tiến",
+    "code": "10837",
+    "districtName": "Thành phố Hải Dương",
+    "districtCode": "288",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường An Lưu",
+    "code": "10675",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường An Phụ",
+    "code": "10732",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường An Sinh",
+    "code": "10723",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Duy Tân",
+    "code": "10696",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Hiến Thành",
+    "code": "10744",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Hiệp An",
+    "code": "10735",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Hiệp Sơn",
+    "code": "10726",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Long Xuyên",
+    "code": "10738",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Minh Tân",
+    "code": "10702",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Phú Thứ",
+    "code": "10714",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Phạm Thái",
+    "code": "10693",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Thái Thịnh",
+    "code": "10741",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Thất Hùng",
+    "code": "10681",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Phường Tân Dân",
+    "code": "10699",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Bạch Đằng",
+    "code": "10678",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Hiệp Hòa",
+    "code": "10708",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Lê Ninh",
+    "code": "10684",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Lạc Long",
+    "code": "10720",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Minh Hòa",
+    "code": "10747",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Quang Thành",
+    "code": "10705",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thăng Long",
+    "code": "10717",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  },
+  {
+    "name": "Xã Thượng Quận",
+    "code": "10729",
+    "districtName": "Thị xã Kinh Môn",
+    "districtCode": "292",
+    "provinceName": "Tỉnh Hải Dương",
+    "provinceCode": "30"
+  }
+]

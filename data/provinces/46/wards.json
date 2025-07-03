@@ -1,0 +1,1066 @@
+[
+  {
+    "name": "Thị trấn A Lưới",
+    "code": "20044",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã A Ngo",
+    "code": "20068",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã A Roàng",
+    "code": "20095",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hương Nguyên",
+    "code": "20059",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hương Phong",
+    "code": "20080",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hồng Bắc",
+    "code": "20065",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hồng Hạ",
+    "code": "20050",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hồng Kim",
+    "code": "20053",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hồng Thái",
+    "code": "20089",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hồng Thượng",
+    "code": "20086",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hồng Thủy",
+    "code": "20104",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hồng Vân",
+    "code": "20047",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Lâm Đớt",
+    "code": "20101",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phú Vinh",
+    "code": "20074",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Quảng Nhâm",
+    "code": "20083",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Sơn Thủy",
+    "code": "20071",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Trung Sơn",
+    "code": "20056",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Đông Sơn",
+    "code": "20098",
+    "districtName": "Huyện A Lưới",
+    "districtCode": "481",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Thị trấn Khe Tre",
+    "code": "20161",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Thị trấn Lăng Cô",
+    "code": "20110",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Thị trấn Lộc Sơn",
+    "code": "20131",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Thị trấn Phú Lộc",
+    "code": "20107",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Giang Hải",
+    "code": "20122",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hương Hữu",
+    "code": "20182",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hương Lộc",
+    "code": "20170",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hương Phú",
+    "code": "20164",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hương Sơn",
+    "code": "20167",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hương Xuân",
+    "code": "20179",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Lộc An",
+    "code": "20140",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Lộc Bình",
+    "code": "20134",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Lộc Bổn",
+    "code": "20128",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Lộc Hòa",
+    "code": "20155",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Lộc Thủy",
+    "code": "20146",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Lộc Tiến",
+    "code": "20152",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Lộc Trì",
+    "code": "20149",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Lộc Vĩnh",
+    "code": "20137",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Lộc Điền",
+    "code": "20143",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Thượng Long",
+    "code": "20188",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Thượng Lộ",
+    "code": "20185",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Thượng Nhật",
+    "code": "20191",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Thượng Quảng",
+    "code": "20173",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Vinh Hiền",
+    "code": "20125",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Vinh Hưng",
+    "code": "20116",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Vinh Mỹ",
+    "code": "20113",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Xuân Lộc",
+    "code": "20158",
+    "districtName": "Huyện Phú Lộc",
+    "districtCode": "482",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Thị trấn Phú Đa",
+    "code": "19942",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phú An",
+    "code": "19912",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phú Diên",
+    "code": "19921",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phú Gia",
+    "code": "19954",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phú Hải",
+    "code": "19915",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phú Hồ",
+    "code": "19933",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phú Lương",
+    "code": "19939",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phú Mỹ",
+    "code": "19927",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phú Thuận",
+    "code": "19903",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phú Xuân",
+    "code": "19918",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Vinh An",
+    "code": "19948",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Vinh Hà",
+    "code": "19957",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Vinh Thanh",
+    "code": "19945",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Vinh Xuân",
+    "code": "19936",
+    "districtName": "Huyện Phú Vang",
+    "districtCode": "478",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Thị trấn Sịa",
+    "code": "19867",
+    "districtName": "Huyện Quảng Điền",
+    "districtCode": "477",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Quảng An",
+    "code": "19888",
+    "districtName": "Huyện Quảng Điền",
+    "districtCode": "477",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Quảng Công",
+    "code": "19879",
+    "districtName": "Huyện Quảng Điền",
+    "districtCode": "477",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Quảng Lợi",
+    "code": "19876",
+    "districtName": "Huyện Quảng Điền",
+    "districtCode": "477",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Quảng Ngạn",
+    "code": "19873",
+    "districtName": "Huyện Quảng Điền",
+    "districtCode": "477",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Quảng Phú",
+    "code": "19897",
+    "districtName": "Huyện Quảng Điền",
+    "districtCode": "477",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Quảng Phước",
+    "code": "19882",
+    "districtName": "Huyện Quảng Điền",
+    "districtCode": "477",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Quảng Thành",
+    "code": "19891",
+    "districtName": "Huyện Quảng Điền",
+    "districtCode": "477",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Quảng Thái",
+    "code": "19870",
+    "districtName": "Huyện Quảng Điền",
+    "districtCode": "477",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Quảng Thọ",
+    "code": "19894",
+    "districtName": "Huyện Quảng Điền",
+    "districtCode": "477",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Quảng Vinh",
+    "code": "19885",
+    "districtName": "Huyện Quảng Điền",
+    "districtCode": "477",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường An Hòa",
+    "code": "19803",
+    "districtName": "Quận Phú Xuân",
+    "districtCode": "475",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Gia Hội",
+    "code": "19756",
+    "districtName": "Quận Phú Xuân",
+    "districtCode": "475",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Hương An",
+    "code": "20023",
+    "districtName": "Quận Phú Xuân",
+    "districtCode": "475",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Hương Long",
+    "code": "19810",
+    "districtName": "Quận Phú Xuân",
+    "districtCode": "475",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Hương Sơ",
+    "code": "19804",
+    "districtName": "Quận Phú Xuân",
+    "districtCode": "475",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Hương Vinh",
+    "code": "20014",
+    "districtName": "Quận Phú Xuân",
+    "districtCode": "475",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Kim Long",
+    "code": "19774",
+    "districtName": "Quận Phú Xuân",
+    "districtCode": "475",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Long Hồ",
+    "code": "20029",
+    "districtName": "Quận Phú Xuân",
+    "districtCode": "475",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Phú Hậu",
+    "code": "19759",
+    "districtName": "Quận Phú Xuân",
+    "districtCode": "475",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Thuận Hòa",
+    "code": "19762",
+    "districtName": "Quận Phú Xuân",
+    "districtCode": "475",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Thuận Lộc",
+    "code": "19753",
+    "districtName": "Quận Phú Xuân",
+    "districtCode": "475",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Tây Lộc",
+    "code": "19750",
+    "districtName": "Quận Phú Xuân",
+    "districtCode": "475",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Đông Ba",
+    "code": "19768",
+    "districtName": "Quận Phú Xuân",
+    "districtCode": "475",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường An Cựu",
+    "code": "19801",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường An Tây",
+    "code": "19816",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường An Đông",
+    "code": "19815",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Dương Nỗ",
+    "code": "19909",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Hương Phong",
+    "code": "20002",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Phú Hội",
+    "code": "19786",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Phú Nhuận",
+    "code": "19789",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Phú Thượng",
+    "code": "19930",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Phước Vĩnh",
+    "code": "19798",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Phường Đúc",
+    "code": "19780",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Thuận An",
+    "code": "19900",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Thuỷ Biều",
+    "code": "19807",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Thuỷ Xuân",
+    "code": "19813",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Thủy Bằng",
+    "code": "19981",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Thủy Vân",
+    "code": "19963",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Trường An",
+    "code": "19795",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Vĩnh Ninh",
+    "code": "19783",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Vỹ Dạ",
+    "code": "19777",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Xuân Phú",
+    "code": "19792",
+    "districtName": "Quận Thuận Hóa",
+    "districtCode": "474",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Phú Bài",
+    "code": "19960",
+    "districtName": "Thị xã Hương Thủy",
+    "districtCode": "479",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Thủy Châu",
+    "code": "19975",
+    "districtName": "Thị xã Hương Thủy",
+    "districtCode": "479",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Thủy Dương",
+    "code": "19969",
+    "districtName": "Thị xã Hương Thủy",
+    "districtCode": "479",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Thủy Lương",
+    "code": "19978",
+    "districtName": "Thị xã Hương Thủy",
+    "districtCode": "479",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Thủy Phương",
+    "code": "19972",
+    "districtName": "Thị xã Hương Thủy",
+    "districtCode": "479",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Dương Hòa",
+    "code": "19993",
+    "districtName": "Thị xã Hương Thủy",
+    "districtCode": "479",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phú Sơn",
+    "code": "19990",
+    "districtName": "Thị xã Hương Thủy",
+    "districtCode": "479",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Thủy Phù",
+    "code": "19987",
+    "districtName": "Thị xã Hương Thủy",
+    "districtCode": "479",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Thủy Thanh",
+    "code": "19966",
+    "districtName": "Thị xã Hương Thủy",
+    "districtCode": "479",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Thủy Tân",
+    "code": "19984",
+    "districtName": "Thị xã Hương Thủy",
+    "districtCode": "479",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Hương Chữ",
+    "code": "20020",
+    "districtName": "Thị xã Hương Trà",
+    "districtCode": "480",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Hương Vân",
+    "code": "20008",
+    "districtName": "Thị xã Hương Trà",
+    "districtCode": "480",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Hương Văn",
+    "code": "20011",
+    "districtName": "Thị xã Hương Trà",
+    "districtCode": "480",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Hương Xuân",
+    "code": "20017",
+    "districtName": "Thị xã Hương Trà",
+    "districtCode": "480",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Tứ Hạ",
+    "code": "19996",
+    "districtName": "Thị xã Hương Trà",
+    "districtCode": "480",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Bình Thành",
+    "code": "20041",
+    "districtName": "Thị xã Hương Trà",
+    "districtCode": "480",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Bình Tiến",
+    "code": "20035",
+    "districtName": "Thị xã Hương Trà",
+    "districtCode": "480",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hương Bình",
+    "code": "20026",
+    "districtName": "Thị xã Hương Trà",
+    "districtCode": "480",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Hương Toàn",
+    "code": "20005",
+    "districtName": "Thị xã Hương Trà",
+    "districtCode": "480",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Phong An",
+    "code": "19858",
+    "districtName": "Thị xã Phong Điền",
+    "districtCode": "476",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Phong Hiền",
+    "code": "19852",
+    "districtName": "Thị xã Phong Điền",
+    "districtCode": "476",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Phong Hòa",
+    "code": "19846",
+    "districtName": "Thị xã Phong Điền",
+    "districtCode": "476",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Phong Hải",
+    "code": "19843",
+    "districtName": "Thị xã Phong Điền",
+    "districtCode": "476",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Phong Phú",
+    "code": "19828",
+    "districtName": "Thị xã Phong Điền",
+    "districtCode": "476",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Phường Phong Thu",
+    "code": "19819",
+    "districtName": "Thị xã Phong Điền",
+    "districtCode": "476",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phong Bình",
+    "code": "19831",
+    "districtName": "Thị xã Phong Điền",
+    "districtCode": "476",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phong Chương",
+    "code": "19837",
+    "districtName": "Thị xã Phong Điền",
+    "districtCode": "476",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phong Mỹ",
+    "code": "19855",
+    "districtName": "Thị xã Phong Điền",
+    "districtCode": "476",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phong Sơn",
+    "code": "19864",
+    "districtName": "Thị xã Phong Điền",
+    "districtCode": "476",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phong Thạnh",
+    "code": "19825",
+    "districtName": "Thị xã Phong Điền",
+    "districtCode": "476",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  },
+  {
+    "name": "Xã Phong Xuân",
+    "code": "19861",
+    "districtName": "Thị xã Phong Điền",
+    "districtCode": "476",
+    "provinceName": "Thành phố Huế",
+    "provinceCode": "46"
+  }
+]

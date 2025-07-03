@@ -1,0 +1,140 @@
+{
+  "name": "Nghệ An",
+  "code": "40",
+  "from": "Nghệ An",
+  "area": 16493.7,
+  "population": 3470988,
+  "adminCenter": "TP Vinh",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 7,
+  "grdp": 216.944,
+  "licensePlates": [
+    37
+  ],
+  "density": 210,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Anh Sơn",
+      "code": "424",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Con Cuông",
+      "code": "422",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Diễn Châu",
+      "code": "425",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Hưng Nguyên",
+      "code": "431",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Kỳ Sơn",
+      "code": "417",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Nam Đàn",
+      "code": "430",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Nghi Lộc",
+      "code": "429",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Nghĩa Đàn",
+      "code": "419",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Quế Phong",
+      "code": "415",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Quỳ Châu",
+      "code": "416",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Quỳ Hợp",
+      "code": "420",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Quỳnh Lưu",
+      "code": "421",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Thanh Chương",
+      "code": "428",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Tân Kỳ",
+      "code": "423",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Tương Dương",
+      "code": "418",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Yên Thành",
+      "code": "426",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Huyện Đô Lương",
+      "code": "427",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Thành phố Vinh",
+      "code": "412",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Thị xã Hoàng Mai",
+      "code": "432",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    },
+    {
+      "name": "Thị xã Thái Hoà",
+      "code": "414",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceCode": "40"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Tỉnh Quảng Trị",
+  "code": "45",
+  "districts": [
+    {
+      "name": "Huyện Cam Lộ",
+      "code": "468",
+      "provinceName": "Tỉnh Quảng Trị",
+      "provinceCode": "45"
+    },
+    {
+      "name": "Huyện Gio Linh",
+      "code": "466",
+      "provinceName": "Tỉnh Quảng Trị",
+      "provinceCode": "45"
+    },
+    {
+      "name": "Huyện Hướng Hóa",
+      "code": "465",
+      "provinceName": "Tỉnh Quảng Trị",
+      "provinceCode": "45"
+    },
+    {
+      "name": "Huyện Hải Lăng",
+      "code": "470",
+      "provinceName": "Tỉnh Quảng Trị",
+      "provinceCode": "45"
+    },
+    {
+      "name": "Huyện Triệu Phong",
+      "code": "469",
+      "provinceName": "Tỉnh Quảng Trị",
+      "provinceCode": "45"
+    },
+    {
+      "name": "Huyện Vĩnh Linh",
+      "code": "464",
+      "provinceName": "Tỉnh Quảng Trị",
+      "provinceCode": "45"
+    },
+    {
+      "name": "Huyện Đa Krông",
+      "code": "467",
+      "provinceName": "Tỉnh Quảng Trị",
+      "provinceCode": "45"
+    },
+    {
+      "name": "Thành phố Đông Hà",
+      "code": "461",
+      "provinceName": "Tỉnh Quảng Trị",
+      "provinceCode": "45"
+    },
+    {
+      "name": "Thị xã Quảng Trị",
+      "code": "462",
+      "provinceName": "Tỉnh Quảng Trị",
+      "provinceCode": "45"
+    }
+  ]
+}

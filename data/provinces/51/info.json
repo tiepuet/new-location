@@ -1,0 +1,93 @@
+{
+  "name": "Quảng Ngãi",
+  "code": "51",
+  "from": "Kon Tum, Quảng Ngãi",
+  "area": 14832.55,
+  "population": 2161755,
+  "adminCenter": "TP Quảng Ngãi",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 9,
+  "grdp": 173.527,
+  "licensePlates": [
+    76,
+    82
+  ],
+  "density": 146,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Ba Tơ",
+      "code": "535",
+      "provinceName": "Tỉnh Quảng Ngãi",
+      "provinceCode": "51"
+    },
+    {
+      "name": "Huyện Bình Sơn",
+      "code": "524",
+      "provinceName": "Tỉnh Quảng Ngãi",
+      "provinceCode": "51"
+    },
+    {
+      "name": "Huyện Minh Long",
+      "code": "531",
+      "provinceName": "Tỉnh Quảng Ngãi",
+      "provinceCode": "51"
+    },
+    {
+      "name": "Huyện Mộ Đức",
+      "code": "533",
+      "provinceName": "Tỉnh Quảng Ngãi",
+      "provinceCode": "51"
+    },
+    {
+      "name": "Huyện Nghĩa Hành",
+      "code": "532",
+      "provinceName": "Tỉnh Quảng Ngãi",
+      "provinceCode": "51"
+    },
+    {
+      "name": "Huyện Sơn Hà",
+      "code": "529",
+      "provinceName": "Tỉnh Quảng Ngãi",
+      "provinceCode": "51"
+    },
+    {
+      "name": "Huyện Sơn Tây",
+      "code": "530",
+      "provinceName": "Tỉnh Quảng Ngãi",
+      "provinceCode": "51"
+    },
+    {
+      "name": "Huyện Sơn Tịnh",
+      "code": "527",
+      "provinceName": "Tỉnh Quảng Ngãi",
+      "provinceCode": "51"
+    },
+    {
+      "name": "Huyện Trà Bồng",
+      "code": "525",
+      "provinceName": "Tỉnh Quảng Ngãi",
+      "provinceCode": "51"
+    },
+    {
+      "name": "Huyện Tư Nghĩa",
+      "code": "528",
+      "provinceName": "Tỉnh Quảng Ngãi",
+      "provinceCode": "51"
+    },
+    {
+      "name": "Thành phố Quảng Ngãi",
+      "code": "522",
+      "provinceName": "Tỉnh Quảng Ngãi",
+      "provinceCode": "51"
+    },
+    {
+      "name": "Thị xã Đức Phổ",
+      "code": "534",
+      "provinceName": "Tỉnh Quảng Ngãi",
+      "provinceCode": "51"
+    }
+  ]
+}

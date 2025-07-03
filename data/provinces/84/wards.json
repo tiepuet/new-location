@@ -1,0 +1,834 @@
+[
+  {
+    "name": "Thị trấn Châu Thành",
+    "code": "29374",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hòa Lợi",
+    "code": "29401",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hòa Minh",
+    "code": "29410",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hòa Thuận",
+    "code": "29398",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hưng Mỹ",
+    "code": "29407",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Long Hòa",
+    "code": "29413",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Lương Hoà A",
+    "code": "29386",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Lương Hòa",
+    "code": "29389",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Mỹ Chánh",
+    "code": "29380",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Nguyệt Hóa",
+    "code": "29395",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Phước Hảo",
+    "code": "29404",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Song Lộc",
+    "code": "29392",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Thanh Mỹ",
+    "code": "29383",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Đa Lộc",
+    "code": "29377",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "847",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Thị trấn Càng Long",
+    "code": "29266",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã An Trường",
+    "code": "29275",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã An Trường A",
+    "code": "29272",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Bình Phú",
+    "code": "29287",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Huyền Hội",
+    "code": "29278",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Mỹ Cẩm",
+    "code": "29269",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Nhị Long",
+    "code": "29302",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Nhị Long Phú",
+    "code": "29299",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Phương Thạnh",
+    "code": "29290",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Tân An",
+    "code": "29281",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Tân Bình",
+    "code": "29284",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Đại Phúc",
+    "code": "29293",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Đại Phước",
+    "code": "29296",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Đức Mỹ",
+    "code": "29305",
+    "districtName": "Huyện Càng Long",
+    "districtCode": "844",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Thị trấn Cầu Kè",
+    "code": "29308",
+    "districtName": "Huyện Cầu Kè",
+    "districtCode": "845",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã An Phú Tân",
+    "code": "29317",
+    "districtName": "Huyện Cầu Kè",
+    "districtCode": "845",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Châu Điền",
+    "code": "29314",
+    "districtName": "Huyện Cầu Kè",
+    "districtCode": "845",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hoà Tân",
+    "code": "29320",
+    "districtName": "Huyện Cầu Kè",
+    "districtCode": "845",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hòa Ân",
+    "code": "29311",
+    "districtName": "Huyện Cầu Kè",
+    "districtCode": "845",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Ninh Thới",
+    "code": "29323",
+    "districtName": "Huyện Cầu Kè",
+    "districtCode": "845",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Phong Phú",
+    "code": "29326",
+    "districtName": "Huyện Cầu Kè",
+    "districtCode": "845",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Phong Thạnh",
+    "code": "29329",
+    "districtName": "Huyện Cầu Kè",
+    "districtCode": "845",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Tam Ngãi",
+    "code": "29332",
+    "districtName": "Huyện Cầu Kè",
+    "districtCode": "845",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Thông Hòa",
+    "code": "29335",
+    "districtName": "Huyện Cầu Kè",
+    "districtCode": "845",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Thạnh Phú",
+    "code": "29338",
+    "districtName": "Huyện Cầu Kè",
+    "districtCode": "845",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Thị trấn Cầu Ngang",
+    "code": "29416",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Thị trấn Mỹ Long",
+    "code": "29419",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hiệp Hòa",
+    "code": "29437",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hiệp Mỹ Tây",
+    "code": "29455",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hiệp Mỹ Đông",
+    "code": "29452",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Kim Hòa",
+    "code": "29434",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Long Sơn",
+    "code": "29443",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Mỹ Hòa",
+    "code": "29428",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Mỹ Long Bắc",
+    "code": "29422",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Mỹ Long Nam",
+    "code": "29425",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Nhị Trường",
+    "code": "29446",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Thuận Hòa",
+    "code": "29440",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Thạnh Hòa Sơn",
+    "code": "29458",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Trường Thọ",
+    "code": "29449",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Vĩnh Kim",
+    "code": "29431",
+    "districtName": "Huyện Cầu Ngang",
+    "districtCode": "848",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Thị trấn Long Thành",
+    "code": "29513",
+    "districtName": "Huyện Duyên Hải",
+    "districtCode": "850",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Long Khánh",
+    "code": "29521",
+    "districtName": "Huyện Duyên Hải",
+    "districtCode": "850",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Long Vĩnh",
+    "code": "29533",
+    "districtName": "Huyện Duyên Hải",
+    "districtCode": "850",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Ngũ Lạc",
+    "code": "29530",
+    "districtName": "Huyện Duyên Hải",
+    "districtCode": "850",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Đôn Châu",
+    "code": "29500",
+    "districtName": "Huyện Duyên Hải",
+    "districtCode": "850",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Đôn Xuân",
+    "code": "29497",
+    "districtName": "Huyện Duyên Hải",
+    "districtCode": "850",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Đông Hải",
+    "code": "29536",
+    "districtName": "Huyện Duyên Hải",
+    "districtCode": "850",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Thị trấn Cầu Quan",
+    "code": "29344",
+    "districtName": "Huyện Tiểu Cần",
+    "districtCode": "846",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Thị trấn Tiểu Cần",
+    "code": "29341",
+    "districtName": "Huyện Tiểu Cần",
+    "districtCode": "846",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hiếu Trung",
+    "code": "29353",
+    "districtName": "Huyện Tiểu Cần",
+    "districtCode": "846",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hiếu Tử",
+    "code": "29350",
+    "districtName": "Huyện Tiểu Cần",
+    "districtCode": "846",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hùng Hòa",
+    "code": "29359",
+    "districtName": "Huyện Tiểu Cần",
+    "districtCode": "846",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Long Thới",
+    "code": "29356",
+    "districtName": "Huyện Tiểu Cần",
+    "districtCode": "846",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Ngãi Hùng",
+    "code": "29368",
+    "districtName": "Huyện Tiểu Cần",
+    "districtCode": "846",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Phú Cần",
+    "code": "29347",
+    "districtName": "Huyện Tiểu Cần",
+    "districtCode": "846",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Tân Hòa",
+    "code": "29371",
+    "districtName": "Huyện Tiểu Cần",
+    "districtCode": "846",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Tân Hùng",
+    "code": "29362",
+    "districtName": "Huyện Tiểu Cần",
+    "districtCode": "846",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Tập Ngãi",
+    "code": "29365",
+    "districtName": "Huyện Tiểu Cần",
+    "districtCode": "846",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Thị trấn Trà Cú",
+    "code": "29461",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Thị trấn Định An",
+    "code": "29462",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã An Quảng Hữu",
+    "code": "29473",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hàm Giang",
+    "code": "29488",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hàm Tân",
+    "code": "29489",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Kim Sơn",
+    "code": "29482",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Long Hiệp",
+    "code": "29506",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Lưu Nghiệp Anh",
+    "code": "29476",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Ngãi Xuyên",
+    "code": "29479",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Ngọc Biên",
+    "code": "29503",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Phước Hưng",
+    "code": "29464",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Thanh Sơn",
+    "code": "29485",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Tân Hiệp",
+    "code": "29509",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Tân Sơn",
+    "code": "29470",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Tập Sơn",
+    "code": "29467",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Đại An",
+    "code": "29491",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Định An",
+    "code": "29494",
+    "districtName": "Huyện Trà Cú",
+    "districtCode": "849",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Phường 1",
+    "code": "29239",
+    "districtName": "Thành phố Trà Vinh",
+    "districtCode": "842",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Phường 3",
+    "code": "29242",
+    "districtName": "Thành phố Trà Vinh",
+    "districtCode": "842",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Phường 4",
+    "code": "29236",
+    "districtName": "Thành phố Trà Vinh",
+    "districtCode": "842",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Phường 5",
+    "code": "29248",
+    "districtName": "Thành phố Trà Vinh",
+    "districtCode": "842",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Phường 7",
+    "code": "29254",
+    "districtName": "Thành phố Trà Vinh",
+    "districtCode": "842",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Phường 8",
+    "code": "29257",
+    "districtName": "Thành phố Trà Vinh",
+    "districtCode": "842",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Phường 9",
+    "code": "29260",
+    "districtName": "Thành phố Trà Vinh",
+    "districtCode": "842",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Long Đức",
+    "code": "29263",
+    "districtName": "Thành phố Trà Vinh",
+    "districtCode": "842",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Phường 1",
+    "code": "29512",
+    "districtName": "Thị xã Duyên Hải",
+    "districtCode": "851",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Phường 2",
+    "code": "29516",
+    "districtName": "Thị xã Duyên Hải",
+    "districtCode": "851",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Dân Thành",
+    "code": "29524",
+    "districtName": "Thị xã Duyên Hải",
+    "districtCode": "851",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Hiệp Thạnh",
+    "code": "29539",
+    "districtName": "Thị xã Duyên Hải",
+    "districtCode": "851",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Long Hữu",
+    "code": "29518",
+    "districtName": "Thị xã Duyên Hải",
+    "districtCode": "851",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Long Toàn",
+    "code": "29515",
+    "districtName": "Thị xã Duyên Hải",
+    "districtCode": "851",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  },
+  {
+    "name": "Xã Trường Long Hòa",
+    "code": "29527",
+    "districtName": "Thị xã Duyên Hải",
+    "districtCode": "851",
+    "provinceName": "Tỉnh Trà Vinh",
+    "provinceCode": "84"
+  }
+]

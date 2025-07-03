@@ -1,0 +1,60 @@
+{
+  "name": "Tỉnh Trà Vinh",
+  "code": "84",
+  "districts": [
+    {
+      "name": "Huyện Châu Thành",
+      "code": "847",
+      "provinceName": "Tỉnh Trà Vinh",
+      "provinceCode": "84"
+    },
+    {
+      "name": "Huyện Càng Long",
+      "code": "844",
+      "provinceName": "Tỉnh Trà Vinh",
+      "provinceCode": "84"
+    },
+    {
+      "name": "Huyện Cầu Kè",
+      "code": "845",
+      "provinceName": "Tỉnh Trà Vinh",
+      "provinceCode": "84"
+    },
+    {
+      "name": "Huyện Cầu Ngang",
+      "code": "848",
+      "provinceName": "Tỉnh Trà Vinh",
+      "provinceCode": "84"
+    },
+    {
+      "name": "Huyện Duyên Hải",
+      "code": "850",
+      "provinceName": "Tỉnh Trà Vinh",
+      "provinceCode": "84"
+    },
+    {
+      "name": "Huyện Tiểu Cần",
+      "code": "846",
+      "provinceName": "Tỉnh Trà Vinh",
+      "provinceCode": "84"
+    },
+    {
+      "name": "Huyện Trà Cú",
+      "code": "849",
+      "provinceName": "Tỉnh Trà Vinh",
+      "provinceCode": "84"
+    },
+    {
+      "name": "Thành phố Trà Vinh",
+      "code": "842",
+      "provinceName": "Tỉnh Trà Vinh",
+      "provinceCode": "84"
+    },
+    {
+      "name": "Thị xã Duyên Hải",
+      "code": "851",
+      "provinceName": "Tỉnh Trà Vinh",
+      "provinceCode": "84"
+    }
+  ]
+}

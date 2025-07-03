@@ -1,0 +1,75 @@
+{
+  "name": "Lào Cai",
+  "code": "15",
+  "from": "Lào Cai, Yên Bái",
+  "area": 13256.92,
+  "population": 1778785,
+  "adminCenter": "Yên Bái",
+  "hasSeaport": false,
+  "numSeaports": null,
+  "numBerths": null,
+  "grdp": 125.886,
+  "licensePlates": [
+    21,
+    24
+  ],
+  "density": 134,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Lục Yên",
+      "code": "135",
+      "provinceName": "Tỉnh Yên Bái",
+      "provinceCode": "15"
+    },
+    {
+      "name": "Huyện Mù Căng Chải",
+      "code": "137",
+      "provinceName": "Tỉnh Yên Bái",
+      "provinceCode": "15"
+    },
+    {
+      "name": "Huyện Trạm Tấu",
+      "code": "139",
+      "provinceName": "Tỉnh Yên Bái",
+      "provinceCode": "15"
+    },
+    {
+      "name": "Huyện Trấn Yên",
+      "code": "138",
+      "provinceName": "Tỉnh Yên Bái",
+      "provinceCode": "15"
+    },
+    {
+      "name": "Huyện Văn Chấn",
+      "code": "140",
+      "provinceName": "Tỉnh Yên Bái",
+      "provinceCode": "15"
+    },
+    {
+      "name": "Huyện Văn Yên",
+      "code": "136",
+      "provinceName": "Tỉnh Yên Bái",
+      "provinceCode": "15"
+    },
+    {
+      "name": "Huyện Yên Bình",
+      "code": "141",
+      "provinceName": "Tỉnh Yên Bái",
+      "provinceCode": "15"
+    },
+    {
+      "name": "Thành phố Yên Bái",
+      "code": "132",
+      "provinceName": "Tỉnh Yên Bái",
+      "provinceCode": "15"
+    },
+    {
+      "name": "Thị xã Nghĩa Lộ",
+      "code": "133",
+      "provinceName": "Tỉnh Yên Bái",
+      "provinceCode": "15"
+    }
+  ]
+}

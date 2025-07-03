@@ -1,0 +1,106 @@
+{
+  "name": "TP Hải Phòng",
+  "code": "31",
+  "from": "TP Hải Phòng, Hải Dương",
+  "area": 3194.72,
+  "population": 4664124,
+  "adminCenter": "TP Thủy Nguyên",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 51,
+  "grdp": 658.381,
+  "licensePlates": [
+    15,
+    16,
+    34
+  ],
+  "density": 1460,
+  "wardsCount": 0,
+  "placeType": "Thành phố Trung Ương",
+  "districts": [
+    {
+      "name": "Huyện An Lão",
+      "code": "313",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    },
+    {
+      "name": "Huyện Cát Hải",
+      "code": "317",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    },
+    {
+      "name": "Huyện Kiến Thuỵ",
+      "code": "314",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    },
+    {
+      "name": "Huyện Tiên Lãng",
+      "code": "315",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    },
+    {
+      "name": "Huyện Vĩnh Bảo",
+      "code": "316",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    },
+    {
+      "name": "Quận An Dương",
+      "code": "312",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    },
+    {
+      "name": "Quận Dương Kinh",
+      "code": "309",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    },
+    {
+      "name": "Quận Hải An",
+      "code": "306",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    },
+    {
+      "name": "Quận Hồng Bàng",
+      "code": "303",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    },
+    {
+      "name": "Quận Kiến An",
+      "code": "307",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    },
+    {
+      "name": "Quận Lê Chân",
+      "code": "305",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    },
+    {
+      "name": "Quận Ngô Quyền",
+      "code": "304",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    },
+    {
+      "name": "Quận Đồ Sơn",
+      "code": "308",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    },
+    {
+      "name": "Thành phố Thuỷ Nguyên",
+      "code": "311",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceCode": "31"
+    }
+  ]
+}

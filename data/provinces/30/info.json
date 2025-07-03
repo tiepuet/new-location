@@ -1,0 +1,78 @@
+{
+  "name": "Tỉnh Hải Dương",
+  "code": "30",
+  "districts": [
+    {
+      "name": "Huyện Bình Giang",
+      "code": "296",
+      "provinceName": "Tỉnh Hải Dương",
+      "provinceCode": "30"
+    },
+    {
+      "name": "Huyện Cẩm Giàng",
+      "code": "295",
+      "provinceName": "Tỉnh Hải Dương",
+      "provinceCode": "30"
+    },
+    {
+      "name": "Huyện Gia Lộc",
+      "code": "297",
+      "provinceName": "Tỉnh Hải Dương",
+      "provinceCode": "30"
+    },
+    {
+      "name": "Huyện Kim Thành",
+      "code": "293",
+      "provinceName": "Tỉnh Hải Dương",
+      "provinceCode": "30"
+    },
+    {
+      "name": "Huyện Nam Sách",
+      "code": "291",
+      "provinceName": "Tỉnh Hải Dương",
+      "provinceCode": "30"
+    },
+    {
+      "name": "Huyện Ninh Giang",
+      "code": "299",
+      "provinceName": "Tỉnh Hải Dương",
+      "provinceCode": "30"
+    },
+    {
+      "name": "Huyện Thanh Hà",
+      "code": "294",
+      "provinceName": "Tỉnh Hải Dương",
+      "provinceCode": "30"
+    },
+    {
+      "name": "Huyện Thanh Miện",
+      "code": "300",
+      "provinceName": "Tỉnh Hải Dương",
+      "provinceCode": "30"
+    },
+    {
+      "name": "Huyện Tứ Kỳ",
+      "code": "298",
+      "provinceName": "Tỉnh Hải Dương",
+      "provinceCode": "30"
+    },
+    {
+      "name": "Thành phố Chí Linh",
+      "code": "290",
+      "provinceName": "Tỉnh Hải Dương",
+      "provinceCode": "30"
+    },
+    {
+      "name": "Thành phố Hải Dương",
+      "code": "288",
+      "provinceName": "Tỉnh Hải Dương",
+      "provinceCode": "30"
+    },
+    {
+      "name": "Thị xã Kinh Môn",
+      "code": "292",
+      "provinceName": "Tỉnh Hải Dương",
+      "provinceCode": "30"
+    }
+  ]
+}

@@ -1,0 +1,1674 @@
+[
+  {
+    "name": "Thị trấn Nghèn",
+    "code": "18406",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Thị trấn Đồng Lộc",
+    "code": "18484",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Gia Hanh",
+    "code": "18463",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Khánh Vĩnh Yên",
+    "code": "18466",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kim Song Trường",
+    "code": "18436",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Mỹ Lộc",
+    "code": "18487",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Phú Lộc",
+    "code": "18454",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Quang Lộc",
+    "code": "18481",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Lộc",
+    "code": "18490",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thanh Lộc",
+    "code": "18433",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thiên Lộc",
+    "code": "18415",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thuần Thiện",
+    "code": "18418",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thường Nga",
+    "code": "18439",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thượng Lộc",
+    "code": "18478",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Tùng Lộc",
+    "code": "18445",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Vượng Lộc",
+    "code": "18427",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Xuân Lộc",
+    "code": "18475",
+    "districtName": "Huyện Can Lộc",
+    "districtCode": "443",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Thị trấn Cẩm Xuyên",
+    "code": "18673",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Thị trấn Thiên Cầm",
+    "code": "18676",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Duệ",
+    "code": "18715",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Dương",
+    "code": "18682",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Hà",
+    "code": "18727",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Hưng",
+    "code": "18733",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Lĩnh",
+    "code": "18721",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Lạc",
+    "code": "18748",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Lộc",
+    "code": "18730",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Minh",
+    "code": "18751",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Mỹ",
+    "code": "18739",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Nhượng",
+    "code": "18709",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Quan",
+    "code": "18724",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Quang",
+    "code": "18697",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Sơn",
+    "code": "18745",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Thành",
+    "code": "18694",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Thạch",
+    "code": "18706",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Thịnh",
+    "code": "18736",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Trung",
+    "code": "18742",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Nam Phúc Thăng",
+    "code": "18712",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Yên Hòa",
+    "code": "18679",
+    "districtName": "Huyện Cẩm Xuyên",
+    "districtCode": "446",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Thị trấn Hương Khê",
+    "code": "18496",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Gia Phố",
+    "code": "18532",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hà Linh",
+    "code": "18502",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hòa Hải",
+    "code": "18508",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hương Bình",
+    "code": "18523",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hương Giang",
+    "code": "18517",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hương Liên",
+    "code": "18559",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hương Long",
+    "code": "18526",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hương Lâm",
+    "code": "18556",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hương Thủy",
+    "code": "18505",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hương Trà",
+    "code": "18550",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hương Trạch",
+    "code": "18553",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hương Vĩnh",
+    "code": "18541",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hương Xuân",
+    "code": "18544",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hương Đô",
+    "code": "18538",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Lộc Yên",
+    "code": "18520",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Phú Gia",
+    "code": "18529",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Phúc Trạch",
+    "code": "18547",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Phúc Đồng",
+    "code": "18514",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Điền Mỹ",
+    "code": "18499",
+    "districtName": "Huyện Hương Khê",
+    "districtCode": "444",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Thị trấn Phố Châu",
+    "code": "18133",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Thị trấn Tây Sơn",
+    "code": "18136",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã An Hòa Thịnh",
+    "code": "18163",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Châu Bình",
+    "code": "18178",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hàm Trường",
+    "code": "18223",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kim Hoa",
+    "code": "18211",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Mỹ Long",
+    "code": "18202",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Quang Diệm",
+    "code": "18184",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Bằng",
+    "code": "18190",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Giang",
+    "code": "18157",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Hồng",
+    "code": "18139",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Kim 1",
+    "code": "18196",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Kim 2",
+    "code": "18199",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Lâm",
+    "code": "18145",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Lĩnh",
+    "code": "18160",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Lễ",
+    "code": "18148",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Ninh",
+    "code": "18175",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Phú",
+    "code": "18217",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Tiến",
+    "code": "18142",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Trung",
+    "code": "18187",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Sơn Tây",
+    "code": "18172",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Tân Mỹ Hà",
+    "code": "18181",
+    "districtName": "Huyện Hương Sơn",
+    "districtCode": "439",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Thị trấn Kỳ Đồng",
+    "code": "18775",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Bắc",
+    "code": "18760",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Châu",
+    "code": "18811",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Giang",
+    "code": "18772",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Hải",
+    "code": "18802",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Khang",
+    "code": "18778",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Lạc",
+    "code": "18850",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Phong",
+    "code": "18766",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Phú",
+    "code": "18763",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Sơn",
+    "code": "18844",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Thư",
+    "code": "18805",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Thượng",
+    "code": "18799",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Thọ",
+    "code": "18790",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Tiến",
+    "code": "18769",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Trung",
+    "code": "18787",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Tân",
+    "code": "18814",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Tây",
+    "code": "18793",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Văn",
+    "code": "18784",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Xuân",
+    "code": "18757",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Lâm Hợp",
+    "code": "18838",
+    "districtName": "Huyện Kỳ Anh",
+    "districtCode": "447",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Thị trấn Tiên Điền",
+    "code": "18373",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Thị trấn Xuân An",
+    "code": "18352",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cương Gián",
+    "code": "18403",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cỗ Đạm",
+    "code": "18391",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Xuân Giang",
+    "code": "18370",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Xuân Hải",
+    "code": "18367",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Xuân Hồng",
+    "code": "18388",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Xuân Hội",
+    "code": "18355",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Xuân Lam",
+    "code": "18400",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Xuân Liên",
+    "code": "18394",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Xuân Lĩnh",
+    "code": "18397",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Xuân Mỹ",
+    "code": "18379",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Xuân Phổ",
+    "code": "18364",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Xuân Thành",
+    "code": "18382",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Xuân Viên",
+    "code": "18385",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Xuân Yên",
+    "code": "18376",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Đan Trường",
+    "code": "18358",
+    "districtName": "Huyện Nghi Xuân",
+    "districtCode": "442",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Thị trấn Lộc Hà",
+    "code": "18568",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Thị trấn Thạch Hà",
+    "code": "18562",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Bình An",
+    "code": "18430",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hồng Lộc",
+    "code": "18412",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Lưu Vĩnh Sơn",
+    "code": "18634",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Mai Phụ",
+    "code": "18670",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Nam Điền",
+    "code": "18667",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Ngọc Sơn",
+    "code": "18565",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Phù Lưu",
+    "code": "18493",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Châu",
+    "code": "18583",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Kim",
+    "code": "18580",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Kênh",
+    "code": "18586",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Liên",
+    "code": "18592",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Long",
+    "code": "18607",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Mỹ",
+    "code": "18577",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Ngọc",
+    "code": "18625",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Sơn",
+    "code": "18589",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Xuân",
+    "code": "18658",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thịnh Lộc",
+    "code": "18421",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Tân Lộc",
+    "code": "18409",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Việt Tiến",
+    "code": "18601",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Ích Hậu",
+    "code": "18457",
+    "districtName": "Huyện Thạch Hà",
+    "districtCode": "445",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Thị trấn Vũ Quang",
+    "code": "18313",
+    "districtName": "Huyện Vũ Quang",
+    "districtCode": "441",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hương Minh",
+    "code": "18340",
+    "districtName": "Huyện Vũ Quang",
+    "districtCode": "441",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Quang Thọ",
+    "code": "18343",
+    "districtName": "Huyện Vũ Quang",
+    "districtCode": "441",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thọ Điền",
+    "code": "18325",
+    "districtName": "Huyện Vũ Quang",
+    "districtCode": "441",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Ân Phú",
+    "code": "18316",
+    "districtName": "Huyện Vũ Quang",
+    "districtCode": "441",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Đức Bồng",
+    "code": "18331",
+    "districtName": "Huyện Vũ Quang",
+    "districtCode": "441",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Đức Giang",
+    "code": "18319",
+    "districtName": "Huyện Vũ Quang",
+    "districtCode": "441",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Đức Hương",
+    "code": "18328",
+    "districtName": "Huyện Vũ Quang",
+    "districtCode": "441",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Đức Liên",
+    "code": "18334",
+    "districtName": "Huyện Vũ Quang",
+    "districtCode": "441",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Đức Lĩnh",
+    "code": "18322",
+    "districtName": "Huyện Vũ Quang",
+    "districtCode": "441",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Thị trấn Đức Thọ",
+    "code": "18229",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã An Dũng",
+    "code": "18298",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Bùi La Nhân",
+    "code": "18262",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hòa Lạc",
+    "code": "18280",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Liên Minh",
+    "code": "18247",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Lâm Trung Thủy",
+    "code": "18277",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Quang Vĩnh",
+    "code": "18235",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thanh Bình Thịnh",
+    "code": "18274",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Trường Sơn",
+    "code": "18244",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Tân Dân",
+    "code": "18283",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Tân Hương",
+    "code": "18310",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Tùng Châu",
+    "code": "18241",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Tùng Ảnh",
+    "code": "18259",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Yên Hồ",
+    "code": "18253",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Đức Lạng",
+    "code": "18307",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Đức Đồng",
+    "code": "18304",
+    "districtName": "Huyện Đức Thọ",
+    "districtCode": "440",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Bắc Hà",
+    "code": "18077",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Hà Huy Tập",
+    "code": "18085",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Nam Hà",
+    "code": "18073",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Thạch Hưng",
+    "code": "18109",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Thạch Hạ",
+    "code": "18100",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Thạch Quý",
+    "code": "18091",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Thạch Trung",
+    "code": "18088",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Trần Phú",
+    "code": "18094",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Tân Giang",
+    "code": "18079",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Văn Yên",
+    "code": "18097",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Đại Nài",
+    "code": "18082",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Đồng Môn",
+    "code": "18103",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Bình",
+    "code": "18685",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Cẩm Vịnh",
+    "code": "18691",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Hộ Độ",
+    "code": "18598",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Bình",
+    "code": "18112",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Hải",
+    "code": "18571",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Hội",
+    "code": "18649",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Khê",
+    "code": "18604",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Lạc",
+    "code": "18622",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Thắng",
+    "code": "18637",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Trị",
+    "code": "18619",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Văn",
+    "code": "18631",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thạch Đài",
+    "code": "18643",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Tân Lâm Hương",
+    "code": "18652",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Tượng Sơn",
+    "code": "18628",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Đỉnh Bàn",
+    "code": "18595",
+    "districtName": "Thành phố Hà Tĩnh",
+    "districtCode": "436",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Bắc Hồng",
+    "code": "18115",
+    "districtName": "Thị xã Hồng Lĩnh",
+    "districtCode": "437",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Nam Hồng",
+    "code": "18118",
+    "districtName": "Thị xã Hồng Lĩnh",
+    "districtCode": "437",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Trung Lương",
+    "code": "18121",
+    "districtName": "Thị xã Hồng Lĩnh",
+    "districtCode": "437",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Đậu Liêu",
+    "code": "18127",
+    "districtName": "Thị xã Hồng Lĩnh",
+    "districtCode": "437",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Đức Thuận",
+    "code": "18124",
+    "districtName": "Thị xã Hồng Lĩnh",
+    "districtCode": "437",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Thuận Lộc",
+    "code": "18130",
+    "districtName": "Thị xã Hồng Lĩnh",
+    "districtCode": "437",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Hưng Trí",
+    "code": "18754",
+    "districtName": "Thị xã Kỳ Anh",
+    "districtCode": "449",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Kỳ Liên",
+    "code": "18841",
+    "districtName": "Thị xã Kỳ Anh",
+    "districtCode": "449",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Kỳ Long",
+    "code": "18835",
+    "districtName": "Thị xã Kỳ Anh",
+    "districtCode": "449",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Kỳ Nam",
+    "code": "18847",
+    "districtName": "Thị xã Kỳ Anh",
+    "districtCode": "449",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Kỳ Ninh",
+    "code": "18781",
+    "districtName": "Thị xã Kỳ Anh",
+    "districtCode": "449",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Kỳ Phương",
+    "code": "18832",
+    "districtName": "Thị xã Kỳ Anh",
+    "districtCode": "449",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Kỳ Thịnh",
+    "code": "18823",
+    "districtName": "Thị xã Kỳ Anh",
+    "districtCode": "449",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Phường Kỳ Trinh",
+    "code": "18820",
+    "districtName": "Thị xã Kỳ Anh",
+    "districtCode": "449",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Hoa",
+    "code": "18829",
+    "districtName": "Thị xã Kỳ Anh",
+    "districtCode": "449",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Hà",
+    "code": "18808",
+    "districtName": "Thị xã Kỳ Anh",
+    "districtCode": "449",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  },
+  {
+    "name": "Xã Kỳ Lợi",
+    "code": "18796",
+    "districtName": "Thị xã Kỳ Anh",
+    "districtCode": "449",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "provinceCode": "42"
+  }
+]

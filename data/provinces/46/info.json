@@ -1,0 +1,74 @@
+{
+  "name": "TP Huế",
+  "code": "46",
+  "from": "TP Huế",
+  "area": 4947.1,
+  "population": 1236393,
+  "adminCenter": "TP Huế",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 2,
+  "grdp": 89.736,
+  "licensePlates": [
+    75
+  ],
+  "density": 250,
+  "wardsCount": 0,
+  "placeType": "Thành phố Trung Ương",
+  "districts": [
+    {
+      "name": "Huyện A Lưới",
+      "code": "481",
+      "provinceName": "Thành phố Huế",
+      "provinceCode": "46"
+    },
+    {
+      "name": "Huyện Phú Lộc",
+      "code": "482",
+      "provinceName": "Thành phố Huế",
+      "provinceCode": "46"
+    },
+    {
+      "name": "Huyện Phú Vang",
+      "code": "478",
+      "provinceName": "Thành phố Huế",
+      "provinceCode": "46"
+    },
+    {
+      "name": "Huyện Quảng Điền",
+      "code": "477",
+      "provinceName": "Thành phố Huế",
+      "provinceCode": "46"
+    },
+    {
+      "name": "Quận Phú Xuân",
+      "code": "475",
+      "provinceName": "Thành phố Huế",
+      "provinceCode": "46"
+    },
+    {
+      "name": "Quận Thuận Hóa",
+      "code": "474",
+      "provinceName": "Thành phố Huế",
+      "provinceCode": "46"
+    },
+    {
+      "name": "Thị xã Hương Thủy",
+      "code": "479",
+      "provinceName": "Thành phố Huế",
+      "provinceCode": "46"
+    },
+    {
+      "name": "Thị xã Hương Trà",
+      "code": "480",
+      "provinceName": "Thành phố Huế",
+      "provinceCode": "46"
+    },
+    {
+      "name": "Thị xã Phong Điền",
+      "code": "476",
+      "provinceName": "Thành phố Huế",
+      "provinceCode": "46"
+    }
+  ]
+}

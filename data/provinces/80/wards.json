@@ -1,0 +1,1490 @@
+[
+  {
+    "name": "Thị trấn Bến Lức",
+    "code": "27991",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã An Thạnh",
+    "code": "28012",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Đức",
+    "code": "28015",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Hiệp",
+    "code": "28024",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Lương Bình",
+    "code": "27997",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Lương Hòa",
+    "code": "28003",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Yên",
+    "code": "28018",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Nhựt Chánh",
+    "code": "28033",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Phước Lợi",
+    "code": "28030",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thanh Phú",
+    "code": "28021",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thạnh Hòa",
+    "code": "28000",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thạnh Lợi",
+    "code": "27994",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thạnh Đức",
+    "code": "28027",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Bửu",
+    "code": "28009",
+    "districtName": "Huyện Bến Lức",
+    "districtCode": "803",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Tầm Vu",
+    "code": "28210",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "808",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã An Lục Long",
+    "code": "28240",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "808",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Quới",
+    "code": "28213",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "808",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Dương Xuân Hội",
+    "code": "28237",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "808",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hiệp Thạnh",
+    "code": "28228",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "808",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hòa Phú",
+    "code": "28216",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "808",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Trì",
+    "code": "28243",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "808",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Phú Ngãi Trị",
+    "code": "28219",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "808",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Phước Tân Hưng",
+    "code": "28231",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "808",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thanh Phú Long",
+    "code": "28234",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "808",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thanh Vĩnh Đông",
+    "code": "28246",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "808",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thuận Mỹ",
+    "code": "28225",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "808",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Vĩnh Công",
+    "code": "28222",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "808",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Cần Giuộc",
+    "code": "28159",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long An",
+    "code": "28198",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Hậu",
+    "code": "28168",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Phụng",
+    "code": "28201",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Thượng",
+    "code": "28165",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Lộc",
+    "code": "28177",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Phước Hậu",
+    "code": "28174",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Phước Lâm",
+    "code": "28183",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Phước Lý",
+    "code": "28162",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Phước Lại",
+    "code": "28180",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Phước Vĩnh Tây",
+    "code": "28192",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Phước Vĩnh Đông",
+    "code": "28195",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thuận Thành",
+    "code": "28189",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Tập",
+    "code": "28207",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Đông Thạnh",
+    "code": "28204",
+    "districtName": "Huyện Cần Giuộc",
+    "districtCode": "807",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Cần Đước",
+    "code": "28108",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Cang",
+    "code": "28126",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Hòa",
+    "code": "28123",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Hựu Tây",
+    "code": "28153",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Hựu Đông",
+    "code": "28144",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Khê",
+    "code": "28114",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Sơn",
+    "code": "28129",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Trạch",
+    "code": "28111",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Định",
+    "code": "28117",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Lệ",
+    "code": "28135",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Phước Tuy",
+    "code": "28141",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Phước Vân",
+    "code": "28120",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Phước Đông",
+    "code": "28150",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Chánh",
+    "code": "28156",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Lân",
+    "code": "28138",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Trạch",
+    "code": "28132",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Ân",
+    "code": "28147",
+    "districtName": "Huyện Cần Đước",
+    "districtCode": "806",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Bình Phong Thạnh",
+    "code": "27814",
+    "districtName": "Huyện Mộc Hóa",
+    "districtCode": "798",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Hòa Trung",
+    "code": "27808",
+    "districtName": "Huyện Mộc Hóa",
+    "districtCode": "798",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Hòa Tây",
+    "code": "27796",
+    "districtName": "Huyện Mộc Hóa",
+    "districtCode": "798",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Hòa Đông",
+    "code": "27811",
+    "districtName": "Huyện Mộc Hóa",
+    "districtCode": "798",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Thạnh",
+    "code": "27802",
+    "districtName": "Huyện Mộc Hóa",
+    "districtCode": "798",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "27820",
+    "districtName": "Huyện Mộc Hóa",
+    "districtCode": "798",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "27823",
+    "districtName": "Huyện Mộc Hóa",
+    "districtCode": "798",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Thạnh Hóa",
+    "code": "27865",
+    "districtName": "Huyện Thạnh Hóa",
+    "districtCode": "800",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thuận Bình",
+    "code": "27871",
+    "districtName": "Huyện Thạnh Hóa",
+    "districtCode": "800",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thuận Nghĩa Hòa",
+    "code": "27880",
+    "districtName": "Huyện Thạnh Hóa",
+    "districtCode": "800",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thạnh An",
+    "code": "27895",
+    "districtName": "Huyện Thạnh Hóa",
+    "districtCode": "800",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thạnh Phú",
+    "code": "27877",
+    "districtName": "Huyện Thạnh Hóa",
+    "districtCode": "800",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thạnh Phước",
+    "code": "27874",
+    "districtName": "Huyện Thạnh Hóa",
+    "districtCode": "800",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thủy Tây",
+    "code": "27886",
+    "districtName": "Huyện Thạnh Hóa",
+    "districtCode": "800",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thủy Đông",
+    "code": "27883",
+    "districtName": "Huyện Thạnh Hóa",
+    "districtCode": "800",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Hiệp",
+    "code": "27868",
+    "districtName": "Huyện Thạnh Hóa",
+    "districtCode": "800",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Tây",
+    "code": "27889",
+    "districtName": "Huyện Thạnh Hóa",
+    "districtCode": "800",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Đông",
+    "code": "27892",
+    "districtName": "Huyện Thạnh Hóa",
+    "districtCode": "800",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Thủ Thừa",
+    "code": "28036",
+    "districtName": "Huyện Thủ Thừa",
+    "districtCode": "804",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình An",
+    "code": "28054",
+    "districtName": "Huyện Thủ Thừa",
+    "districtCode": "804",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Thạnh",
+    "code": "28063",
+    "districtName": "Huyện Thủ Thừa",
+    "districtCode": "804",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Thuận",
+    "code": "28045",
+    "districtName": "Huyện Thủ Thừa",
+    "districtCode": "804",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Long Thạnh",
+    "code": "28039",
+    "districtName": "Huyện Thủ Thừa",
+    "districtCode": "804",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ An",
+    "code": "28060",
+    "districtName": "Huyện Thủ Thừa",
+    "districtCode": "804",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Lạc",
+    "code": "28048",
+    "districtName": "Huyện Thủ Thừa",
+    "districtCode": "804",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Phú",
+    "code": "28066",
+    "districtName": "Huyện Thủ Thừa",
+    "districtCode": "804",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Thạnh",
+    "code": "28051",
+    "districtName": "Huyện Thủ Thừa",
+    "districtCode": "804",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Nhị Thành",
+    "code": "28057",
+    "districtName": "Huyện Thủ Thừa",
+    "districtCode": "804",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Long",
+    "code": "28072",
+    "districtName": "Huyện Thủ Thừa",
+    "districtCode": "804",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "28042",
+    "districtName": "Huyện Thủ Thừa",
+    "districtCode": "804",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Tân Hưng",
+    "code": "27721",
+    "districtName": "Huyện Tân Hưng",
+    "districtCode": "796",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hưng Hà",
+    "code": "27724",
+    "districtName": "Huyện Tân Hưng",
+    "districtCode": "796",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hưng Thạnh",
+    "code": "27736",
+    "districtName": "Huyện Tân Hưng",
+    "districtCode": "796",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hưng Điền",
+    "code": "27730",
+    "districtName": "Huyện Tân Hưng",
+    "districtCode": "796",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hưng Điền B",
+    "code": "27727",
+    "districtName": "Huyện Tân Hưng",
+    "districtCode": "796",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thạnh Hưng",
+    "code": "27733",
+    "districtName": "Huyện Tân Hưng",
+    "districtCode": "796",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Vĩnh Bửu",
+    "code": "27754",
+    "districtName": "Huyện Tân Hưng",
+    "districtCode": "796",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Vĩnh Châu A",
+    "code": "27751",
+    "districtName": "Huyện Tân Hưng",
+    "districtCode": "796",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Vĩnh Châu B",
+    "code": "27742",
+    "districtName": "Huyện Tân Hưng",
+    "districtCode": "796",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Vĩnh Lợi",
+    "code": "27745",
+    "districtName": "Huyện Tân Hưng",
+    "districtCode": "796",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Vĩnh Thạnh",
+    "code": "27739",
+    "districtName": "Huyện Tân Hưng",
+    "districtCode": "796",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Vĩnh Đại",
+    "code": "27748",
+    "districtName": "Huyện Tân Hưng",
+    "districtCode": "796",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Tân Thạnh",
+    "code": "27826",
+    "districtName": "Huyện Tân Thạnh",
+    "districtCode": "799",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bắc Hòa",
+    "code": "27829",
+    "districtName": "Huyện Tân Thạnh",
+    "districtCode": "799",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hậu Thạnh Tây",
+    "code": "27832",
+    "districtName": "Huyện Tân Thạnh",
+    "districtCode": "799",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hậu Thạnh Đông",
+    "code": "27841",
+    "districtName": "Huyện Tân Thạnh",
+    "districtCode": "799",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Kiến Bình",
+    "code": "27847",
+    "districtName": "Huyện Tân Thạnh",
+    "districtCode": "799",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Nhơn Hoà",
+    "code": "27844",
+    "districtName": "Huyện Tân Thạnh",
+    "districtCode": "799",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Nhơn Hòa Lập",
+    "code": "27835",
+    "districtName": "Huyện Tân Thạnh",
+    "districtCode": "799",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Nhơn Ninh",
+    "code": "27859",
+    "districtName": "Huyện Tân Thạnh",
+    "districtCode": "799",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Bình",
+    "code": "27853",
+    "districtName": "Huyện Tân Thạnh",
+    "districtCode": "799",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Hòa",
+    "code": "27862",
+    "districtName": "Huyện Tân Thạnh",
+    "districtCode": "799",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "27838",
+    "districtName": "Huyện Tân Thạnh",
+    "districtCode": "799",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Ninh",
+    "code": "27856",
+    "districtName": "Huyện Tân Thạnh",
+    "districtCode": "799",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "27850",
+    "districtName": "Huyện Tân Thạnh",
+    "districtCode": "799",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Tân Trụ",
+    "code": "28075",
+    "districtName": "Huyện Tân Trụ",
+    "districtCode": "805",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Lãng",
+    "code": "28096",
+    "districtName": "Huyện Tân Trụ",
+    "districtCode": "805",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Trinh Đông",
+    "code": "28090",
+    "districtName": "Huyện Tân Trụ",
+    "districtCode": "805",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Tịnh",
+    "code": "28099",
+    "districtName": "Huyện Tân Trụ",
+    "districtCode": "805",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Lạc Tấn",
+    "code": "28087",
+    "districtName": "Huyện Tân Trụ",
+    "districtCode": "805",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Nhựt Ninh",
+    "code": "28105",
+    "districtName": "Huyện Tân Trụ",
+    "districtCode": "805",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Quê Mỹ Thạnh",
+    "code": "28084",
+    "districtName": "Huyện Tân Trụ",
+    "districtCode": "805",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Bình",
+    "code": "28078",
+    "districtName": "Huyện Tân Trụ",
+    "districtCode": "805",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Phước Tây",
+    "code": "28093",
+    "districtName": "Huyện Tân Trụ",
+    "districtCode": "805",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Đức Tân",
+    "code": "28102",
+    "districtName": "Huyện Tân Trụ",
+    "districtCode": "805",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Vĩnh Hưng",
+    "code": "27757",
+    "districtName": "Huyện Vĩnh Hưng",
+    "districtCode": "797",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hưng Điền A",
+    "code": "27760",
+    "districtName": "Huyện Vĩnh Hưng",
+    "districtCode": "797",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Khánh Hưng",
+    "code": "27763",
+    "districtName": "Huyện Vĩnh Hưng",
+    "districtCode": "797",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thái Bình Trung",
+    "code": "27772",
+    "districtName": "Huyện Vĩnh Hưng",
+    "districtCode": "797",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thái Trị",
+    "code": "27766",
+    "districtName": "Huyện Vĩnh Hưng",
+    "districtCode": "797",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tuyên Bình",
+    "code": "27781",
+    "districtName": "Huyện Vĩnh Hưng",
+    "districtCode": "797",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tuyên Bình Tây",
+    "code": "27784",
+    "districtName": "Huyện Vĩnh Hưng",
+    "districtCode": "797",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Vĩnh Bình",
+    "code": "27775",
+    "districtName": "Huyện Vĩnh Hưng",
+    "districtCode": "797",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Vĩnh Thuận",
+    "code": "27778",
+    "districtName": "Huyện Vĩnh Hưng",
+    "districtCode": "797",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Vĩnh Trị",
+    "code": "27769",
+    "districtName": "Huyện Vĩnh Hưng",
+    "districtCode": "797",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Đông Thành",
+    "code": "27898",
+    "districtName": "Huyện Đức Huệ",
+    "districtCode": "801",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Hòa Bắc",
+    "code": "27919",
+    "districtName": "Huyện Đức Huệ",
+    "districtCode": "801",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Hòa Hưng",
+    "code": "27922",
+    "districtName": "Huyện Đức Huệ",
+    "districtCode": "801",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Hòa Nam",
+    "code": "27925",
+    "districtName": "Huyện Đức Huệ",
+    "districtCode": "801",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Thành",
+    "code": "27916",
+    "districtName": "Huyện Đức Huệ",
+    "districtCode": "801",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Bình",
+    "code": "27928",
+    "districtName": "Huyện Đức Huệ",
+    "districtCode": "801",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Quý Tây",
+    "code": "27907",
+    "districtName": "Huyện Đức Huệ",
+    "districtCode": "801",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Quý Đông",
+    "code": "27901",
+    "districtName": "Huyện Đức Huệ",
+    "districtCode": "801",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Thạnh Bắc",
+    "code": "27904",
+    "districtName": "Huyện Đức Huệ",
+    "districtCode": "801",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Thạnh Tây",
+    "code": "27910",
+    "districtName": "Huyện Đức Huệ",
+    "districtCode": "801",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Thạnh Đông",
+    "code": "27913",
+    "districtName": "Huyện Đức Huệ",
+    "districtCode": "801",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Hiệp Hòa",
+    "code": "27934",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Hậu Nghĩa",
+    "code": "27931",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Thị trấn Đức Hòa",
+    "code": "27937",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã An Ninh Tây",
+    "code": "27946",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã An Ninh Đông",
+    "code": "27943",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hiệp Hòa",
+    "code": "27952",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hòa Khánh Nam",
+    "code": "27979",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hòa Khánh Tây",
+    "code": "27970",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hòa Khánh Đông",
+    "code": "27973",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hựu Thạnh",
+    "code": "27988",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Lộc Giang",
+    "code": "27940",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Hạnh Bắc",
+    "code": "27964",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Mỹ Hạnh Nam",
+    "code": "27976",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Mỹ",
+    "code": "27949",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tân Phú",
+    "code": "27961",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Đức Hòa Hạ",
+    "code": "27985",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Đức Hòa Thượng",
+    "code": "27967",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Đức Hòa Đông",
+    "code": "27982",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Đức Lập Hạ",
+    "code": "27958",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Đức Lập Thượng",
+    "code": "27955",
+    "districtName": "Huyện Đức Hòa",
+    "districtCode": "802",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Phường 1",
+    "code": "27694",
+    "districtName": "Thành phố Tân An",
+    "districtCode": "794",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Phường 3",
+    "code": "27697",
+    "districtName": "Thành phố Tân An",
+    "districtCode": "794",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Phường 4",
+    "code": "27691",
+    "districtName": "Thành phố Tân An",
+    "districtCode": "794",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Phường 5",
+    "code": "27685",
+    "districtName": "Thành phố Tân An",
+    "districtCode": "794",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Phường 6",
+    "code": "27700",
+    "districtName": "Thành phố Tân An",
+    "districtCode": "794",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Phường 7",
+    "code": "27698",
+    "districtName": "Thành phố Tân An",
+    "districtCode": "794",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Phường Khánh Hậu",
+    "code": "27715",
+    "districtName": "Thành phố Tân An",
+    "districtCode": "794",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Phường Tân Khánh",
+    "code": "27692",
+    "districtName": "Thành phố Tân An",
+    "districtCode": "794",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã An Vĩnh Ngãi",
+    "code": "27718",
+    "districtName": "Thành phố Tân An",
+    "districtCode": "794",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Tâm",
+    "code": "27712",
+    "districtName": "Thành phố Tân An",
+    "districtCode": "794",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Hướng Thọ Phú",
+    "code": "27703",
+    "districtName": "Thành phố Tân An",
+    "districtCode": "794",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Lợi Bình Nhơn",
+    "code": "27709",
+    "districtName": "Thành phố Tân An",
+    "districtCode": "794",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Nhơn Thạnh Trung",
+    "code": "27706",
+    "districtName": "Thành phố Tân An",
+    "districtCode": "794",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Phường 1",
+    "code": "27787",
+    "districtName": "Thị xã Kiến Tường",
+    "districtCode": "795",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Phường 2",
+    "code": "27788",
+    "districtName": "Thị xã Kiến Tường",
+    "districtCode": "795",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Phường 3",
+    "code": "27806",
+    "districtName": "Thị xã Kiến Tường",
+    "districtCode": "795",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Hiệp",
+    "code": "27793",
+    "districtName": "Thị xã Kiến Tường",
+    "districtCode": "795",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Bình Tân",
+    "code": "27799",
+    "districtName": "Thị xã Kiến Tường",
+    "districtCode": "795",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thạnh Hưng",
+    "code": "27817",
+    "districtName": "Thị xã Kiến Tường",
+    "districtCode": "795",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Thạnh Trị",
+    "code": "27790",
+    "districtName": "Thị xã Kiến Tường",
+    "districtCode": "795",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  },
+  {
+    "name": "Xã Tuyên Thạnh",
+    "code": "27805",
+    "districtName": "Thị xã Kiến Tường",
+    "districtCode": "795",
+    "provinceName": "Tỉnh Long An",
+    "provinceCode": "80"
+  }
+]

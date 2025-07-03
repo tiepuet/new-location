@@ -1,0 +1,72 @@
+{
+  "name": "Tỉnh An Giang",
+  "code": "89",
+  "districts": [
+    {
+      "name": "Huyện An Phú",
+      "code": "886",
+      "provinceName": "Tỉnh An Giang",
+      "provinceCode": "89"
+    },
+    {
+      "name": "Huyện Châu Phú",
+      "code": "889",
+      "provinceName": "Tỉnh An Giang",
+      "provinceCode": "89"
+    },
+    {
+      "name": "Huyện Châu Thành",
+      "code": "892",
+      "provinceName": "Tỉnh An Giang",
+      "provinceCode": "89"
+    },
+    {
+      "name": "Huyện Chợ Mới",
+      "code": "893",
+      "provinceName": "Tỉnh An Giang",
+      "provinceCode": "89"
+    },
+    {
+      "name": "Huyện Phú Tân",
+      "code": "888",
+      "provinceName": "Tỉnh An Giang",
+      "provinceCode": "89"
+    },
+    {
+      "name": "Huyện Thoại Sơn",
+      "code": "894",
+      "provinceName": "Tỉnh An Giang",
+      "provinceCode": "89"
+    },
+    {
+      "name": "Huyện Tri Tôn",
+      "code": "891",
+      "provinceName": "Tỉnh An Giang",
+      "provinceCode": "89"
+    },
+    {
+      "name": "Thành phố Châu Đốc",
+      "code": "884",
+      "provinceName": "Tỉnh An Giang",
+      "provinceCode": "89"
+    },
+    {
+      "name": "Thành phố Long Xuyên",
+      "code": "883",
+      "provinceName": "Tỉnh An Giang",
+      "provinceCode": "89"
+    },
+    {
+      "name": "Thị xã Tân Châu",
+      "code": "887",
+      "provinceName": "Tỉnh An Giang",
+      "provinceCode": "89"
+    },
+    {
+      "name": "Thị xã Tịnh Biên",
+      "code": "890",
+      "provinceName": "Tỉnh An Giang",
+      "provinceCode": "89"
+    }
+  ]
+}

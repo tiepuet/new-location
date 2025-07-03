@@ -1,0 +1,1554 @@
+[
+  {
+    "name": "Thị trấn Bình Gia",
+    "code": "06112",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bình La",
+    "code": "06118",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hoa Thám",
+    "code": "06073",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hoàng Văn Thụ",
+    "code": "06100",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "06103",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hưng Đạo",
+    "code": "06067",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hồng Phong",
+    "code": "06079",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hồng Thái",
+    "code": "06115",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Minh Khai",
+    "code": "06094",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Mông Ân",
+    "code": "06106",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Quang Trung",
+    "code": "06088",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Quý Hòa",
+    "code": "06076",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thiện Hòa",
+    "code": "06085",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thiện Long",
+    "code": "06097",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thiện Thuật",
+    "code": "06091",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Hòa",
+    "code": "06109",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Văn",
+    "code": "06121",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Vĩnh Yên",
+    "code": "06070",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Yên Lỗ",
+    "code": "06082",
+    "districtName": "Huyện Bình Gia",
+    "districtCode": "181",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Thị trấn Bắc Sơn",
+    "code": "06325",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bắc Quỳnh",
+    "code": "06343",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Chiêu Vũ",
+    "code": "06358",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Chiến Thắng",
+    "code": "06364",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hưng Vũ",
+    "code": "06349",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Long Đống",
+    "code": "06328",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Nhất Hòa",
+    "code": "06376",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Nhất Tiến",
+    "code": "06382",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Trấn Yên",
+    "code": "06370",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Hương",
+    "code": "06361",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "06352",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "06379",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Tri",
+    "code": "06340",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Vũ Lăng",
+    "code": "06367",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Vũ Lễ",
+    "code": "06373",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Vũ Sơn",
+    "code": "06355",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Vạn Thủy",
+    "code": "06331",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Đồng ý",
+    "code": "06337",
+    "districtName": "Huyện Bắc Sơn",
+    "districtCode": "185",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Thị trấn Cao Lộc",
+    "code": "06187",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Thị trấn Đồng Đăng",
+    "code": "06184",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bình Trung",
+    "code": "06217",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bảo Lâm",
+    "code": "06190",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Cao Lâu",
+    "code": "06196",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Công Sơn",
+    "code": "06232",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Gia Cát",
+    "code": "06235",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hòa Cư",
+    "code": "06223",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hải Yến",
+    "code": "06220",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hồng Phong",
+    "code": "06205",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hợp Thành",
+    "code": "06226",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Lộc Yên",
+    "code": "06211",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Mẫu Sơn",
+    "code": "06238",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Phú Xá",
+    "code": "06214",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thanh Lòa",
+    "code": "06193",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thạch Đạn",
+    "code": "06199",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thụy Hùng",
+    "code": "06208",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Liên",
+    "code": "06244",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "06250",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Xuân Long",
+    "code": "06241",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Xuất Lễ",
+    "code": "06202",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Yên Trạch",
+    "code": "06247",
+    "districtName": "Huyện Cao Lộc",
+    "districtCode": "183",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Thị trấn Chi Lăng",
+    "code": "06466",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Thị trấn Đồng Mỏ",
+    "code": "06463",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bắc Thủy",
+    "code": "06478",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bằng Hữu",
+    "code": "06487",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bằng Mạc",
+    "code": "06493",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Chi Lăng",
+    "code": "06523",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Chiến Thắng",
+    "code": "06481",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Gia Lộc",
+    "code": "06475",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "06508",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hữu Kiên",
+    "code": "06514",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Liên Sơn",
+    "code": "06502",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Lâm Sơn",
+    "code": "06499",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Mai Sao",
+    "code": "06484",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Nhân Lý",
+    "code": "06496",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Quan Sơn",
+    "code": "06517",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thượng Cường",
+    "code": "06490",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Vân An",
+    "code": "06469",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Vân Thủy",
+    "code": "06472",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Vạn Linh",
+    "code": "06505",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Y Tịch",
+    "code": "06520",
+    "districtName": "Huyện Chi Lăng",
+    "districtCode": "187",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Thị trấn Hữu Lũng",
+    "code": "06385",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Cai Kinh",
+    "code": "06427",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "06397",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hòa Lạc",
+    "code": "06430",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hòa Sơn",
+    "code": "06445",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hòa Thắng",
+    "code": "06460",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hồ Sơn",
+    "code": "06451",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hữu Liên",
+    "code": "06388",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Minh Hòa",
+    "code": "06457",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Minh Sơn",
+    "code": "06448",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Minh Tiến",
+    "code": "06415",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Nhật Tiến",
+    "code": "06418",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Quyết Thắng",
+    "code": "06394",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thanh Sơn",
+    "code": "06421",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thiện Tân",
+    "code": "06406",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "06442",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Vân Nham",
+    "code": "06433",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Yên Bình",
+    "code": "06391",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Yên Sơn",
+    "code": "06403",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Yên Thịnh",
+    "code": "06400",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Yên Vượng",
+    "code": "06412",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Đồng Tiến",
+    "code": "06436",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Đồng Tân",
+    "code": "06424",
+    "districtName": "Huyện Hữu Lũng",
+    "districtCode": "186",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Thị trấn Lộc Bình",
+    "code": "06529",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Thị trấn Na Dương",
+    "code": "06526",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hữu Khánh",
+    "code": "06550",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hữu Lân",
+    "code": "06598",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Khuất Xá",
+    "code": "06565",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Khánh Xuân",
+    "code": "06544",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Lợi Bác",
+    "code": "06601",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Minh Hiệp",
+    "code": "06595",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Mẫu Sơn",
+    "code": "06532",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Nam Quan",
+    "code": "06604",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Sàn Viên",
+    "code": "06589",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tam Gia",
+    "code": "06559",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thống Nhất",
+    "code": "06577",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tú Mịch",
+    "code": "06547",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tú Đoạn",
+    "code": "06562",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Xuân Dương",
+    "code": "06607",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Yên Khoái",
+    "code": "06541",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Ái Quốc",
+    "code": "06610",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Đông Quan",
+    "code": "06592",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Đồng Bục",
+    "code": "06553",
+    "districtName": "Huyện Lộc Bình",
+    "districtCode": "188",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Thị trấn Thất Khê",
+    "code": "06040",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Cao Minh",
+    "code": "06010",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Chi Lăng",
+    "code": "06034",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Chí Minh",
+    "code": "06013",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hùng Sơn",
+    "code": "06055",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hùng Việt",
+    "code": "06061",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Kháng Chiến",
+    "code": "06049",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Khánh Long",
+    "code": "05998",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Kim Đồng",
+    "code": "06031",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Quốc Khánh",
+    "code": "06004",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Quốc Việt",
+    "code": "06058",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tri Phương",
+    "code": "06016",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Trung Thành",
+    "code": "06037",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Minh",
+    "code": "06028",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Tiến",
+    "code": "06019",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Yên",
+    "code": "06022",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Đoàn Kết",
+    "code": "06001",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Đào Viên",
+    "code": "06043",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Đề Thám",
+    "code": "06046",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Đội Cấn",
+    "code": "06025",
+    "districtName": "Huyện Tràng Định",
+    "districtCode": "180",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Thị trấn Na Sầm",
+    "code": "06124",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bắc Hùng",
+    "code": "06139",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bắc La",
+    "code": "06133",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bắc Việt",
+    "code": "06154",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Gia Miễn",
+    "code": "06160",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hoàng Việt",
+    "code": "06157",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hoàng Văn Thụ",
+    "code": "06178",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hồng Thái",
+    "code": "06175",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hội Hoan",
+    "code": "06151",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Nhạc Kỳ",
+    "code": "06181",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thanh Long",
+    "code": "06148",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thành Hòa",
+    "code": "06163",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thụy Hùng",
+    "code": "06136",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Trùng Khánh",
+    "code": "06127",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Mỹ",
+    "code": "06172",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Thanh",
+    "code": "06166",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Tác",
+    "code": "06142",
+    "districtName": "Huyện Văn Lãng",
+    "districtCode": "182",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Thị trấn Văn Quan",
+    "code": "06253",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã An Sơn",
+    "code": "06283",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bình Phúc",
+    "code": "06298",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "06274",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hữu Lễ",
+    "code": "06322",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Khánh Khê",
+    "code": "06286",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Liên Hội",
+    "code": "06268",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Lương Năng",
+    "code": "06292",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tri Lễ",
+    "code": "06313",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tràng Phái",
+    "code": "06316",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Trấn Ninh",
+    "code": "06256",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tân Đoàn",
+    "code": "06307",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Tú Xuyên",
+    "code": "06277",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Yên Phúc",
+    "code": "06319",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Điềm He",
+    "code": "06280",
+    "districtName": "Huyện Văn Quan",
+    "districtCode": "184",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Thị trấn NT Thái Bình",
+    "code": "06616",
+    "districtName": "Huyện Đình Lập",
+    "districtCode": "189",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Thị trấn Đình Lập",
+    "code": "06613",
+    "districtName": "Huyện Đình Lập",
+    "districtCode": "189",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bính Xá",
+    "code": "06622",
+    "districtName": "Huyện Đình Lập",
+    "districtCode": "189",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bắc Lãng",
+    "code": "06646",
+    "districtName": "Huyện Đình Lập",
+    "districtCode": "189",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Bắc Xa",
+    "code": "06619",
+    "districtName": "Huyện Đình Lập",
+    "districtCode": "189",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Châu Sơn",
+    "code": "06637",
+    "districtName": "Huyện Đình Lập",
+    "districtCode": "189",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Cường Lợi",
+    "code": "06634",
+    "districtName": "Huyện Đình Lập",
+    "districtCode": "189",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Kiên Mộc",
+    "code": "06625",
+    "districtName": "Huyện Đình Lập",
+    "districtCode": "189",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Lâm Ca",
+    "code": "06640",
+    "districtName": "Huyện Đình Lập",
+    "districtCode": "189",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Thái Bình",
+    "code": "06631",
+    "districtName": "Huyện Đình Lập",
+    "districtCode": "189",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Đình Lập",
+    "code": "06628",
+    "districtName": "Huyện Đình Lập",
+    "districtCode": "189",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Đồng Thắng",
+    "code": "06643",
+    "districtName": "Huyện Đình Lập",
+    "districtCode": "189",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Phường Chi Lăng",
+    "code": "05983",
+    "districtName": "Thành phố Lạng Sơn",
+    "districtCode": "178",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Phường Hoàng Văn Thụ",
+    "code": "05971",
+    "districtName": "Thành phố Lạng Sơn",
+    "districtCode": "178",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Phường Tam Thanh",
+    "code": "05974",
+    "districtName": "Thành phố Lạng Sơn",
+    "districtCode": "178",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Phường Vĩnh Trại",
+    "code": "05977",
+    "districtName": "Thành phố Lạng Sơn",
+    "districtCode": "178",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Phường Đông Kinh",
+    "code": "05980",
+    "districtName": "Thành phố Lạng Sơn",
+    "districtCode": "178",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Hoàng Đồng",
+    "code": "05986",
+    "districtName": "Thành phố Lạng Sơn",
+    "districtCode": "178",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Mai Pha",
+    "code": "05992",
+    "districtName": "Thành phố Lạng Sơn",
+    "districtCode": "178",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  },
+  {
+    "name": "Xã Quảng Lạc",
+    "code": "05989",
+    "districtName": "Thành phố Lạng Sơn",
+    "districtCode": "178",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "provinceCode": "20"
+  }
+]

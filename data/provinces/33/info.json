@@ -1,0 +1,81 @@
+{
+  "name": "Hưng Yên",
+  "code": "33",
+  "from": "Hưng Yên, Thái Bình",
+  "area": 2514.81,
+  "population": 3567943,
+  "adminCenter": "TP Hưng Yên",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 2,
+  "grdp": 292.603,
+  "licensePlates": [
+    17,
+    89
+  ],
+  "density": 1419,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Khoái Châu",
+      "code": "330",
+      "provinceName": "Tỉnh Hưng Yên",
+      "provinceCode": "33"
+    },
+    {
+      "name": "Huyện Kim Động",
+      "code": "331",
+      "provinceName": "Tỉnh Hưng Yên",
+      "provinceCode": "33"
+    },
+    {
+      "name": "Huyện Phù Cừ",
+      "code": "333",
+      "provinceName": "Tỉnh Hưng Yên",
+      "provinceCode": "33"
+    },
+    {
+      "name": "Huyện Tiên Lữ",
+      "code": "332",
+      "provinceName": "Tỉnh Hưng Yên",
+      "provinceCode": "33"
+    },
+    {
+      "name": "Huyện Văn Giang",
+      "code": "326",
+      "provinceName": "Tỉnh Hưng Yên",
+      "provinceCode": "33"
+    },
+    {
+      "name": "Huyện Văn Lâm",
+      "code": "325",
+      "provinceName": "Tỉnh Hưng Yên",
+      "provinceCode": "33"
+    },
+    {
+      "name": "Huyện Yên Mỹ",
+      "code": "327",
+      "provinceName": "Tỉnh Hưng Yên",
+      "provinceCode": "33"
+    },
+    {
+      "name": "Huyện Ân Thi",
+      "code": "329",
+      "provinceName": "Tỉnh Hưng Yên",
+      "provinceCode": "33"
+    },
+    {
+      "name": "Thành phố Hưng Yên",
+      "code": "323",
+      "provinceName": "Tỉnh Hưng Yên",
+      "provinceCode": "33"
+    },
+    {
+      "name": "Thị xã Mỹ Hào",
+      "code": "328",
+      "provinceName": "Tỉnh Hưng Yên",
+      "provinceCode": "33"
+    }
+  ]
+}

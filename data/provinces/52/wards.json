@@ -1,0 +1,1242 @@
+[
+  {
+    "name": "Thị trấn An Lão",
+    "code": "21609",
+    "districtName": "Huyện An Lão",
+    "districtCode": "542",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã An Dũng",
+    "code": "21616",
+    "districtName": "Huyện An Lão",
+    "districtCode": "542",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã An Hòa",
+    "code": "21628",
+    "districtName": "Huyện An Lão",
+    "districtCode": "542",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã An Hưng",
+    "code": "21610",
+    "districtName": "Huyện An Lão",
+    "districtCode": "542",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã An Nghĩa",
+    "code": "21634",
+    "districtName": "Huyện An Lão",
+    "districtCode": "542",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã An Quang",
+    "code": "21631",
+    "districtName": "Huyện An Lão",
+    "districtCode": "542",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã An Toàn",
+    "code": "21622",
+    "districtName": "Huyện An Lão",
+    "districtCode": "542",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã An Trung",
+    "code": "21613",
+    "districtName": "Huyện An Lão",
+    "districtCode": "542",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã An Tân",
+    "code": "21625",
+    "districtName": "Huyện An Lão",
+    "districtCode": "542",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã An Vinh",
+    "code": "21619",
+    "districtName": "Huyện An Lão",
+    "districtCode": "542",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Thị trấn Tăng Bạt Hổ",
+    "code": "21688",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Bok Tới",
+    "code": "21718",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Ân Hảo Tây",
+    "code": "21690",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Ân Hảo Đông",
+    "code": "21691",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Ân Hữu",
+    "code": "21715",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Ân Mỹ",
+    "code": "21697",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Ân Nghĩa",
+    "code": "21727",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Ân Phong",
+    "code": "21709",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Ân Sơn",
+    "code": "21694",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Ân Thạnh",
+    "code": "21706",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Ân Tín",
+    "code": "21703",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Ân Tường Tây",
+    "code": "21721",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Ân Tường Đông",
+    "code": "21724",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Ân Đức",
+    "code": "21712",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Đak Mang",
+    "code": "21700",
+    "districtName": "Huyện Hoài Ân",
+    "districtCode": "544",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Thị trấn Cát Khánh",
+    "code": "21862",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Thị trấn Cát Tiến",
+    "code": "21898",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Thị trấn Ngô Mây",
+    "code": "21853",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Chánh",
+    "code": "21904",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Hanh",
+    "code": "21871",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Hiệp",
+    "code": "21883",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Hưng",
+    "code": "21889",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Hải",
+    "code": "21880",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Lâm",
+    "code": "21868",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Minh",
+    "code": "21859",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Nhơn",
+    "code": "21886",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Sơn",
+    "code": "21856",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Thành",
+    "code": "21874",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Thắng",
+    "code": "21901",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Trinh",
+    "code": "21877",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Tài",
+    "code": "21865",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Tân",
+    "code": "21895",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Cát Tường",
+    "code": "21892",
+    "districtName": "Huyện Phù Cát",
+    "districtCode": "548",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Thị trấn Bình Dương",
+    "code": "21733",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Thị trấn Phù Mỹ",
+    "code": "21730",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ An",
+    "code": "21751",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Chánh",
+    "code": "21769",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Chánh Tây",
+    "code": "21784",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Châu",
+    "code": "21739",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Cát",
+    "code": "21781",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Hiệp",
+    "code": "21775",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Hòa",
+    "code": "21763",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Lộc",
+    "code": "21745",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Lợi",
+    "code": "21748",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Phong",
+    "code": "21754",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Quang",
+    "code": "21772",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Thành",
+    "code": "21766",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Thắng",
+    "code": "21742",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Thọ",
+    "code": "21760",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Trinh",
+    "code": "21757",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Tài",
+    "code": "21778",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Mỹ Đức",
+    "code": "21736",
+    "districtName": "Huyện Phù Mỹ",
+    "districtCode": "545",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Thị trấn Diêu Trì",
+    "code": "21955",
+    "districtName": "Huyện Tuy Phước",
+    "districtCode": "550",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Thị trấn Tuy Phước",
+    "code": "21952",
+    "districtName": "Huyện Tuy Phước",
+    "districtCode": "550",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Phước An",
+    "code": "21985",
+    "districtName": "Huyện Tuy Phước",
+    "districtCode": "550",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Phước Hiệp",
+    "code": "21973",
+    "districtName": "Huyện Tuy Phước",
+    "districtCode": "550",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Phước Hòa",
+    "code": "21967",
+    "districtName": "Huyện Tuy Phước",
+    "districtCode": "550",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Phước Hưng",
+    "code": "21961",
+    "districtName": "Huyện Tuy Phước",
+    "districtCode": "550",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Phước Lộc",
+    "code": "21976",
+    "districtName": "Huyện Tuy Phước",
+    "districtCode": "550",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Phước Nghĩa",
+    "code": "21979",
+    "districtName": "Huyện Tuy Phước",
+    "districtCode": "550",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Phước Quang",
+    "code": "21964",
+    "districtName": "Huyện Tuy Phước",
+    "districtCode": "550",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Phước Sơn",
+    "code": "21970",
+    "districtName": "Huyện Tuy Phước",
+    "districtCode": "550",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Phước Thuận",
+    "code": "21982",
+    "districtName": "Huyện Tuy Phước",
+    "districtCode": "550",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Phước Thành",
+    "code": "21988",
+    "districtName": "Huyện Tuy Phước",
+    "districtCode": "550",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Phước Thắng",
+    "code": "21958",
+    "districtName": "Huyện Tuy Phước",
+    "districtCode": "550",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Thị trấn Phú Phong",
+    "code": "21808",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Bình Hòa",
+    "code": "21829",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Bình Nghi",
+    "code": "21847",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Bình Thuận",
+    "code": "21817",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Bình Thành",
+    "code": "21823",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Bình Tân",
+    "code": "21811",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Bình Tường",
+    "code": "21835",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Tây An",
+    "code": "21826",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Tây Bình",
+    "code": "21832",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Tây Giang",
+    "code": "21820",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Tây Phú",
+    "code": "21850",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Tây Thuận",
+    "code": "21814",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Tây Vinh",
+    "code": "21838",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Tây Xuân",
+    "code": "21844",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Vĩnh An",
+    "code": "21841",
+    "districtName": "Huyện Tây Sơn",
+    "districtCode": "547",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Thị trấn Vân Canh",
+    "code": "21994",
+    "districtName": "Huyện Vân Canh",
+    "districtCode": "551",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Canh Hiển",
+    "code": "22006",
+    "districtName": "Huyện Vân Canh",
+    "districtCode": "551",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Canh Hiệp",
+    "code": "22000",
+    "districtName": "Huyện Vân Canh",
+    "districtCode": "551",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Canh Hòa",
+    "code": "22012",
+    "districtName": "Huyện Vân Canh",
+    "districtCode": "551",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Canh Liên",
+    "code": "21997",
+    "districtName": "Huyện Vân Canh",
+    "districtCode": "551",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Canh Thuận",
+    "code": "22009",
+    "districtName": "Huyện Vân Canh",
+    "districtCode": "551",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Canh Vinh",
+    "code": "22003",
+    "districtName": "Huyện Vân Canh",
+    "districtCode": "551",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Thị trấn Vĩnh Thạnh",
+    "code": "21786",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "546",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Vĩnh Hiệp",
+    "code": "21796",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "546",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Vĩnh Hòa",
+    "code": "21801",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "546",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Vĩnh Hảo",
+    "code": "21799",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "546",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Vĩnh Kim",
+    "code": "21790",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "546",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Vĩnh Quang",
+    "code": "21805",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "546",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Vĩnh Sơn",
+    "code": "21787",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "546",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Vĩnh Thuận",
+    "code": "21804",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "546",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Vĩnh Thịnh",
+    "code": "21802",
+    "districtName": "Huyện Vĩnh Thạnh",
+    "districtCode": "546",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Bùi Thị Xuân",
+    "code": "21589",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Ghềnh Ráng",
+    "code": "21595",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Hải Cảng",
+    "code": "21562",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Nguyễn Văn Cừ",
+    "code": "21592",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Ngô Mây",
+    "code": "21577",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Nhơn Bình",
+    "code": "21550",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Nhơn Phú",
+    "code": "21553",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Quang Trung",
+    "code": "21565",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Thị Nại",
+    "code": "21583",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Trần Phú",
+    "code": "21580",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Trần Quang Diệu",
+    "code": "21559",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Đống Đa",
+    "code": "21556",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn Châu",
+    "code": "21607",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn Hải",
+    "code": "21604",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn Hội",
+    "code": "21601",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn Lý",
+    "code": "21598",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Phước Mỹ",
+    "code": "21991",
+    "districtName": "Thành phố Quy Nhơn",
+    "districtCode": "540",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Bình Định",
+    "code": "21907",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Nhơn Hoà",
+    "code": "21943",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Nhơn Hưng",
+    "code": "21934",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Nhơn Thành",
+    "code": "21916",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Đập Đá",
+    "code": "21910",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn An",
+    "code": "21928",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn Hạnh",
+    "code": "21919",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn Hậu",
+    "code": "21922",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn Khánh",
+    "code": "21937",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn Lộc",
+    "code": "21940",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn Mỹ",
+    "code": "21913",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn Phong",
+    "code": "21925",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn Phúc",
+    "code": "21931",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn Thọ",
+    "code": "21949",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Nhơn Tân",
+    "code": "21946",
+    "districtName": "Thị xã An Nhơn",
+    "districtCode": "549",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Bồng Sơn",
+    "code": "21640",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Hoài Hương",
+    "code": "21670",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Hoài Hảo",
+    "code": "21661",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Hoài Thanh",
+    "code": "21667",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Hoài Thanh Tây",
+    "code": "21664",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Hoài Tân",
+    "code": "21673",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Hoài Xuân",
+    "code": "21679",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Hoài Đức",
+    "code": "21685",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Tam Quan",
+    "code": "21637",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Tam Quan Bắc",
+    "code": "21655",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Phường Tam Quan Nam",
+    "code": "21658",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Hoài Châu",
+    "code": "21649",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Hoài Châu Bắc",
+    "code": "21646",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Hoài Hải",
+    "code": "21676",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Hoài Mỹ",
+    "code": "21682",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Hoài Phú",
+    "code": "21652",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  },
+  {
+    "name": "Xã Hoài Sơn",
+    "code": "21643",
+    "districtName": "Thị xã Hoài Nhơn",
+    "districtCode": "543",
+    "provinceName": "Tỉnh Bình Định",
+    "provinceCode": "52"
+  }
+]

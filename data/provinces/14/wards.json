@@ -1,0 +1,1602 @@
+[
+  {
+    "name": "Thị trấn Bắc Yên",
+    "code": "03856",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chim Vàn",
+    "code": "03877",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Sại",
+    "code": "03895",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Hang Chú",
+    "code": "03862",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Hua Nhàn",
+    "code": "03890",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Háng Đồng",
+    "code": "03869",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Hồng Ngài",
+    "code": "03886",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Làng Chếu",
+    "code": "03874",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Khoa",
+    "code": "03880",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Phiêng Ban",
+    "code": "03859",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Phiêng Côn",
+    "code": "03892",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Pắc Ngà",
+    "code": "03871",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Song Pe",
+    "code": "03883",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tà Xùa",
+    "code": "03868",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tạ Khoa",
+    "code": "03889",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Xím Vàng",
+    "code": "03865",
+    "districtName": "Huyện Bắc Yên",
+    "districtCode": "121",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Thị trấn Hát Lót",
+    "code": "04105",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Ban",
+    "code": "04120",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Chung",
+    "code": "04129",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Chăn",
+    "code": "04114",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Dong",
+    "code": "04147",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Kheo",
+    "code": "04150",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Lương",
+    "code": "04156",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Mai",
+    "code": "04132",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Mung",
+    "code": "04123",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Nơi",
+    "code": "04141",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Sung",
+    "code": "04108",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Ve",
+    "code": "04153",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Cò Nòi",
+    "code": "04138",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Hát Lót",
+    "code": "04135",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Bon",
+    "code": "04126",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Bằng",
+    "code": "04111",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Chanh",
+    "code": "04117",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Nà Bó",
+    "code": "04136",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Nà Ơt",
+    "code": "04162",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Phiêng Cằm",
+    "code": "04144",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Phiêng Pằn",
+    "code": "04159",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tà Hộc",
+    "code": "04165",
+    "districtName": "Huyện Mai Sơn",
+    "districtCode": "125",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Thị trấn Ít Ong",
+    "code": "03808",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Công",
+    "code": "03838",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Hoa",
+    "code": "03850",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Lao",
+    "code": "03814",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Muôn",
+    "code": "03829",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng San",
+    "code": "03844",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Ân",
+    "code": "03832",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Hua Trai",
+    "code": "03817",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Bú",
+    "code": "03847",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Chùm",
+    "code": "03853",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Trai",
+    "code": "03823",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Ngọc Chiến",
+    "code": "03820",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Nậm Giôn",
+    "code": "03811",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Nậm Păm",
+    "code": "03826",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Pi Toong",
+    "code": "03835",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tạ Bú",
+    "code": "03841",
+    "districtName": "Huyện Mường La",
+    "districtCode": "120",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Thị trấn Quang Huy",
+    "code": "03910",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Bắc Phong",
+    "code": "03976",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Gia Phù",
+    "code": "03922",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Huy Hạ",
+    "code": "03928",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Huy Thượng",
+    "code": "03916",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Huy Tân",
+    "code": "03931",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Huy Tường",
+    "code": "03940",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Kim Bon",
+    "code": "03961",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Bang",
+    "code": "03964",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Cơi",
+    "code": "03907",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Do",
+    "code": "03943",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Lang",
+    "code": "03934",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Thải",
+    "code": "03904",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Nam Phong",
+    "code": "03973",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Suối Bau",
+    "code": "03937",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Suối Tọ",
+    "code": "03901",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Sập Xa",
+    "code": "03946",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tân Lang",
+    "code": "03919",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tân Phong",
+    "code": "03970",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tường Hạ",
+    "code": "03958",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tường Phong",
+    "code": "03955",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tường Phù",
+    "code": "03925",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tường Thượng",
+    "code": "03949",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tường Tiến",
+    "code": "03952",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Đá Đỏ",
+    "code": "03967",
+    "districtName": "Huyện Phù Yên",
+    "districtCode": "122",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Thị trấn Mường Giàng",
+    "code": "03703",
+    "districtName": "Huyện Quỳnh Nhai",
+    "districtCode": "118",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Bằng",
+    "code": "03706",
+    "districtName": "Huyện Quỳnh Nhai",
+    "districtCode": "118",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Khay",
+    "code": "03688",
+    "districtName": "Huyện Quỳnh Nhai",
+    "districtCode": "118",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Khoang",
+    "code": "03718",
+    "districtName": "Huyện Quỳnh Nhai",
+    "districtCode": "118",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Ơn",
+    "code": "03700",
+    "districtName": "Huyện Quỳnh Nhai",
+    "districtCode": "118",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Cà Nàng",
+    "code": "03685",
+    "districtName": "Huyện Quỳnh Nhai",
+    "districtCode": "118",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Chiên",
+    "code": "03682",
+    "districtName": "Huyện Quỳnh Nhai",
+    "districtCode": "118",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Giôn",
+    "code": "03694",
+    "districtName": "Huyện Quỳnh Nhai",
+    "districtCode": "118",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Sại",
+    "code": "03709",
+    "districtName": "Huyện Quỳnh Nhai",
+    "districtCode": "118",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Nậm ét",
+    "code": "03712",
+    "districtName": "Huyện Quỳnh Nhai",
+    "districtCode": "118",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Pá Ma Pha Khinh",
+    "code": "03697",
+    "districtName": "Huyện Quỳnh Nhai",
+    "districtCode": "118",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Thị trấn Sông Mã",
+    "code": "04168",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Bó Sinh",
+    "code": "04171",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Cang",
+    "code": "04207",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng En",
+    "code": "04180",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Khoong",
+    "code": "04204",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Khương",
+    "code": "04222",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Phung",
+    "code": "04177",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Sơ",
+    "code": "04195",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Huổi Một",
+    "code": "04210",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Cai",
+    "code": "04216",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Hung",
+    "code": "04219",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Lầm",
+    "code": "04183",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Sai",
+    "code": "04213",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Nà Nghịu",
+    "code": "04198",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Nậm Mằn",
+    "code": "04201",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Nậm Ty",
+    "code": "04186",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Pú Pẩu",
+    "code": "04174",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Yên Hưng",
+    "code": "04192",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Đứa Mòn",
+    "code": "04189",
+    "districtName": "Huyện Sông Mã",
+    "districtCode": "126",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Dồm Cang",
+    "code": "04234",
+    "districtName": "Huyện Sốp Cộp",
+    "districtCode": "127",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Lèo",
+    "code": "04240",
+    "districtName": "Huyện Sốp Cộp",
+    "districtCode": "127",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Lạn",
+    "code": "04246",
+    "districtName": "Huyện Sốp Cộp",
+    "districtCode": "127",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Và",
+    "code": "04243",
+    "districtName": "Huyện Sốp Cộp",
+    "districtCode": "127",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Nậm Lạnh",
+    "code": "04237",
+    "districtName": "Huyện Sốp Cộp",
+    "districtCode": "127",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Púng Bánh",
+    "code": "04228",
+    "districtName": "Huyện Sốp Cộp",
+    "districtCode": "127",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Sam Kha",
+    "code": "04225",
+    "districtName": "Huyện Sốp Cộp",
+    "districtCode": "127",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Sốp Cộp",
+    "code": "04231",
+    "districtName": "Huyện Sốp Cộp",
+    "districtCode": "127",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Thị trấn Thuận Châu",
+    "code": "03721",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Bon Phặng",
+    "code": "03793",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Bó Mười",
+    "code": "03778",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Bản Lầm",
+    "code": "03805",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Bôm",
+    "code": "03766",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng La",
+    "code": "03733",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Ngàm",
+    "code": "03736",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Pha",
+    "code": "03730",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Pấc",
+    "code": "03787",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Co Mạ",
+    "code": "03781",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Co Tòng",
+    "code": "03796",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Liệp Tè",
+    "code": "03739",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Long Hẹ",
+    "code": "03763",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Muổi Nọi",
+    "code": "03799",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Bám",
+    "code": "03760",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Khiêng",
+    "code": "03757",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường é",
+    "code": "03727",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Noong Lay",
+    "code": "03754",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Nậm Lầu",
+    "code": "03790",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Phổng Ly",
+    "code": "03748",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Phổng Lái",
+    "code": "03724",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Phổng Lập",
+    "code": "03745",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Pá Lông",
+    "code": "03802",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Púng Tra",
+    "code": "03784",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Thôm Mòn",
+    "code": "03769",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tông Cọ",
+    "code": "03775",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tông Lạnh",
+    "code": "03772",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã é Tòng",
+    "code": "03742",
+    "districtName": "Huyện Thuận Châu",
+    "districtCode": "119",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Khoa",
+    "code": "04036",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Xuân",
+    "code": "04056",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Yên",
+    "code": "04054",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Liên Hoà",
+    "code": "04009",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Lóng Luông",
+    "code": "04051",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Men",
+    "code": "04039",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Tè",
+    "code": "04021",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Quang Minh",
+    "code": "04042",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Song Khủa",
+    "code": "04006",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Suối Bàng",
+    "code": "03994",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tân Xuân",
+    "code": "04058",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tô Múa",
+    "code": "04018",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Vân Hồ",
+    "code": "04048",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Xuân Nha",
+    "code": "04057",
+    "districtName": "Huyện Vân Hồ",
+    "districtCode": "128",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Thị trấn Yên Châu",
+    "code": "04075",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Hặc",
+    "code": "04078",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Khoi",
+    "code": "04090",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng On",
+    "code": "04084",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Pằn",
+    "code": "04072",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Sàng",
+    "code": "04069",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Tương",
+    "code": "04102",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Đông",
+    "code": "04063",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Lóng Phiêng",
+    "code": "04096",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Mường Lựm",
+    "code": "04081",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Phiêng Khoài",
+    "code": "04099",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Sặp Vạt",
+    "code": "04066",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tú Nang",
+    "code": "04093",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Yên Sơn",
+    "code": "04087",
+    "districtName": "Huyện Yên Châu",
+    "districtCode": "124",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Chiềng An",
+    "code": "03667",
+    "districtName": "Thành phố Sơn La",
+    "districtCode": "116",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Chiềng Cơi",
+    "code": "03670",
+    "districtName": "Thành phố Sơn La",
+    "districtCode": "116",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Chiềng Lề",
+    "code": "03646",
+    "districtName": "Thành phố Sơn La",
+    "districtCode": "116",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Chiềng Sinh",
+    "code": "03679",
+    "districtName": "Thành phố Sơn La",
+    "districtCode": "116",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Quyết Thắng",
+    "code": "03652",
+    "districtName": "Thành phố Sơn La",
+    "districtCode": "116",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Quyết Tâm",
+    "code": "03655",
+    "districtName": "Thành phố Sơn La",
+    "districtCode": "116",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Tô Hiệu",
+    "code": "03649",
+    "districtName": "Thành phố Sơn La",
+    "districtCode": "116",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Cọ",
+    "code": "03658",
+    "districtName": "Thành phố Sơn La",
+    "districtCode": "116",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Ngần",
+    "code": "03673",
+    "districtName": "Thành phố Sơn La",
+    "districtCode": "116",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Xôm",
+    "code": "03664",
+    "districtName": "Thành phố Sơn La",
+    "districtCode": "116",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Đen",
+    "code": "03661",
+    "districtName": "Thành phố Sơn La",
+    "districtCode": "116",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Hua La",
+    "code": "03676",
+    "districtName": "Thành phố Sơn La",
+    "districtCode": "116",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Bình Minh",
+    "code": "03983",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Cờ Đỏ",
+    "code": "03984",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Mường Sang",
+    "code": "04027",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Mộc Lỵ",
+    "code": "03980",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Mộc Sơn",
+    "code": "03979",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Thảo Nguyên",
+    "code": "03982",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Vân Sơn",
+    "code": "04033",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Phường Đông Sang",
+    "code": "04030",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Chung",
+    "code": "04015",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Hắc",
+    "code": "04012",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Khừa",
+    "code": "04024",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Chiềng Sơn",
+    "code": "03985",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Lóng Sập",
+    "code": "04045",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Tân Yên",
+    "code": "03997",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  },
+  {
+    "name": "Xã Đoàn Kết",
+    "code": "04000",
+    "districtName": "Thị xã Mộc Châu",
+    "districtCode": "123",
+    "provinceName": "Tỉnh Sơn La",
+    "provinceCode": "14"
+  }
+]

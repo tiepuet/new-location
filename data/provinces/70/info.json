@@ -1,0 +1,72 @@
+{
+  "name": "Tỉnh Bình Phước",
+  "code": "70",
+  "districts": [
+    {
+      "name": "Huyện Bù Gia Mập",
+      "code": "691",
+      "provinceName": "Tỉnh Bình Phước",
+      "provinceCode": "70"
+    },
+    {
+      "name": "Huyện Bù Đăng",
+      "code": "696",
+      "provinceName": "Tỉnh Bình Phước",
+      "provinceCode": "70"
+    },
+    {
+      "name": "Huyện Bù Đốp",
+      "code": "693",
+      "provinceName": "Tỉnh Bình Phước",
+      "provinceCode": "70"
+    },
+    {
+      "name": "Huyện Hớn Quản",
+      "code": "694",
+      "provinceName": "Tỉnh Bình Phước",
+      "provinceCode": "70"
+    },
+    {
+      "name": "Huyện Lộc Ninh",
+      "code": "692",
+      "provinceName": "Tỉnh Bình Phước",
+      "provinceCode": "70"
+    },
+    {
+      "name": "Huyện Phú Riềng",
+      "code": "698",
+      "provinceName": "Tỉnh Bình Phước",
+      "provinceCode": "70"
+    },
+    {
+      "name": "Huyện Đồng Phú",
+      "code": "695",
+      "provinceName": "Tỉnh Bình Phước",
+      "provinceCode": "70"
+    },
+    {
+      "name": "Thành phố Đồng Xoài",
+      "code": "689",
+      "provinceName": "Tỉnh Bình Phước",
+      "provinceCode": "70"
+    },
+    {
+      "name": "Thị xã Bình Long",
+      "code": "690",
+      "provinceName": "Tỉnh Bình Phước",
+      "provinceCode": "70"
+    },
+    {
+      "name": "Thị xã Chơn Thành",
+      "code": "697",
+      "provinceName": "Tỉnh Bình Phước",
+      "provinceCode": "70"
+    },
+    {
+      "name": "Thị xã Phước Long",
+      "code": "688",
+      "provinceName": "Tỉnh Bình Phước",
+      "provinceCode": "70"
+    }
+  ]
+}

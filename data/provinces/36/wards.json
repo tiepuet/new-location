@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "Thị trấn Giao Thủy",
+    "code": "14167",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Quất Lâm",
+    "code": "14152",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Bình Hòa",
+    "code": "14170",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Bạch Long",
+    "code": "14206",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao An",
+    "code": "14182",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Châu",
+    "code": "14188",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Hà",
+    "code": "14176",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Hương",
+    "code": "14155",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Hải",
+    "code": "14203",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Long",
+    "code": "14209",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Lạc",
+    "code": "14185",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Nhân",
+    "code": "14179",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Phong",
+    "code": "14212",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Thanh",
+    "code": "14164",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Thiện",
+    "code": "14161",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Thịnh",
+    "code": "14200",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Tân",
+    "code": "14191",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Xuân",
+    "code": "14197",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Giao Yến",
+    "code": "14194",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hồng Thuận",
+    "code": "14158",
+    "districtName": "Huyện Giao Thủy",
+    "districtCode": "365",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Cồn",
+    "code": "14218",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Thịnh Long",
+    "code": "14221",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Yên Định",
+    "code": "14215",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải An",
+    "code": "14284",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Anh",
+    "code": "14236",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Châu",
+    "code": "14311",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Giang",
+    "code": "14296",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Hòa",
+    "code": "14317",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Hưng",
+    "code": "14248",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Long",
+    "code": "14254",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Lộc",
+    "code": "14263",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Minh",
+    "code": "14233",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Nam",
+    "code": "14224",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Ninh",
+    "code": "14302",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Phong",
+    "code": "14281",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Phú",
+    "code": "14293",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Quang",
+    "code": "14266",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Sơn",
+    "code": "14272",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Trung",
+    "code": "14227",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Tân",
+    "code": "14275",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Tây",
+    "code": "14287",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Xuân",
+    "code": "14308",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Đông",
+    "code": "14269",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hải Đường",
+    "code": "14260",
+    "districtName": "Huyện Hải Hậu",
+    "districtCode": "366",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Nam Giang",
+    "code": "13966",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Bình Minh",
+    "code": "14011",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hồng Quang",
+    "code": "13984",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nam Cường",
+    "code": "13990",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nam Dương",
+    "code": "14002",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nam Hoa",
+    "code": "13999",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nam Hùng",
+    "code": "13996",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nam Hải",
+    "code": "14020",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nam Hồng",
+    "code": "13993",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nam Lợi",
+    "code": "14008",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nam Thanh",
+    "code": "14005",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nam Thái",
+    "code": "14023",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nam Thắng",
+    "code": "13978",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nam Tiến",
+    "code": "14017",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nam Điền",
+    "code": "13972",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa An",
+    "code": "13975",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Tân Thịnh",
+    "code": "13987",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Đồng Sơn",
+    "code": "14014",
+    "districtName": "Huyện Nam Trực",
+    "districtCode": "362",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Liễu Đề",
+    "code": "13891",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Quỹ Nhất",
+    "code": "13939",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Rạng Đông",
+    "code": "13894",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hoàng Nam",
+    "code": "13909",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nam Điền",
+    "code": "13963",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa Châu",
+    "code": "13912",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa Hùng",
+    "code": "13942",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa Hải",
+    "code": "13957",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa Hồng",
+    "code": "13924",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa Lâm",
+    "code": "13945",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa Lạc",
+    "code": "13921",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa Lợi",
+    "code": "13954",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa Phong",
+    "code": "13927",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa Phú",
+    "code": "13930",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa Sơn",
+    "code": "13918",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa Thành",
+    "code": "13948",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa Thái",
+    "code": "13906",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Nghĩa Trung",
+    "code": "13915",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Phúc Thắng",
+    "code": "13951",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Đồng Thịnh",
+    "code": "13900",
+    "districtName": "Huyện Nghĩa Hưng",
+    "districtCode": "361",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Cát Thành",
+    "code": "14056",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Cổ Lễ",
+    "code": "14026",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Ninh Cường",
+    "code": "14077",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Liêm Hải",
+    "code": "14038",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Phương Định",
+    "code": "14029",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trung Đông",
+    "code": "14035",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Chính",
+    "code": "14032",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Cường",
+    "code": "14074",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Hùng",
+    "code": "14083",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Hưng",
+    "code": "14050",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Khang",
+    "code": "14062",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Mỹ",
+    "code": "14068",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Nội",
+    "code": "14053",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Thanh",
+    "code": "14059",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Thuận",
+    "code": "14065",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Thái",
+    "code": "14080",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Thắng",
+    "code": "14086",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Tuấn",
+    "code": "14041",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Đại",
+    "code": "14071",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trực Đạo",
+    "code": "14047",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Việt Hùng",
+    "code": "14044",
+    "districtName": "Huyện Trực Ninh",
+    "districtCode": "363",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Gôi",
+    "code": "13741",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Cộng Hòa",
+    "code": "13762",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hiển Khánh",
+    "code": "13747",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hợp Hưng",
+    "code": "13753",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Kim Thái",
+    "code": "13780",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Liên Minh",
+    "code": "13783",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Minh Tân",
+    "code": "13750",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Quang Trung",
+    "code": "13768",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Tam Thanh",
+    "code": "13789",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Thành Lợi",
+    "code": "13777",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trung Thành",
+    "code": "13765",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Vĩnh Hào",
+    "code": "13792",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Đại An",
+    "code": "13756",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Đại Thắng",
+    "code": "13786",
+    "districtName": "Huyện Vụ Bản",
+    "districtCode": "359",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Xuân Trường",
+    "code": "14089",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Thọ Nghiệp",
+    "code": "14125",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trà Lũ",
+    "code": "14122",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Xuân Châu",
+    "code": "14092",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Xuân Giang",
+    "code": "14104",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Xuân Hồng",
+    "code": "14095",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Xuân Ngọc",
+    "code": "14116",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Xuân Ninh",
+    "code": "14143",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Xuân Phú",
+    "code": "14128",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Xuân Phúc",
+    "code": "14146",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Xuân Thành",
+    "code": "14098",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Xuân Thượng",
+    "code": "14101",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Xuân Tân",
+    "code": "14110",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Xuân Vinh",
+    "code": "14134",
+    "districtName": "Huyện Xuân Trường",
+    "districtCode": "364",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Thị trấn Lâm",
+    "code": "13795",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Hồng Quang",
+    "code": "13876",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Phú Hưng",
+    "code": "13819",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Trung Nghĩa",
+    "code": "13801",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Tân Minh",
+    "code": "13807",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Bình",
+    "code": "13825",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Chính",
+    "code": "13822",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Cường",
+    "code": "13870",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Dương",
+    "code": "13834",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Khang",
+    "code": "13882",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Khánh",
+    "code": "13843",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Lương",
+    "code": "13852",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Lộc",
+    "code": "13873",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Mỹ",
+    "code": "13831",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Nhân",
+    "code": "13885",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Ninh",
+    "code": "13849",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Phong",
+    "code": "13846",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Phúc",
+    "code": "13867",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Thắng",
+    "code": "13864",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Thọ",
+    "code": "13810",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Tiến",
+    "code": "13861",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Trị",
+    "code": "13888",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Yên Đồng",
+    "code": "13879",
+    "districtName": "Huyện Ý Yên",
+    "districtCode": "360",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Cửa Bắc",
+    "code": "13669",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Cửa Nam",
+    "code": "13690",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Hưng Lộc",
+    "code": "13708",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Lộc Hòa",
+    "code": "13693",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Lộc Hạ",
+    "code": "13684",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Lộc Vượng",
+    "code": "13687",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Mỹ Xá",
+    "code": "13699",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Nam Phong",
+    "code": "13696",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Nam Vân",
+    "code": "13705",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Năng Tĩnh",
+    "code": "13678",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Quang Trung",
+    "code": "13681",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Trường Thi",
+    "code": "13657",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Trần Hưng Đạo",
+    "code": "13666",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Phường Vị Xuyên",
+    "code": "13636",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Mỹ Hà",
+    "code": "13711",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Mỹ Lộc",
+    "code": "13735",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Mỹ Phúc",
+    "code": "13726",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Mỹ Thuận",
+    "code": "13732",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Mỹ Thắng",
+    "code": "13717",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Mỹ Trung",
+    "code": "13720",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  },
+  {
+    "name": "Xã Mỹ Tân",
+    "code": "13723",
+    "districtName": "Thành phố Nam Định",
+    "districtCode": "356",
+    "provinceName": "Tỉnh Nam Định",
+    "provinceCode": "36"
+  }
+]

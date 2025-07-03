@@ -1,0 +1,514 @@
+[
+  {
+    "name": "Thị trấn Hòa Bình",
+    "code": "31891",
+    "districtName": "Huyện Hoà Bình",
+    "districtCode": "961",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Minh Diệu",
+    "code": "31915",
+    "districtName": "Huyện Hoà Bình",
+    "districtCode": "961",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Bình",
+    "code": "31918",
+    "districtName": "Huyện Hoà Bình",
+    "districtCode": "961",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Hậu",
+    "code": "31927",
+    "districtName": "Huyện Hoà Bình",
+    "districtCode": "961",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Hậu A",
+    "code": "31930",
+    "districtName": "Huyện Hoà Bình",
+    "districtCode": "961",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Mỹ A",
+    "code": "31933",
+    "districtName": "Huyện Hoà Bình",
+    "districtCode": "961",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Mỹ B",
+    "code": "31924",
+    "districtName": "Huyện Hoà Bình",
+    "districtCode": "961",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Thịnh",
+    "code": "31936",
+    "districtName": "Huyện Hoà Bình",
+    "districtCode": "961",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Thị trấn Ngan Dừa",
+    "code": "31843",
+    "districtName": "Huyện Hồng Dân",
+    "districtCode": "956",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Lộc Ninh",
+    "code": "31855",
+    "districtName": "Huyện Hồng Dân",
+    "districtCode": "956",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Ninh Hòa",
+    "code": "31852",
+    "districtName": "Huyện Hồng Dân",
+    "districtCode": "956",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Ninh Quới",
+    "code": "31846",
+    "districtName": "Huyện Hồng Dân",
+    "districtCode": "956",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Ninh Quới A",
+    "code": "31849",
+    "districtName": "Huyện Hồng Dân",
+    "districtCode": "956",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Ninh Thạnh Lợi",
+    "code": "31864",
+    "districtName": "Huyện Hồng Dân",
+    "districtCode": "956",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Ninh Thạnh Lợi A",
+    "code": "31863",
+    "districtName": "Huyện Hồng Dân",
+    "districtCode": "956",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Lộc",
+    "code": "31858",
+    "districtName": "Huyện Hồng Dân",
+    "districtCode": "956",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Lộc A",
+    "code": "31861",
+    "districtName": "Huyện Hồng Dân",
+    "districtCode": "956",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Thị trấn Phước Long",
+    "code": "31867",
+    "districtName": "Huyện Phước Long",
+    "districtCode": "957",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Hưng Phú",
+    "code": "31879",
+    "districtName": "Huyện Phước Long",
+    "districtCode": "957",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Phong Thạnh Tây A",
+    "code": "31885",
+    "districtName": "Huyện Phước Long",
+    "districtCode": "957",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Phong Thạnh Tây B",
+    "code": "31888",
+    "districtName": "Huyện Phước Long",
+    "districtCode": "957",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Phước Long",
+    "code": "31876",
+    "districtName": "Huyện Phước Long",
+    "districtCode": "957",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Phú Tây",
+    "code": "31873",
+    "districtName": "Huyện Phước Long",
+    "districtCode": "957",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Phú Đông",
+    "code": "31870",
+    "districtName": "Huyện Phước Long",
+    "districtCode": "957",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Thanh",
+    "code": "31882",
+    "districtName": "Huyện Phước Long",
+    "districtCode": "957",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Thị trấn Châu Hưng",
+    "code": "31900",
+    "districtName": "Huyện Vĩnh Lợi",
+    "districtCode": "958",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Châu Hưng A",
+    "code": "31903",
+    "districtName": "Huyện Vĩnh Lợi",
+    "districtCode": "958",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Châu Thới",
+    "code": "31912",
+    "districtName": "Huyện Vĩnh Lợi",
+    "districtCode": "958",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Hưng Hội",
+    "code": "31909",
+    "districtName": "Huyện Vĩnh Lợi",
+    "districtCode": "958",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Hưng Thành",
+    "code": "31906",
+    "districtName": "Huyện Vĩnh Lợi",
+    "districtCode": "958",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Long Thạnh",
+    "code": "31921",
+    "districtName": "Huyện Vĩnh Lợi",
+    "districtCode": "958",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Hưng",
+    "code": "31894",
+    "districtName": "Huyện Vĩnh Lợi",
+    "districtCode": "958",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Hưng A",
+    "code": "31897",
+    "districtName": "Huyện Vĩnh Lợi",
+    "districtCode": "958",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Thị trấn Gành Hào",
+    "code": "31972",
+    "districtName": "Huyện Đông Hải",
+    "districtCode": "960",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã An Phúc",
+    "code": "31990",
+    "districtName": "Huyện Đông Hải",
+    "districtCode": "960",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã An Trạch",
+    "code": "31987",
+    "districtName": "Huyện Đông Hải",
+    "districtCode": "960",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã An Trạch A",
+    "code": "31988",
+    "districtName": "Huyện Đông Hải",
+    "districtCode": "960",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Long Điền",
+    "code": "31981",
+    "districtName": "Huyện Đông Hải",
+    "districtCode": "960",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Long Điền Tây",
+    "code": "31984",
+    "districtName": "Huyện Đông Hải",
+    "districtCode": "960",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Long Điền Đông",
+    "code": "31975",
+    "districtName": "Huyện Đông Hải",
+    "districtCode": "960",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Long Điền Đông A",
+    "code": "31978",
+    "districtName": "Huyện Đông Hải",
+    "districtCode": "960",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Điền Hải",
+    "code": "31985",
+    "districtName": "Huyện Đông Hải",
+    "districtCode": "960",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Định Thành",
+    "code": "31993",
+    "districtName": "Huyện Đông Hải",
+    "districtCode": "960",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Định Thành A",
+    "code": "31996",
+    "districtName": "Huyện Đông Hải",
+    "districtCode": "960",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Phường 1",
+    "code": "31825",
+    "districtName": "Thành phố Bạc Liêu",
+    "districtCode": "954",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Phường 2",
+    "code": "31813",
+    "districtName": "Thành phố Bạc Liêu",
+    "districtCode": "954",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Phường 3",
+    "code": "31816",
+    "districtName": "Thành phố Bạc Liêu",
+    "districtCode": "954",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Phường 5",
+    "code": "31819",
+    "districtName": "Thành phố Bạc Liêu",
+    "districtCode": "954",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Phường 7",
+    "code": "31822",
+    "districtName": "Thành phố Bạc Liêu",
+    "districtCode": "954",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Phường 8",
+    "code": "31828",
+    "districtName": "Thành phố Bạc Liêu",
+    "districtCode": "954",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Phường Nhà Mát",
+    "code": "31831",
+    "districtName": "Thành phố Bạc Liêu",
+    "districtCode": "954",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Hiệp Thành",
+    "code": "31840",
+    "districtName": "Thành phố Bạc Liêu",
+    "districtCode": "954",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Trạch",
+    "code": "31834",
+    "districtName": "Thành phố Bạc Liêu",
+    "districtCode": "954",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Vĩnh Trạch Đông",
+    "code": "31837",
+    "districtName": "Thành phố Bạc Liêu",
+    "districtCode": "954",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Phường 1",
+    "code": "31942",
+    "districtName": "Thị xã Giá Rai",
+    "districtCode": "959",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Phường Hộ Phòng",
+    "code": "31945",
+    "districtName": "Thị xã Giá Rai",
+    "districtCode": "959",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Phường Láng Tròn",
+    "code": "31951",
+    "districtName": "Thị xã Giá Rai",
+    "districtCode": "959",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Phong Thạnh",
+    "code": "31960",
+    "districtName": "Thị xã Giá Rai",
+    "districtCode": "959",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Phong Thạnh A",
+    "code": "31963",
+    "districtName": "Thị xã Giá Rai",
+    "districtCode": "959",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Phong Thạnh Tây",
+    "code": "31966",
+    "districtName": "Thị xã Giá Rai",
+    "districtCode": "959",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Phong Thạnh Đông",
+    "code": "31948",
+    "districtName": "Thị xã Giá Rai",
+    "districtCode": "959",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Phong Tân",
+    "code": "31954",
+    "districtName": "Thị xã Giá Rai",
+    "districtCode": "959",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Tân Phong",
+    "code": "31957",
+    "districtName": "Thị xã Giá Rai",
+    "districtCode": "959",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  },
+  {
+    "name": "Xã Tân Thạnh",
+    "code": "31969",
+    "districtName": "Thị xã Giá Rai",
+    "districtCode": "959",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "provinceCode": "95"
+  }
+]

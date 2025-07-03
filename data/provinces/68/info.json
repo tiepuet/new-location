@@ -1,0 +1,82 @@
+{
+  "name": "Lâm Đồng",
+  "code": "68",
+  "from": "Đắk Nông, Bình Thuận, Lâm Đồng",
+  "area": 24233.07,
+  "population": 3872999,
+  "adminCenter": "TP Đà Lạt",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 6,
+  "grdp": 319.878,
+  "licensePlates": [
+    48,
+    49,
+    86
+  ],
+  "density": 160,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Bảo Lâm",
+      "code": "680",
+      "provinceName": "Tỉnh Lâm Đồng",
+      "provinceCode": "68"
+    },
+    {
+      "name": "Huyện Di Linh",
+      "code": "679",
+      "provinceName": "Tỉnh Lâm Đồng",
+      "provinceCode": "68"
+    },
+    {
+      "name": "Huyện Lâm Hà",
+      "code": "676",
+      "provinceName": "Tỉnh Lâm Đồng",
+      "provinceCode": "68"
+    },
+    {
+      "name": "Huyện Lạc Dương",
+      "code": "675",
+      "provinceName": "Tỉnh Lâm Đồng",
+      "provinceCode": "68"
+    },
+    {
+      "name": "Huyện Đam Rông",
+      "code": "674",
+      "provinceName": "Tỉnh Lâm Đồng",
+      "provinceCode": "68"
+    },
+    {
+      "name": "Huyện Đơn Dương",
+      "code": "677",
+      "provinceName": "Tỉnh Lâm Đồng",
+      "provinceCode": "68"
+    },
+    {
+      "name": "Huyện Đạ Huoai",
+      "code": "682",
+      "provinceName": "Tỉnh Lâm Đồng",
+      "provinceCode": "68"
+    },
+    {
+      "name": "Huyện Đức Trọng",
+      "code": "678",
+      "provinceName": "Tỉnh Lâm Đồng",
+      "provinceCode": "68"
+    },
+    {
+      "name": "Thành phố Bảo Lộc",
+      "code": "673",
+      "provinceName": "Tỉnh Lâm Đồng",
+      "provinceCode": "68"
+    },
+    {
+      "name": "Thành phố Đà Lạt",
+      "code": "672",
+      "provinceName": "Tỉnh Lâm Đồng",
+      "provinceCode": "68"
+    }
+  ]
+}

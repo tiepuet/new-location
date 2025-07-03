@@ -1,0 +1,66 @@
+{
+  "name": "Tỉnh Hoà Bình",
+  "code": "17",
+  "districts": [
+    {
+      "name": "Huyện Cao Phong",
+      "code": "154",
+      "provinceName": "Tỉnh Hoà Bình",
+      "provinceCode": "17"
+    },
+    {
+      "name": "Huyện Kim Bôi",
+      "code": "153",
+      "provinceName": "Tỉnh Hoà Bình",
+      "provinceCode": "17"
+    },
+    {
+      "name": "Huyện Lương Sơn",
+      "code": "152",
+      "provinceName": "Tỉnh Hoà Bình",
+      "provinceCode": "17"
+    },
+    {
+      "name": "Huyện Lạc Sơn",
+      "code": "157",
+      "provinceName": "Tỉnh Hoà Bình",
+      "provinceCode": "17"
+    },
+    {
+      "name": "Huyện Lạc Thủy",
+      "code": "159",
+      "provinceName": "Tỉnh Hoà Bình",
+      "provinceCode": "17"
+    },
+    {
+      "name": "Huyện Mai Châu",
+      "code": "156",
+      "provinceName": "Tỉnh Hoà Bình",
+      "provinceCode": "17"
+    },
+    {
+      "name": "Huyện Tân Lạc",
+      "code": "155",
+      "provinceName": "Tỉnh Hoà Bình",
+      "provinceCode": "17"
+    },
+    {
+      "name": "Huyện Yên Thủy",
+      "code": "158",
+      "provinceName": "Tỉnh Hoà Bình",
+      "provinceCode": "17"
+    },
+    {
+      "name": "Huyện Đà Bắc",
+      "code": "150",
+      "provinceName": "Tỉnh Hoà Bình",
+      "provinceCode": "17"
+    },
+    {
+      "name": "Thành phố Hòa Bình",
+      "code": "148",
+      "provinceName": "Tỉnh Hoà Bình",
+      "provinceCode": "17"
+    }
+  ]
+}

@@ -1,0 +1,1058 @@
+[
+  {
+    "name": "Thị trấn Cam Đức",
+    "code": "22453",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam An Bắc",
+    "code": "22465",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam An Nam",
+    "code": "22471",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Hiệp Bắc",
+    "code": "22450",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Hiệp Nam",
+    "code": "22456",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Hòa",
+    "code": "22438",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Hải Tây",
+    "code": "22444",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Hải Đông",
+    "code": "22441",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Phước Tây",
+    "code": "22459",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Thành Bắc",
+    "code": "22462",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Tân",
+    "code": "22435",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Suối Cát",
+    "code": "22708",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Suối Tân",
+    "code": "22711",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Sơn Tân",
+    "code": "22447",
+    "districtName": "Huyện Cam Lâm",
+    "districtCode": "570",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Thị trấn Diên Khánh",
+    "code": "22651",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Bình Lộc",
+    "code": "22696",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Diên An",
+    "code": "22693",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Diên Hòa",
+    "code": "22684",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Diên Lâm",
+    "code": "22654",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Diên Lạc",
+    "code": "22678",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Diên Phú",
+    "code": "22669",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Diên Phước",
+    "code": "22675",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Diên Sơn",
+    "code": "22663",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Diên Thạnh",
+    "code": "22687",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Diên Thọ",
+    "code": "22672",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Diên Toàn",
+    "code": "22690",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Diên Tân",
+    "code": "22681",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Diên Điền",
+    "code": "22657",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Suối Hiệp",
+    "code": "22702",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Suối Tiên",
+    "code": "22705",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Xuân Đồng",
+    "code": "22660",
+    "districtName": "Huyện Diên Khánh",
+    "districtCode": "574",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Thị trấn Tô Hạp",
+    "code": "22714",
+    "districtName": "Huyện Khánh Sơn",
+    "districtCode": "575",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ba Cụm Bắc",
+    "code": "22732",
+    "districtName": "Huyện Khánh Sơn",
+    "districtCode": "575",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ba Cụm Nam",
+    "code": "22735",
+    "districtName": "Huyện Khánh Sơn",
+    "districtCode": "575",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Sơn Bình",
+    "code": "22726",
+    "districtName": "Huyện Khánh Sơn",
+    "districtCode": "575",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Sơn Hiệp",
+    "code": "22723",
+    "districtName": "Huyện Khánh Sơn",
+    "districtCode": "575",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Sơn Lâm",
+    "code": "22720",
+    "districtName": "Huyện Khánh Sơn",
+    "districtCode": "575",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Sơn Trung",
+    "code": "22729",
+    "districtName": "Huyện Khánh Sơn",
+    "districtCode": "575",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Thành Sơn",
+    "code": "22717",
+    "districtName": "Huyện Khánh Sơn",
+    "districtCode": "575",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Thị trấn Khánh Vĩnh",
+    "code": "22609",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cầu Bà",
+    "code": "22636",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Giang Ly",
+    "code": "22633",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Khánh Bình",
+    "code": "22615",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Khánh Hiệp",
+    "code": "22612",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Khánh Nam",
+    "code": "22627",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Khánh Phú",
+    "code": "22645",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Khánh Thành",
+    "code": "22642",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Khánh Thượng",
+    "code": "22624",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Khánh Trung",
+    "code": "22618",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Khánh Đông",
+    "code": "22621",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Liên Sang",
+    "code": "22639",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Sông Cầu",
+    "code": "22630",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Sơn Thái",
+    "code": "22648",
+    "districtName": "Huyện Khánh Vĩnh",
+    "districtCode": "573",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Thị trấn Trường Sa",
+    "code": "22736",
+    "districtName": "Huyện Trường Sa",
+    "districtCode": "576",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Sinh Tồn",
+    "code": "22739",
+    "districtName": "Huyện Trường Sa",
+    "districtCode": "576",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Song Tử Tây",
+    "code": "22737",
+    "districtName": "Huyện Trường Sa",
+    "districtCode": "576",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Thị trấn Vạn Giã",
+    "code": "22489",
+    "districtName": "Huyện Vạn Ninh",
+    "districtCode": "571",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vạn Bình",
+    "code": "22501",
+    "districtName": "Huyện Vạn Ninh",
+    "districtCode": "571",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vạn Hưng",
+    "code": "22525",
+    "districtName": "Huyện Vạn Ninh",
+    "districtCode": "571",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vạn Khánh",
+    "code": "22507",
+    "districtName": "Huyện Vạn Ninh",
+    "districtCode": "571",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vạn Long",
+    "code": "22498",
+    "districtName": "Huyện Vạn Ninh",
+    "districtCode": "571",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vạn Lương",
+    "code": "22513",
+    "districtName": "Huyện Vạn Ninh",
+    "districtCode": "571",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vạn Phú",
+    "code": "22510",
+    "districtName": "Huyện Vạn Ninh",
+    "districtCode": "571",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vạn Phước",
+    "code": "22495",
+    "districtName": "Huyện Vạn Ninh",
+    "districtCode": "571",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vạn Thạnh",
+    "code": "22519",
+    "districtName": "Huyện Vạn Ninh",
+    "districtCode": "571",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vạn Thắng",
+    "code": "22516",
+    "districtName": "Huyện Vạn Ninh",
+    "districtCode": "571",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vạn Thọ",
+    "code": "22504",
+    "districtName": "Huyện Vạn Ninh",
+    "districtCode": "571",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Xuân Sơn",
+    "code": "22522",
+    "districtName": "Huyện Vạn Ninh",
+    "districtCode": "571",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Đại Lãnh",
+    "code": "22492",
+    "districtName": "Huyện Vạn Ninh",
+    "districtCode": "571",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Ba Ngòi",
+    "code": "22423",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Cam Linh",
+    "code": "22432",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Cam Lộc",
+    "code": "22417",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Cam Lợi",
+    "code": "22429",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Cam Nghĩa",
+    "code": "22408",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Cam Phú",
+    "code": "22420",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Cam Phúc Bắc",
+    "code": "22411",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Cam Phúc Nam",
+    "code": "22414",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Cam Thuận",
+    "code": "22426",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Bình",
+    "code": "22486",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Lập",
+    "code": "22483",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Phước Đông",
+    "code": "22474",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Thành Nam",
+    "code": "22468",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Thịnh Tây",
+    "code": "22477",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Cam Thịnh Đông",
+    "code": "22480",
+    "districtName": "Thành phố Cam Ranh",
+    "districtCode": "569",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Lộc Thọ",
+    "code": "22363",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Ngọc Hiệp",
+    "code": "22336",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Phương Sài",
+    "code": "22351",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Phước Hòa",
+    "code": "22372",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Phước Hải",
+    "code": "22357",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Phước Long",
+    "code": "22378",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Tân Tiến",
+    "code": "22366",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Vĩnh Hòa",
+    "code": "22327",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Vĩnh Hải",
+    "code": "22330",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Vĩnh Nguyên",
+    "code": "22375",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Vĩnh Phước",
+    "code": "22333",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Vĩnh Thọ",
+    "code": "22339",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Vĩnh Trường",
+    "code": "22381",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Vạn Thạnh",
+    "code": "22348",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Phước Đồng",
+    "code": "22405",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vĩnh Hiệp",
+    "code": "22399",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vĩnh Lương",
+    "code": "22384",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vĩnh Ngọc",
+    "code": "22390",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vĩnh Phương",
+    "code": "22387",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vĩnh Thái",
+    "code": "22402",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vĩnh Thạnh",
+    "code": "22393",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Vĩnh Trung",
+    "code": "22396",
+    "districtName": "Thành phố Nha Trang",
+    "districtCode": "568",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Ninh Diêm",
+    "code": "22561",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Ninh Giang",
+    "code": "22591",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Ninh Hiệp",
+    "code": "22528",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Ninh Hà",
+    "code": "22594",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Ninh Hải",
+    "code": "22543",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Ninh Thủy",
+    "code": "22567",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Phường Ninh Đa",
+    "code": "22570",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh An",
+    "code": "22540",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Bình",
+    "code": "22576",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Hưng",
+    "code": "22597",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Lộc",
+    "code": "22600",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Phú",
+    "code": "22582",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Phước",
+    "code": "22606",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Phụng",
+    "code": "22573",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Quang",
+    "code": "22588",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Sim",
+    "code": "22552",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Sơn",
+    "code": "22531",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Thân",
+    "code": "22558",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Thượng",
+    "code": "22537",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Thọ",
+    "code": "22546",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Trung",
+    "code": "22549",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Tân",
+    "code": "22585",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Tây",
+    "code": "22534",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Xuân",
+    "code": "22555",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Ích",
+    "code": "22603",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  },
+  {
+    "name": "Xã Ninh Đông",
+    "code": "22564",
+    "districtName": "Thị xã Ninh Hòa",
+    "districtCode": "572",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "provinceCode": "56"
+  }
+]

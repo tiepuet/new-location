@@ -1,0 +1,570 @@
+[
+  {
+    "name": "Thị trấn Ea T'Ling",
+    "code": "24640",
+    "districtName": "Huyện Cư Jút",
+    "districtCode": "662",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Cư Knia",
+    "code": "24658",
+    "districtName": "Huyện Cư Jút",
+    "districtCode": "662",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Ea Pô",
+    "code": "24646",
+    "districtName": "Huyện Cư Jút",
+    "districtCode": "662",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Nam Dong",
+    "code": "24649",
+    "districtName": "Huyện Cư Jút",
+    "districtCode": "662",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Trúc Sơn",
+    "code": "24661",
+    "districtName": "Huyện Cư Jút",
+    "districtCode": "662",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Tâm Thắng",
+    "code": "24655",
+    "districtName": "Huyện Cư Jút",
+    "districtCode": "662",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk DRông",
+    "code": "24652",
+    "districtName": "Huyện Cư Jút",
+    "districtCode": "662",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Wil",
+    "code": "24643",
+    "districtName": "Huyện Cư Jút",
+    "districtCode": "662",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Thị trấn Đắk Mâm",
+    "code": "24688",
+    "districtName": "Huyện Krông Nô",
+    "districtCode": "664",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Buôn Choah",
+    "code": "24694",
+    "districtName": "Huyện Krông Nô",
+    "districtCode": "664",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Nam Xuân",
+    "code": "24692",
+    "districtName": "Huyện Krông Nô",
+    "districtCode": "664",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Nam Đà",
+    "code": "24697",
+    "districtName": "Huyện Krông Nô",
+    "districtCode": "664",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Nâm N'Đir",
+    "code": "24715",
+    "districtName": "Huyện Krông Nô",
+    "districtCode": "664",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Nâm Nung",
+    "code": "24703",
+    "districtName": "Huyện Krông Nô",
+    "districtCode": "664",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Quảng Phú",
+    "code": "24712",
+    "districtName": "Huyện Krông Nô",
+    "districtCode": "664",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "24699",
+    "districtName": "Huyện Krông Nô",
+    "districtCode": "664",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Drô",
+    "code": "24700",
+    "districtName": "Huyện Krông Nô",
+    "districtCode": "664",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Nang",
+    "code": "24709",
+    "districtName": "Huyện Krông Nô",
+    "districtCode": "664",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Sôr",
+    "code": "24691",
+    "districtName": "Huyện Krông Nô",
+    "districtCode": "664",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đức Xuyên",
+    "code": "24706",
+    "districtName": "Huyện Krông Nô",
+    "districtCode": "664",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Quảng Trực",
+    "code": "24736",
+    "districtName": "Huyện Tuy Đức",
+    "districtCode": "667",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Quảng Tâm",
+    "code": "24740",
+    "districtName": "Huyện Tuy Đức",
+    "districtCode": "667",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Quảng Tân",
+    "code": "24748",
+    "districtName": "Huyện Tuy Đức",
+    "districtCode": "667",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Búk So",
+    "code": "24739",
+    "districtName": "Huyện Tuy Đức",
+    "districtCode": "667",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Ngo",
+    "code": "24746",
+    "districtName": "Huyện Tuy Đức",
+    "districtCode": "667",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk R'Tíh",
+    "code": "24742",
+    "districtName": "Huyện Tuy Đức",
+    "districtCode": "667",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Quảng Hoà",
+    "code": "24620",
+    "districtName": "Huyện Đăk Glong",
+    "districtCode": "661",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Quảng Khê",
+    "code": "24631",
+    "districtName": "Huyện Đăk Glong",
+    "districtCode": "661",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Quảng Sơn",
+    "code": "24616",
+    "districtName": "Huyện Đăk Glong",
+    "districtCode": "661",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Ha",
+    "code": "24622",
+    "districtName": "Huyện Đăk Glong",
+    "districtCode": "661",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Plao",
+    "code": "24634",
+    "districtName": "Huyện Đăk Glong",
+    "districtCode": "661",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk R'Măng",
+    "code": "24625",
+    "districtName": "Huyện Đăk Glong",
+    "districtCode": "661",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Som",
+    "code": "24637",
+    "districtName": "Huyện Đăk Glong",
+    "districtCode": "661",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Thị trấn Đắk Mil",
+    "code": "24664",
+    "districtName": "Huyện Đắk Mil",
+    "districtCode": "663",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Long Sơn",
+    "code": "24678",
+    "districtName": "Huyện Đắk Mil",
+    "districtCode": "663",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Thuận An",
+    "code": "24682",
+    "districtName": "Huyện Đắk Mil",
+    "districtCode": "663",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Gằn",
+    "code": "24673",
+    "districtName": "Huyện Đắk Mil",
+    "districtCode": "663",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Lao",
+    "code": "24667",
+    "districtName": "Huyện Đắk Mil",
+    "districtCode": "663",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk N'Drót",
+    "code": "24677",
+    "districtName": "Huyện Đắk Mil",
+    "districtCode": "663",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk R'La",
+    "code": "24670",
+    "districtName": "Huyện Đắk Mil",
+    "districtCode": "663",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Sắk",
+    "code": "24679",
+    "districtName": "Huyện Đắk Mil",
+    "districtCode": "663",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đức Minh",
+    "code": "24685",
+    "districtName": "Huyện Đắk Mil",
+    "districtCode": "663",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đức Mạnh",
+    "code": "24676",
+    "districtName": "Huyện Đắk Mil",
+    "districtCode": "663",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Thị trấn Kiến Đức",
+    "code": "24733",
+    "districtName": "Huyện Đắk R'Lấp",
+    "districtCode": "666",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Hưng Bình",
+    "code": "24761",
+    "districtName": "Huyện Đắk R'Lấp",
+    "districtCode": "666",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Kiến Thành",
+    "code": "24754",
+    "districtName": "Huyện Đắk R'Lấp",
+    "districtCode": "666",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Nghĩa Thắng",
+    "code": "24756",
+    "districtName": "Huyện Đắk R'Lấp",
+    "districtCode": "666",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Nhân Cơ",
+    "code": "24751",
+    "districtName": "Huyện Đắk R'Lấp",
+    "districtCode": "666",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Nhân Đạo",
+    "code": "24766",
+    "districtName": "Huyện Đắk R'Lấp",
+    "districtCode": "666",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Quảng Tín",
+    "code": "24745",
+    "districtName": "Huyện Đắk R'Lấp",
+    "districtCode": "666",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đạo Nghĩa",
+    "code": "24757",
+    "districtName": "Huyện Đắk R'Lấp",
+    "districtCode": "666",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Ru",
+    "code": "24763",
+    "districtName": "Huyện Đắk R'Lấp",
+    "districtCode": "666",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Sin",
+    "code": "24760",
+    "districtName": "Huyện Đắk R'Lấp",
+    "districtCode": "666",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Wer",
+    "code": "24750",
+    "districtName": "Huyện Đắk R'Lấp",
+    "districtCode": "666",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Thị trấn Đức An",
+    "code": "24717",
+    "districtName": "Huyện Đắk Song",
+    "districtCode": "665",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Nam Bình",
+    "code": "24721",
+    "districtName": "Huyện Đắk Song",
+    "districtCode": "665",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Nâm N'Jang",
+    "code": "24728",
+    "districtName": "Huyện Đắk Song",
+    "districtCode": "665",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Thuận Hà",
+    "code": "24722",
+    "districtName": "Huyện Đắk Song",
+    "districtCode": "665",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Thuận Hạnh",
+    "code": "24724",
+    "districtName": "Huyện Đắk Song",
+    "districtCode": "665",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Trường Xuân",
+    "code": "24730",
+    "districtName": "Huyện Đắk Song",
+    "districtCode": "665",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Hòa",
+    "code": "24719",
+    "districtName": "Huyện Đắk Song",
+    "districtCode": "665",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Môl",
+    "code": "24718",
+    "districtName": "Huyện Đắk Song",
+    "districtCode": "665",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk N'Dung",
+    "code": "24727",
+    "districtName": "Huyện Đắk Song",
+    "districtCode": "665",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Phường Nghĩa Phú",
+    "code": "24614",
+    "districtName": "Thành phố Gia Nghĩa",
+    "districtCode": "660",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Phường Nghĩa Thành",
+    "code": "24612",
+    "districtName": "Thành phố Gia Nghĩa",
+    "districtCode": "660",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Phường Nghĩa Trung",
+    "code": "24617",
+    "districtName": "Thành phố Gia Nghĩa",
+    "districtCode": "660",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Phường Nghĩa Tân",
+    "code": "24615",
+    "districtName": "Thành phố Gia Nghĩa",
+    "districtCode": "660",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Phường Nghĩa Đức",
+    "code": "24611",
+    "districtName": "Thành phố Gia Nghĩa",
+    "districtCode": "660",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Phường Quảng Thành",
+    "code": "24619",
+    "districtName": "Thành phố Gia Nghĩa",
+    "districtCode": "660",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đăk R'Moan",
+    "code": "24618",
+    "districtName": "Thành phố Gia Nghĩa",
+    "districtCode": "660",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  },
+  {
+    "name": "Xã Đắk Nia",
+    "code": "24628",
+    "districtName": "Thành phố Gia Nghĩa",
+    "districtCode": "660",
+    "provinceName": "Tỉnh Đắk Nông",
+    "provinceCode": "67"
+  }
+]

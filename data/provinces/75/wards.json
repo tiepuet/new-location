@@ -1,0 +1,1274 @@
+[
+  {
+    "name": "Thị trấn Long Giao",
+    "code": "26341",
+    "districtName": "Huyện Cẩm Mỹ",
+    "districtCode": "739",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Bảo Bình",
+    "code": "26350",
+    "districtName": "Huyện Cẩm Mỹ",
+    "districtCode": "739",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Lâm San",
+    "code": "26365",
+    "districtName": "Huyện Cẩm Mỹ",
+    "districtCode": "739",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Nhân Nghĩa",
+    "code": "26335",
+    "districtName": "Huyện Cẩm Mỹ",
+    "districtCode": "739",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Sông Nhạn",
+    "code": "26329",
+    "districtName": "Huyện Cẩm Mỹ",
+    "districtCode": "739",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Sông Ray",
+    "code": "26362",
+    "districtName": "Huyện Cẩm Mỹ",
+    "districtCode": "739",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Thừa Đức",
+    "code": "26347",
+    "districtName": "Huyện Cẩm Mỹ",
+    "districtCode": "739",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Bảo",
+    "code": "26353",
+    "districtName": "Huyện Cẩm Mỹ",
+    "districtCode": "739",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Mỹ",
+    "code": "26344",
+    "districtName": "Huyện Cẩm Mỹ",
+    "districtCode": "739",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Quế",
+    "code": "26332",
+    "districtName": "Huyện Cẩm Mỹ",
+    "districtCode": "739",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Tây",
+    "code": "26356",
+    "districtName": "Huyện Cẩm Mỹ",
+    "districtCode": "739",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Đông",
+    "code": "26359",
+    "districtName": "Huyện Cẩm Mỹ",
+    "districtCode": "739",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Đường",
+    "code": "26338",
+    "districtName": "Huyện Cẩm Mỹ",
+    "districtCode": "739",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Thị trấn Long Thành",
+    "code": "26368",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã An Phước",
+    "code": "26383",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Bàu Cạn",
+    "code": "26410",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Bình An",
+    "code": "26386",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Bình Sơn",
+    "code": "26395",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Cẩm Đường",
+    "code": "26401",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Long An",
+    "code": "26404",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Long Phước",
+    "code": "26413",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Long Đức",
+    "code": "26389",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Lộc An",
+    "code": "26392",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phước Bình",
+    "code": "26416",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phước Thái",
+    "code": "26422",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Tam An",
+    "code": "26398",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Tân Hiệp",
+    "code": "26419",
+    "districtName": "Huyện Long Thành",
+    "districtCode": "740",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Thị trấn Hiệp Phước",
+    "code": "26479",
+    "districtName": "Huyện Nhơn Trạch",
+    "districtCode": "742",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Long Thọ",
+    "code": "26494",
+    "districtName": "Huyện Nhơn Trạch",
+    "districtCode": "742",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Long Tân",
+    "code": "26473",
+    "districtName": "Huyện Nhơn Trạch",
+    "districtCode": "742",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Hội",
+    "code": "26485",
+    "districtName": "Huyện Nhơn Trạch",
+    "districtCode": "742",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Hữu",
+    "code": "26482",
+    "districtName": "Huyện Nhơn Trạch",
+    "districtCode": "742",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Thạnh",
+    "code": "26488",
+    "districtName": "Huyện Nhơn Trạch",
+    "districtCode": "742",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Đông",
+    "code": "26491",
+    "districtName": "Huyện Nhơn Trạch",
+    "districtCode": "742",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phước An",
+    "code": "26503",
+    "districtName": "Huyện Nhơn Trạch",
+    "districtCode": "742",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phước Khánh",
+    "code": "26500",
+    "districtName": "Huyện Nhơn Trạch",
+    "districtCode": "742",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phước Thiền",
+    "code": "26470",
+    "districtName": "Huyện Nhơn Trạch",
+    "districtCode": "742",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Vĩnh Thanh",
+    "code": "26497",
+    "districtName": "Huyện Nhơn Trạch",
+    "districtCode": "742",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Đại Phước",
+    "code": "26476",
+    "districtName": "Huyện Nhơn Trạch",
+    "districtCode": "742",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Thị trấn Dầu Giây",
+    "code": "26326",
+    "districtName": "Huyện Thống Nhất",
+    "districtCode": "738",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Bàu Hàm 2",
+    "code": "26314",
+    "districtName": "Huyện Thống Nhất",
+    "districtCode": "738",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Gia Kiệm",
+    "code": "26308",
+    "districtName": "Huyện Thống Nhất",
+    "districtCode": "738",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Gia Tân 1",
+    "code": "26299",
+    "districtName": "Huyện Thống Nhất",
+    "districtCode": "738",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Gia Tân 2",
+    "code": "26302",
+    "districtName": "Huyện Thống Nhất",
+    "districtCode": "738",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Gia Tân 3",
+    "code": "26305",
+    "districtName": "Huyện Thống Nhất",
+    "districtCode": "738",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Hưng Lộc",
+    "code": "26317",
+    "districtName": "Huyện Thống Nhất",
+    "districtCode": "738",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Lộ 25",
+    "code": "26320",
+    "districtName": "Huyện Thống Nhất",
+    "districtCode": "738",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Quang Trung",
+    "code": "26311",
+    "districtName": "Huyện Thống Nhất",
+    "districtCode": "738",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Thiện",
+    "code": "26323",
+    "districtName": "Huyện Thống Nhất",
+    "districtCode": "738",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Thị trấn Trảng Bom",
+    "code": "26248",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã An Viễn",
+    "code": "26296",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Bàu Hàm",
+    "code": "26257",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Bình Minh",
+    "code": "26278",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Bắc Sơn",
+    "code": "26269",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Cây Gáo",
+    "code": "26254",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Giang Điền",
+    "code": "26293",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Hưng Thịnh",
+    "code": "26287",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Hố Nai 3",
+    "code": "26272",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Quảng Tiến",
+    "code": "26290",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Sông Thao",
+    "code": "26260",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Sông Trầu",
+    "code": "26263",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Thanh Bình",
+    "code": "26251",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Trung Hoà",
+    "code": "26281",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Tây Hoà",
+    "code": "26275",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Đông Hoà",
+    "code": "26266",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Đồi 61",
+    "code": "26284",
+    "districtName": "Huyện Trảng Bom",
+    "districtCode": "737",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Thị trấn Tân Phú",
+    "code": "26116",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Dak Lua",
+    "code": "26119",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Nam Cát Tiên",
+    "code": "26122",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú An",
+    "code": "26125",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Bình",
+    "code": "26158",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Lâm",
+    "code": "26155",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Lập",
+    "code": "26134",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Lộc",
+    "code": "26152",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Sơn",
+    "code": "26146",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Thanh",
+    "code": "26161",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Thịnh",
+    "code": "26140",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Xuân",
+    "code": "26149",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Điền",
+    "code": "26167",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Thanh Sơn",
+    "code": "26143",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Trà Cổ",
+    "code": "26164",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Tà Lài",
+    "code": "26131",
+    "districtName": "Huyện Tân Phú",
+    "districtCode": "734",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Thị trấn Vĩnh An",
+    "code": "26170",
+    "districtName": "Huyện Vĩnh Cửu",
+    "districtCode": "735",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Bình Lợi",
+    "code": "26185",
+    "districtName": "Huyện Vĩnh Cửu",
+    "districtCode": "735",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Mã Đà",
+    "code": "26200",
+    "districtName": "Huyện Vĩnh Cửu",
+    "districtCode": "735",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Lý",
+    "code": "26173",
+    "districtName": "Huyện Vĩnh Cửu",
+    "districtCode": "735",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Thiện Tân",
+    "code": "26191",
+    "districtName": "Huyện Vĩnh Cửu",
+    "districtCode": "735",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Thạnh Phú",
+    "code": "26188",
+    "districtName": "Huyện Vĩnh Cửu",
+    "districtCode": "735",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Trị An",
+    "code": "26176",
+    "districtName": "Huyện Vĩnh Cửu",
+    "districtCode": "735",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Tân An",
+    "code": "26179",
+    "districtName": "Huyện Vĩnh Cửu",
+    "districtCode": "735",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Tân Bình",
+    "code": "26194",
+    "districtName": "Huyện Vĩnh Cửu",
+    "districtCode": "735",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Vĩnh Tân",
+    "code": "26182",
+    "districtName": "Huyện Vĩnh Cửu",
+    "districtCode": "735",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Thị trấn Gia Ray",
+    "code": "26425",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Bảo Hoà",
+    "code": "26464",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Lang Minh",
+    "code": "26467",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Suối Cao",
+    "code": "26431",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Suối Cát",
+    "code": "26452",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Bắc",
+    "code": "26428",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Hiệp",
+    "code": "26455",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Hòa",
+    "code": "26443",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Hưng",
+    "code": "26446",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Phú",
+    "code": "26458",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Thành",
+    "code": "26434",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Thọ",
+    "code": "26437",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Trường",
+    "code": "26440",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Tâm",
+    "code": "26449",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Xuân Định",
+    "code": "26461",
+    "districtName": "Huyện Xuân Lộc",
+    "districtCode": "741",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Thị trấn Định Quán",
+    "code": "26206",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Gia Canh",
+    "code": "26230",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã La Ngà",
+    "code": "26227",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Ngọc Định",
+    "code": "26224",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Cường",
+    "code": "26236",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Hòa",
+    "code": "26221",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Lợi",
+    "code": "26218",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Ngọc",
+    "code": "26233",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Tân",
+    "code": "26212",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Túc",
+    "code": "26242",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Phú Vinh",
+    "code": "26215",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Suối Nho",
+    "code": "26245",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Thanh Sơn",
+    "code": "26209",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Túc Trưng",
+    "code": "26239",
+    "districtName": "Huyện Định Quán",
+    "districtCode": "736",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường An Bình",
+    "code": "26050",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường An Hòa",
+    "code": "26371",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Bình Đa",
+    "code": "26047",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Bửu Hòa",
+    "code": "26053",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Bửu Long",
+    "code": "26011",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Hiệp Hòa",
+    "code": "26065",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Hóa An",
+    "code": "26068",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Hố Nai",
+    "code": "26002",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Long Bình",
+    "code": "26020",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Long Bình Tân",
+    "code": "26056",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Phước Tân",
+    "code": "26377",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Quang Vinh",
+    "code": "26023",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Tam Hiệp",
+    "code": "26017",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Tam Phước",
+    "code": "26374",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Thống Nhất",
+    "code": "26029",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Trung Dũng",
+    "code": "26041",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Trảng Dài",
+    "code": "25993",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Tân Biên",
+    "code": "25999",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Tân Hiệp",
+    "code": "26008",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Tân Hòa",
+    "code": "26005",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Tân Hạnh",
+    "code": "26062",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Tân Mai",
+    "code": "26014",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Tân Phong",
+    "code": "25996",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Tân Vạn",
+    "code": "26059",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Long Hưng",
+    "code": "26380",
+    "districtName": "Thành phố Biên Hòa",
+    "districtCode": "731",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Bàu Sen",
+    "code": "26104",
+    "districtName": "Thành phố Long Khánh",
+    "districtCode": "732",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Bảo Vinh",
+    "code": "26098",
+    "districtName": "Thành phố Long Khánh",
+    "districtCode": "732",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Phú Bình",
+    "code": "26086",
+    "districtName": "Thành phố Long Khánh",
+    "districtCode": "732",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Suối Tre",
+    "code": "26095",
+    "districtName": "Thành phố Long Khánh",
+    "districtCode": "732",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Xuân An",
+    "code": "26080",
+    "districtName": "Thành phố Long Khánh",
+    "districtCode": "732",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Xuân Bình",
+    "code": "26077",
+    "districtName": "Thành phố Long Khánh",
+    "districtCode": "732",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Xuân Hoà",
+    "code": "26083",
+    "districtName": "Thành phố Long Khánh",
+    "districtCode": "732",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Xuân Lập",
+    "code": "26101",
+    "districtName": "Thành phố Long Khánh",
+    "districtCode": "732",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Phường Xuân Tân",
+    "code": "26110",
+    "districtName": "Thành phố Long Khánh",
+    "districtCode": "732",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Bàu Trâm",
+    "code": "26107",
+    "districtName": "Thành phố Long Khánh",
+    "districtCode": "732",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Bình Lộc",
+    "code": "26089",
+    "districtName": "Thành phố Long Khánh",
+    "districtCode": "732",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Bảo Quang",
+    "code": "26092",
+    "districtName": "Thành phố Long Khánh",
+    "districtCode": "732",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  },
+  {
+    "name": "Xã Hàng Gòn",
+    "code": "26113",
+    "districtName": "Thành phố Long Khánh",
+    "districtCode": "732",
+    "provinceName": "Tỉnh Đồng Nai",
+    "provinceCode": "75"
+  }
+]

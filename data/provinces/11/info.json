@@ -1,0 +1,80 @@
+{
+  "name": "Điện Biên",
+  "code": "11",
+  "from": "Điện Biên",
+  "area": 9539.9,
+  "population": 653422,
+  "adminCenter": "Điện Biên",
+  "hasSeaport": false,
+  "numSeaports": null,
+  "numBerths": null,
+  "grdp": 31.025,
+  "licensePlates": [
+    27
+  ],
+  "density": 68,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Mường Chà",
+      "code": "97",
+      "provinceName": "Tỉnh Điện Biên",
+      "provinceCode": "11"
+    },
+    {
+      "name": "Huyện Mường Nhé",
+      "code": "96",
+      "provinceName": "Tỉnh Điện Biên",
+      "provinceCode": "11"
+    },
+    {
+      "name": "Huyện Mường Ảng",
+      "code": "102",
+      "provinceName": "Tỉnh Điện Biên",
+      "provinceCode": "11"
+    },
+    {
+      "name": "Huyện Nậm Pồ",
+      "code": "103",
+      "provinceName": "Tỉnh Điện Biên",
+      "provinceCode": "11"
+    },
+    {
+      "name": "Huyện Tuần Giáo",
+      "code": "99",
+      "provinceName": "Tỉnh Điện Biên",
+      "provinceCode": "11"
+    },
+    {
+      "name": "Huyện Tủa Chùa",
+      "code": "98",
+      "provinceName": "Tỉnh Điện Biên",
+      "provinceCode": "11"
+    },
+    {
+      "name": "Huyện Điện Biên",
+      "code": "100",
+      "provinceName": "Tỉnh Điện Biên",
+      "provinceCode": "11"
+    },
+    {
+      "name": "Huyện Điện Biên Đông",
+      "code": "101",
+      "provinceName": "Tỉnh Điện Biên",
+      "provinceCode": "11"
+    },
+    {
+      "name": "Thành phố Điện Biên Phủ",
+      "code": "94",
+      "provinceName": "Tỉnh Điện Biên",
+      "provinceCode": "11"
+    },
+    {
+      "name": "Thị Xã Mường Lay",
+      "code": "95",
+      "provinceName": "Tỉnh Điện Biên",
+      "provinceCode": "11"
+    }
+  ]
+}

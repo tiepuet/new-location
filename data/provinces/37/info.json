@@ -1,0 +1,64 @@
+{
+  "name": "Ninh Bình",
+  "code": "37",
+  "from": "Hà Nam, Nam Định, Ninh Bình",
+  "area": 3942.62,
+  "population": 4412264,
+  "adminCenter": "TP Ninh Bình",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 3,
+  "grdp": 312.466,
+  "licensePlates": [
+    18,
+    35,
+    90
+  ],
+  "density": 1119,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Gia Viễn",
+      "code": "373",
+      "provinceName": "Tỉnh Ninh Bình",
+      "provinceCode": "37"
+    },
+    {
+      "name": "Huyện Kim Sơn",
+      "code": "376",
+      "provinceName": "Tỉnh Ninh Bình",
+      "provinceCode": "37"
+    },
+    {
+      "name": "Huyện Nho Quan",
+      "code": "372",
+      "provinceName": "Tỉnh Ninh Bình",
+      "provinceCode": "37"
+    },
+    {
+      "name": "Huyện Yên Khánh",
+      "code": "375",
+      "provinceName": "Tỉnh Ninh Bình",
+      "provinceCode": "37"
+    },
+    {
+      "name": "Huyện Yên Mô",
+      "code": "377",
+      "provinceName": "Tỉnh Ninh Bình",
+      "provinceCode": "37"
+    },
+    {
+      "name": "Thành phố Hoa Lư",
+      "code": "374",
+      "provinceName": "Tỉnh Ninh Bình",
+      "provinceCode": "37"
+    },
+    {
+      "name": "Thành phố Tam Điệp",
+      "code": "370",
+      "provinceName": "Tỉnh Ninh Bình",
+      "provinceCode": "37"
+    }
+  ]
+}

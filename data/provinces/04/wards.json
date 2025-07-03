@@ -1,0 +1,1290 @@
+[
+  {
+    "name": "Thị trấn Pác Miầu",
+    "code": "01290",
+    "districtName": "Huyện Bảo Lâm",
+    "districtCode": "42",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Lý Bôn",
+    "code": "01294",
+    "districtName": "Huyện Bảo Lâm",
+    "districtCode": "42",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Mông Ân",
+    "code": "01312",
+    "districtName": "Huyện Bảo Lâm",
+    "districtCode": "42",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Nam Cao",
+    "code": "01296",
+    "districtName": "Huyện Bảo Lâm",
+    "districtCode": "42",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Nam Quang",
+    "code": "01297",
+    "districtName": "Huyện Bảo Lâm",
+    "districtCode": "42",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Quảng Lâm",
+    "code": "01303",
+    "districtName": "Huyện Bảo Lâm",
+    "districtCode": "42",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thái Học",
+    "code": "01315",
+    "districtName": "Huyện Bảo Lâm",
+    "districtCode": "42",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thái Sơn",
+    "code": "01316",
+    "districtName": "Huyện Bảo Lâm",
+    "districtCode": "42",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thạch Lâm",
+    "code": "01304",
+    "districtName": "Huyện Bảo Lâm",
+    "districtCode": "42",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Vĩnh Phong",
+    "code": "01309",
+    "districtName": "Huyện Bảo Lâm",
+    "districtCode": "42",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Vĩnh Quang",
+    "code": "01300",
+    "districtName": "Huyện Bảo Lâm",
+    "districtCode": "42",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Yên Thổ",
+    "code": "01318",
+    "districtName": "Huyện Bảo Lâm",
+    "districtCode": "42",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đức Hạnh",
+    "code": "01291",
+    "districtName": "Huyện Bảo Lâm",
+    "districtCode": "42",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Thị trấn Bảo Lạc",
+    "code": "01321",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Bảo Toàn",
+    "code": "01333",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Cô Ba",
+    "code": "01330",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Cốc Pàng",
+    "code": "01324",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Huy Giáp",
+    "code": "01354",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Hưng Thịnh",
+    "code": "01352",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Hưng Đạo",
+    "code": "01351",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Hồng An",
+    "code": "01348",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Hồng Trị",
+    "code": "01342",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Khánh Xuân",
+    "code": "01336",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Kim Cúc",
+    "code": "01343",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Phan Thanh",
+    "code": "01345",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Sơn Lập",
+    "code": "01359",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Sơn Lộ",
+    "code": "01360",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thượng Hà",
+    "code": "01327",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Xuân Trường",
+    "code": "01339",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đình Phùng",
+    "code": "01357",
+    "districtName": "Huyện Bảo Lạc",
+    "districtCode": "43",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Thị trấn Nước Hai",
+    "code": "01654",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Bình Dương",
+    "code": "01711",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Bạch Đằng",
+    "code": "01708",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Dân Chủ",
+    "code": "01657",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Hoàng Tung",
+    "code": "01696",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Hồng Nam",
+    "code": "01723",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Hồng Việt",
+    "code": "01687",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Lê Chung",
+    "code": "01714",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Nam Tuấn",
+    "code": "01660",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Nguyễn Huệ",
+    "code": "01699",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Ngũ Lão",
+    "code": "01672",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Quang Trung",
+    "code": "01702",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Trương Lương",
+    "code": "01675",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đại Tiến",
+    "code": "01666",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đức Long",
+    "code": "01669",
+    "districtName": "Huyện Hoà An",
+    "districtCode": "51",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Thị trấn Thông Nông",
+    "code": "01363",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Thị trấn Xuân Hòa",
+    "code": "01392",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Cải Viên",
+    "code": "01402",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Cần Nông",
+    "code": "01367",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Cần Yên",
+    "code": "01366",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Hồng Sỹ",
+    "code": "01429",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Lũng Nặm",
+    "code": "01393",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Lương Can",
+    "code": "01384",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Lương Thông",
+    "code": "01372",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Mã Ba",
+    "code": "01435",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Ngọc Đào",
+    "code": "01438",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Ngọc Động",
+    "code": "01378",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Nội Thôn",
+    "code": "01411",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Quý Quân",
+    "code": "01432",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Sóc Hà",
+    "code": "01417",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thanh Long",
+    "code": "01387",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thượng Thôn",
+    "code": "01420",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Trường Hà",
+    "code": "01399",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Tổng Cọt",
+    "code": "01414",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Yên Sơn",
+    "code": "01381",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đa Thông",
+    "code": "01375",
+    "districtName": "Huyện Hà Quảng",
+    "districtCode": "45",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Thị trấn Thanh Nhật",
+    "code": "01558",
+    "districtName": "Huyện Hạ Lang",
+    "districtCode": "48",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã An Lạc",
+    "code": "01555",
+    "districtName": "Huyện Hạ Lang",
+    "districtCode": "48",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Cô Ngân",
+    "code": "01567",
+    "districtName": "Huyện Hạ Lang",
+    "districtCode": "48",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Kim Loan",
+    "code": "01549",
+    "districtName": "Huyện Hạ Lang",
+    "districtCode": "48",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Lý Quốc",
+    "code": "01537",
+    "districtName": "Huyện Hạ Lang",
+    "districtCode": "48",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Minh Long",
+    "code": "01534",
+    "districtName": "Huyện Hạ Lang",
+    "districtCode": "48",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Quang Long",
+    "code": "01552",
+    "districtName": "Huyện Hạ Lang",
+    "districtCode": "48",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thắng Lợi",
+    "code": "01540",
+    "districtName": "Huyện Hạ Lang",
+    "districtCode": "48",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thị Hoa",
+    "code": "01573",
+    "districtName": "Huyện Hạ Lang",
+    "districtCode": "48",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thống Nhất",
+    "code": "01564",
+    "districtName": "Huyện Hạ Lang",
+    "districtCode": "48",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Vinh Quý",
+    "code": "01561",
+    "districtName": "Huyện Hạ Lang",
+    "districtCode": "48",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đồng Loan",
+    "code": "01543",
+    "districtName": "Huyện Hạ Lang",
+    "districtCode": "48",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đức Quang",
+    "code": "01546",
+    "districtName": "Huyện Hạ Lang",
+    "districtCode": "48",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Thị trấn Nguyên Bình",
+    "code": "01726",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Thị trấn Tĩnh Túc",
+    "code": "01729",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Ca Thành",
+    "code": "01738",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Hoa Thám",
+    "code": "01765",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Hưng Đạo",
+    "code": "01783",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Mai Long",
+    "code": "01756",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Minh Tâm",
+    "code": "01747",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Phan Thanh",
+    "code": "01768",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Quang Thành",
+    "code": "01771",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Tam Kim",
+    "code": "01774",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thành Công",
+    "code": "01777",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thể Dục",
+    "code": "01750",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thịnh Vượng",
+    "code": "01780",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Triệu Nguyên",
+    "code": "01735",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Vũ Minh",
+    "code": "01762",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Vũ Nông",
+    "code": "01744",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Yên Lạc",
+    "code": "01732",
+    "districtName": "Huyện Nguyên Bình",
+    "districtCode": "52",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Thị trấn Hoà Thuận",
+    "code": "01648",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Thị trấn Quảng Uyên",
+    "code": "01576",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Thị trấn Tà Lùng",
+    "code": "01627",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Bế Văn Đàn",
+    "code": "01630",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Cai Bộ",
+    "code": "01597",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Chí Thảo",
+    "code": "01606",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Cách Linh",
+    "code": "01636",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Hạnh Phúc",
+    "code": "01624",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Hồng Quang",
+    "code": "01615",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Mỹ Hưng",
+    "code": "01651",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Ngọc Động",
+    "code": "01618",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Phi Hải",
+    "code": "01579",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Phúc Sen",
+    "code": "01603",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Quảng Hưng",
+    "code": "01582",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Quốc Toản",
+    "code": "01474",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Tiên Thành",
+    "code": "01645",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Tự Do",
+    "code": "01609",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đại Sơn",
+    "code": "01639",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Độc Lập",
+    "code": "01594",
+    "districtName": "Huyện Quảng Hòa",
+    "districtCode": "49",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Thị trấn Đông Khê",
+    "code": "01786",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Canh Tân",
+    "code": "01789",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Kim Đồng",
+    "code": "01792",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Lê Lai",
+    "code": "01819",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Lê Lợi",
+    "code": "01828",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Minh Khai",
+    "code": "01795",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Quang Trọng",
+    "code": "01813",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thái Cường",
+    "code": "01804",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Thụy Hùng",
+    "code": "01810",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Trọng Con",
+    "code": "01816",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Vân Trình",
+    "code": "01807",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đức Long",
+    "code": "01822",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đức Thông",
+    "code": "01801",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đức Xuân",
+    "code": "01831",
+    "districtName": "Huyện Thạch An",
+    "districtCode": "53",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Thị trấn Trà Lĩnh",
+    "code": "01447",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Thị trấn Trùng Khánh",
+    "code": "01477",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Cao Chương",
+    "code": "01471",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Cao Thăng",
+    "code": "01519",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Chí Viễn",
+    "code": "01501",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Khâm Thành",
+    "code": "01498",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Lăng Hiếu",
+    "code": "01504",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Ngọc Côn",
+    "code": "01481",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Ngọc Khê",
+    "code": "01480",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Phong Châu",
+    "code": "01507",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Phong Nậm",
+    "code": "01483",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Quang Hán",
+    "code": "01456",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Quang Trung",
+    "code": "01465",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Quang Vinh",
+    "code": "01468",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Tri Phương",
+    "code": "01453",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Trung Phúc",
+    "code": "01516",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Xuân Nội",
+    "code": "01462",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đoài Dương",
+    "code": "01525",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đàm Thuỷ",
+    "code": "01495",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đình Phong",
+    "code": "01489",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Đức Hồng",
+    "code": "01522",
+    "districtName": "Huyện Trùng Khánh",
+    "districtCode": "47",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Phường Duyệt Trung",
+    "code": "01288",
+    "districtName": "Thành phố Cao Bằng",
+    "districtCode": "40",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Phường Hoà Chung",
+    "code": "01285",
+    "districtName": "Thành phố Cao Bằng",
+    "districtCode": "40",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Phường Hợp Giang",
+    "code": "01273",
+    "districtName": "Thành phố Cao Bằng",
+    "districtCode": "40",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Phường Ngọc Xuân",
+    "code": "01279",
+    "districtName": "Thành phố Cao Bằng",
+    "districtCode": "40",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Phường Sông Bằng",
+    "code": "01270",
+    "districtName": "Thành phố Cao Bằng",
+    "districtCode": "40",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Phường Sông Hiến",
+    "code": "01267",
+    "districtName": "Thành phố Cao Bằng",
+    "districtCode": "40",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Phường Tân Giang",
+    "code": "01276",
+    "districtName": "Thành phố Cao Bằng",
+    "districtCode": "40",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Phường Đề Thám",
+    "code": "01282",
+    "districtName": "Thành phố Cao Bằng",
+    "districtCode": "40",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Chu Trinh",
+    "code": "01720",
+    "districtName": "Thành phố Cao Bằng",
+    "districtCode": "40",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Hưng Đạo",
+    "code": "01705",
+    "districtName": "Thành phố Cao Bằng",
+    "districtCode": "40",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  },
+  {
+    "name": "Xã Vĩnh Quang",
+    "code": "01693",
+    "districtName": "Thành phố Cao Bằng",
+    "districtCode": "40",
+    "provinceName": "Tỉnh Cao Bằng",
+    "provinceCode": "04"
+  }
+]

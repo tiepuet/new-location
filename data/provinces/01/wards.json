@@ -1,0 +1,4210 @@
+[
+  {
+    "name": "Thị trấn Tây Đằng",
+    "code": "09619",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Ba Trại",
+    "code": "09697",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Ba Vì",
+    "code": "09703",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cam Thượng",
+    "code": "09688",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Chu Minh",
+    "code": "09667",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cẩm Lĩnh",
+    "code": "09673",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cổ Đô",
+    "code": "09628",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Khánh Thượng",
+    "code": "09712",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Minh Châu",
+    "code": "09661",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Minh Quang",
+    "code": "09700",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phong Vân",
+    "code": "09640",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Châu",
+    "code": "09649",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Cường",
+    "code": "09625",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Hồng",
+    "code": "09646",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Sơn",
+    "code": "09658",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Đông",
+    "code": "09643",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Sơn Đà",
+    "code": "09676",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thuần Mỹ",
+    "code": "09691",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thái Hòa",
+    "code": "09652",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thụy An",
+    "code": "09685",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tiên Phong",
+    "code": "09682",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tòng Bạt",
+    "code": "09670",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tản Lĩnh",
+    "code": "09694",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vân Hòa",
+    "code": "09706",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vạn Thắng",
+    "code": "09634",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vật Lại",
+    "code": "09664",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Yên Bài",
+    "code": "09709",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đông Quang",
+    "code": "09679",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đồng Thái",
+    "code": "09655",
+    "districtName": "Huyện Ba Vì",
+    "districtCode": "271",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Chúc Sơn",
+    "code": "10015",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Xuân Mai",
+    "code": "10018",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hoàng Diệu",
+    "code": "10078",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hoàng Văn Thụ",
+    "code": "10075",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hòa Phú",
+    "code": "10108",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hồng Phú",
+    "code": "10096",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hợp Đồng",
+    "code": "10072",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hữu Văn",
+    "code": "10081",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Lam Điền",
+    "code": "10063",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Mỹ Lương",
+    "code": "10087",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Nam Phương Tiến",
+    "code": "10069",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Ngọc Hòa",
+    "code": "10042",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Nghĩa",
+    "code": "10033",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phụng Châu",
+    "code": "10021",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Quảng Bị",
+    "code": "10084",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thanh Bình",
+    "code": "10048",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thượng Vực",
+    "code": "10090",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thụy Hương",
+    "code": "10057",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thủy Xuân Tiên",
+    "code": "10045",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tiên Phương",
+    "code": "10024",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Trung Hòa",
+    "code": "10051",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Trường Yên",
+    "code": "10039",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Trần Phú",
+    "code": "10099",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tân Tiến",
+    "code": "10066",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tốt Động",
+    "code": "10060",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Văn Võ",
+    "code": "10102",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đông Phương Yên",
+    "code": "10030",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đông Sơn",
+    "code": "10027",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đại Yên",
+    "code": "10054",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đồng Lạc",
+    "code": "10105",
+    "districtName": "Huyện Chương Mỹ",
+    "districtCode": "277",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Trâu Quỳ",
+    "code": "00565",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Yên Viên",
+    "code": "00526",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Bát Tràng",
+    "code": "00583",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cổ Bi",
+    "code": "00553",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Dương Quang",
+    "code": "00568",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Dương Xá",
+    "code": "00571",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Kim Đức",
+    "code": "00589",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Kiêu Kỵ",
+    "code": "00580",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Lệ Chi",
+    "code": "00550",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Ninh Hiệp",
+    "code": "00535",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phù Đổng",
+    "code": "00544",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Sơn",
+    "code": "00562",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thiên Đức",
+    "code": "00541",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Yên Thường",
+    "code": "00529",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Yên Viên",
+    "code": "00532",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đa Tốn",
+    "code": "00577",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đặng Xá",
+    "code": "00556",
+    "districtName": "Huyện Gia Lâm",
+    "districtCode": "18",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Trạm Trôi",
+    "code": "09832",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã An Khánh",
+    "code": "09877",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã An Thượng",
+    "code": "09880",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cát Quế",
+    "code": "09850",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Di Trạch",
+    "code": "09844",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Dương Liễu",
+    "code": "09841",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Kim Chung",
+    "code": "09853",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã La Phù",
+    "code": "09889",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Lại Yên",
+    "code": "09868",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Minh Khai",
+    "code": "09838",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Song Phương",
+    "code": "09874",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Sơn Đồng",
+    "code": "09859",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tiền Yên",
+    "code": "09871",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vân Canh",
+    "code": "09862",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vân Côn",
+    "code": "09883",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Yên Sở",
+    "code": "09856",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đông La",
+    "code": "09892",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đắc Sở",
+    "code": "09865",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đức Giang",
+    "code": "09847",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đức Thượng",
+    "code": "09835",
+    "districtName": "Huyện Hoài Đức",
+    "districtCode": "274",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Chi Đông",
+    "code": "08973",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Quang Minh",
+    "code": "08989",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Chu Phan",
+    "code": "09004",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hoàng Kim",
+    "code": "09016",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Kim Hoa",
+    "code": "08977",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Liên Mạc",
+    "code": "08998",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Mê Linh",
+    "code": "09010",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tam Đồng",
+    "code": "08995",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thanh Lâm",
+    "code": "08992",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thạch Đà",
+    "code": "08980",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tiến Thắng",
+    "code": "08983",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tiến Thịnh",
+    "code": "09007",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tiền Phong",
+    "code": "09019",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tráng Việt",
+    "code": "09022",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tự Lập",
+    "code": "08986",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Văn Khê",
+    "code": "09013",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đại Thịnh",
+    "code": "08974",
+    "districtName": "Huyện Mê Linh",
+    "districtCode": "250",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Đại Nghĩa",
+    "code": "10441",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã An Mỹ",
+    "code": "10462",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã An Phú",
+    "code": "10504",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã An Tiến",
+    "code": "10495",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hùng Tiến",
+    "code": "10492",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hương Sơn",
+    "code": "10489",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hồng Sơn",
+    "code": "10465",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hợp Thanh",
+    "code": "10501",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hợp Tiến",
+    "code": "10498",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Lê Thanh",
+    "code": "10468",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Mỹ Xuyên",
+    "code": "10459",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phù Lưu Tế",
+    "code": "10477",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phùng Xá",
+    "code": "10474",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phúc Lâm",
+    "code": "10453",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thượng Lâm",
+    "code": "10447",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tuy Lai",
+    "code": "10450",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vạn Tín",
+    "code": "10483",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Xuy Xá",
+    "code": "10471",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đại Hưng",
+    "code": "10480",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đồng Tâm",
+    "code": "10444",
+    "districtName": "Huyện Mỹ Đức",
+    "districtCode": "282",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Phú Minh",
+    "code": "10270",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Phú Xuyên",
+    "code": "10273",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Bạch Hạ",
+    "code": "10342",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Chuyên Mỹ",
+    "code": "10321",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Châu Can",
+    "code": "10348",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hoàng Long",
+    "code": "10303",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hồng Minh",
+    "code": "10276",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hồng Thái",
+    "code": "10300",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Khai Thái",
+    "code": "10324",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Minh Tân",
+    "code": "10351",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Nam Phong",
+    "code": "10312",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Nam Tiến",
+    "code": "10282",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Túc",
+    "code": "10294",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Yên",
+    "code": "10339",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phúc Tiến",
+    "code": "10327",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phượng Dực",
+    "code": "10279",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Quang Hà",
+    "code": "10318",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Quang Lãng",
+    "code": "10345",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tri Thủy",
+    "code": "10333",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tân Dân",
+    "code": "10315",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vân Từ",
+    "code": "10330",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Văn Hoàng",
+    "code": "10291",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đại Xuyên",
+    "code": "10336",
+    "districtName": "Huyện Phú Xuyên",
+    "districtCode": "280",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Phúc Thọ",
+    "code": "09715",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hiệp Thuận",
+    "code": "09778",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hát Môn",
+    "code": "09751",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Liên Hiệp",
+    "code": "09781",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Long Thượng",
+    "code": "09745",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Nam Hà",
+    "code": "09724",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Ngọc Tảo",
+    "code": "09766",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phúc Hòa",
+    "code": "09763",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phụng Thượng",
+    "code": "09769",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Sen Phương",
+    "code": "09733",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tam Hiệp",
+    "code": "09775",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tam Thuấn",
+    "code": "09772",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thanh Đa",
+    "code": "09757",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Trạch Mỹ Lộc",
+    "code": "09760",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tích Lộc",
+    "code": "09742",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vân Phúc",
+    "code": "09721",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Võng Xuyên",
+    "code": "09739",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Xuân Đình",
+    "code": "09727",
+    "districtName": "Huyện Phúc Thọ",
+    "districtCode": "272",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Quốc Oai",
+    "code": "09895",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cấn Hữu",
+    "code": "09943",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cộng Hòa",
+    "code": "09931",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hòa Thạch",
+    "code": "09949",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hưng Đạo",
+    "code": "09934",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Liệp Nghĩa",
+    "code": "09928",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Ngọc Liệp",
+    "code": "09907",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Ngọc Mỹ",
+    "code": "09910",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Cát",
+    "code": "09922",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Mãn",
+    "code": "09940",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phượng Sơn",
+    "code": "09904",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Sài Sơn",
+    "code": "09898",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thạch Thán",
+    "code": "09916",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tuyết Nghĩa",
+    "code": "09925",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đông Xuân",
+    "code": "04939",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đông Yên",
+    "code": "09952",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đồng Quang",
+    "code": "09919",
+    "districtName": "Huyện Quốc Oai",
+    "districtCode": "275",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Sóc Sơn",
+    "code": "00376",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Bắc Phú",
+    "code": "00403",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Bắc Sơn",
+    "code": "00379",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hiền Ninh",
+    "code": "00412",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hồng Kỳ",
+    "code": "00385",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Kim Lũ",
+    "code": "00439",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Mai Đình",
+    "code": "00427",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Minh Phú",
+    "code": "00397",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Minh Trí",
+    "code": "00382",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Nam Sơn",
+    "code": "00388",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phù Linh",
+    "code": "00400",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phù Lỗ",
+    "code": "00448",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Cường",
+    "code": "00442",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Minh",
+    "code": "00445",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Quang Tiến",
+    "code": "00409",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thanh Xuân",
+    "code": "00433",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tiên Dược",
+    "code": "00418",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Trung Giã",
+    "code": "00391",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tân Dân",
+    "code": "00415",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tân Hưng",
+    "code": "00394",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tân Minh",
+    "code": "00406",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Việt Long",
+    "code": "00421",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Xuân Giang",
+    "code": "00424",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Xuân Thu",
+    "code": "00451",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đông Xuân",
+    "code": "00436",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đức Hoà",
+    "code": "00430",
+    "districtName": "Huyện Sóc Sơn",
+    "districtCode": "16",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Kim Bài",
+    "code": "10114",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Bình Minh",
+    "code": "10135",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Bích Hòa",
+    "code": "10126",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cao Viên",
+    "code": "10132",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cao Xuân Dương",
+    "code": "10174",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cự Khê",
+    "code": "10120",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Dân Hòa",
+    "code": "10168",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hồng Dương",
+    "code": "10180",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Kim An",
+    "code": "10156",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Kim Thư",
+    "code": "10159",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Liên Châu",
+    "code": "10171",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Mỹ Hưng",
+    "code": "10129",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phương Trung",
+    "code": "10162",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tam Hưng",
+    "code": "10138",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thanh Cao",
+    "code": "10141",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thanh Mai",
+    "code": "10147",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thanh Thùy",
+    "code": "10144",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thanh Văn",
+    "code": "10150",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tân Ước",
+    "code": "10165",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đỗ Động",
+    "code": "10153",
+    "districtName": "Huyện Thanh Oai",
+    "districtCode": "278",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Văn Điển",
+    "code": "00640",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Duyên Hà",
+    "code": "00670",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hữu Hoà",
+    "code": "00652",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Liên Ninh",
+    "code": "00682",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Ngũ Hiệp",
+    "code": "00667",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Ngọc Hồi",
+    "code": "00673",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tam Hiệp",
+    "code": "00655",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thanh Liệt",
+    "code": "00646",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tân Triều",
+    "code": "00643",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tả Thanh Oai",
+    "code": "00649",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tứ Hiệp",
+    "code": "00658",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vĩnh Quỳnh",
+    "code": "00664",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vạn Phúc",
+    "code": "00676",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Yên Mỹ",
+    "code": "00661",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đông Mỹ",
+    "code": "00685",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đại áng",
+    "code": "00679",
+    "districtName": "Huyện Thanh Trì",
+    "districtCode": "20",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Thường Tín",
+    "code": "10183",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Chương Dương",
+    "code": "10237",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Duyên Thái",
+    "code": "10192",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Dũng Tiến",
+    "code": "10249",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hiền Giang",
+    "code": "10204",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hà Hồi",
+    "code": "10225",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "10198",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hồng Vân",
+    "code": "10207",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Khánh Hà",
+    "code": "10195",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Liên Phương",
+    "code": "10213",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Lê Lợi",
+    "code": "10243",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Minh Cường",
+    "code": "10267",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Nghiêm Xuyên",
+    "code": "10255",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Nguyễn Trãi",
+    "code": "10231",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Nhị Khê",
+    "code": "10189",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Ninh Sở",
+    "code": "10186",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Quất Động",
+    "code": "10234",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thắng Lợi",
+    "code": "10246",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tiền Phong",
+    "code": "10222",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tân Minh",
+    "code": "10240",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tô Hiệu",
+    "code": "10258",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tự Nhiên",
+    "code": "10219",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vân Tảo",
+    "code": "10210",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Văn Bình",
+    "code": "10201",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Văn Phú",
+    "code": "10216",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Văn Tự",
+    "code": "10261",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vạn Nhất",
+    "code": "10264",
+    "districtName": "Huyện Thường Tín",
+    "districtCode": "279",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Liên Quan",
+    "code": "09955",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Bình Yên",
+    "code": "09982",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cần Kiệm",
+    "code": "09991",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cẩm Yên",
+    "code": "09961",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hương Ngải",
+    "code": "09970",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hạ Bằng",
+    "code": "10009",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Kim Quan",
+    "code": "09976",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Lam Sơn",
+    "code": "09973",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Lại Thượng",
+    "code": "09964",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phùng Xá",
+    "code": "09997",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phú Kim",
+    "code": "09967",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Quang Trung",
+    "code": "10006",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thạch Hoà",
+    "code": "09988",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thạch Xá",
+    "code": "10003",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tiến Xuân",
+    "code": "04936",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tân Xã",
+    "code": "10000",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Yên Bình",
+    "code": "04930",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Yên Trung",
+    "code": "04927",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đại Đồng",
+    "code": "09958",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đồng Trúc",
+    "code": "10012",
+    "districtName": "Huyện Thạch Thất",
+    "districtCode": "276",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Phùng",
+    "code": "09784",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hạ Mỗ",
+    "code": "09805",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hồng Hà",
+    "code": "09796",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Liên Hà",
+    "code": "09802",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Liên Hồng",
+    "code": "09799",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Liên Trung",
+    "code": "09808",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phương Đình",
+    "code": "09811",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Song Phượng",
+    "code": "09829",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thượng Mỗ",
+    "code": "09814",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thọ An",
+    "code": "09790",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thọ Xuân",
+    "code": "09793",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Trung Châu",
+    "code": "09787",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tân Hội",
+    "code": "09817",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "09820",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đan Phượng",
+    "code": "09823",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đồng Tháp",
+    "code": "09826",
+    "districtName": "Huyện Đan Phượng",
+    "districtCode": "273",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Đông Anh",
+    "code": "00454",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Bắc Hồng",
+    "code": "00463",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cổ Loa",
+    "code": "00505",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Dục Tú",
+    "code": "00496",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hải Bối",
+    "code": "00508",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Kim Chung",
+    "code": "00493",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Kim Nỗ",
+    "code": "00490",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Liên Hà",
+    "code": "00484",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Mai Lâm",
+    "code": "00520",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Nam Hồng",
+    "code": "00469",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Nguyên Khê",
+    "code": "00466",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thuỵ Lâm",
+    "code": "00460",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tiên Dương",
+    "code": "00472",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tàm Xá",
+    "code": "00517",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Uy Nỗ",
+    "code": "00478",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Việt Hùng",
+    "code": "00487",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vân Hà",
+    "code": "00475",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vân Nội",
+    "code": "00481",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Võng La",
+    "code": "00514",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Vĩnh Ngọc",
+    "code": "00502",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Xuân Canh",
+    "code": "00511",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Xuân Nộn",
+    "code": "00457",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đông Hội",
+    "code": "00523",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đại Mạch",
+    "code": "00499",
+    "districtName": "Huyện Đông Anh",
+    "districtCode": "17",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Thị trấn Vân Đình",
+    "code": "10354",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Bình Lưu Quang",
+    "code": "10435",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cao Sơn Tiến",
+    "code": "10378",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hoa Viên",
+    "code": "10363",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Hòa Phú",
+    "code": "10417",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Kim Đường",
+    "code": "10411",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Liên Bạt",
+    "code": "10375",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Minh Đức",
+    "code": "10399",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phù Lưu",
+    "code": "10429",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Phương Tú",
+    "code": "10384",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Quảng Phú Cầu",
+    "code": "10366",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thái Hòa",
+    "code": "10396",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Trung Tú",
+    "code": "10387",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Trường Thịnh",
+    "code": "10369",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Trầm Lộng",
+    "code": "10402",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Tảo Dương Văn",
+    "code": "10393",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đông Lỗ",
+    "code": "10426",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đại Cường",
+    "code": "10432",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đại Hùng",
+    "code": "10423",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đồng Tân",
+    "code": "10390",
+    "districtName": "Huyện Ứng Hòa",
+    "districtCode": "281",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Cống Vị",
+    "code": "00007",
+    "districtName": "Quận Ba Đình",
+    "districtCode": "1",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Giảng Võ",
+    "code": "00031",
+    "districtName": "Quận Ba Đình",
+    "districtCode": "1",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Kim Mã",
+    "code": "00028",
+    "districtName": "Quận Ba Đình",
+    "districtCode": "1",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Liễu Giai",
+    "code": "00008",
+    "districtName": "Quận Ba Đình",
+    "districtCode": "1",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Ngọc Hà",
+    "code": "00016",
+    "districtName": "Quận Ba Đình",
+    "districtCode": "1",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Ngọc Khánh",
+    "code": "00025",
+    "districtName": "Quận Ba Đình",
+    "districtCode": "1",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phúc Xá",
+    "code": "00001",
+    "districtName": "Quận Ba Đình",
+    "districtCode": "1",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Quán Thánh",
+    "code": "00013",
+    "districtName": "Quận Ba Đình",
+    "districtCode": "1",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thành Công",
+    "code": "00034",
+    "districtName": "Quận Ba Đình",
+    "districtCode": "1",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Trúc Bạch",
+    "code": "00004",
+    "districtName": "Quận Ba Đình",
+    "districtCode": "1",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Vĩnh Phúc",
+    "code": "00006",
+    "districtName": "Quận Ba Đình",
+    "districtCode": "1",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Điện Biên",
+    "code": "00019",
+    "districtName": "Quận Ba Đình",
+    "districtCode": "1",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Đội Cấn",
+    "code": "00022",
+    "districtName": "Quận Ba Đình",
+    "districtCode": "1",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Cổ Nhuế 1",
+    "code": "00616",
+    "districtName": "Quận Bắc Từ Liêm",
+    "districtCode": "21",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Cổ Nhuế 2",
+    "code": "00617",
+    "districtName": "Quận Bắc Từ Liêm",
+    "districtCode": "21",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Liên Mạc",
+    "code": "00598",
+    "districtName": "Quận Bắc Từ Liêm",
+    "districtCode": "21",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Minh Khai",
+    "code": "00613",
+    "districtName": "Quận Bắc Từ Liêm",
+    "districtCode": "21",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phú Diễn",
+    "code": "00619",
+    "districtName": "Quận Bắc Từ Liêm",
+    "districtCode": "21",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phúc Diễn",
+    "code": "00620",
+    "districtName": "Quận Bắc Từ Liêm",
+    "districtCode": "21",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thượng Cát",
+    "code": "00595",
+    "districtName": "Quận Bắc Từ Liêm",
+    "districtCode": "21",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thụy Phương",
+    "code": "00604",
+    "districtName": "Quận Bắc Từ Liêm",
+    "districtCode": "21",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Tây Tựu",
+    "code": "00607",
+    "districtName": "Quận Bắc Từ Liêm",
+    "districtCode": "21",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Xuân Tảo",
+    "code": "00611",
+    "districtName": "Quận Bắc Từ Liêm",
+    "districtCode": "21",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Xuân Đỉnh",
+    "code": "00610",
+    "districtName": "Quận Bắc Từ Liêm",
+    "districtCode": "21",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Đông Ngạc",
+    "code": "00601",
+    "districtName": "Quận Bắc Từ Liêm",
+    "districtCode": "21",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Đức Thắng",
+    "code": "00602",
+    "districtName": "Quận Bắc Từ Liêm",
+    "districtCode": "21",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Dịch Vọng",
+    "code": "00166",
+    "districtName": "Quận Cầu Giấy",
+    "districtCode": "5",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Dịch Vọng Hậu",
+    "code": "00167",
+    "districtName": "Quận Cầu Giấy",
+    "districtCode": "5",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Mai Dịch",
+    "code": "00163",
+    "districtName": "Quận Cầu Giấy",
+    "districtCode": "5",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Nghĩa Tân",
+    "code": "00160",
+    "districtName": "Quận Cầu Giấy",
+    "districtCode": "5",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Nghĩa Đô",
+    "code": "00157",
+    "districtName": "Quận Cầu Giấy",
+    "districtCode": "5",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Quan Hoa",
+    "code": "00169",
+    "districtName": "Quận Cầu Giấy",
+    "districtCode": "5",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Trung Hoà",
+    "code": "00175",
+    "districtName": "Quận Cầu Giấy",
+    "districtCode": "5",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Yên Hoà",
+    "code": "00172",
+    "districtName": "Quận Cầu Giấy",
+    "districtCode": "5",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Bách Khoa",
+    "code": "00277",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Bạch Mai",
+    "code": "00292",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Bạch Đằng",
+    "code": "00244",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Lê Đại Hành",
+    "code": "00256",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Minh Khai",
+    "code": "00295",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Nguyễn Du",
+    "code": "00241",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phạm Đình Hổ",
+    "code": "00247",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phố Huế",
+    "code": "00262",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Quỳnh Mai",
+    "code": "00289",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thanh Lương",
+    "code": "00268",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thanh Nhàn",
+    "code": "00271",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Trương Định",
+    "code": "00298",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Vĩnh Tuy",
+    "code": "00283",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Đồng Nhân",
+    "code": "00259",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Đồng Tâm",
+    "code": "00280",
+    "districtName": "Quận Hai Bà Trưng",
+    "districtCode": "7",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Chương Dương",
+    "code": "00067",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Cửa Nam",
+    "code": "00073",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Cửa Đông",
+    "code": "00055",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hàng Buồm",
+    "code": "00046",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hàng Bài",
+    "code": "00088",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hàng Bông",
+    "code": "00076",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hàng Bạc",
+    "code": "00061",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hàng Bồ",
+    "code": "00052",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hàng Gai",
+    "code": "00064",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hàng Mã",
+    "code": "00043",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hàng Trống",
+    "code": "00070",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hàng Đào",
+    "code": "00049",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Lý Thái Tổ",
+    "code": "00058",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phan Chu Trinh",
+    "code": "00085",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phúc Tân",
+    "code": "00037",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Tràng Tiền",
+    "code": "00079",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Trần Hưng Đạo",
+    "code": "00082",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Đồng Xuân",
+    "code": "00040",
+    "districtName": "Quận Hoàn Kiếm",
+    "districtCode": "2",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Giáp Bát",
+    "code": "00325",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hoàng Liệt",
+    "code": "00337",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hoàng Văn Thụ",
+    "code": "00322",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Lĩnh Nam",
+    "code": "00328",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Mai Động",
+    "code": "00310",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thanh Trì",
+    "code": "00301",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thịnh Liệt",
+    "code": "00331",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Trần Phú",
+    "code": "00334",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Tân Mai",
+    "code": "00319",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Tương Mai",
+    "code": "00313",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Vĩnh Hưng",
+    "code": "00304",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Yên Sở",
+    "code": "00340",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Đại Kim",
+    "code": "00316",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Định Công",
+    "code": "00307",
+    "districtName": "Quận Hoàng Mai",
+    "districtCode": "8",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Biên Giang",
+    "code": "10123",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Dương Nội",
+    "code": "09886",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hà Cầu",
+    "code": "09556",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Kiến Hưng",
+    "code": "09565",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường La Khê",
+    "code": "09551",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Mộ Lao",
+    "code": "09541",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phú La",
+    "code": "09552",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phú Lãm",
+    "code": "09568",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phú Lương",
+    "code": "09571",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phúc La",
+    "code": "09553",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Quang Trung",
+    "code": "09538",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Văn Quán",
+    "code": "09542",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Vạn Phúc",
+    "code": "09544",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Yên Nghĩa",
+    "code": "09562",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Đồng Mai",
+    "code": "10117",
+    "districtName": "Quận Hà Đông",
+    "districtCode": "268",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Bồ Đề",
+    "code": "00139",
+    "districtName": "Quận Long Biên",
+    "districtCode": "4",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Cự Khối",
+    "code": "00154",
+    "districtName": "Quận Long Biên",
+    "districtCode": "4",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Gia Thụy",
+    "code": "00130",
+    "districtName": "Quận Long Biên",
+    "districtCode": "4",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Giang Biên",
+    "code": "00121",
+    "districtName": "Quận Long Biên",
+    "districtCode": "4",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Long Biên",
+    "code": "00145",
+    "districtName": "Quận Long Biên",
+    "districtCode": "4",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Ngọc Lâm",
+    "code": "00133",
+    "districtName": "Quận Long Biên",
+    "districtCode": "4",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Ngọc Thụy",
+    "code": "00118",
+    "districtName": "Quận Long Biên",
+    "districtCode": "4",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phúc Lợi",
+    "code": "00136",
+    "districtName": "Quận Long Biên",
+    "districtCode": "4",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phúc Đồng",
+    "code": "00151",
+    "districtName": "Quận Long Biên",
+    "districtCode": "4",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thượng Thanh",
+    "code": "00115",
+    "districtName": "Quận Long Biên",
+    "districtCode": "4",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thạch Bàn",
+    "code": "00148",
+    "districtName": "Quận Long Biên",
+    "districtCode": "4",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Việt Hưng",
+    "code": "00127",
+    "districtName": "Quận Long Biên",
+    "districtCode": "4",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Đức Giang",
+    "code": "00124",
+    "districtName": "Quận Long Biên",
+    "districtCode": "4",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Cầu Diễn",
+    "code": "00592",
+    "districtName": "Quận Nam Từ Liêm",
+    "districtCode": "19",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Mễ Trì",
+    "code": "00631",
+    "districtName": "Quận Nam Từ Liêm",
+    "districtCode": "19",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Mỹ Đình 1",
+    "code": "00625",
+    "districtName": "Quận Nam Từ Liêm",
+    "districtCode": "19",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Mỹ Đình 2",
+    "code": "00626",
+    "districtName": "Quận Nam Từ Liêm",
+    "districtCode": "19",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phú Đô",
+    "code": "00632",
+    "districtName": "Quận Nam Từ Liêm",
+    "districtCode": "19",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phương Canh",
+    "code": "00623",
+    "districtName": "Quận Nam Từ Liêm",
+    "districtCode": "19",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Trung Văn",
+    "code": "00637",
+    "districtName": "Quận Nam Từ Liêm",
+    "districtCode": "19",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Tây Mỗ",
+    "code": "00628",
+    "districtName": "Quận Nam Từ Liêm",
+    "districtCode": "19",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Xuân Phương",
+    "code": "00622",
+    "districtName": "Quận Nam Từ Liêm",
+    "districtCode": "19",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Đại Mỗ",
+    "code": "00634",
+    "districtName": "Quận Nam Từ Liêm",
+    "districtCode": "19",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hạ Đình",
+    "code": "00373",
+    "districtName": "Quận Thanh Xuân",
+    "districtCode": "9",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Khương Mai",
+    "code": "00352",
+    "districtName": "Quận Thanh Xuân",
+    "districtCode": "9",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Khương Trung",
+    "code": "00349",
+    "districtName": "Quận Thanh Xuân",
+    "districtCode": "9",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Khương Đình",
+    "code": "00364",
+    "districtName": "Quận Thanh Xuân",
+    "districtCode": "9",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Nhân Chính",
+    "code": "00343",
+    "districtName": "Quận Thanh Xuân",
+    "districtCode": "9",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phương Liệt",
+    "code": "00358",
+    "districtName": "Quận Thanh Xuân",
+    "districtCode": "9",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thanh Xuân Bắc",
+    "code": "00367",
+    "districtName": "Quận Thanh Xuân",
+    "districtCode": "9",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thanh Xuân Trung",
+    "code": "00355",
+    "districtName": "Quận Thanh Xuân",
+    "districtCode": "9",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thượng Đình",
+    "code": "00346",
+    "districtName": "Quận Thanh Xuân",
+    "districtCode": "9",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Bưởi",
+    "code": "00109",
+    "districtName": "Quận Tây Hồ",
+    "districtCode": "3",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Nhật Tân",
+    "code": "00094",
+    "districtName": "Quận Tây Hồ",
+    "districtCode": "3",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phú Thượng",
+    "code": "00091",
+    "districtName": "Quận Tây Hồ",
+    "districtCode": "3",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Quảng An",
+    "code": "00100",
+    "districtName": "Quận Tây Hồ",
+    "districtCode": "3",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thụy Khuê",
+    "code": "00112",
+    "districtName": "Quận Tây Hồ",
+    "districtCode": "3",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Tứ Liên",
+    "code": "00097",
+    "districtName": "Quận Tây Hồ",
+    "districtCode": "3",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Xuân La",
+    "code": "00103",
+    "districtName": "Quận Tây Hồ",
+    "districtCode": "3",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Yên Phụ",
+    "code": "00106",
+    "districtName": "Quận Tây Hồ",
+    "districtCode": "3",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Cát Linh",
+    "code": "00178",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Hàng Bột",
+    "code": "00196",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Khâm Thiên",
+    "code": "00202",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Khương Thượng",
+    "code": "00238",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Kim Liên",
+    "code": "00229",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Láng Hạ",
+    "code": "00199",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Láng Thượng",
+    "code": "00187",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Nam Đồng",
+    "code": "00208",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phương Liên - Trung Tự",
+    "code": "00226",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phương Mai",
+    "code": "00232",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Quang Trung",
+    "code": "00214",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thịnh Quang",
+    "code": "00235",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Thổ Quan",
+    "code": "00205",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Trung Liệt",
+    "code": "00217",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Văn Chương",
+    "code": "00193",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Văn Miếu - Quốc Tử Giám",
+    "code": "00181",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Ô Chợ Dừa",
+    "code": "00190",
+    "districtName": "Quận Đống Đa",
+    "districtCode": "6",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Ngô Quyền",
+    "code": "09574",
+    "districtName": "Thị xã Sơn Tây",
+    "districtCode": "269",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Phú Thịnh",
+    "code": "09577",
+    "districtName": "Thị xã Sơn Tây",
+    "districtCode": "269",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Sơn Lộc",
+    "code": "09586",
+    "districtName": "Thị xã Sơn Tây",
+    "districtCode": "269",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Trung Hưng",
+    "code": "09601",
+    "districtName": "Thị xã Sơn Tây",
+    "districtCode": "269",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Trung Sơn Trầm",
+    "code": "09607",
+    "districtName": "Thị xã Sơn Tây",
+    "districtCode": "269",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Viên Sơn",
+    "code": "09595",
+    "districtName": "Thị xã Sơn Tây",
+    "districtCode": "269",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Phường Xuân Khanh",
+    "code": "09589",
+    "districtName": "Thị xã Sơn Tây",
+    "districtCode": "269",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Cổ Đông",
+    "code": "09616",
+    "districtName": "Thị xã Sơn Tây",
+    "districtCode": "269",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Kim Sơn",
+    "code": "09610",
+    "districtName": "Thị xã Sơn Tây",
+    "districtCode": "269",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Sơn Đông",
+    "code": "09613",
+    "districtName": "Thị xã Sơn Tây",
+    "districtCode": "269",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Thanh Mỹ",
+    "code": "09604",
+    "districtName": "Thị xã Sơn Tây",
+    "districtCode": "269",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Xuân Sơn",
+    "code": "09598",
+    "districtName": "Thị xã Sơn Tây",
+    "districtCode": "269",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  },
+  {
+    "name": "Xã Đường Lâm",
+    "code": "09592",
+    "districtName": "Thị xã Sơn Tây",
+    "districtCode": "269",
+    "provinceName": "Thành phố Hà Nội",
+    "provinceCode": "01"
+  }
+]

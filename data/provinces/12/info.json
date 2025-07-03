@@ -1,0 +1,68 @@
+{
+  "name": "Lai Châu",
+  "code": "12",
+  "from": "Lai Châu",
+  "area": 9068.7,
+  "population": 494626,
+  "adminCenter": "Lai Châu",
+  "hasSeaport": false,
+  "numSeaports": null,
+  "numBerths": null,
+  "grdp": 25.204,
+  "licensePlates": [
+    25
+  ],
+  "density": 55,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Mường Tè",
+      "code": "107",
+      "provinceName": "Tỉnh Lai Châu",
+      "provinceCode": "12"
+    },
+    {
+      "name": "Huyện Nậm Nhùn",
+      "code": "112",
+      "provinceName": "Tỉnh Lai Châu",
+      "provinceCode": "12"
+    },
+    {
+      "name": "Huyện Phong Thổ",
+      "code": "109",
+      "provinceName": "Tỉnh Lai Châu",
+      "provinceCode": "12"
+    },
+    {
+      "name": "Huyện Sìn Hồ",
+      "code": "108",
+      "provinceName": "Tỉnh Lai Châu",
+      "provinceCode": "12"
+    },
+    {
+      "name": "Huyện Tam Đường",
+      "code": "106",
+      "provinceName": "Tỉnh Lai Châu",
+      "provinceCode": "12"
+    },
+    {
+      "name": "Huyện Than Uyên",
+      "code": "110",
+      "provinceName": "Tỉnh Lai Châu",
+      "provinceCode": "12"
+    },
+    {
+      "name": "Huyện Tân Uyên",
+      "code": "111",
+      "provinceName": "Tỉnh Lai Châu",
+      "provinceCode": "12"
+    },
+    {
+      "name": "Thành phố Lai Châu",
+      "code": "105",
+      "provinceName": "Tỉnh Lai Châu",
+      "provinceCode": "12"
+    }
+  ]
+}

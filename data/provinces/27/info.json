@@ -1,0 +1,54 @@
+{
+  "name": "Tỉnh Bắc Ninh",
+  "code": "27",
+  "districts": [
+    {
+      "name": "Huyện Gia Bình",
+      "code": "263",
+      "provinceName": "Tỉnh Bắc Ninh",
+      "provinceCode": "27"
+    },
+    {
+      "name": "Huyện Lương Tài",
+      "code": "264",
+      "provinceName": "Tỉnh Bắc Ninh",
+      "provinceCode": "27"
+    },
+    {
+      "name": "Huyện Tiên Du",
+      "code": "260",
+      "provinceName": "Tỉnh Bắc Ninh",
+      "provinceCode": "27"
+    },
+    {
+      "name": "Huyện Yên Phong",
+      "code": "258",
+      "provinceName": "Tỉnh Bắc Ninh",
+      "provinceCode": "27"
+    },
+    {
+      "name": "Thành phố Bắc Ninh",
+      "code": "256",
+      "provinceName": "Tỉnh Bắc Ninh",
+      "provinceCode": "27"
+    },
+    {
+      "name": "Thành phố Từ Sơn",
+      "code": "261",
+      "provinceName": "Tỉnh Bắc Ninh",
+      "provinceCode": "27"
+    },
+    {
+      "name": "Thị xã Quế Võ",
+      "code": "259",
+      "provinceName": "Tỉnh Bắc Ninh",
+      "provinceCode": "27"
+    },
+    {
+      "name": "Thị xã Thuận Thành",
+      "code": "262",
+      "provinceName": "Tỉnh Bắc Ninh",
+      "provinceCode": "27"
+    }
+  ]
+}

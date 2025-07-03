@@ -1,0 +1,164 @@
+{
+  "name": "Thành phố Hồ Chí Minh",
+  "code": "79",
+  "from": "Bà Rịa - Vũng Tàu, Bình Dương, Thành phố Hồ Chí Minh",
+  "area": 6772.59,
+  "population": 14002598,
+  "adminCenter": "Thành phố Hồ Chí Minh",
+  "hasSeaport": true,
+  "numSeaports": 3,
+  "numBerths": 89,
+  "grdp": 3160,
+  "licensePlates": [
+    41,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    61,
+    72
+  ],
+  "density": 2068,
+  "wardsCount": 0,
+  "placeType": "Thành phố Trung Ương",
+  "districts": [
+    {
+      "name": "Huyện Bình Chánh",
+      "code": "785",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Huyện Cần Giờ",
+      "code": "787",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Huyện Củ Chi",
+      "code": "783",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Huyện Hóc Môn",
+      "code": "784",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Huyện Nhà Bè",
+      "code": "786",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận 1",
+      "code": "760",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận 10",
+      "code": "771",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận 11",
+      "code": "772",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận 12",
+      "code": "761",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận 3",
+      "code": "770",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận 4",
+      "code": "773",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận 5",
+      "code": "774",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận 6",
+      "code": "775",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận 7",
+      "code": "778",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận 8",
+      "code": "776",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận Bình Thạnh",
+      "code": "765",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận Bình Tân",
+      "code": "777",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận Gò Vấp",
+      "code": "764",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận Phú Nhuận",
+      "code": "768",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận Tân Bình",
+      "code": "766",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Quận Tân Phú",
+      "code": "767",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    },
+    {
+      "name": "Thành phố Thủ Đức",
+      "code": "769",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceCode": "79"
+    }
+  ]
+}

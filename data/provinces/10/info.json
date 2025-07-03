@@ -1,0 +1,60 @@
+{
+  "name": "Tỉnh Lào Cai",
+  "code": "10",
+  "districts": [
+    {
+      "name": "Huyện Bát Xát",
+      "code": "82",
+      "provinceName": "Tỉnh Lào Cai",
+      "provinceCode": "10"
+    },
+    {
+      "name": "Huyện Bảo Thắng",
+      "code": "86",
+      "provinceName": "Tỉnh Lào Cai",
+      "provinceCode": "10"
+    },
+    {
+      "name": "Huyện Bảo Yên",
+      "code": "87",
+      "provinceName": "Tỉnh Lào Cai",
+      "provinceCode": "10"
+    },
+    {
+      "name": "Huyện Bắc Hà",
+      "code": "85",
+      "provinceName": "Tỉnh Lào Cai",
+      "provinceCode": "10"
+    },
+    {
+      "name": "Huyện Mường Khương",
+      "code": "83",
+      "provinceName": "Tỉnh Lào Cai",
+      "provinceCode": "10"
+    },
+    {
+      "name": "Huyện Si Ma Cai",
+      "code": "84",
+      "provinceName": "Tỉnh Lào Cai",
+      "provinceCode": "10"
+    },
+    {
+      "name": "Huyện Văn Bàn",
+      "code": "89",
+      "provinceName": "Tỉnh Lào Cai",
+      "provinceCode": "10"
+    },
+    {
+      "name": "Thành phố Lào Cai",
+      "code": "80",
+      "provinceName": "Tỉnh Lào Cai",
+      "provinceCode": "10"
+    },
+    {
+      "name": "Thị xã Sa Pa",
+      "code": "88",
+      "provinceName": "Tỉnh Lào Cai",
+      "provinceCode": "10"
+    }
+  ]
+}

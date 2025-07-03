@@ -1,0 +1,66 @@
+{
+  "name": "Tỉnh Kon Tum",
+  "code": "62",
+  "districts": [
+    {
+      "name": "Huyện Ia H' Drai",
+      "code": "618",
+      "provinceName": "Tỉnh Kon Tum",
+      "provinceCode": "62"
+    },
+    {
+      "name": "Huyện Kon Plông",
+      "code": "613",
+      "provinceName": "Tỉnh Kon Tum",
+      "provinceCode": "62"
+    },
+    {
+      "name": "Huyện Kon Rẫy",
+      "code": "614",
+      "provinceName": "Tỉnh Kon Tum",
+      "provinceCode": "62"
+    },
+    {
+      "name": "Huyện Ngọc Hồi",
+      "code": "611",
+      "provinceName": "Tỉnh Kon Tum",
+      "provinceCode": "62"
+    },
+    {
+      "name": "Huyện Sa Thầy",
+      "code": "616",
+      "provinceName": "Tỉnh Kon Tum",
+      "provinceCode": "62"
+    },
+    {
+      "name": "Huyện Tu Mơ Rông",
+      "code": "617",
+      "provinceName": "Tỉnh Kon Tum",
+      "provinceCode": "62"
+    },
+    {
+      "name": "Huyện Đắk Glei",
+      "code": "610",
+      "provinceName": "Tỉnh Kon Tum",
+      "provinceCode": "62"
+    },
+    {
+      "name": "Huyện Đắk Hà",
+      "code": "615",
+      "provinceName": "Tỉnh Kon Tum",
+      "provinceCode": "62"
+    },
+    {
+      "name": "Huyện Đắk Tô",
+      "code": "612",
+      "provinceName": "Tỉnh Kon Tum",
+      "provinceCode": "62"
+    },
+    {
+      "name": "Thành phố Kon Tum",
+      "code": "608",
+      "provinceName": "Tỉnh Kon Tum",
+      "provinceCode": "62"
+    }
+  ]
+}

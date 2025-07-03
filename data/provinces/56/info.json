@@ -1,0 +1,75 @@
+{
+  "name": "Khánh Hòa",
+  "code": "56",
+  "from": "Ninh Thuận, Khánh Hòa",
+  "area": 8555.86,
+  "population": 2243554,
+  "adminCenter": "TP Nha Trang",
+  "hasSeaport": true,
+  "numSeaports": 2,
+  "numBerths": 21,
+  "grdp": 188.921,
+  "licensePlates": [
+    79,
+    85
+  ],
+  "density": 262,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Cam Lâm",
+      "code": "570",
+      "provinceName": "Tỉnh Khánh Hòa",
+      "provinceCode": "56"
+    },
+    {
+      "name": "Huyện Diên Khánh",
+      "code": "574",
+      "provinceName": "Tỉnh Khánh Hòa",
+      "provinceCode": "56"
+    },
+    {
+      "name": "Huyện Khánh Sơn",
+      "code": "575",
+      "provinceName": "Tỉnh Khánh Hòa",
+      "provinceCode": "56"
+    },
+    {
+      "name": "Huyện Khánh Vĩnh",
+      "code": "573",
+      "provinceName": "Tỉnh Khánh Hòa",
+      "provinceCode": "56"
+    },
+    {
+      "name": "Huyện Trường Sa",
+      "code": "576",
+      "provinceName": "Tỉnh Khánh Hòa",
+      "provinceCode": "56"
+    },
+    {
+      "name": "Huyện Vạn Ninh",
+      "code": "571",
+      "provinceName": "Tỉnh Khánh Hòa",
+      "provinceCode": "56"
+    },
+    {
+      "name": "Thành phố Cam Ranh",
+      "code": "569",
+      "provinceName": "Tỉnh Khánh Hòa",
+      "provinceCode": "56"
+    },
+    {
+      "name": "Thành phố Nha Trang",
+      "code": "568",
+      "provinceName": "Tỉnh Khánh Hòa",
+      "provinceCode": "56"
+    },
+    {
+      "name": "Thị xã Ninh Hòa",
+      "code": "572",
+      "provinceName": "Tỉnh Khánh Hòa",
+      "provinceCode": "56"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "TP Đà Nẵng",
+  "code": "48",
+  "from": "Quảng Nam, TP Đà Nẵng",
+  "area": 11859.59,
+  "population": 3065628,
+  "adminCenter": "TP Đà Nẵng",
+  "hasSeaport": true,
+  "numSeaports": 2,
+  "numBerths": 11,
+  "grdp": 279.926,
+  "licensePlates": [
+    43,
+    92
+  ],
+  "density": 258,
+  "wardsCount": 0,
+  "placeType": "Thành phố Trung Ương",
+  "districts": [
+    {
+      "name": "Huyện Hòa Vang",
+      "code": "497",
+      "provinceName": "Thành phố Đà Nẵng",
+      "provinceCode": "48"
+    },
+    {
+      "name": "Quận Cẩm Lệ",
+      "code": "495",
+      "provinceName": "Thành phố Đà Nẵng",
+      "provinceCode": "48"
+    },
+    {
+      "name": "Quận Hải Châu",
+      "code": "492",
+      "provinceName": "Thành phố Đà Nẵng",
+      "provinceCode": "48"
+    },
+    {
+      "name": "Quận Liên Chiểu",
+      "code": "490",
+      "provinceName": "Thành phố Đà Nẵng",
+      "provinceCode": "48"
+    },
+    {
+      "name": "Quận Ngũ Hành Sơn",
+      "code": "494",
+      "provinceName": "Thành phố Đà Nẵng",
+      "provinceCode": "48"
+    },
+    {
+      "name": "Quận Sơn Trà",
+      "code": "493",
+      "provinceName": "Thành phố Đà Nẵng",
+      "provinceCode": "48"
+    },
+    {
+      "name": "Quận Thanh Khê",
+      "code": "491",
+      "provinceName": "Thành phố Đà Nẵng",
+      "provinceCode": "48"
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Xã Hòa Bắc",
+    "code": "20293",
+    "districtName": "Huyện Hòa Vang",
+    "districtCode": "497",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Xã Hòa Châu",
+    "code": "20323",
+    "districtName": "Huyện Hòa Vang",
+    "districtCode": "497",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Xã Hòa Khương",
+    "code": "20332",
+    "districtName": "Huyện Hòa Vang",
+    "districtCode": "497",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Xã Hòa Liên",
+    "code": "20296",
+    "districtName": "Huyện Hòa Vang",
+    "districtCode": "497",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Xã Hòa Nhơn",
+    "code": "20308",
+    "districtName": "Huyện Hòa Vang",
+    "districtCode": "497",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Xã Hòa Ninh",
+    "code": "20299",
+    "districtName": "Huyện Hòa Vang",
+    "districtCode": "497",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Xã Hòa Phong",
+    "code": "20320",
+    "districtName": "Huyện Hòa Vang",
+    "districtCode": "497",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Xã Hòa Phú",
+    "code": "20317",
+    "districtName": "Huyện Hòa Vang",
+    "districtCode": "497",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Xã Hòa Phước",
+    "code": "20329",
+    "districtName": "Huyện Hòa Vang",
+    "districtCode": "497",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Xã Hòa Sơn",
+    "code": "20302",
+    "districtName": "Huyện Hòa Vang",
+    "districtCode": "497",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Xã Hòa Tiến",
+    "code": "20326",
+    "districtName": "Huyện Hòa Vang",
+    "districtCode": "497",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hòa An",
+    "code": "20306",
+    "districtName": "Quận Cẩm Lệ",
+    "districtCode": "495",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hòa Phát",
+    "code": "20305",
+    "districtName": "Quận Cẩm Lệ",
+    "districtCode": "495",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hòa Thọ Tây",
+    "code": "20311",
+    "districtName": "Quận Cẩm Lệ",
+    "districtCode": "495",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hòa Thọ Đông",
+    "code": "20312",
+    "districtName": "Quận Cẩm Lệ",
+    "districtCode": "495",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hòa Xuân",
+    "code": "20314",
+    "districtName": "Quận Cẩm Lệ",
+    "districtCode": "495",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Khuê Trung",
+    "code": "20260",
+    "districtName": "Quận Cẩm Lệ",
+    "districtCode": "495",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Bình Thuận",
+    "code": "20254",
+    "districtName": "Quận Hải Châu",
+    "districtCode": "492",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hòa Cường Bắc",
+    "code": "20257",
+    "districtName": "Quận Hải Châu",
+    "districtCode": "492",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hòa Cường Nam",
+    "code": "20258",
+    "districtName": "Quận Hải Châu",
+    "districtCode": "492",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hòa Thuận Tây",
+    "code": "20245",
+    "districtName": "Quận Hải Châu",
+    "districtCode": "492",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hải Châu",
+    "code": "20236",
+    "districtName": "Quận Hải Châu",
+    "districtCode": "492",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Phước Ninh",
+    "code": "20242",
+    "districtName": "Quận Hải Châu",
+    "districtCode": "492",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Thanh Bình",
+    "code": "20227",
+    "districtName": "Quận Hải Châu",
+    "districtCode": "492",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Thuận Phước",
+    "code": "20230",
+    "districtName": "Quận Hải Châu",
+    "districtCode": "492",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Thạch Thang",
+    "code": "20233",
+    "districtName": "Quận Hải Châu",
+    "districtCode": "492",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hòa Hiệp Bắc",
+    "code": "20194",
+    "districtName": "Quận Liên Chiểu",
+    "districtCode": "490",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hòa Hiệp Nam",
+    "code": "20195",
+    "districtName": "Quận Liên Chiểu",
+    "districtCode": "490",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hòa Khánh Bắc",
+    "code": "20197",
+    "districtName": "Quận Liên Chiểu",
+    "districtCode": "490",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hòa Khánh Nam",
+    "code": "20198",
+    "districtName": "Quận Liên Chiểu",
+    "districtCode": "490",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hòa Minh",
+    "code": "20200",
+    "districtName": "Quận Liên Chiểu",
+    "districtCode": "490",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hoà Hải",
+    "code": "20290",
+    "districtName": "Quận Ngũ Hành Sơn",
+    "districtCode": "494",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Hoà Quý",
+    "code": "20287",
+    "districtName": "Quận Ngũ Hành Sơn",
+    "districtCode": "494",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Khuê Mỹ",
+    "code": "20285",
+    "districtName": "Quận Ngũ Hành Sơn",
+    "districtCode": "494",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Mỹ An",
+    "code": "20284",
+    "districtName": "Quận Ngũ Hành Sơn",
+    "districtCode": "494",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường An Hải Bắc",
+    "code": "20272",
+    "districtName": "Quận Sơn Trà",
+    "districtCode": "493",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường An Hải Nam",
+    "code": "20278",
+    "districtName": "Quận Sơn Trà",
+    "districtCode": "493",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Mân Thái",
+    "code": "20269",
+    "districtName": "Quận Sơn Trà",
+    "districtCode": "493",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Nại Hiên Đông",
+    "code": "20266",
+    "districtName": "Quận Sơn Trà",
+    "districtCode": "493",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Phước Mỹ",
+    "code": "20275",
+    "districtName": "Quận Sơn Trà",
+    "districtCode": "493",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Thọ Quang",
+    "code": "20263",
+    "districtName": "Quận Sơn Trà",
+    "districtCode": "493",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường An Khê",
+    "code": "20224",
+    "districtName": "Quận Thanh Khê",
+    "districtCode": "491",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Chính Gián",
+    "code": "20215",
+    "districtName": "Quận Thanh Khê",
+    "districtCode": "491",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Thanh Khê Tây",
+    "code": "20206",
+    "districtName": "Quận Thanh Khê",
+    "districtCode": "491",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Thanh Khê Đông",
+    "code": "20207",
+    "districtName": "Quận Thanh Khê",
+    "districtCode": "491",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Thạc Gián",
+    "code": "20218",
+    "districtName": "Quận Thanh Khê",
+    "districtCode": "491",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  },
+  {
+    "name": "Phường Xuân Hà",
+    "code": "20209",
+    "districtName": "Quận Thanh Khê",
+    "districtCode": "491",
+    "provinceName": "Thành phố Đà Nẵng",
+    "provinceCode": "48"
+  }
+]

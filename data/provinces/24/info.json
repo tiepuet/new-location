@@ -1,0 +1,81 @@
+{
+  "name": "Bắc Ninh",
+  "code": "24",
+  "from": "Bắc Ninh, Bắc Giang",
+  "area": 4718.6,
+  "population": 3619433,
+  "adminCenter": "TP Bắc Giang",
+  "hasSeaport": false,
+  "numSeaports": null,
+  "numBerths": null,
+  "grdp": 439.776,
+  "licensePlates": [
+    98,
+    99
+  ],
+  "density": 767,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Hiệp Hòa",
+      "code": "223",
+      "provinceName": "Tỉnh Bắc Giang",
+      "provinceCode": "24"
+    },
+    {
+      "name": "Huyện Lạng Giang",
+      "code": "217",
+      "provinceName": "Tỉnh Bắc Giang",
+      "provinceCode": "24"
+    },
+    {
+      "name": "Huyện Lục Nam",
+      "code": "218",
+      "provinceName": "Tỉnh Bắc Giang",
+      "provinceCode": "24"
+    },
+    {
+      "name": "Huyện Lục Ngạn",
+      "code": "219",
+      "provinceName": "Tỉnh Bắc Giang",
+      "provinceCode": "24"
+    },
+    {
+      "name": "Huyện Sơn Động",
+      "code": "220",
+      "provinceName": "Tỉnh Bắc Giang",
+      "provinceCode": "24"
+    },
+    {
+      "name": "Huyện Tân Yên",
+      "code": "216",
+      "provinceName": "Tỉnh Bắc Giang",
+      "provinceCode": "24"
+    },
+    {
+      "name": "Huyện Yên Thế",
+      "code": "215",
+      "provinceName": "Tỉnh Bắc Giang",
+      "provinceCode": "24"
+    },
+    {
+      "name": "Thành phố Bắc Giang",
+      "code": "213",
+      "provinceName": "Tỉnh Bắc Giang",
+      "provinceCode": "24"
+    },
+    {
+      "name": "Thị Xã Việt Yên",
+      "code": "222",
+      "provinceName": "Tỉnh Bắc Giang",
+      "provinceCode": "24"
+    },
+    {
+      "name": "Thị xã Chũ",
+      "code": "224",
+      "provinceName": "Tỉnh Bắc Giang",
+      "provinceCode": "24"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Tây Ninh",
+  "code": "80",
+  "from": "Tây Ninh, Long An",
+  "area": 8536.44,
+  "population": 3254170,
+  "adminCenter": "TP Tân An",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 3,
+  "grdp": null,
+  "licensePlates": [
+    62,
+    70
+  ],
+  "density": 381,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Bến Lức",
+      "code": "803",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Huyện Châu Thành",
+      "code": "808",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Huyện Cần Giuộc",
+      "code": "807",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Huyện Cần Đước",
+      "code": "806",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Huyện Mộc Hóa",
+      "code": "798",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Huyện Thạnh Hóa",
+      "code": "800",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Huyện Thủ Thừa",
+      "code": "804",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Huyện Tân Hưng",
+      "code": "796",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Huyện Tân Thạnh",
+      "code": "799",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Huyện Tân Trụ",
+      "code": "805",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Huyện Vĩnh Hưng",
+      "code": "797",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Huyện Đức Huệ",
+      "code": "801",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Huyện Đức Hòa",
+      "code": "802",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Thành phố Tân An",
+      "code": "794",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    },
+    {
+      "name": "Thị xã Kiến Tường",
+      "code": "795",
+      "provinceName": "Tỉnh Long An",
+      "provinceCode": "80"
+    }
+  ]
+}

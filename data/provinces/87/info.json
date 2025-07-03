@@ -1,0 +1,78 @@
+{
+  "name": "Tỉnh Đồng Tháp",
+  "code": "87",
+  "districts": [
+    {
+      "name": "Huyện Cao Lãnh",
+      "code": "873",
+      "provinceName": "Tỉnh Đồng Tháp",
+      "provinceCode": "87"
+    },
+    {
+      "name": "Huyện Châu Thành",
+      "code": "877",
+      "provinceName": "Tỉnh Đồng Tháp",
+      "provinceCode": "87"
+    },
+    {
+      "name": "Huyện Hồng Ngự",
+      "code": "870",
+      "provinceName": "Tỉnh Đồng Tháp",
+      "provinceCode": "87"
+    },
+    {
+      "name": "Huyện Lai Vung",
+      "code": "876",
+      "provinceName": "Tỉnh Đồng Tháp",
+      "provinceCode": "87"
+    },
+    {
+      "name": "Huyện Lấp Vò",
+      "code": "875",
+      "provinceName": "Tỉnh Đồng Tháp",
+      "provinceCode": "87"
+    },
+    {
+      "name": "Huyện Tam Nông",
+      "code": "871",
+      "provinceName": "Tỉnh Đồng Tháp",
+      "provinceCode": "87"
+    },
+    {
+      "name": "Huyện Thanh Bình",
+      "code": "874",
+      "provinceName": "Tỉnh Đồng Tháp",
+      "provinceCode": "87"
+    },
+    {
+      "name": "Huyện Tháp Mười",
+      "code": "872",
+      "provinceName": "Tỉnh Đồng Tháp",
+      "provinceCode": "87"
+    },
+    {
+      "name": "Huyện Tân Hồng",
+      "code": "869",
+      "provinceName": "Tỉnh Đồng Tháp",
+      "provinceCode": "87"
+    },
+    {
+      "name": "Thành phố Cao Lãnh",
+      "code": "866",
+      "provinceName": "Tỉnh Đồng Tháp",
+      "provinceCode": "87"
+    },
+    {
+      "name": "Thành phố Hồng Ngự",
+      "code": "868",
+      "provinceName": "Tỉnh Đồng Tháp",
+      "provinceCode": "87"
+    },
+    {
+      "name": "Thành phố Sa Đéc",
+      "code": "867",
+      "provinceName": "Tỉnh Đồng Tháp",
+      "provinceCode": "87"
+    }
+  ]
+}

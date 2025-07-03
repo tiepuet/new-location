@@ -1,0 +1,970 @@
+[
+  {
+    "name": "Thị trấn Gia Bình",
+    "code": "09454",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Thị trấn Nhân Thắng",
+    "code": "09481",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Bình Dương",
+    "code": "09475",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Cao Đức",
+    "code": "09466",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Giang Sơn",
+    "code": "09463",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Lãng Ngâm",
+    "code": "09478",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Quỳnh Phú",
+    "code": "09493",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Song Giang",
+    "code": "09472",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Thái Bảo",
+    "code": "09460",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Vạn Ninh",
+    "code": "09457",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Xuân Lai",
+    "code": "09484",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Đông Cứu",
+    "code": "09487",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Đại Bái",
+    "code": "09490",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Đại Lai",
+    "code": "09469",
+    "districtName": "Huyện Gia Bình",
+    "districtCode": "263",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Thị trấn Thứa",
+    "code": "09496",
+    "districtName": "Huyện Lương Tài",
+    "districtCode": "264",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã An Thịnh",
+    "code": "09499",
+    "districtName": "Huyện Lương Tài",
+    "districtCode": "264",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã An Tập",
+    "code": "09508",
+    "districtName": "Huyện Lương Tài",
+    "districtCode": "264",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Bình Định",
+    "code": "09529",
+    "districtName": "Huyện Lương Tài",
+    "districtCode": "264",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Lâm Thao",
+    "code": "09535",
+    "districtName": "Huyện Lương Tài",
+    "districtCode": "264",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Phú Hòa",
+    "code": "09505",
+    "districtName": "Huyện Lương Tài",
+    "districtCode": "264",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Phú Lương",
+    "code": "09532",
+    "districtName": "Huyện Lương Tài",
+    "districtCode": "264",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Quang Minh",
+    "code": "09517",
+    "districtName": "Huyện Lương Tài",
+    "districtCode": "264",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Quảng Phú",
+    "code": "09514",
+    "districtName": "Huyện Lương Tài",
+    "districtCode": "264",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Trung Chính",
+    "code": "09523",
+    "districtName": "Huyện Lương Tài",
+    "districtCode": "264",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Trung Kênh",
+    "code": "09502",
+    "districtName": "Huyện Lương Tài",
+    "districtCode": "264",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Tân Lãng",
+    "code": "09511",
+    "districtName": "Huyện Lương Tài",
+    "districtCode": "264",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Thị trấn Lim",
+    "code": "09319",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Cảnh Hưng",
+    "code": "09364",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Hiên Vân",
+    "code": "09337",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Hoàn Sơn",
+    "code": "09340",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Liên Bão",
+    "code": "09334",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Lạc Vệ",
+    "code": "09343",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Minh Đạo",
+    "code": "09361",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Nội Duệ",
+    "code": "09328",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Phú Lâm",
+    "code": "09322",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Phật Tích",
+    "code": "09349",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Tri Phương",
+    "code": "09358",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Tân Chi",
+    "code": "09352",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Việt Đoàn",
+    "code": "09346",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Đại Đồng",
+    "code": "09355",
+    "districtName": "Huyện Tiên Du",
+    "districtCode": "260",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Thị trấn Chờ",
+    "code": "09193",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Dũng Liệt",
+    "code": "09196",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Hòa Tiến",
+    "code": "09211",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Long Châu",
+    "code": "09232",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Tam Giang",
+    "code": "09202",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Tam Đa",
+    "code": "09199",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Thụy Hòa",
+    "code": "09208",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Trung Nghĩa",
+    "code": "09223",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Văn Môn",
+    "code": "09238",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Yên Phụ",
+    "code": "09220",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Yên Trung",
+    "code": "09205",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Đông Phong",
+    "code": "09229",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Đông Thọ",
+    "code": "09241",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Đông Tiến",
+    "code": "09217",
+    "districtName": "Huyện Yên Phong",
+    "districtCode": "258",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Hòa Long",
+    "code": "09214",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Hạp Lĩnh",
+    "code": "09331",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Khúc Xuyên",
+    "code": "09235",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Khắc Niệm",
+    "code": "09325",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Kim Chân",
+    "code": "09256",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Kinh Bắc",
+    "code": "09172",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Nam Sơn",
+    "code": "09286",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Phong Khê",
+    "code": "09244",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Suối Hoa",
+    "code": "09187",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Thị Cầu",
+    "code": "09169",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Tiền Ninh Vệ",
+    "code": "09184",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Vân Dương",
+    "code": "09271",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Võ Cường",
+    "code": "09190",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Vũ Ninh",
+    "code": "09163",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Vạn An",
+    "code": "09226",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Đáp Cầu",
+    "code": "09166",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Đại Phúc",
+    "code": "09181",
+    "districtName": "Thành phố Bắc Ninh",
+    "districtCode": "256",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Châu Khê",
+    "code": "09388",
+    "districtName": "Thành phố Từ Sơn",
+    "districtCode": "261",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Hương Mạc",
+    "code": "09373",
+    "districtName": "Thành phố Từ Sơn",
+    "districtCode": "261",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Phù Chẩn",
+    "code": "09397",
+    "districtName": "Thành phố Từ Sơn",
+    "districtCode": "261",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Phù Khê",
+    "code": "09379",
+    "districtName": "Thành phố Từ Sơn",
+    "districtCode": "261",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Tam Sơn",
+    "code": "09370",
+    "districtName": "Thành phố Từ Sơn",
+    "districtCode": "261",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Trang Hạ",
+    "code": "09383",
+    "districtName": "Thành phố Từ Sơn",
+    "districtCode": "261",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Tân Hồng",
+    "code": "09391",
+    "districtName": "Thành phố Từ Sơn",
+    "districtCode": "261",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Tương Giang",
+    "code": "09376",
+    "districtName": "Thành phố Từ Sơn",
+    "districtCode": "261",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Đình Bảng",
+    "code": "09394",
+    "districtName": "Thành phố Từ Sơn",
+    "districtCode": "261",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Đông Ngàn",
+    "code": "09367",
+    "districtName": "Thành phố Từ Sơn",
+    "districtCode": "261",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Đồng Kỵ",
+    "code": "09382",
+    "districtName": "Thành phố Từ Sơn",
+    "districtCode": "261",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Đồng Nguyên",
+    "code": "09385",
+    "districtName": "Thành phố Từ Sơn",
+    "districtCode": "261",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Bằng An",
+    "code": "09262",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Bồng Lai",
+    "code": "09295",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Cách Bi",
+    "code": "09298",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Nhân Hòa",
+    "code": "09259",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Phù Lương",
+    "code": "09274",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Phương Liễu",
+    "code": "09265",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Phượng Mao",
+    "code": "09280",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Phố Mới",
+    "code": "09247",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Quế Tân",
+    "code": "09268",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Việt Hùng",
+    "code": "09283",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Đại Xuân",
+    "code": "09253",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Chi Lăng",
+    "code": "09313",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Châu Phong",
+    "code": "09292",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Mộ Đạo",
+    "code": "09307",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Ngọc Xá",
+    "code": "09289",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Phù Lãng",
+    "code": "09277",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Việt Thống",
+    "code": "09250",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Yên Giả",
+    "code": "09304",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Đào Viên",
+    "code": "09301",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Đức Long",
+    "code": "09310",
+    "districtName": "Thị xã Quế Võ",
+    "districtCode": "259",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường An Bình",
+    "code": "09418",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Gia Đông",
+    "code": "09424",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Hà Mãn",
+    "code": "09436",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Hồ",
+    "code": "09400",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Ninh Xá",
+    "code": "09445",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Song Hồ",
+    "code": "09412",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Thanh Khương",
+    "code": "09427",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Trí Quả",
+    "code": "09421",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Trạm Lộ",
+    "code": "09430",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Phường Xuân Lâm",
+    "code": "09433",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Hoài Thượng",
+    "code": "09403",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Mão Điền",
+    "code": "09409",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Nghĩa Đạo",
+    "code": "09448",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Nguyệt Đức",
+    "code": "09442",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Ngũ Thái",
+    "code": "09439",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Song Liễu",
+    "code": "09451",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Đình Tổ",
+    "code": "09415",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  },
+  {
+    "name": "Xã Đại Đồng Thành",
+    "code": "09406",
+    "districtName": "Thị xã Thuận Thành",
+    "districtCode": "262",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "provinceCode": "27"
+  }
+]

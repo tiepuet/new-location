@@ -1,0 +1,970 @@
+[
+  {
+    "name": "Thị trấn Bá Hiến",
+    "code": "08944",
+    "districtName": "Huyện Bình Xuyên",
+    "districtCode": "249",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Gia Khánh",
+    "code": "08936",
+    "districtName": "Huyện Bình Xuyên",
+    "districtCode": "249",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Hương Canh",
+    "code": "08935",
+    "districtName": "Huyện Bình Xuyên",
+    "districtCode": "249",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Thanh Lãng",
+    "code": "08968",
+    "districtName": "Huyện Bình Xuyên",
+    "districtCode": "249",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Đạo Đức",
+    "code": "08962",
+    "districtName": "Huyện Bình Xuyên",
+    "districtCode": "249",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Hương Sơn",
+    "code": "08950",
+    "districtName": "Huyện Bình Xuyên",
+    "districtCode": "249",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Phú Xuân",
+    "code": "08971",
+    "districtName": "Huyện Bình Xuyên",
+    "districtCode": "249",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Quất Lưu",
+    "code": "08956",
+    "districtName": "Huyện Bình Xuyên",
+    "districtCode": "249",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Sơn Lôi",
+    "code": "08959",
+    "districtName": "Huyện Bình Xuyên",
+    "districtCode": "249",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Tam Hợp",
+    "code": "08953",
+    "districtName": "Huyện Bình Xuyên",
+    "districtCode": "249",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Thiện Kế",
+    "code": "08947",
+    "districtName": "Huyện Bình Xuyên",
+    "districtCode": "249",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Trung Mỹ",
+    "code": "08938",
+    "districtName": "Huyện Bình Xuyên",
+    "districtCode": "249",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Tân Phong",
+    "code": "08965",
+    "districtName": "Huyện Bình Xuyên",
+    "districtCode": "249",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Hoa Sơn",
+    "code": "08789",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Lập Thạch",
+    "code": "08761",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Bàn Giản",
+    "code": "08833",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Bắc Bình",
+    "code": "08785",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Hợp Lý",
+    "code": "08770",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Liên Hòa",
+    "code": "08812",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Liễn Sơn",
+    "code": "08791",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Ngọc Mỹ",
+    "code": "08767",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Quang Sơn",
+    "code": "08764",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Sơn Đông",
+    "code": "08866",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Thái Hòa",
+    "code": "08788",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Tiên Lữ",
+    "code": "08842",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Tây Sơn",
+    "code": "08863",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Tử Du",
+    "code": "08815",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Vân Trục",
+    "code": "08797",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Văn Quán",
+    "code": "08845",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Xuân Hòa",
+    "code": "08794",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Xuân Lôi",
+    "code": "08836",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Đồng Ích",
+    "code": "08839",
+    "districtName": "Huyện Lập Thạch",
+    "districtCode": "246",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Tam Sơn",
+    "code": "08824",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Cao Phong",
+    "code": "08860",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Hải Lựu",
+    "code": "08782",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Lãng Công",
+    "code": "08773",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Nhân Đạo",
+    "code": "08803",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Phương Khoan",
+    "code": "08809",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Quang Yên",
+    "code": "08776",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "08818",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Tứ Yên",
+    "code": "08851",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Yên Thạch",
+    "code": "08830",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Đôn Nhân",
+    "code": "08806",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Đồng Quế",
+    "code": "08800",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Đồng Thịnh",
+    "code": "08848",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Đức Bác",
+    "code": "08854",
+    "districtName": "Huyện Sông Lô",
+    "districtCode": "253",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Hợp Hòa",
+    "code": "08869",
+    "districtName": "Huyện Tam Dương",
+    "districtCode": "247",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Kim Long",
+    "code": "08878",
+    "districtName": "Huyện Tam Dương",
+    "districtCode": "247",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã An Hòa",
+    "code": "08887",
+    "districtName": "Huyện Tam Dương",
+    "districtCode": "247",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Duy Phiên",
+    "code": "08893",
+    "districtName": "Huyện Tam Dương",
+    "districtCode": "247",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Hoàng Hoa",
+    "code": "08872",
+    "districtName": "Huyện Tam Dương",
+    "districtCode": "247",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Hoàng Lâu",
+    "code": "08899",
+    "districtName": "Huyện Tam Dương",
+    "districtCode": "247",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Hoàng Đan",
+    "code": "08896",
+    "districtName": "Huyện Tam Dương",
+    "districtCode": "247",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Hướng Đạo",
+    "code": "08881",
+    "districtName": "Huyện Tam Dương",
+    "districtCode": "247",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Hội Thịnh",
+    "code": "08905",
+    "districtName": "Huyện Tam Dương",
+    "districtCode": "247",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Thanh Vân",
+    "code": "08890",
+    "districtName": "Huyện Tam Dương",
+    "districtCode": "247",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Đạo Tú",
+    "code": "08884",
+    "districtName": "Huyện Tam Dương",
+    "districtCode": "247",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Đồng Tĩnh",
+    "code": "08875",
+    "districtName": "Huyện Tam Dương",
+    "districtCode": "247",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Hợp Châu",
+    "code": "08911",
+    "districtName": "Huyện Tam Đảo",
+    "districtCode": "248",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Tam Đảo",
+    "code": "08908",
+    "districtName": "Huyện Tam Đảo",
+    "districtCode": "248",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Đại Đình",
+    "code": "08923",
+    "districtName": "Huyện Tam Đảo",
+    "districtCode": "248",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Bồ Lý",
+    "code": "08920",
+    "districtName": "Huyện Tam Đảo",
+    "districtCode": "248",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Hồ Sơn",
+    "code": "08929",
+    "districtName": "Huyện Tam Đảo",
+    "districtCode": "248",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Minh Quang",
+    "code": "08932",
+    "districtName": "Huyện Tam Đảo",
+    "districtCode": "248",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Tam Quan",
+    "code": "08926",
+    "districtName": "Huyện Tam Đảo",
+    "districtCode": "248",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Yên Dương",
+    "code": "08917",
+    "districtName": "Huyện Tam Đảo",
+    "districtCode": "248",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Đạo Trù",
+    "code": "08914",
+    "districtName": "Huyện Tam Đảo",
+    "districtCode": "248",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Thổ Tang",
+    "code": "09112",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Tứ Trưng",
+    "code": "09145",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Vĩnh Tường",
+    "code": "09076",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã An Nhân",
+    "code": "09151",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Chấn Hưng",
+    "code": "09085",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Kim Xá",
+    "code": "09079",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Lũng Hoà",
+    "code": "09106",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Lương Điền",
+    "code": "09118",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Nghĩa Hưng",
+    "code": "09088",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Ngũ Kiên",
+    "code": "09148",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Sao Đại Việt",
+    "code": "09097",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Thượng Trưng",
+    "code": "09127",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Tuân Chính",
+    "code": "09136",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Tân Phú",
+    "code": "09124",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Vĩnh Phú",
+    "code": "09157",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Vĩnh Thịnh",
+    "code": "09154",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Vũ Di",
+    "code": "09130",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Yên Bình",
+    "code": "09082",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Yên Lập",
+    "code": "09091",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Đại Đồng",
+    "code": "09100",
+    "districtName": "Huyện Vĩnh Tường",
+    "districtCode": "252",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Tam Hồng",
+    "code": "09043",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Thị trấn Yên Lạc",
+    "code": "09025",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Bình Định",
+    "code": "09034",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Hồng Châu",
+    "code": "09070",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Liên Châu",
+    "code": "09064",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Nguyệt Đức",
+    "code": "09052",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Trung Hà",
+    "code": "09073",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Trung Kiên",
+    "code": "09061",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Trung Nguyên",
+    "code": "09037",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Tề Lỗ",
+    "code": "09040",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Văn Tiến",
+    "code": "09049",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Yên Phương",
+    "code": "09055",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Yên Đồng",
+    "code": "09046",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Đại Tự",
+    "code": "09067",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Đồng Cương",
+    "code": "09028",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Đồng Văn",
+    "code": "09031",
+    "districtName": "Huyện Yên Lạc",
+    "districtCode": "251",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Hai Bà Trưng",
+    "code": "08740",
+    "districtName": "Thành phố Phúc Yên",
+    "districtCode": "244",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Hùng Vương",
+    "code": "08737",
+    "districtName": "Thành phố Phúc Yên",
+    "districtCode": "244",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Nam Viêm",
+    "code": "08755",
+    "districtName": "Thành phố Phúc Yên",
+    "districtCode": "244",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Phúc Thắng",
+    "code": "08743",
+    "districtName": "Thành phố Phúc Yên",
+    "districtCode": "244",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Tiền Châu",
+    "code": "08758",
+    "districtName": "Thành phố Phúc Yên",
+    "districtCode": "244",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Xuân Hoà",
+    "code": "08746",
+    "districtName": "Thành phố Phúc Yên",
+    "districtCode": "244",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Đồng Xuân",
+    "code": "08747",
+    "districtName": "Thành phố Phúc Yên",
+    "districtCode": "244",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Cao Minh",
+    "code": "08752",
+    "districtName": "Thành phố Phúc Yên",
+    "districtCode": "244",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Ngọc Thanh",
+    "code": "08749",
+    "districtName": "Thành phố Phúc Yên",
+    "districtCode": "244",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Hội Hợp",
+    "code": "08713",
+    "districtName": "Thành phố Vĩnh Yên",
+    "districtCode": "243",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Khai Quang",
+    "code": "08728",
+    "districtName": "Thành phố Vĩnh Yên",
+    "districtCode": "243",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Liên Bảo",
+    "code": "08710",
+    "districtName": "Thành phố Vĩnh Yên",
+    "districtCode": "243",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Ngô Quyền",
+    "code": "08719",
+    "districtName": "Thành phố Vĩnh Yên",
+    "districtCode": "243",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Tích Sơn",
+    "code": "08707",
+    "districtName": "Thành phố Vĩnh Yên",
+    "districtCode": "243",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Định Trung",
+    "code": "08725",
+    "districtName": "Thành phố Vĩnh Yên",
+    "districtCode": "243",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Đống Đa",
+    "code": "08716",
+    "districtName": "Thành phố Vĩnh Yên",
+    "districtCode": "243",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Phường Đồng Tâm",
+    "code": "08722",
+    "districtName": "Thành phố Vĩnh Yên",
+    "districtCode": "243",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  },
+  {
+    "name": "Xã Thanh Trù",
+    "code": "08731",
+    "districtName": "Thành phố Vĩnh Yên",
+    "districtCode": "243",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "provinceCode": "26"
+  }
+]

@@ -1,0 +1,1242 @@
+[
+  {
+    "name": "Thị trấn An Phú",
+    "code": "30337",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Long Bình",
+    "code": "30341",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Đa Phước",
+    "code": "30373",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Khánh An",
+    "code": "30340",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Khánh Bình",
+    "code": "30343",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Nhơn Hội",
+    "code": "30349",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Hội",
+    "code": "30355",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Hữu",
+    "code": "30352",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phước Hưng",
+    "code": "30358",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Quốc Thái",
+    "code": "30346",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Hậu",
+    "code": "30364",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Hội Đông",
+    "code": "30370",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Lộc",
+    "code": "30361",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Trường",
+    "code": "30367",
+    "districtName": "Huyện An Phú",
+    "districtCode": "886",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Cái Dầu",
+    "code": "30463",
+    "districtName": "Huyện Châu Phú",
+    "districtCode": "889",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Vĩnh Thạnh Trung",
+    "code": "30478",
+    "districtName": "Huyện Châu Phú",
+    "districtCode": "889",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Bình Chánh",
+    "code": "30499",
+    "districtName": "Huyện Châu Phú",
+    "districtCode": "889",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Bình Long",
+    "code": "30484",
+    "districtName": "Huyện Châu Phú",
+    "districtCode": "889",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Bình Mỹ",
+    "code": "30487",
+    "districtName": "Huyện Châu Phú",
+    "districtCode": "889",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Bình Phú",
+    "code": "30496",
+    "districtName": "Huyện Châu Phú",
+    "districtCode": "889",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Bình Thủy",
+    "code": "30490",
+    "districtName": "Huyện Châu Phú",
+    "districtCode": "889",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Khánh Hòa",
+    "code": "30466",
+    "districtName": "Huyện Châu Phú",
+    "districtCode": "889",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Mỹ Phú",
+    "code": "30472",
+    "districtName": "Huyện Châu Phú",
+    "districtCode": "889",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Mỹ Đức",
+    "code": "30469",
+    "districtName": "Huyện Châu Phú",
+    "districtCode": "889",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Thạnh Mỹ Tây",
+    "code": "30481",
+    "districtName": "Huyện Châu Phú",
+    "districtCode": "889",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Ô Long Vỹ",
+    "code": "30475",
+    "districtName": "Huyện Châu Phú",
+    "districtCode": "889",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Đào Hữu Cảnh",
+    "code": "30493",
+    "districtName": "Huyện Châu Phú",
+    "districtCode": "889",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn An Châu",
+    "code": "30589",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "892",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Vĩnh Bình",
+    "code": "30604",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "892",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã An Hòa",
+    "code": "30592",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "892",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Bình Hòa",
+    "code": "30607",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "892",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Bình Thạnh",
+    "code": "30601",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "892",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Cần Đăng",
+    "code": "30595",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "892",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Hòa Bình Thạnh",
+    "code": "30613",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "892",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Tân Phú",
+    "code": "30622",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "892",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh An",
+    "code": "30610",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "892",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Hanh",
+    "code": "30598",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "892",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Lợi",
+    "code": "30616",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "892",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Nhuận",
+    "code": "30619",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "892",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Thành",
+    "code": "30625",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "892",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Chợ Mới",
+    "code": "30628",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Hội An",
+    "code": "30673",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Mỹ Luông",
+    "code": "30631",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã An Thạnh Trung",
+    "code": "30670",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Bình Phước Xuân",
+    "code": "30667",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Hòa An",
+    "code": "30679",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "30676",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Kiến An",
+    "code": "30634",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Kiến Thành",
+    "code": "30649",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Long Giang",
+    "code": "30661",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Long Kiến",
+    "code": "30664",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Long Điền A",
+    "code": "30640",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Long Điền B",
+    "code": "30646",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Mỹ An",
+    "code": "30655",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Mỹ Hiệp",
+    "code": "30652",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Mỹ Hội Đông",
+    "code": "30637",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Nhơn Mỹ",
+    "code": "30658",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Tấn Mỹ",
+    "code": "30643",
+    "districtName": "Huyện Chợ Mới",
+    "districtCode": "893",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Chợ Vàm",
+    "code": "30409",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Phú Mỹ",
+    "code": "30406",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Bình Thạnh Đông",
+    "code": "30454",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Hiệp Xương",
+    "code": "30442",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Hoà Lạc",
+    "code": "30430",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Long Hoà",
+    "code": "30415",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú An",
+    "code": "30436",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Bình",
+    "code": "30445",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Hiệp",
+    "code": "30424",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Hưng",
+    "code": "30451",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Long",
+    "code": "30418",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Lâm",
+    "code": "30421",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Thành",
+    "code": "30433",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Thạnh",
+    "code": "30427",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Thọ",
+    "code": "30448",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Xuân",
+    "code": "30439",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Tân Hòa",
+    "code": "30457",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Tân Trung",
+    "code": "30460",
+    "districtName": "Huyện Phú Tân",
+    "districtCode": "888",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị Trấn Óc Eo",
+    "code": "30688",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Núi Sập",
+    "code": "30682",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Phú Hoà",
+    "code": "30685",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã An Bình",
+    "code": "30692",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Bình Thành",
+    "code": "30724",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Mỹ Phú Đông",
+    "code": "30712",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Thuận",
+    "code": "30700",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Thoại Giang",
+    "code": "30721",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Tây Phú",
+    "code": "30691",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Chánh",
+    "code": "30703",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Khánh",
+    "code": "30718",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Phú",
+    "code": "30694",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Trạch",
+    "code": "30697",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vọng Thê",
+    "code": "30727",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vọng Đông",
+    "code": "30715",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Định Mỹ",
+    "code": "30706",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Định Thành",
+    "code": "30709",
+    "districtName": "Huyện Thoại Sơn",
+    "districtCode": "894",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Ba Chúc",
+    "code": "30547",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Cô Tô",
+    "code": "30580",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Thị trấn Tri Tôn",
+    "code": "30544",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã An Tức",
+    "code": "30577",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Châu Lăng",
+    "code": "30562",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Lê Trì",
+    "code": "30553",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Lương An Trà",
+    "code": "30568",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Lương Phi",
+    "code": "30565",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Lạc Quới",
+    "code": "30550",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Núi Tô",
+    "code": "30574",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Tà Đảnh",
+    "code": "30571",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Tân Tuyến",
+    "code": "30583",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Gia",
+    "code": "30556",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Phước",
+    "code": "30559",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Ô Lâm",
+    "code": "30586",
+    "districtName": "Huyện Tri Tôn",
+    "districtCode": "891",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Châu Phú A",
+    "code": "30319",
+    "districtName": "Thành phố Châu Đốc",
+    "districtCode": "884",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Châu Phú B",
+    "code": "30316",
+    "districtName": "Thành phố Châu Đốc",
+    "districtCode": "884",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Núi Sam",
+    "code": "30325",
+    "districtName": "Thành phố Châu Đốc",
+    "districtCode": "884",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Vĩnh Mỹ",
+    "code": "30322",
+    "districtName": "Thành phố Châu Đốc",
+    "districtCode": "884",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Vĩnh Ngươn",
+    "code": "30328",
+    "districtName": "Thành phố Châu Đốc",
+    "districtCode": "884",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Châu",
+    "code": "30334",
+    "districtName": "Thành phố Châu Đốc",
+    "districtCode": "884",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Tế",
+    "code": "30331",
+    "districtName": "Thành phố Châu Đốc",
+    "districtCode": "884",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Bình Khánh",
+    "code": "30292",
+    "districtName": "Thành phố Long Xuyên",
+    "districtCode": "883",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Bình Đức",
+    "code": "30289",
+    "districtName": "Thành phố Long Xuyên",
+    "districtCode": "883",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Mỹ Bình",
+    "code": "30280",
+    "districtName": "Thành phố Long Xuyên",
+    "districtCode": "883",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Mỹ Hòa",
+    "code": "30307",
+    "districtName": "Thành phố Long Xuyên",
+    "districtCode": "883",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Mỹ Long",
+    "code": "30283",
+    "districtName": "Thành phố Long Xuyên",
+    "districtCode": "883",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Mỹ Phước",
+    "code": "30295",
+    "districtName": "Thành phố Long Xuyên",
+    "districtCode": "883",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Mỹ Quý",
+    "code": "30298",
+    "districtName": "Thành phố Long Xuyên",
+    "districtCode": "883",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Mỹ Thạnh",
+    "code": "30304",
+    "districtName": "Thành phố Long Xuyên",
+    "districtCode": "883",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Mỹ Thới",
+    "code": "30301",
+    "districtName": "Thành phố Long Xuyên",
+    "districtCode": "883",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Mỹ Xuyên",
+    "code": "30286",
+    "districtName": "Thành phố Long Xuyên",
+    "districtCode": "883",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Mỹ Hoà Hưng",
+    "code": "30313",
+    "districtName": "Thành phố Long Xuyên",
+    "districtCode": "883",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Mỹ Khánh",
+    "code": "30310",
+    "districtName": "Thành phố Long Xuyên",
+    "districtCode": "883",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Long Châu",
+    "code": "30378",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Long Hưng",
+    "code": "30377",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Long Phú",
+    "code": "30394",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Long Sơn",
+    "code": "30412",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Long Thạnh",
+    "code": "30376",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Châu Phong",
+    "code": "30397",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Long An",
+    "code": "30391",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Lê Chánh",
+    "code": "30403",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Lộc",
+    "code": "30379",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Phú Vĩnh",
+    "code": "30400",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Tân An",
+    "code": "30388",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Tân Thạnh",
+    "code": "30387",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Hòa",
+    "code": "30385",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Xương",
+    "code": "30382",
+    "districtName": "Thị xã Tân Châu",
+    "districtCode": "887",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường An Phú",
+    "code": "30514",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Chi Lăng",
+    "code": "30505",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Nhà Bàng",
+    "code": "30502",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Nhơn Hưng",
+    "code": "30511",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Núi Voi",
+    "code": "30508",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Thới Sơn",
+    "code": "30517",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Phường Tịnh Biên",
+    "code": "30520",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã An Cư",
+    "code": "30526",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã An Hảo",
+    "code": "30538",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã An Nông",
+    "code": "30529",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "30541",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Tân Lợi",
+    "code": "30535",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Văn Giáo",
+    "code": "30523",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  },
+  {
+    "name": "Xã Vĩnh Trung",
+    "code": "30532",
+    "districtName": "Thị xã Tịnh Biên",
+    "districtCode": "890",
+    "provinceName": "Tỉnh An Giang",
+    "provinceCode": "89"
+  }
+]

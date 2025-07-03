@@ -1,0 +1,60 @@
+{
+  "name": "Tỉnh Nam Định",
+  "code": "36",
+  "districts": [
+    {
+      "name": "Huyện Giao Thủy",
+      "code": "365",
+      "provinceName": "Tỉnh Nam Định",
+      "provinceCode": "36"
+    },
+    {
+      "name": "Huyện Hải Hậu",
+      "code": "366",
+      "provinceName": "Tỉnh Nam Định",
+      "provinceCode": "36"
+    },
+    {
+      "name": "Huyện Nam Trực",
+      "code": "362",
+      "provinceName": "Tỉnh Nam Định",
+      "provinceCode": "36"
+    },
+    {
+      "name": "Huyện Nghĩa Hưng",
+      "code": "361",
+      "provinceName": "Tỉnh Nam Định",
+      "provinceCode": "36"
+    },
+    {
+      "name": "Huyện Trực Ninh",
+      "code": "363",
+      "provinceName": "Tỉnh Nam Định",
+      "provinceCode": "36"
+    },
+    {
+      "name": "Huyện Vụ Bản",
+      "code": "359",
+      "provinceName": "Tỉnh Nam Định",
+      "provinceCode": "36"
+    },
+    {
+      "name": "Huyện Xuân Trường",
+      "code": "364",
+      "provinceName": "Tỉnh Nam Định",
+      "provinceCode": "36"
+    },
+    {
+      "name": "Huyện Ý Yên",
+      "code": "360",
+      "provinceName": "Tỉnh Nam Định",
+      "provinceCode": "36"
+    },
+    {
+      "name": "Thành phố Nam Định",
+      "code": "356",
+      "provinceName": "Tỉnh Nam Định",
+      "provinceCode": "36"
+    }
+  ]
+}

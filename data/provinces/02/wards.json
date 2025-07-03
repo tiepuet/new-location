@@ -1,0 +1,1546 @@
+[
+  {
+    "name": "Thị trấn Yên Phú",
+    "code": "00991",
+    "districtName": "Huyện Bắc Mê",
+    "districtCode": "31",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Giáp Trung",
+    "code": "00985",
+    "districtName": "Huyện Bắc Mê",
+    "districtCode": "31",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Lạc Nông",
+    "code": "01000",
+    "districtName": "Huyện Bắc Mê",
+    "districtCode": "31",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Minh Ngọc",
+    "code": "00994",
+    "districtName": "Huyện Bắc Mê",
+    "districtCode": "31",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Minh Sơn",
+    "code": "00982",
+    "districtName": "Huyện Bắc Mê",
+    "districtCode": "31",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Phiêng Luông",
+    "code": "01018",
+    "districtName": "Huyện Bắc Mê",
+    "districtCode": "31",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Phú Nam",
+    "code": "01003",
+    "districtName": "Huyện Bắc Mê",
+    "districtCode": "31",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thượng Tân",
+    "code": "01009",
+    "districtName": "Huyện Bắc Mê",
+    "districtCode": "31",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Yên Cường",
+    "code": "01006",
+    "districtName": "Huyện Bắc Mê",
+    "districtCode": "31",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Yên Phong",
+    "code": "00997",
+    "districtName": "Huyện Bắc Mê",
+    "districtCode": "31",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Yên Định",
+    "code": "00988",
+    "districtName": "Huyện Bắc Mê",
+    "districtCode": "31",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Đường Hồng",
+    "code": "01015",
+    "districtName": "Huyện Bắc Mê",
+    "districtCode": "31",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Đường Âm",
+    "code": "01012",
+    "districtName": "Huyện Bắc Mê",
+    "districtCode": "31",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Thị trấn Việt Quang",
+    "code": "01153",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Thị trấn Vĩnh Tuy",
+    "code": "01156",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Bằng Hành",
+    "code": "01186",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Hùng An",
+    "code": "01201",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Hữu Sản",
+    "code": "01177",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Kim Ngọc",
+    "code": "01180",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Liên Hiệp",
+    "code": "01192",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Quang Minh",
+    "code": "01189",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thượng Bình",
+    "code": "01174",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tiên Kiều",
+    "code": "01207",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "01159",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tân Quang",
+    "code": "01171",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "01162",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Việt Hồng",
+    "code": "01198",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Việt Vinh",
+    "code": "01183",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Vô Điếm",
+    "code": "01195",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Vĩnh Hảo",
+    "code": "01210",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Vĩnh Phúc",
+    "code": "01213",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Đông Thành",
+    "code": "01219",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Đồng Tiến",
+    "code": "01165",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Đồng Tâm",
+    "code": "01168",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Đồng Yên",
+    "code": "01216",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Đức Xuân",
+    "code": "01204",
+    "districtName": "Huyện Bắc Quang",
+    "districtCode": "34",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Thị trấn Vinh Quang",
+    "code": "01021",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Bản Luốc",
+    "code": "01063",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Bản Máy",
+    "code": "01024",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Bản Nhùng",
+    "code": "01069",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Bản Phùng",
+    "code": "01036",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Chiến Phố",
+    "code": "01042",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Hồ Thầu",
+    "code": "01081",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Nam Sơn",
+    "code": "01084",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Ngàm Đăng Vài",
+    "code": "01066",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Nàng Đôn",
+    "code": "01054",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Nậm Dịch",
+    "code": "01075",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Nậm Khòa",
+    "code": "01093",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Nậm Tỵ",
+    "code": "01087",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Pố Lồ",
+    "code": "01033",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Pờ Ly Ngài",
+    "code": "01057",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Sán Xả Hồ",
+    "code": "01060",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thàng Tín",
+    "code": "01027",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thèn Chu Phìn",
+    "code": "01030",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thông Nguyên",
+    "code": "01090",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tân Tiến",
+    "code": "01051",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Túng Sán",
+    "code": "01039",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tả Sử Choóng",
+    "code": "01072",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tụ Nhân",
+    "code": "01048",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Đản Ván",
+    "code": "01045",
+    "districtName": "Huyện Hoàng Su Phì",
+    "districtCode": "32",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Thị trấn Mèo Vạc",
+    "code": "00769",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Cán Chu Phìn",
+    "code": "00799",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Giàng Chu Phìn",
+    "code": "00784",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Khâu Vai",
+    "code": "00814",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Lũng Chinh",
+    "code": "00805",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Lũng Pù",
+    "code": "00802",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Niêm Sơn",
+    "code": "00817",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Niêm Tòng",
+    "code": "00815",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Nậm Ban",
+    "code": "00811",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Pả Vi",
+    "code": "00781",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Pải Lủng",
+    "code": "00775",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Sơn Vĩ",
+    "code": "00793",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Sủng Máng",
+    "code": "00790",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Sủng Trà",
+    "code": "00787",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thượng Phùng",
+    "code": "00772",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tát Ngà",
+    "code": "00808",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tả Lủng",
+    "code": "00796",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Xín Cái",
+    "code": "00778",
+    "districtName": "Huyện Mèo Vạc",
+    "districtCode": "27",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Thị trấn Yên Bình",
+    "code": "01237",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Bản Rịa",
+    "code": "01231",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Bằng Lang",
+    "code": "01246",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Hương Sơn",
+    "code": "01252",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Nà Khương",
+    "code": "01258",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tiên Nguyên",
+    "code": "01225",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tiên Yên",
+    "code": "01261",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tân Bắc",
+    "code": "01243",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tân Nam",
+    "code": "01228",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tân Trịnh",
+    "code": "01240",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Vĩ Thượng",
+    "code": "01264",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Xuân Giang",
+    "code": "01255",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Xuân Minh",
+    "code": "01222",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Yên Hà",
+    "code": "01249",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Yên Thành",
+    "code": "01234",
+    "districtName": "Huyện Quang Bình",
+    "districtCode": "35",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Thị trấn Tam Sơn",
+    "code": "00874",
+    "districtName": "Huyện Quản Bạ",
+    "districtCode": "29",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Bát Đại Sơn",
+    "code": "00877",
+    "districtName": "Huyện Quản Bạ",
+    "districtCode": "29",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Cao Mã Pờ",
+    "code": "00886",
+    "districtName": "Huyện Quản Bạ",
+    "districtCode": "29",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Cán Tỷ",
+    "code": "00883",
+    "districtName": "Huyện Quản Bạ",
+    "districtCode": "29",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Lùng Tám",
+    "code": "00901",
+    "districtName": "Huyện Quản Bạ",
+    "districtCode": "29",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Nghĩa Thuận",
+    "code": "00880",
+    "districtName": "Huyện Quản Bạ",
+    "districtCode": "29",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Quyết Tiến",
+    "code": "00904",
+    "districtName": "Huyện Quản Bạ",
+    "districtCode": "29",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Quản Bạ",
+    "code": "00898",
+    "districtName": "Huyện Quản Bạ",
+    "districtCode": "29",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thanh Vân",
+    "code": "00889",
+    "districtName": "Huyện Quản Bạ",
+    "districtCode": "29",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thái An",
+    "code": "00910",
+    "districtName": "Huyện Quản Bạ",
+    "districtCode": "29",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tùng Vài",
+    "code": "00892",
+    "districtName": "Huyện Quản Bạ",
+    "districtCode": "29",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tả Ván",
+    "code": "00907",
+    "districtName": "Huyện Quản Bạ",
+    "districtCode": "29",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Đông Hà",
+    "code": "00895",
+    "districtName": "Huyện Quản Bạ",
+    "districtCode": "29",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Thị trấn Nông trường Việt Lâm",
+    "code": "00916",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Thị trấn Vị Xuyên",
+    "code": "00913",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Bạch Ngọc",
+    "code": "00976",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Cao Bồ",
+    "code": "00952",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Kim Linh",
+    "code": "00709",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Kim Thạch",
+    "code": "00703",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Lao Chải",
+    "code": "00943",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Linh Hồ",
+    "code": "00961",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Minh Tân",
+    "code": "00919",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Ngọc Linh",
+    "code": "00970",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Ngọc Minh",
+    "code": "00973",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Phong Quang",
+    "code": "00934",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Phú Linh",
+    "code": "00706",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Phương Tiến",
+    "code": "00940",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Quảng Ngần",
+    "code": "00964",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thanh Thủy",
+    "code": "00928",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thanh Đức",
+    "code": "00931",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thuận Hoà",
+    "code": "00922",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thượng Sơn",
+    "code": "00958",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Trung Thành",
+    "code": "00979",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tùng Bá",
+    "code": "00925",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Việt Lâm",
+    "code": "00967",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Xín Chải",
+    "code": "00937",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Đạo Đức",
+    "code": "00955",
+    "districtName": "Huyện Vị Xuyên",
+    "districtCode": "30",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Thị trấn Cốc Pài",
+    "code": "01096",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Bản Díu",
+    "code": "01102",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Bản Ngò",
+    "code": "01135",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Chí Cà",
+    "code": "01105",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Chế Là",
+    "code": "01138",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Cốc Rế",
+    "code": "01123",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Khuôn Lùng",
+    "code": "01150",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Nà Chì",
+    "code": "01147",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Nàn Ma",
+    "code": "01129",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Nàn Xỉn",
+    "code": "01099",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Nấm Dẩn",
+    "code": "01141",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Pà Vầy Sủ",
+    "code": "01120",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Quảng Nguyên",
+    "code": "01144",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thu Tà",
+    "code": "01126",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thèn Phàng",
+    "code": "01114",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Trung Thịnh",
+    "code": "01117",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tả Nhìu",
+    "code": "01132",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Xín Mần",
+    "code": "01108",
+    "districtName": "Huyện Xín Mần",
+    "districtCode": "33",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Thị trấn Yên Minh",
+    "code": "00820",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Bạch Đích",
+    "code": "00832",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Du Già",
+    "code": "00871",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Du Tiến",
+    "code": "00868",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Hữu Vinh",
+    "code": "00841",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Lao Và Chải",
+    "code": "00844",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Lũng Hồ",
+    "code": "00865",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Mậu Duệ",
+    "code": "00847",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Mậu Long",
+    "code": "00853",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Na Khê",
+    "code": "00835",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Ngam La",
+    "code": "00856",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Ngọc Long",
+    "code": "00859",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Phú Lũng",
+    "code": "00826",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Sủng Thài",
+    "code": "00838",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Sủng Tráng",
+    "code": "00829",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thắng Mố",
+    "code": "00823",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Đông Minh",
+    "code": "00850",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Đường Thượng",
+    "code": "00862",
+    "districtName": "Huyện Yên Minh",
+    "districtCode": "28",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Thị trấn Phó Bảng",
+    "code": "00712",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Thị trấn Đồng Văn",
+    "code": "00721",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Hố Quáng Phìn",
+    "code": "00757",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Lũng Cú",
+    "code": "00715",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Lũng Phìn",
+    "code": "00763",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Lũng Thầu",
+    "code": "00754",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Lũng Táo",
+    "code": "00724",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Má Lé",
+    "code": "00718",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Phố Cáo",
+    "code": "00745",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Phố Là",
+    "code": "00727",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Sính Lủng",
+    "code": "00748",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Sảng Tủng",
+    "code": "00751",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Sủng Là",
+    "code": "00733",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Sủng Trái",
+    "code": "00766",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Thài Phìn Tủng",
+    "code": "00730",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tả Lủng",
+    "code": "00742",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Tả Phìn",
+    "code": "00739",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Vần Chải",
+    "code": "00760",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Xà Phìn",
+    "code": "00736",
+    "districtName": "Huyện Đồng Văn",
+    "districtCode": "26",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Phường Minh Khai",
+    "code": "00697",
+    "districtName": "Thành phố Hà Giang",
+    "districtCode": "24",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Phường Nguyễn Trãi",
+    "code": "00694",
+    "districtName": "Thành phố Hà Giang",
+    "districtCode": "24",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Phường Ngọc Hà",
+    "code": "00692",
+    "districtName": "Thành phố Hà Giang",
+    "districtCode": "24",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Phường Quang Trung",
+    "code": "00688",
+    "districtName": "Thành phố Hà Giang",
+    "districtCode": "24",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Phường Trần Phú",
+    "code": "00691",
+    "districtName": "Thành phố Hà Giang",
+    "districtCode": "24",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Ngọc Đường",
+    "code": "00700",
+    "districtName": "Thành phố Hà Giang",
+    "districtCode": "24",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Phương Thiện",
+    "code": "00949",
+    "districtName": "Thành phố Hà Giang",
+    "districtCode": "24",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  },
+  {
+    "name": "Xã Phương Độ",
+    "code": "00946",
+    "districtName": "Thành phố Hà Giang",
+    "districtCode": "24",
+    "provinceName": "Tỉnh Hà Giang",
+    "provinceCode": "02"
+  }
+]

@@ -1,0 +1,954 @@
+[
+  {
+    "name": "Thị trấn Cam Lộ",
+    "code": "19597",
+    "districtName": "Huyện Cam Lộ",
+    "districtCode": "468",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Cam Chính",
+    "code": "19618",
+    "districtName": "Huyện Cam Lộ",
+    "districtCode": "468",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Cam Hiếu",
+    "code": "19615",
+    "districtName": "Huyện Cam Lộ",
+    "districtCode": "468",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Cam Nghĩa",
+    "code": "19621",
+    "districtName": "Huyện Cam Lộ",
+    "districtCode": "468",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Cam Thành",
+    "code": "19612",
+    "districtName": "Huyện Cam Lộ",
+    "districtCode": "468",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Cam Thủy",
+    "code": "19606",
+    "districtName": "Huyện Cam Lộ",
+    "districtCode": "468",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Cam Tuyền",
+    "code": "19600",
+    "districtName": "Huyện Cam Lộ",
+    "districtCode": "468",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Thanh An",
+    "code": "19603",
+    "districtName": "Huyện Cam Lộ",
+    "districtCode": "468",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Thị trấn Cửa Việt",
+    "code": "19496",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Thị trấn Gio Linh",
+    "code": "19495",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Gio An",
+    "code": "19522",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Gio Hải",
+    "code": "19519",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Gio Mai",
+    "code": "19543",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Gio Mỹ",
+    "code": "19510",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Gio Quang",
+    "code": "19552",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Gio Sơn",
+    "code": "19537",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Thái",
+    "code": "19546",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Linh Trường",
+    "code": "19534",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Phong Bình",
+    "code": "19507",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Trung Giang",
+    "code": "19498",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Trung Hải",
+    "code": "19501",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Trung Sơn",
+    "code": "19504",
+    "districtName": "Huyện Gio Linh",
+    "districtCode": "466",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Thị trấn Khe Sanh",
+    "code": "19429",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Thị trấn Lao Bảo",
+    "code": "19432",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã A Dơi",
+    "code": "19483",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Ba Tầng",
+    "code": "19477",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Húc",
+    "code": "19468",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hướng Linh",
+    "code": "19447",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hướng Lập",
+    "code": "19435",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hướng Lộc",
+    "code": "19474",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hướng Phùng",
+    "code": "19441",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hướng Sơn",
+    "code": "19444",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hướng Tân",
+    "code": "19453",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hướng Việt",
+    "code": "19438",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Lìa",
+    "code": "19489",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Thanh",
+    "code": "19480",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Thuận",
+    "code": "19471",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Tân Hợp",
+    "code": "19450",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Tân Liên",
+    "code": "19465",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Tân Long",
+    "code": "19459",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "19462",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "19456",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Xy",
+    "code": "19492",
+    "districtName": "Huyện Hướng Hóa",
+    "districtCode": "465",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Thị trấn Diên Sanh",
+    "code": "19681",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải An",
+    "code": "19684",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Bình",
+    "code": "19687",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Chánh",
+    "code": "19738",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Dương",
+    "code": "19711",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Hưng",
+    "code": "19699",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Khê",
+    "code": "19741",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Lâm",
+    "code": "19717",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Phong",
+    "code": "19726",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Phú",
+    "code": "19702",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Quy",
+    "code": "19693",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Sơn",
+    "code": "19735",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Thượng",
+    "code": "19708",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Trường",
+    "code": "19729",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Định",
+    "code": "19714",
+    "districtName": "Huyện Hải Lăng",
+    "districtCode": "470",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Thị Trấn Ái Tử",
+    "code": "19624",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Cơ",
+    "code": "19654",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Giang",
+    "code": "19675",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Hòa",
+    "code": "19648",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Long",
+    "code": "19657",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Phước",
+    "code": "19633",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Thuận",
+    "code": "19642",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Thành",
+    "code": "19678",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Thượng",
+    "code": "19672",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Trung",
+    "code": "19666",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Trạch",
+    "code": "19639",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Tài",
+    "code": "19660",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Tân",
+    "code": "19627",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Ái",
+    "code": "19669",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Đại",
+    "code": "19645",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Độ",
+    "code": "19636",
+    "districtName": "Huyện Triệu Phong",
+    "districtCode": "469",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Thị trấn Bến Quan",
+    "code": "19366",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Thị trấn Cửa Tùng",
+    "code": "19414",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Thị trấn Hồ Xá",
+    "code": "19363",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hiền Thành",
+    "code": "19408",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Kim Thạch",
+    "code": "19384",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Trung Nam",
+    "code": "19378",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Vĩnh Chấp",
+    "code": "19375",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Vĩnh Giang",
+    "code": "19423",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Vĩnh Hà",
+    "code": "19417",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Vĩnh Hòa",
+    "code": "19396",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Vĩnh Khê",
+    "code": "19393",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Vĩnh Long",
+    "code": "19387",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Vĩnh Lâm",
+    "code": "19405",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Vĩnh Sơn",
+    "code": "19420",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Vĩnh Thái",
+    "code": "19369",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Vĩnh Thủy",
+    "code": "19402",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Vĩnh Tú",
+    "code": "19372",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Vĩnh Ô",
+    "code": "19426",
+    "districtName": "Huyện Vĩnh Linh",
+    "districtCode": "464",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Thị trấn Krông Klang",
+    "code": "19555",
+    "districtName": "Huyện Đa Krông",
+    "districtCode": "467",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã A Bung",
+    "code": "19591",
+    "districtName": "Huyện Đa Krông",
+    "districtCode": "467",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã A Ngo",
+    "code": "19594",
+    "districtName": "Huyện Đa Krông",
+    "districtCode": "467",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã A Vao",
+    "code": "19585",
+    "districtName": "Huyện Đa Krông",
+    "districtCode": "467",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Ba Lòng",
+    "code": "19570",
+    "districtName": "Huyện Đa Krông",
+    "districtCode": "467",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Ba Nang",
+    "code": "19576",
+    "districtName": "Huyện Đa Krông",
+    "districtCode": "467",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Húc Nghì",
+    "code": "19582",
+    "districtName": "Huyện Đa Krông",
+    "districtCode": "467",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hướng Hiệp",
+    "code": "19561",
+    "districtName": "Huyện Đa Krông",
+    "districtCode": "467",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Mò Ó",
+    "code": "19558",
+    "districtName": "Huyện Đa Krông",
+    "districtCode": "467",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Triệu Nguyên",
+    "code": "19567",
+    "districtName": "Huyện Đa Krông",
+    "districtCode": "467",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Tà Long",
+    "code": "19579",
+    "districtName": "Huyện Đa Krông",
+    "districtCode": "467",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Tà Rụt",
+    "code": "19588",
+    "districtName": "Huyện Đa Krông",
+    "districtCode": "467",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Đa Krông",
+    "code": "19564",
+    "districtName": "Huyện Đa Krông",
+    "districtCode": "467",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Phường 1",
+    "code": "19333",
+    "districtName": "Thành phố Đông Hà",
+    "districtCode": "461",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Phường 2",
+    "code": "19342",
+    "districtName": "Thành phố Đông Hà",
+    "districtCode": "461",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Phường 3",
+    "code": "19354",
+    "districtName": "Thành phố Đông Hà",
+    "districtCode": "461",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Phường 4",
+    "code": "19345",
+    "districtName": "Thành phố Đông Hà",
+    "districtCode": "461",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Phường 5",
+    "code": "19348",
+    "districtName": "Thành phố Đông Hà",
+    "districtCode": "461",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Phường Đông Giang",
+    "code": "19330",
+    "districtName": "Thành phố Đông Hà",
+    "districtCode": "461",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Phường Đông Lương",
+    "code": "19351",
+    "districtName": "Thành phố Đông Hà",
+    "districtCode": "461",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Phường Đông Lễ",
+    "code": "19336",
+    "districtName": "Thành phố Đông Hà",
+    "districtCode": "461",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Phường Đông Thanh",
+    "code": "19339",
+    "districtName": "Thành phố Đông Hà",
+    "districtCode": "461",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Phường 1",
+    "code": "19357",
+    "districtName": "Thị xã Quảng Trị",
+    "districtCode": "462",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Phường 2",
+    "code": "19360",
+    "districtName": "Thị xã Quảng Trị",
+    "districtCode": "462",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Phường 3",
+    "code": "19361",
+    "districtName": "Thị xã Quảng Trị",
+    "districtCode": "462",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Phường An Đôn",
+    "code": "19358",
+    "districtName": "Thị xã Quảng Trị",
+    "districtCode": "462",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  },
+  {
+    "name": "Xã Hải Lệ",
+    "code": "19705",
+    "districtName": "Thị xã Quảng Trị",
+    "districtCode": "462",
+    "provinceName": "Tỉnh Quảng Trị",
+    "provinceCode": "45"
+  }
+]

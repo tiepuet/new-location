@@ -1,0 +1,3298 @@
+[
+  {
+    "name": "Thị trấn Kim Nhan",
+    "code": "17329",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bình Sơn",
+    "code": "17338",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Cao Sơn",
+    "code": "17386",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Cẩm Sơn",
+    "code": "17350",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hoa Sơn",
+    "code": "17357",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hùng Sơn",
+    "code": "17347",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hội Sơn",
+    "code": "17368",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Khai Sơn",
+    "code": "17380",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Long Sơn",
+    "code": "17377",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Lĩnh Sơn",
+    "code": "17383",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Lạng Sơn",
+    "code": "17365",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Phúc Sơn",
+    "code": "17374",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tam Đỉnh",
+    "code": "17344",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thành Sơn",
+    "code": "17335",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thọ Sơn",
+    "code": "17332",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tào Sơn",
+    "code": "17359",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tường Sơn",
+    "code": "17356",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Vĩnh Sơn",
+    "code": "17362",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đức Sơn",
+    "code": "17353",
+    "districtName": "Huyện Anh Sơn",
+    "districtCode": "424",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Trà Lân",
+    "code": "17254",
+    "districtName": "Huyện Con Cuông",
+    "districtCode": "422",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bình Chuẩn",
+    "code": "17230",
+    "districtName": "Huyện Con Cuông",
+    "districtCode": "422",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Cam Lâm",
+    "code": "17236",
+    "districtName": "Huyện Con Cuông",
+    "districtCode": "422",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Chi Khê",
+    "code": "17251",
+    "districtName": "Huyện Con Cuông",
+    "districtCode": "422",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Khê",
+    "code": "17248",
+    "districtName": "Huyện Con Cuông",
+    "districtCode": "422",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Lạng Khê",
+    "code": "17233",
+    "districtName": "Huyện Con Cuông",
+    "districtCode": "422",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Lục Dạ",
+    "code": "17260",
+    "districtName": "Huyện Con Cuông",
+    "districtCode": "422",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Môn Sơn",
+    "code": "17263",
+    "districtName": "Huyện Con Cuông",
+    "districtCode": "422",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Mậu Đức",
+    "code": "17245",
+    "districtName": "Huyện Con Cuông",
+    "districtCode": "422",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thạch Ngàn",
+    "code": "17239",
+    "districtName": "Huyện Con Cuông",
+    "districtCode": "422",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Yên Khê",
+    "code": "17257",
+    "districtName": "Huyện Con Cuông",
+    "districtCode": "422",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đôn Phục",
+    "code": "17242",
+    "districtName": "Huyện Con Cuông",
+    "districtCode": "422",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Diễn Thành",
+    "code": "17464",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn An",
+    "code": "17500",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Cát",
+    "code": "17476",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Hoa",
+    "code": "17461",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Hoàng",
+    "code": "17404",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Hồng",
+    "code": "17413",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Kim",
+    "code": "17431",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Kỷ",
+    "code": "17434",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Liên",
+    "code": "17425",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Lâm",
+    "code": "17392",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Lộc",
+    "code": "17494",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Lợi",
+    "code": "17491",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Mỹ",
+    "code": "17410",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Nguyên",
+    "code": "17458",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Phong",
+    "code": "17416",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Phú",
+    "code": "17503",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Phúc",
+    "code": "17467",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Thái",
+    "code": "17440",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Thịnh",
+    "code": "17479",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Thọ",
+    "code": "17488",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Trung",
+    "code": "17497",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Trường",
+    "code": "17398",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Tân",
+    "code": "17482",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Vạn",
+    "code": "17428",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Yên",
+    "code": "17401",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Đoài",
+    "code": "17395",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diễn Đồng",
+    "code": "17443",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hùng Hải",
+    "code": "17419",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hạnh Quảng",
+    "code": "17449",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Minh Châu",
+    "code": "17485",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Ngọc Bích",
+    "code": "17452",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Xuân Tháp",
+    "code": "17437",
+    "districtName": "Huyện Diễn Châu",
+    "districtCode": "425",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Hưng Nguyên",
+    "code": "18001",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Nhân",
+    "code": "18052",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hưng Lĩnh",
+    "code": "18025",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hưng Nghĩa",
+    "code": "18037",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hưng Thành",
+    "code": "18064",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hưng Trung",
+    "code": "18004",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hưng Tây",
+    "code": "18010",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hưng Yên Bắc",
+    "code": "18008",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hưng Yên Nam",
+    "code": "18007",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hưng Đạo",
+    "code": "18016",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Long Xá",
+    "code": "18043",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Phúc Lợi",
+    "code": "18040",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thông Tân",
+    "code": "18028",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thịnh Mỹ",
+    "code": "18022",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Xuân Lam",
+    "code": "18055",
+    "districtName": "Huyện Hưng Nguyên",
+    "districtCode": "431",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Mường Xén",
+    "code": "16813",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bảo Nam",
+    "code": "16840",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bảo Thắng",
+    "code": "16846",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bắc Lý",
+    "code": "16819",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Chiêu Lưu",
+    "code": "16855",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Huồi Tụ",
+    "code": "16828",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hữu Kiệm",
+    "code": "16861",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hữu Lập",
+    "code": "16849",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Keng Đu",
+    "code": "16822",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Mường Lống",
+    "code": "16831",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Mường Típ",
+    "code": "16858",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Mường Ải",
+    "code": "16867",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Mỹ Lý",
+    "code": "16816",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Na Loi",
+    "code": "16834",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Na Ngoi",
+    "code": "16870",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nậm Càn",
+    "code": "16873",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nậm Cắn",
+    "code": "16837",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Phà Đánh",
+    "code": "16843",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tà Cạ",
+    "code": "16852",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tây Sơn",
+    "code": "16864",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đoọc Mạy",
+    "code": "16825",
+    "districtName": "Huyện Kỳ Sơn",
+    "districtCode": "417",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Nam Đàn",
+    "code": "17950",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hùng Tiến",
+    "code": "17962",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Khánh Sơn",
+    "code": "17986",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Kim Liên",
+    "code": "17971",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nam Anh",
+    "code": "17941",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nam Cát",
+    "code": "17983",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nam Giang",
+    "code": "17956",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nam Hưng",
+    "code": "17932",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nam Kim",
+    "code": "17998",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nam Lĩnh",
+    "code": "17953",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nam Thanh",
+    "code": "17938",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nam Xuân",
+    "code": "17944",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Thái",
+    "code": "17935",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thượng Tân Lộc",
+    "code": "17968",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Trung Phúc Cường",
+    "code": "17989",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Xuân Hòa",
+    "code": "17959",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Xuân Hồng",
+    "code": "17980",
+    "districtName": "Huyện Nam Đàn",
+    "districtCode": "430",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Quán Hành",
+    "code": "17827",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diên Hoa",
+    "code": "17899",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Khánh Hợp",
+    "code": "17878",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Công Bắc",
+    "code": "17884",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Công Nam",
+    "code": "17887",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Hưng",
+    "code": "17839",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Kiều",
+    "code": "17854",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Long",
+    "code": "17866",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Lâm",
+    "code": "17848",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Mỹ",
+    "code": "17857",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Phương",
+    "code": "17860",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Quang",
+    "code": "17851",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Thiết",
+    "code": "17845",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Thuận",
+    "code": "17863",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Thạch",
+    "code": "17890",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Tiến",
+    "code": "17836",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Trung",
+    "code": "17893",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Văn",
+    "code": "17830",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Vạn",
+    "code": "17911",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Xá",
+    "code": "17869",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Yên",
+    "code": "17833",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Đồng",
+    "code": "17842",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thịnh Trường",
+    "code": "17896",
+    "districtName": "Huyện Nghi Lộc",
+    "districtCode": "429",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Nghĩa Đàn",
+    "code": "16941",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa An",
+    "code": "17023",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Bình",
+    "code": "16960",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Hưng",
+    "code": "16972",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Hồng",
+    "code": "16975",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Hội",
+    "code": "16984",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Khánh",
+    "code": "17032",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Long",
+    "code": "17026",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Lâm",
+    "code": "16951",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Lạc",
+    "code": "16948",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Lộc",
+    "code": "17029",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Lợi",
+    "code": "16957",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Mai",
+    "code": "16942",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Minh",
+    "code": "16966",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Sơn",
+    "code": "16954",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Thành",
+    "code": "16987",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Thọ",
+    "code": "16969",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Trung",
+    "code": "16981",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Yên",
+    "code": "16945",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Đức",
+    "code": "17020",
+    "districtName": "Huyện Nghĩa Đàn",
+    "districtCode": "419",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Kim Sơn",
+    "code": "16738",
+    "districtName": "Huyện Quế Phong",
+    "districtCode": "415",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Kim",
+    "code": "16759",
+    "districtName": "Huyện Quế Phong",
+    "districtCode": "415",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Thôn",
+    "code": "16765",
+    "districtName": "Huyện Quế Phong",
+    "districtCode": "415",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Căm Muộn",
+    "code": "16774",
+    "districtName": "Huyện Quế Phong",
+    "districtCode": "415",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hạnh Dịch",
+    "code": "16747",
+    "districtName": "Huyện Quế Phong",
+    "districtCode": "415",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Mường Nọc",
+    "code": "16763",
+    "districtName": "Huyện Quế Phong",
+    "districtCode": "415",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nậm Giải",
+    "code": "16753",
+    "districtName": "Huyện Quế Phong",
+    "districtCode": "415",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nậm Nhoóng",
+    "code": "16768",
+    "districtName": "Huyện Quế Phong",
+    "districtCode": "415",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quang Phong",
+    "code": "16771",
+    "districtName": "Huyện Quế Phong",
+    "districtCode": "415",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thông Thụ",
+    "code": "16741",
+    "districtName": "Huyện Quế Phong",
+    "districtCode": "415",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tiền Phong",
+    "code": "16750",
+    "districtName": "Huyện Quế Phong",
+    "districtCode": "415",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tri Lễ",
+    "code": "16756",
+    "districtName": "Huyện Quế Phong",
+    "districtCode": "415",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đồng Văn",
+    "code": "16744",
+    "districtName": "Huyện Quế Phong",
+    "districtCode": "415",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Tân Lạc",
+    "code": "16777",
+    "districtName": "Huyện Quỳ Châu",
+    "districtCode": "416",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Bình",
+    "code": "16804",
+    "districtName": "Huyện Quỳ Châu",
+    "districtCode": "416",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Bính",
+    "code": "16780",
+    "districtName": "Huyện Quỳ Châu",
+    "districtCode": "416",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Hoàn",
+    "code": "16807",
+    "districtName": "Huyện Quỳ Châu",
+    "districtCode": "416",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Hạnh",
+    "code": "16795",
+    "districtName": "Huyện Quỳ Châu",
+    "districtCode": "416",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Hội",
+    "code": "16786",
+    "districtName": "Huyện Quỳ Châu",
+    "districtCode": "416",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Nga",
+    "code": "16789",
+    "districtName": "Huyện Quỳ Châu",
+    "districtCode": "416",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Phong",
+    "code": "16801",
+    "districtName": "Huyện Quỳ Châu",
+    "districtCode": "416",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Thuận",
+    "code": "16783",
+    "districtName": "Huyện Quỳ Châu",
+    "districtCode": "416",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Thắng",
+    "code": "16798",
+    "districtName": "Huyện Quỳ Châu",
+    "districtCode": "416",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Tiến",
+    "code": "16792",
+    "districtName": "Huyện Quỳ Châu",
+    "districtCode": "416",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Diên Lãm",
+    "code": "16810",
+    "districtName": "Huyện Quỳ Châu",
+    "districtCode": "416",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Quỳ Hợp",
+    "code": "17035",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bắc Sơn",
+    "code": "17095",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Cường",
+    "code": "17062",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Hồng",
+    "code": "17044",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Lý",
+    "code": "17089",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Lộc",
+    "code": "17056",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Quang",
+    "code": "17065",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Thành",
+    "code": "17050",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Thái",
+    "code": "17077",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Tiến",
+    "code": "17041",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Châu Đình",
+    "code": "17080",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hạ Sơn",
+    "code": "17092",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Liên Hợp",
+    "code": "17053",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Minh Hợp",
+    "code": "17071",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nam Sơn",
+    "code": "17086",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Xuân",
+    "code": "17074",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tam Hợp",
+    "code": "17059",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thọ Hợp",
+    "code": "17068",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Văn Lợi",
+    "code": "17083",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Yên Hợp",
+    "code": "17038",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đồng Hợp",
+    "code": "17047",
+    "districtName": "Huyện Quỳ Hợp",
+    "districtCode": "420",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Cầu Giát",
+    "code": "17179",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã An Hòa",
+    "code": "17206",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bình Sơn",
+    "code": "17185",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Minh Lương",
+    "code": "17176",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Ngọc Sơn",
+    "code": "17146",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Phú Nghĩa",
+    "code": "17209",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Bảng",
+    "code": "17158",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Châu",
+    "code": "17122",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Diễn",
+    "code": "17191",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Giang",
+    "code": "17197",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Hậu",
+    "code": "17167",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Lâm",
+    "code": "17170",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Sơn",
+    "code": "17152",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Tam",
+    "code": "17149",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Thanh",
+    "code": "17164",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Thạch",
+    "code": "17155",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Thắng",
+    "code": "17101",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Tân",
+    "code": "17119",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Văn",
+    "code": "17143",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Yên",
+    "code": "17182",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Đôi",
+    "code": "17173",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thuận Long",
+    "code": "17218",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tân Sơn",
+    "code": "17140",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tân Thắng",
+    "code": "17224",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Văn Hải",
+    "code": "17212",
+    "districtName": "Huyện Quỳnh Lưu",
+    "districtCode": "421",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Dùng",
+    "code": "17713",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Cát Văn",
+    "code": "17716",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hạnh Lâm",
+    "code": "17722",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Kim Bảng",
+    "code": "17791",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Mai Giang",
+    "code": "17818",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Minh Sơn",
+    "code": "17719",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Minh Tiến",
+    "code": "17785",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Ngọc Lâm",
+    "code": "17759",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Ngọc Sơn",
+    "code": "17767",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Phong Thịnh",
+    "code": "17728",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh An",
+    "code": "17773",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Hà",
+    "code": "17806",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Hương",
+    "code": "17758",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Liên",
+    "code": "17743",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Lâm",
+    "code": "17815",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Mỹ",
+    "code": "17734",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Ngọc",
+    "code": "17755",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Phong",
+    "code": "17731",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Quả",
+    "code": "17776",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Sơn",
+    "code": "17723",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Thịnh",
+    "code": "17770",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Thủy",
+    "code": "17797",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Tiên",
+    "code": "17737",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Tùng",
+    "code": "17812",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Xuân",
+    "code": "17821",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thanh Đức",
+    "code": "17824",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Xuân Dương",
+    "code": "17779",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đại Đồng",
+    "code": "17749",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đồng Văn",
+    "code": "17764",
+    "districtName": "Huyện Thanh Chương",
+    "districtCode": "428",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Tân Kỳ",
+    "code": "17266",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bình Hợp",
+    "code": "17281",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Giai Xuân",
+    "code": "17278",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hoàn Long",
+    "code": "17296",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hương Sơn",
+    "code": "17317",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Kỳ Sơn",
+    "code": "17314",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Kỳ Tân",
+    "code": "17320",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Dũng",
+    "code": "17308",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Hành",
+    "code": "17326",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Phúc",
+    "code": "17299",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Thái",
+    "code": "17290",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Đồng",
+    "code": "17284",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Phú Sơn",
+    "code": "17323",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tiên Kỳ",
+    "code": "17302",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tân An",
+    "code": "17305",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tân Hương",
+    "code": "17325",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tân Hợp",
+    "code": "17269",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tân Phú",
+    "code": "17272",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tân Xuân",
+    "code": "17275",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đồng Văn",
+    "code": "17287",
+    "districtName": "Huyện Tân Kỳ",
+    "districtCode": "423",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Thạch Giám",
+    "code": "16876",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hữu Khuông",
+    "code": "16885",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Lưu Kiền",
+    "code": "16915",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Lưỡng Minh",
+    "code": "16906",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Mai Sơn",
+    "code": "16879",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nga My",
+    "code": "16903",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nhôn Mai",
+    "code": "16882",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tam Hợp",
+    "code": "16936",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tam Quang",
+    "code": "16933",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tam Thái",
+    "code": "16924",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tam Đình",
+    "code": "16927",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Xiêng My",
+    "code": "16904",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Xá Lượng",
+    "code": "16921",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Yên Hòa",
+    "code": "16909",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Yên Na",
+    "code": "16912",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Yên Thắng",
+    "code": "16930",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Yên Tĩnh",
+    "code": "16900",
+    "districtName": "Huyện Tương Dương",
+    "districtCode": "418",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Hoa Thành",
+    "code": "17506",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bảo Thành",
+    "code": "17605",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bắc Thành",
+    "code": "17569",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hậu Thành",
+    "code": "17524",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Kim Thành",
+    "code": "17521",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Liên Thành",
+    "code": "17602",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Long Thành",
+    "code": "17578",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Lăng Thành",
+    "code": "17512",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Minh Thành",
+    "code": "17581",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Mã Thành",
+    "code": "17509",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Mỹ Thành",
+    "code": "17608",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nam Thành",
+    "code": "17584",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Phú Thành",
+    "code": "17542",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Phúc Thành",
+    "code": "17539",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quang Thành",
+    "code": "17533",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Sơn Thành",
+    "code": "17614",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thịnh Thành",
+    "code": "17560",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thọ Thành",
+    "code": "17530",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tiến Thành",
+    "code": "17510",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Trung Thành",
+    "code": "17575",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "17515",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tây Thành",
+    "code": "17536",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tăng Thành",
+    "code": "17554",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Viên Thành",
+    "code": "17596",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Vân Tụ",
+    "code": "17611",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Văn Thành",
+    "code": "17557",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Vĩnh Thành",
+    "code": "17587",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Xuân Thành",
+    "code": "17566",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đô Thành",
+    "code": "17527",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đông Thành",
+    "code": "17572",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đồng Thành",
+    "code": "17545",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đức Thành",
+    "code": "17518",
+    "districtName": "Huyện Yên Thành",
+    "districtCode": "426",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Thị trấn Đô Lương",
+    "code": "17617",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bài Sơn",
+    "code": "17632",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bạch Ngọc",
+    "code": "17623",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bắc Sơn",
+    "code": "17638",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Bồi Sơn",
+    "code": "17626",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Giang Sơn Tây",
+    "code": "17620",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Giang Sơn Đông",
+    "code": "17619",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hiến Sơn",
+    "code": "17701",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hòa Sơn",
+    "code": "17647",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hồng Sơn",
+    "code": "17629",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Lưu Sơn",
+    "code": "17659",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Lạc Sơn",
+    "code": "17671",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Minh Sơn",
+    "code": "17692",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Mỹ Sơn",
+    "code": "17704",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nam Sơn",
+    "code": "17656",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nhân Sơn",
+    "code": "17698",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quang Sơn",
+    "code": "17680",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thuận Sơn",
+    "code": "17695",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thái Sơn",
+    "code": "17677",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thượng Sơn",
+    "code": "17644",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Thịnh Sơn",
+    "code": "17683",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Trung Sơn",
+    "code": "17686",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tràng Sơn",
+    "code": "17641",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Trù Sơn",
+    "code": "17707",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tân Sơn",
+    "code": "17674",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Văn Sơn",
+    "code": "17665",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Xuân Sơn",
+    "code": "17689",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Yên Sơn",
+    "code": "17662",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đà Sơn",
+    "code": "17668",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đông Sơn",
+    "code": "17653",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đại Sơn",
+    "code": "17710",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đặng Sơn",
+    "code": "17650",
+    "districtName": "Huyện Đô Lương",
+    "districtCode": "427",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Bến Thủy",
+    "code": "16693",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Cửa Nam",
+    "code": "16678",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Hà Huy Tập",
+    "code": "16666",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Hưng Bình",
+    "code": "16672",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Hưng Dũng",
+    "code": "16675",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Hưng Lộc",
+    "code": "16708",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Hưng Phúc",
+    "code": "16673",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Hưng Đông",
+    "code": "16705",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Lê Lợi",
+    "code": "16669",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Nghi Hòa",
+    "code": "16726",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Nghi Hương",
+    "code": "16732",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Nghi Hải",
+    "code": "16729",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Nghi Phú",
+    "code": "16702",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Nghi Thu",
+    "code": "16735",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Nghi Thuỷ",
+    "code": "16717",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Nghi Tân",
+    "code": "16720",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Nghi Đức",
+    "code": "17923",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Quang Trung",
+    "code": "16681",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Quán Bàu",
+    "code": "16670",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Thu Thuỷ",
+    "code": "16723",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Trung Đô",
+    "code": "16699",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Trường Thi",
+    "code": "16690",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Vinh Tân",
+    "code": "16714",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Đông Vĩnh",
+    "code": "16663",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hưng Chính",
+    "code": "18013",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Hưng Hòa",
+    "code": "16711",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Kim",
+    "code": "17920",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Liên",
+    "code": "17908",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Phong",
+    "code": "17902",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Thái",
+    "code": "17926",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Xuân",
+    "code": "17905",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghi Ân",
+    "code": "17914",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Phúc Thọ",
+    "code": "17917",
+    "districtName": "Thành phố Vinh",
+    "districtCode": "412",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Mai Hùng",
+    "code": "17125",
+    "districtName": "Thị xã Hoàng Mai",
+    "districtCode": "432",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Quỳnh Dị",
+    "code": "17128",
+    "districtName": "Thị xã Hoàng Mai",
+    "districtCode": "432",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Quỳnh Phương",
+    "code": "17134",
+    "districtName": "Thị xã Hoàng Mai",
+    "districtCode": "432",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Quỳnh Thiện",
+    "code": "17110",
+    "districtName": "Thị xã Hoàng Mai",
+    "districtCode": "432",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Quỳnh Xuân",
+    "code": "17131",
+    "districtName": "Thị xã Hoàng Mai",
+    "districtCode": "432",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Liên",
+    "code": "17137",
+    "districtName": "Thị xã Hoàng Mai",
+    "districtCode": "432",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Lập",
+    "code": "17113",
+    "districtName": "Thị xã Hoàng Mai",
+    "districtCode": "432",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Lộc",
+    "code": "17107",
+    "districtName": "Thị xã Hoàng Mai",
+    "districtCode": "432",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Trang",
+    "code": "17116",
+    "districtName": "Thị xã Hoàng Mai",
+    "districtCode": "432",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Quỳnh Vinh",
+    "code": "17104",
+    "districtName": "Thị xã Hoàng Mai",
+    "districtCode": "432",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Hoà Hiếu",
+    "code": "16939",
+    "districtName": "Thị xã Thái Hoà",
+    "districtCode": "414",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Long Sơn",
+    "code": "17003",
+    "districtName": "Thị xã Thái Hoà",
+    "districtCode": "414",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Quang Phong",
+    "code": "16993",
+    "districtName": "Thị xã Thái Hoà",
+    "districtCode": "414",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Phường Quang Tiến",
+    "code": "16994",
+    "districtName": "Thị xã Thái Hoà",
+    "districtCode": "414",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Mỹ",
+    "code": "17008",
+    "districtName": "Thị xã Thái Hoà",
+    "districtCode": "414",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Thuận",
+    "code": "17014",
+    "districtName": "Thị xã Thái Hoà",
+    "districtCode": "414",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Nghĩa Tiến",
+    "code": "17005",
+    "districtName": "Thị xã Thái Hoà",
+    "districtCode": "414",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Tây Hiếu",
+    "code": "17011",
+    "districtName": "Thị xã Thái Hoà",
+    "districtCode": "414",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  },
+  {
+    "name": "Xã Đông Hiếu",
+    "code": "17017",
+    "districtName": "Thị xã Thái Hoà",
+    "districtCode": "414",
+    "provinceName": "Tỉnh Nghệ An",
+    "provinceCode": "40"
+  }
+]

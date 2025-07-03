@@ -1,0 +1,866 @@
+[
+  {
+    "name": "Thị trấn Châu Thành",
+    "code": "31569",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "942",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã An Hiệp",
+    "code": "31594",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "942",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã An Ninh",
+    "code": "31600",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "942",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Hồ Đắc Kiện",
+    "code": "31570",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "942",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Phú Tâm",
+    "code": "31573",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "942",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Phú Tân",
+    "code": "31582",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "942",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Thiện Mỹ",
+    "code": "31585",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "942",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Thuận Hòa",
+    "code": "31576",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "942",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Thị trấn Cù Lao Dung",
+    "code": "31615",
+    "districtName": "Huyện Cù Lao Dung",
+    "districtCode": "945",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã An Thạnh 1",
+    "code": "31618",
+    "districtName": "Huyện Cù Lao Dung",
+    "districtCode": "945",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã An Thạnh 2",
+    "code": "31630",
+    "districtName": "Huyện Cù Lao Dung",
+    "districtCode": "945",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã An Thạnh 3",
+    "code": "31633",
+    "districtName": "Huyện Cù Lao Dung",
+    "districtCode": "945",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã An Thạnh Nam",
+    "code": "31636",
+    "districtName": "Huyện Cù Lao Dung",
+    "districtCode": "945",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã An Thạnh Tây",
+    "code": "31621",
+    "districtName": "Huyện Cù Lao Dung",
+    "districtCode": "945",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã An Thạnh Đông",
+    "code": "31624",
+    "districtName": "Huyện Cù Lao Dung",
+    "districtCode": "945",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Đại Ân 1",
+    "code": "31627",
+    "districtName": "Huyện Cù Lao Dung",
+    "districtCode": "945",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Thị trấn An Lạc Thôn",
+    "code": "31531",
+    "districtName": "Huyện Kế Sách",
+    "districtCode": "943",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Thị trấn Kế Sách",
+    "code": "31528",
+    "districtName": "Huyện Kế Sách",
+    "districtCode": "943",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã An Lạc Tây",
+    "code": "31540",
+    "districtName": "Huyện Kế Sách",
+    "districtCode": "943",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã An Mỹ",
+    "code": "31564",
+    "districtName": "Huyện Kế Sách",
+    "districtCode": "943",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Ba Trinh",
+    "code": "31546",
+    "districtName": "Huyện Kế Sách",
+    "districtCode": "943",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Kế An",
+    "code": "31558",
+    "districtName": "Huyện Kế Sách",
+    "districtCode": "943",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Kế Thành",
+    "code": "31555",
+    "districtName": "Huyện Kế Sách",
+    "districtCode": "943",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Nhơn Mỹ",
+    "code": "31552",
+    "districtName": "Huyện Kế Sách",
+    "districtCode": "943",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Phong Nẫm",
+    "code": "31537",
+    "districtName": "Huyện Kế Sách",
+    "districtCode": "943",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Thới An Hội",
+    "code": "31549",
+    "districtName": "Huyện Kế Sách",
+    "districtCode": "943",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Trinh Phú",
+    "code": "31543",
+    "districtName": "Huyện Kế Sách",
+    "districtCode": "943",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Xuân Hòa",
+    "code": "31534",
+    "districtName": "Huyện Kế Sách",
+    "districtCode": "943",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Đại Hải",
+    "code": "31561",
+    "districtName": "Huyện Kế Sách",
+    "districtCode": "943",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Thị trấn Long Phú",
+    "code": "31639",
+    "districtName": "Huyện Long Phú",
+    "districtCode": "946",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Thị trấn Đại Ngãi",
+    "code": "31645",
+    "districtName": "Huyện Long Phú",
+    "districtCode": "946",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Châu Khánh",
+    "code": "31663",
+    "districtName": "Huyện Long Phú",
+    "districtCode": "946",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Hậu Thạnh",
+    "code": "31648",
+    "districtName": "Huyện Long Phú",
+    "districtCode": "946",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Long Phú",
+    "code": "31669",
+    "districtName": "Huyện Long Phú",
+    "districtCode": "946",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Long Đức",
+    "code": "31651",
+    "districtName": "Huyện Long Phú",
+    "districtCode": "946",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Phú Hữu",
+    "code": "31657",
+    "districtName": "Huyện Long Phú",
+    "districtCode": "946",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Song Phụng",
+    "code": "31642",
+    "districtName": "Huyện Long Phú",
+    "districtCode": "946",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Trường Khánh",
+    "code": "31654",
+    "districtName": "Huyện Long Phú",
+    "districtCode": "946",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Tân Hưng",
+    "code": "31660",
+    "districtName": "Huyện Long Phú",
+    "districtCode": "946",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Tân Thạnh",
+    "code": "31666",
+    "districtName": "Huyện Long Phú",
+    "districtCode": "946",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Thị trấn Huỳnh Hữu Nghĩa",
+    "code": "31567",
+    "districtName": "Huyện Mỹ Tú",
+    "districtCode": "944",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Hưng Phú",
+    "code": "31588",
+    "districtName": "Huyện Mỹ Tú",
+    "districtCode": "944",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Long Hưng",
+    "code": "31579",
+    "districtName": "Huyện Mỹ Tú",
+    "districtCode": "944",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Mỹ Hương",
+    "code": "31591",
+    "districtName": "Huyện Mỹ Tú",
+    "districtCode": "944",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Mỹ Phước",
+    "code": "31603",
+    "districtName": "Huyện Mỹ Tú",
+    "districtCode": "944",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Mỹ Thuận",
+    "code": "31609",
+    "districtName": "Huyện Mỹ Tú",
+    "districtCode": "944",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Mỹ Tú",
+    "code": "31597",
+    "districtName": "Huyện Mỹ Tú",
+    "districtCode": "944",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Phú Mỹ",
+    "code": "31612",
+    "districtName": "Huyện Mỹ Tú",
+    "districtCode": "944",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Thuận Hưng",
+    "code": "31606",
+    "districtName": "Huyện Mỹ Tú",
+    "districtCode": "944",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Thị trấn Mỹ Xuyên",
+    "code": "31684",
+    "districtName": "Huyện Mỹ Xuyên",
+    "districtCode": "947",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Gia Hòa 1",
+    "code": "31720",
+    "districtName": "Huyện Mỹ Xuyên",
+    "districtCode": "947",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Gia Hòa 2",
+    "code": "31726",
+    "districtName": "Huyện Mỹ Xuyên",
+    "districtCode": "947",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Hòa Tú 1",
+    "code": "31717",
+    "districtName": "Huyện Mỹ Xuyên",
+    "districtCode": "947",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Hòa Tú II",
+    "code": "31729",
+    "districtName": "Huyện Mỹ Xuyên",
+    "districtCode": "947",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Ngọc Tố",
+    "code": "31723",
+    "districtName": "Huyện Mỹ Xuyên",
+    "districtCode": "947",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Ngọc Đông",
+    "code": "31711",
+    "districtName": "Huyện Mỹ Xuyên",
+    "districtCode": "947",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Tham Đôn",
+    "code": "31693",
+    "districtName": "Huyện Mỹ Xuyên",
+    "districtCode": "947",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Thạnh Phú",
+    "code": "31708",
+    "districtName": "Huyện Mỹ Xuyên",
+    "districtCode": "947",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Thạnh Quới",
+    "code": "31714",
+    "districtName": "Huyện Mỹ Xuyên",
+    "districtCode": "947",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Đại Tâm",
+    "code": "31690",
+    "districtName": "Huyện Mỹ Xuyên",
+    "districtCode": "947",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Thị trấn Hưng Lợi",
+    "code": "31757",
+    "districtName": "Huyện Thạnh Trị",
+    "districtCode": "949",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Thị trấn Phú Lộc",
+    "code": "31756",
+    "districtName": "Huyện Thạnh Trị",
+    "districtCode": "949",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Châu Hưng",
+    "code": "31780",
+    "districtName": "Huyện Thạnh Trị",
+    "districtCode": "949",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Lâm Kiết",
+    "code": "31765",
+    "districtName": "Huyện Thạnh Trị",
+    "districtCode": "949",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Lâm Tân",
+    "code": "31759",
+    "districtName": "Huyện Thạnh Trị",
+    "districtCode": "949",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Thạnh Trị",
+    "code": "31774",
+    "districtName": "Huyện Thạnh Trị",
+    "districtCode": "949",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Thạnh Tân",
+    "code": "31762",
+    "districtName": "Huyện Thạnh Trị",
+    "districtCode": "949",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Tuân Tức",
+    "code": "31768",
+    "districtName": "Huyện Thạnh Trị",
+    "districtCode": "949",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Vĩnh Lợi",
+    "code": "31777",
+    "districtName": "Huyện Thạnh Trị",
+    "districtCode": "949",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Vĩnh Thành",
+    "code": "31771",
+    "districtName": "Huyện Thạnh Trị",
+    "districtCode": "949",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Thị trấn Lịch Hội Thượng",
+    "code": "31679",
+    "districtName": "Huyện Trần Đề",
+    "districtCode": "951",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Thị trấn Trần Đề",
+    "code": "31673",
+    "districtName": "Huyện Trần Đề",
+    "districtCode": "951",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Liêu Tú",
+    "code": "31675",
+    "districtName": "Huyện Trần Đề",
+    "districtCode": "951",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Lịch Hội Thượng",
+    "code": "31678",
+    "districtName": "Huyện Trần Đề",
+    "districtCode": "951",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Thạnh Thới An",
+    "code": "31699",
+    "districtName": "Huyện Trần Đề",
+    "districtCode": "951",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Thạnh Thới Thuận",
+    "code": "31702",
+    "districtName": "Huyện Trần Đề",
+    "districtCode": "951",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Trung Bình",
+    "code": "31681",
+    "districtName": "Huyện Trần Đề",
+    "districtCode": "951",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Tài Văn",
+    "code": "31687",
+    "districtName": "Huyện Trần Đề",
+    "districtCode": "951",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Viên An",
+    "code": "31696",
+    "districtName": "Huyện Trần Đề",
+    "districtCode": "951",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Viên Bình",
+    "code": "31705",
+    "districtName": "Huyện Trần Đề",
+    "districtCode": "951",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Đại Ân 2",
+    "code": "31672",
+    "districtName": "Huyện Trần Đề",
+    "districtCode": "951",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 1",
+    "code": "31522",
+    "districtName": "Thành phố Sóc Trăng",
+    "districtCode": "941",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 10",
+    "code": "31525",
+    "districtName": "Thành phố Sóc Trăng",
+    "districtCode": "941",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 2",
+    "code": "31510",
+    "districtName": "Thành phố Sóc Trăng",
+    "districtCode": "941",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 3",
+    "code": "31519",
+    "districtName": "Thành phố Sóc Trăng",
+    "districtCode": "941",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 4",
+    "code": "31516",
+    "districtName": "Thành phố Sóc Trăng",
+    "districtCode": "941",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 5",
+    "code": "31498",
+    "districtName": "Thành phố Sóc Trăng",
+    "districtCode": "941",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 6",
+    "code": "31507",
+    "districtName": "Thành phố Sóc Trăng",
+    "districtCode": "941",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 7",
+    "code": "31501",
+    "districtName": "Thành phố Sóc Trăng",
+    "districtCode": "941",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 8",
+    "code": "31504",
+    "districtName": "Thành phố Sóc Trăng",
+    "districtCode": "941",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 1",
+    "code": "31732",
+    "districtName": "Thị xã Ngã Năm",
+    "districtCode": "948",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 2",
+    "code": "31735",
+    "districtName": "Thị xã Ngã Năm",
+    "districtCode": "948",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 3",
+    "code": "31747",
+    "districtName": "Thị xã Ngã Năm",
+    "districtCode": "948",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Long Bình",
+    "code": "31744",
+    "districtName": "Thị xã Ngã Năm",
+    "districtCode": "948",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Mỹ Bình",
+    "code": "31750",
+    "districtName": "Thị xã Ngã Năm",
+    "districtCode": "948",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Mỹ Quới",
+    "code": "31753",
+    "districtName": "Thị xã Ngã Năm",
+    "districtCode": "948",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Tân Long",
+    "code": "31741",
+    "districtName": "Thị xã Ngã Năm",
+    "districtCode": "948",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Vĩnh Quới",
+    "code": "31738",
+    "districtName": "Thị xã Ngã Năm",
+    "districtCode": "948",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 1",
+    "code": "31783",
+    "districtName": "Thị xã Vĩnh Châu",
+    "districtCode": "950",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường 2",
+    "code": "31801",
+    "districtName": "Thị xã Vĩnh Châu",
+    "districtCode": "950",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường Khánh Hòa",
+    "code": "31789",
+    "districtName": "Thị xã Vĩnh Châu",
+    "districtCode": "950",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Phường Vĩnh Phước",
+    "code": "31804",
+    "districtName": "Thị xã Vĩnh Châu",
+    "districtCode": "950",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Hòa Đông",
+    "code": "31786",
+    "districtName": "Thị xã Vĩnh Châu",
+    "districtCode": "950",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Lai Hòa",
+    "code": "31810",
+    "districtName": "Thị xã Vĩnh Châu",
+    "districtCode": "950",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Lạc Hòa",
+    "code": "31798",
+    "districtName": "Thị xã Vĩnh Châu",
+    "districtCode": "950",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Vĩnh Hiệp",
+    "code": "31792",
+    "districtName": "Thị xã Vĩnh Châu",
+    "districtCode": "950",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Vĩnh Hải",
+    "code": "31795",
+    "districtName": "Thị xã Vĩnh Châu",
+    "districtCode": "950",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  },
+  {
+    "name": "Xã Vĩnh Tân",
+    "code": "31807",
+    "districtName": "Thị xã Vĩnh Châu",
+    "districtCode": "950",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "provinceCode": "94"
+  }
+]

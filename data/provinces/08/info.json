@@ -1,0 +1,63 @@
+{
+  "name": "Tuyên Quang",
+  "code": "08",
+  "from": "Hà Giang, Tuyên Quang",
+  "area": 13795.5,
+  "population": 1865270,
+  "adminCenter": "Tuyên Quang",
+  "hasSeaport": false,
+  "numSeaports": null,
+  "numBerths": null,
+  "grdp": 113.687,
+  "licensePlates": [
+    22,
+    23
+  ],
+  "density": 135,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Chiêm Hóa",
+      "code": "73",
+      "provinceName": "Tỉnh Tuyên Quang",
+      "provinceCode": "08"
+    },
+    {
+      "name": "Huyện Hàm Yên",
+      "code": "74",
+      "provinceName": "Tỉnh Tuyên Quang",
+      "provinceCode": "08"
+    },
+    {
+      "name": "Huyện Lâm Bình",
+      "code": "71",
+      "provinceName": "Tỉnh Tuyên Quang",
+      "provinceCode": "08"
+    },
+    {
+      "name": "Huyện Na Hang",
+      "code": "72",
+      "provinceName": "Tỉnh Tuyên Quang",
+      "provinceCode": "08"
+    },
+    {
+      "name": "Huyện Sơn Dương",
+      "code": "76",
+      "provinceName": "Tỉnh Tuyên Quang",
+      "provinceCode": "08"
+    },
+    {
+      "name": "Huyện Yên Sơn",
+      "code": "75",
+      "provinceName": "Tỉnh Tuyên Quang",
+      "provinceCode": "08"
+    },
+    {
+      "name": "Thành phố Tuyên Quang",
+      "code": "70",
+      "provinceName": "Tỉnh Tuyên Quang",
+      "provinceCode": "08"
+    }
+  ]
+}

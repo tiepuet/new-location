@@ -1,0 +1,42 @@
+{
+  "name": "Tỉnh Hà Nam",
+  "code": "35",
+  "districts": [
+    {
+      "name": "Huyện Bình Lục",
+      "code": "352",
+      "provinceName": "Tỉnh Hà Nam",
+      "provinceCode": "35"
+    },
+    {
+      "name": "Huyện Lý Nhân",
+      "code": "353",
+      "provinceName": "Tỉnh Hà Nam",
+      "provinceCode": "35"
+    },
+    {
+      "name": "Huyện Thanh Liêm",
+      "code": "351",
+      "provinceName": "Tỉnh Hà Nam",
+      "provinceCode": "35"
+    },
+    {
+      "name": "Thành phố Phủ Lý",
+      "code": "347",
+      "provinceName": "Tỉnh Hà Nam",
+      "provinceCode": "35"
+    },
+    {
+      "name": "Thị xã Duy Tiên",
+      "code": "349",
+      "provinceName": "Tỉnh Hà Nam",
+      "provinceCode": "35"
+    },
+    {
+      "name": "Thị xã Kim Bảng",
+      "code": "350",
+      "provinceName": "Tỉnh Hà Nam",
+      "provinceCode": "35"
+    }
+  ]
+}

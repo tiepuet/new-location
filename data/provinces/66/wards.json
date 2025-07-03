@@ -1,0 +1,1442 @@
+[
+  {
+    "name": "Xã Cuôr KNia",
+    "code": "24247",
+    "districtName": "Huyện Buôn Đôn",
+    "districtCode": "647",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Bar",
+    "code": "24250",
+    "districtName": "Huyện Buôn Đôn",
+    "districtCode": "647",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Huar",
+    "code": "24238",
+    "districtName": "Huyện Buôn Đôn",
+    "districtCode": "647",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Nuôl",
+    "code": "24253",
+    "districtName": "Huyện Buôn Đôn",
+    "districtCode": "647",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Wer",
+    "code": "24241",
+    "districtName": "Huyện Buôn Đôn",
+    "districtCode": "647",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Krông Na",
+    "code": "24235",
+    "districtName": "Huyện Buôn Đôn",
+    "districtCode": "647",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Tân Hoà",
+    "code": "24244",
+    "districtName": "Huyện Buôn Đôn",
+    "districtCode": "647",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Ê Wi",
+    "code": "24541",
+    "districtName": "Huyện Cư Kuin",
+    "districtCode": "657",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Dray Bhăng",
+    "code": "24561",
+    "districtName": "Huyện Cư Kuin",
+    "districtCode": "657",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea BHốk",
+    "code": "24550",
+    "districtName": "Huyện Cư Kuin",
+    "districtCode": "657",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Hu",
+    "code": "24553",
+    "districtName": "Huyện Cư Kuin",
+    "districtCode": "657",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Ktur",
+    "code": "24544",
+    "districtName": "Huyện Cư Kuin",
+    "districtCode": "657",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Ning",
+    "code": "24540",
+    "districtName": "Huyện Cư Kuin",
+    "districtCode": "657",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Tiêu",
+    "code": "24547",
+    "districtName": "Huyện Cư Kuin",
+    "districtCode": "657",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Hòa Hiệp",
+    "code": "24562",
+    "districtName": "Huyện Cư Kuin",
+    "districtCode": "657",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Thị trấn Ea Pốk",
+    "code": "24256",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Thị trấn Quảng Phú",
+    "code": "24259",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cuor Đăng",
+    "code": "24301",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Dliê M'nông",
+    "code": "24271",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư M'gar",
+    "code": "24289",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Suê",
+    "code": "24298",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea D'Rơng",
+    "code": "24292",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea H'đinh",
+    "code": "24274",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea KPam",
+    "code": "24280",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Kiết",
+    "code": "24265",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Kuêh",
+    "code": "24264",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea M'DRóh",
+    "code": "24283",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea M'nang",
+    "code": "24295",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Tar",
+    "code": "24268",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Tul",
+    "code": "24277",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Quảng Hiệp",
+    "code": "24286",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Quảng Tiến",
+    "code": "24262",
+    "districtName": "Huyện Cư M'gar",
+    "districtCode": "648",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Thị trấn Ea Drăng",
+    "code": "24181",
+    "districtName": "Huyện Ea H'leo",
+    "districtCode": "645",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư A Mung",
+    "code": "24194",
+    "districtName": "Huyện Ea H'leo",
+    "districtCode": "645",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Mốt",
+    "code": "24196",
+    "districtName": "Huyện Ea H'leo",
+    "districtCode": "645",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Dliê Yang",
+    "code": "24205",
+    "districtName": "Huyện Ea H'leo",
+    "districtCode": "645",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea H'leo",
+    "code": "24184",
+    "districtName": "Huyện Ea H'leo",
+    "districtCode": "645",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Hiao",
+    "code": "24199",
+    "districtName": "Huyện Ea H'leo",
+    "districtCode": "645",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Khal",
+    "code": "24202",
+    "districtName": "Huyện Ea H'leo",
+    "districtCode": "645",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Nam",
+    "code": "24208",
+    "districtName": "Huyện Ea H'leo",
+    "districtCode": "645",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Ral",
+    "code": "24190",
+    "districtName": "Huyện Ea H'leo",
+    "districtCode": "645",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Sol",
+    "code": "24187",
+    "districtName": "Huyện Ea H'leo",
+    "districtCode": "645",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Tir",
+    "code": "24207",
+    "districtName": "Huyện Ea H'leo",
+    "districtCode": "645",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Wy",
+    "code": "24193",
+    "districtName": "Huyện Ea H'leo",
+    "districtCode": "645",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Thị trấn Ea Kar",
+    "code": "24373",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Thị trấn Ea Knốp",
+    "code": "24376",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Bông",
+    "code": "24406",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư ELang",
+    "code": "24404",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Huê",
+    "code": "24385",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Jang",
+    "code": "24409",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Ni",
+    "code": "24397",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Prông",
+    "code": "24401",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Kmút",
+    "code": "24394",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Păl",
+    "code": "24400",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Sar",
+    "code": "24380",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Sô",
+    "code": "24379",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Tih",
+    "code": "24388",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Ô",
+    "code": "24403",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Đar",
+    "code": "24391",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Xuân Phú",
+    "code": "24382",
+    "districtName": "Huyện Ea Kar",
+    "districtCode": "651",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Thị trấn Ea Súp",
+    "code": "24211",
+    "districtName": "Huyện Ea Súp",
+    "districtCode": "646",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư KBang",
+    "code": "24226",
+    "districtName": "Huyện Ea Súp",
+    "districtCode": "646",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư M'Lan",
+    "code": "24232",
+    "districtName": "Huyện Ea Súp",
+    "districtCode": "646",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Bung",
+    "code": "24229",
+    "districtName": "Huyện Ea Súp",
+    "districtCode": "646",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Lê",
+    "code": "24223",
+    "districtName": "Huyện Ea Súp",
+    "districtCode": "646",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Rốk",
+    "code": "24217",
+    "districtName": "Huyện Ea Súp",
+    "districtCode": "646",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ia JLơi",
+    "code": "24215",
+    "districtName": "Huyện Ea Súp",
+    "districtCode": "646",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ia Lốp",
+    "code": "24214",
+    "districtName": "Huyện Ea Súp",
+    "districtCode": "646",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ia RVê",
+    "code": "24221",
+    "districtName": "Huyện Ea Súp",
+    "districtCode": "646",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ya Tờ Mốt",
+    "code": "24220",
+    "districtName": "Huyện Ea Súp",
+    "districtCode": "646",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Thị trấn Buôn Trấp",
+    "code": "24538",
+    "districtName": "Huyện Krông A Na",
+    "districtCode": "655",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Bình Hòa",
+    "code": "24574",
+    "districtName": "Huyện Krông A Na",
+    "districtCode": "655",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Băng A Drênh",
+    "code": "24568",
+    "districtName": "Huyện Krông A Na",
+    "districtCode": "655",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Dray Sáp",
+    "code": "24556",
+    "districtName": "Huyện Krông A Na",
+    "districtCode": "655",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Dur KMăl",
+    "code": "24571",
+    "districtName": "Huyện Krông A Na",
+    "districtCode": "655",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Bông",
+    "code": "24565",
+    "districtName": "Huyện Krông A Na",
+    "districtCode": "655",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Na",
+    "code": "24559",
+    "districtName": "Huyện Krông A Na",
+    "districtCode": "655",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Quảng Điền",
+    "code": "24577",
+    "districtName": "Huyện Krông A Na",
+    "districtCode": "655",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Thị trấn Krông Kmar",
+    "code": "24448",
+    "districtName": "Huyện Krông Bông",
+    "districtCode": "653",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Drăm",
+    "code": "24484",
+    "districtName": "Huyện Krông Bông",
+    "districtCode": "653",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư KTy",
+    "code": "24454",
+    "districtName": "Huyện Krông Bông",
+    "districtCode": "653",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Pui",
+    "code": "24478",
+    "districtName": "Huyện Krông Bông",
+    "districtCode": "653",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Dang Kang",
+    "code": "24451",
+    "districtName": "Huyện Krông Bông",
+    "districtCode": "653",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Trul",
+    "code": "24472",
+    "districtName": "Huyện Krông Bông",
+    "districtCode": "653",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Hòa Lễ",
+    "code": "24466",
+    "districtName": "Huyện Krông Bông",
+    "districtCode": "653",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Hòa Phong",
+    "code": "24463",
+    "districtName": "Huyện Krông Bông",
+    "districtCode": "653",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Hòa Sơn",
+    "code": "24481",
+    "districtName": "Huyện Krông Bông",
+    "districtCode": "653",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Hòa Thành",
+    "code": "24457",
+    "districtName": "Huyện Krông Bông",
+    "districtCode": "653",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Khuê Ngọc Điền",
+    "code": "24475",
+    "districtName": "Huyện Krông Bông",
+    "districtCode": "653",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Yang Mao",
+    "code": "24487",
+    "districtName": "Huyện Krông Bông",
+    "districtCode": "653",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Yang Reh",
+    "code": "24469",
+    "districtName": "Huyện Krông Bông",
+    "districtCode": "653",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Thị trấn Pơng Drang",
+    "code": "24316",
+    "districtName": "Huyện Krông Búk",
+    "districtCode": "649",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Chư KBô",
+    "code": "24310",
+    "districtName": "Huyện Krông Búk",
+    "districtCode": "649",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Né",
+    "code": "24307",
+    "districtName": "Huyện Krông Búk",
+    "districtCode": "649",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Pơng",
+    "code": "24313",
+    "districtName": "Huyện Krông Búk",
+    "districtCode": "649",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Ngai",
+    "code": "24319",
+    "districtName": "Huyện Krông Búk",
+    "districtCode": "649",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Sin",
+    "code": "24314",
+    "districtName": "Huyện Krông Búk",
+    "districtCode": "649",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "24317",
+    "districtName": "Huyện Krông Búk",
+    "districtCode": "649",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Thị trấn Krông Năng",
+    "code": "24343",
+    "districtName": "Huyện Krông Năng",
+    "districtCode": "650",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Klông",
+    "code": "24367",
+    "districtName": "Huyện Krông Năng",
+    "districtCode": "650",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Dăh",
+    "code": "24360",
+    "districtName": "Huyện Krông Năng",
+    "districtCode": "650",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Hồ",
+    "code": "24361",
+    "districtName": "Huyện Krông Năng",
+    "districtCode": "650",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Puk",
+    "code": "24359",
+    "districtName": "Huyện Krông Năng",
+    "districtCode": "650",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Tam",
+    "code": "24352",
+    "districtName": "Huyện Krông Năng",
+    "districtCode": "650",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Tân",
+    "code": "24370",
+    "districtName": "Huyện Krông Năng",
+    "districtCode": "650",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Tóh",
+    "code": "24349",
+    "districtName": "Huyện Krông Năng",
+    "districtCode": "650",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Phú Lộc",
+    "code": "24355",
+    "districtName": "Huyện Krông Năng",
+    "districtCode": "650",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Phú Xuân",
+    "code": "24364",
+    "districtName": "Huyện Krông Năng",
+    "districtCode": "650",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Tam Giang",
+    "code": "24358",
+    "districtName": "Huyện Krông Năng",
+    "districtCode": "650",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã ĐLiê Ya",
+    "code": "24346",
+    "districtName": "Huyện Krông Năng",
+    "districtCode": "650",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Thị trấn Phước An",
+    "code": "24490",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Hiu",
+    "code": "24520",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea KNuec",
+    "code": "24505",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Kly",
+    "code": "24496",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Kuăng",
+    "code": "24514",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Kênh",
+    "code": "24499",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Phê",
+    "code": "24502",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Uy",
+    "code": "24532",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Yiêng",
+    "code": "24535",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Yông",
+    "code": "24508",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Hòa An",
+    "code": "24511",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Hòa Tiến",
+    "code": "24523",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Hòa Đông",
+    "code": "24517",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã KRông Búk",
+    "code": "24493",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Tân Tiến",
+    "code": "24526",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Vụ Bổn",
+    "code": "24529",
+    "districtName": "Huyện Krông Pắc",
+    "districtCode": "654",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Thị trấn Liên Sơn",
+    "code": "24580",
+    "districtName": "Huyện Lắk",
+    "districtCode": "656",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Buôn Triết",
+    "code": "24592",
+    "districtName": "Huyện Lắk",
+    "districtCode": "656",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Buôn Tría",
+    "code": "24595",
+    "districtName": "Huyện Lắk",
+    "districtCode": "656",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Bông Krang",
+    "code": "24586",
+    "districtName": "Huyện Lắk",
+    "districtCode": "656",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea R'Bin",
+    "code": "24610",
+    "districtName": "Huyện Lắk",
+    "districtCode": "656",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Krông Nô",
+    "code": "24604",
+    "districtName": "Huyện Lắk",
+    "districtCode": "656",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Nam Ka",
+    "code": "24607",
+    "districtName": "Huyện Lắk",
+    "districtCode": "656",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Yang Tao",
+    "code": "24583",
+    "districtName": "Huyện Lắk",
+    "districtCode": "656",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Đắk Liêng",
+    "code": "24589",
+    "districtName": "Huyện Lắk",
+    "districtCode": "656",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Đắk Nuê",
+    "code": "24601",
+    "districtName": "Huyện Lắk",
+    "districtCode": "656",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Đắk Phơi",
+    "code": "24598",
+    "districtName": "Huyện Lắk",
+    "districtCode": "656",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Thị trấn M'Đrắk",
+    "code": "24412",
+    "districtName": "Huyện M'Đrắk",
+    "districtCode": "652",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư K Róa",
+    "code": "24439",
+    "districtName": "Huyện M'Đrắk",
+    "districtCode": "652",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư M'ta",
+    "code": "24436",
+    "districtName": "Huyện M'Đrắk",
+    "districtCode": "652",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Prao",
+    "code": "24415",
+    "districtName": "Huyện M'Đrắk",
+    "districtCode": "652",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư San",
+    "code": "24444",
+    "districtName": "Huyện M'Đrắk",
+    "districtCode": "652",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea H'MLay",
+    "code": "24424",
+    "districtName": "Huyện M'Đrắk",
+    "districtCode": "652",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Lai",
+    "code": "24421",
+    "districtName": "Huyện M'Đrắk",
+    "districtCode": "652",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea M' Doal",
+    "code": "24430",
+    "districtName": "Huyện M'Đrắk",
+    "districtCode": "652",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Pil",
+    "code": "24418",
+    "districtName": "Huyện M'Đrắk",
+    "districtCode": "652",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Riêng",
+    "code": "24433",
+    "districtName": "Huyện M'Đrắk",
+    "districtCode": "652",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Trang",
+    "code": "24445",
+    "districtName": "Huyện M'Đrắk",
+    "districtCode": "652",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Krông Jing",
+    "code": "24427",
+    "districtName": "Huyện M'Đrắk",
+    "districtCode": "652",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Krông Á",
+    "code": "24442",
+    "districtName": "Huyện M'Đrắk",
+    "districtCode": "652",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Ea Tam",
+    "code": "24151",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Khánh Xuân",
+    "code": "24154",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Thành Công",
+    "code": "24133",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Thành Nhất",
+    "code": "24130",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Tân An",
+    "code": "24124",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Tân Hòa",
+    "code": "24121",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Tân Lập",
+    "code": "24118",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Tân Lợi",
+    "code": "24136",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Tân Thành",
+    "code": "24142",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Tân Tiến",
+    "code": "24145",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Tự An",
+    "code": "24148",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư ÊBur",
+    "code": "24160",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Kao",
+    "code": "24169",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Tu",
+    "code": "24163",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Hòa Khánh",
+    "code": "24175",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Hòa Phú",
+    "code": "24172",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Hòa Thuận",
+    "code": "24157",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Hòa Thắng",
+    "code": "24166",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Hòa Xuân",
+    "code": "24178",
+    "districtName": "Thành phố Buôn Ma Thuột",
+    "districtCode": "643",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường An Bình",
+    "code": "24308",
+    "districtName": "Thị Xã Buôn Hồ",
+    "districtCode": "644",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường An Lạc",
+    "code": "24305",
+    "districtName": "Thị Xã Buôn Hồ",
+    "districtCode": "644",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Bình Tân",
+    "code": "24332",
+    "districtName": "Thị Xã Buôn Hồ",
+    "districtCode": "644",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Thiện An",
+    "code": "24311",
+    "districtName": "Thị Xã Buôn Hồ",
+    "districtCode": "644",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Thống Nhất",
+    "code": "24331",
+    "districtName": "Thị Xã Buôn Hồ",
+    "districtCode": "644",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Đoàn Kết",
+    "code": "24322",
+    "districtName": "Thị Xã Buôn Hồ",
+    "districtCode": "644",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Phường Đạt Hiếu",
+    "code": "24318",
+    "districtName": "Thị Xã Buôn Hồ",
+    "districtCode": "644",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Bình Thuận",
+    "code": "24337",
+    "districtName": "Thị Xã Buôn Hồ",
+    "districtCode": "644",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Cư Bao",
+    "code": "24340",
+    "districtName": "Thị Xã Buôn Hồ",
+    "districtCode": "644",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Drông",
+    "code": "24328",
+    "districtName": "Thị Xã Buôn Hồ",
+    "districtCode": "644",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  },
+  {
+    "name": "Xã Ea Siên",
+    "code": "24334",
+    "districtName": "Thị Xã Buôn Hồ",
+    "districtCode": "644",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "provinceCode": "66"
+  }
+]

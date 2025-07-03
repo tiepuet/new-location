@@ -1,0 +1,87 @@
+{
+  "name": "Gia Lai",
+  "code": "52",
+  "from": "Gia Lai, Bình Định",
+  "area": 21576.53,
+  "population": 3583693,
+  "adminCenter": "TP Quy Nhon",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 4,
+  "grdp": 254.48,
+  "licensePlates": [
+    77,
+    81
+  ],
+  "density": 166,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện An Lão",
+      "code": "542",
+      "provinceName": "Tỉnh Bình Định",
+      "provinceCode": "52"
+    },
+    {
+      "name": "Huyện Hoài Ân",
+      "code": "544",
+      "provinceName": "Tỉnh Bình Định",
+      "provinceCode": "52"
+    },
+    {
+      "name": "Huyện Phù Cát",
+      "code": "548",
+      "provinceName": "Tỉnh Bình Định",
+      "provinceCode": "52"
+    },
+    {
+      "name": "Huyện Phù Mỹ",
+      "code": "545",
+      "provinceName": "Tỉnh Bình Định",
+      "provinceCode": "52"
+    },
+    {
+      "name": "Huyện Tuy Phước",
+      "code": "550",
+      "provinceName": "Tỉnh Bình Định",
+      "provinceCode": "52"
+    },
+    {
+      "name": "Huyện Tây Sơn",
+      "code": "547",
+      "provinceName": "Tỉnh Bình Định",
+      "provinceCode": "52"
+    },
+    {
+      "name": "Huyện Vân Canh",
+      "code": "551",
+      "provinceName": "Tỉnh Bình Định",
+      "provinceCode": "52"
+    },
+    {
+      "name": "Huyện Vĩnh Thạnh",
+      "code": "546",
+      "provinceName": "Tỉnh Bình Định",
+      "provinceCode": "52"
+    },
+    {
+      "name": "Thành phố Quy Nhơn",
+      "code": "540",
+      "provinceName": "Tỉnh Bình Định",
+      "provinceCode": "52"
+    },
+    {
+      "name": "Thị xã An Nhơn",
+      "code": "549",
+      "provinceName": "Tỉnh Bình Định",
+      "provinceCode": "52"
+    },
+    {
+      "name": "Thị xã Hoài Nhơn",
+      "code": "543",
+      "provinceName": "Tỉnh Bình Định",
+      "provinceCode": "52"
+    }
+  ]
+}

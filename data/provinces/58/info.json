@@ -1,0 +1,48 @@
+{
+  "name": "Tỉnh Ninh Thuận",
+  "code": "58",
+  "districts": [
+    {
+      "name": "Huyện Bác Ái",
+      "code": "584",
+      "provinceName": "Tỉnh Ninh Thuận",
+      "provinceCode": "58"
+    },
+    {
+      "name": "Huyện Ninh Hải",
+      "code": "586",
+      "provinceName": "Tỉnh Ninh Thuận",
+      "provinceCode": "58"
+    },
+    {
+      "name": "Huyện Ninh Phước",
+      "code": "587",
+      "provinceName": "Tỉnh Ninh Thuận",
+      "provinceCode": "58"
+    },
+    {
+      "name": "Huyện Ninh Sơn",
+      "code": "585",
+      "provinceName": "Tỉnh Ninh Thuận",
+      "provinceCode": "58"
+    },
+    {
+      "name": "Huyện Thuận Bắc",
+      "code": "588",
+      "provinceName": "Tỉnh Ninh Thuận",
+      "provinceCode": "58"
+    },
+    {
+      "name": "Huyện Thuận Nam",
+      "code": "589",
+      "provinceName": "Tỉnh Ninh Thuận",
+      "provinceCode": "58"
+    },
+    {
+      "name": "Thành phố Phan Rang-Tháp Chàm",
+      "code": "582",
+      "provinceName": "Tỉnh Ninh Thuận",
+      "provinceCode": "58"
+    }
+  ]
+}

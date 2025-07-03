@@ -1,0 +1,100 @@
+{
+  "name": "Phú Thọ",
+  "code": "25",
+  "from": "Hòa Bình, Vĩnh Phúc, Phú Thọ",
+  "area": 9361.38,
+  "population": 4022638,
+  "adminCenter": "TP Việt Trì",
+  "hasSeaport": false,
+  "numSeaports": null,
+  "numBerths": null,
+  "grdp": 354.58,
+  "licensePlates": [
+    19,
+    28,
+    88
+  ],
+  "density": 430,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Cẩm Khê",
+      "code": "235",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceCode": "25"
+    },
+    {
+      "name": "Huyện Hạ Hoà",
+      "code": "231",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceCode": "25"
+    },
+    {
+      "name": "Huyện Lâm Thao",
+      "code": "237",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceCode": "25"
+    },
+    {
+      "name": "Huyện Phù Ninh",
+      "code": "233",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceCode": "25"
+    },
+    {
+      "name": "Huyện Tam Nông",
+      "code": "236",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceCode": "25"
+    },
+    {
+      "name": "Huyện Thanh Ba",
+      "code": "232",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceCode": "25"
+    },
+    {
+      "name": "Huyện Thanh Sơn",
+      "code": "238",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceCode": "25"
+    },
+    {
+      "name": "Huyện Thanh Thuỷ",
+      "code": "239",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceCode": "25"
+    },
+    {
+      "name": "Huyện Tân Sơn",
+      "code": "240",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceCode": "25"
+    },
+    {
+      "name": "Huyện Yên Lập",
+      "code": "234",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceCode": "25"
+    },
+    {
+      "name": "Huyện Đoan Hùng",
+      "code": "230",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceCode": "25"
+    },
+    {
+      "name": "Thành phố Việt Trì",
+      "code": "227",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceCode": "25"
+    },
+    {
+      "name": "Thị xã Phú Thọ",
+      "code": "228",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceCode": "25"
+    }
+  ]
+}

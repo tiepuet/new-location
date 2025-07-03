@@ -1,0 +1,72 @@
+{
+  "name": "Tỉnh Hà Giang",
+  "code": "02",
+  "districts": [
+    {
+      "name": "Huyện Bắc Mê",
+      "code": "31",
+      "provinceName": "Tỉnh Hà Giang",
+      "provinceCode": "02"
+    },
+    {
+      "name": "Huyện Bắc Quang",
+      "code": "34",
+      "provinceName": "Tỉnh Hà Giang",
+      "provinceCode": "02"
+    },
+    {
+      "name": "Huyện Hoàng Su Phì",
+      "code": "32",
+      "provinceName": "Tỉnh Hà Giang",
+      "provinceCode": "02"
+    },
+    {
+      "name": "Huyện Mèo Vạc",
+      "code": "27",
+      "provinceName": "Tỉnh Hà Giang",
+      "provinceCode": "02"
+    },
+    {
+      "name": "Huyện Quang Bình",
+      "code": "35",
+      "provinceName": "Tỉnh Hà Giang",
+      "provinceCode": "02"
+    },
+    {
+      "name": "Huyện Quản Bạ",
+      "code": "29",
+      "provinceName": "Tỉnh Hà Giang",
+      "provinceCode": "02"
+    },
+    {
+      "name": "Huyện Vị Xuyên",
+      "code": "30",
+      "provinceName": "Tỉnh Hà Giang",
+      "provinceCode": "02"
+    },
+    {
+      "name": "Huyện Xín Mần",
+      "code": "33",
+      "provinceName": "Tỉnh Hà Giang",
+      "provinceCode": "02"
+    },
+    {
+      "name": "Huyện Yên Minh",
+      "code": "28",
+      "provinceName": "Tỉnh Hà Giang",
+      "provinceCode": "02"
+    },
+    {
+      "name": "Huyện Đồng Văn",
+      "code": "26",
+      "provinceName": "Tỉnh Hà Giang",
+      "provinceCode": "02"
+    },
+    {
+      "name": "Thành phố Hà Giang",
+      "code": "24",
+      "provinceName": "Tỉnh Hà Giang",
+      "provinceCode": "02"
+    }
+  ]
+}

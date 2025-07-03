@@ -1,0 +1,1314 @@
+[
+  {
+    "name": "Thị trấn Bình Phú",
+    "code": "28471",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Cẩm Sơn",
+    "code": "28489",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Hiệp Đức",
+    "code": "28501",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Hội Xuân",
+    "code": "28507",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Long Tiên",
+    "code": "28498",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Long Trung",
+    "code": "28504",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Long",
+    "code": "28495",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Thành Bắc",
+    "code": "28441",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Thành Nam",
+    "code": "28456",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Ngũ Hiệp",
+    "code": "28516",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Phú An",
+    "code": "28492",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Phú Cường",
+    "code": "28444",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Phú Nhuận",
+    "code": "28465",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tam Bình",
+    "code": "28513",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thạnh Lộc",
+    "code": "28438",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Phong",
+    "code": "28510",
+    "districtName": "Huyện Cai Lậy",
+    "districtCode": "820",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Thị trấn Tân Hiệp",
+    "code": "28519",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Bàn Long",
+    "code": "28573",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Bình Trưng",
+    "code": "28564",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Bình Đức",
+    "code": "28579",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Kim Sơn",
+    "code": "28585",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Long An",
+    "code": "28558",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Long Hưng",
+    "code": "28561",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Long Định",
+    "code": "28552",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Nhị Bình",
+    "code": "28543",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Phú Phong",
+    "code": "28588",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Song Thuận",
+    "code": "28582",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tam Hiệp",
+    "code": "28537",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thân Cửu Nghĩa",
+    "code": "28534",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thạnh Phú",
+    "code": "28570",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Hương",
+    "code": "28525",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Hội Đông",
+    "code": "28522",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Lý Đông",
+    "code": "28528",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Vĩnh Kim",
+    "code": "28576",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Điềm Hy",
+    "code": "28540",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Đông Hòa",
+    "code": "28549",
+    "districtName": "Huyện Châu Thành",
+    "districtCode": "821",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Thị trấn Chợ Gạo",
+    "code": "28594",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã An Thạnh Thủy",
+    "code": "28639",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Bình Ninh",
+    "code": "28648",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Bình Phan",
+    "code": "28633",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Bình Phục Nhứt",
+    "code": "28621",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Hòa Tịnh",
+    "code": "28600",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Hòa Định",
+    "code": "28645",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Long Bình Điền",
+    "code": "28636",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Lương Hòa Lạc",
+    "code": "28612",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Tịnh An",
+    "code": "28603",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Phú Kiết",
+    "code": "28609",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Quơn Long",
+    "code": "28618",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Song Bình",
+    "code": "28630",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thanh Bình",
+    "code": "28615",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Trung Hòa",
+    "code": "28597",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Bình Thạnh",
+    "code": "28606",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Thuận Bình",
+    "code": "28627",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Xuân Đông",
+    "code": "28642",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Đăng Hưng Phước",
+    "code": "28624",
+    "districtName": "Huyện Chợ Gạo",
+    "districtCode": "822",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Thị trấn Cái Bè",
+    "code": "28360",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã An Cư",
+    "code": "28390",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã An Hữu",
+    "code": "28429",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã An Thái Trung",
+    "code": "28426",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã An Thái Đông",
+    "code": "28414",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Hòa Hưng",
+    "code": "28432",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Hòa Khánh",
+    "code": "28399",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Hậu Mỹ Bắc A",
+    "code": "28366",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Hậu Mỹ Bắc B",
+    "code": "28363",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Hậu Mỹ Phú",
+    "code": "28375",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Hậu Mỹ Trinh",
+    "code": "28372",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Hậu Thành",
+    "code": "28393",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Hội",
+    "code": "28387",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Lương",
+    "code": "28420",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Lợi A",
+    "code": "28396",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Lợi B",
+    "code": "28381",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Trung",
+    "code": "28369",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Tân",
+    "code": "28378",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Đức Tây",
+    "code": "28408",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Đức Đông",
+    "code": "28405",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thiện Trung",
+    "code": "28384",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thiện Trí",
+    "code": "28402",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Hưng",
+    "code": "28417",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Thanh",
+    "code": "28423",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Đông Hòa Hiệp",
+    "code": "28411",
+    "districtName": "Huyện Cái Bè",
+    "districtCode": "819",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Thị trấn Vĩnh Bình",
+    "code": "28651",
+    "districtName": "Huyện Gò Công Tây",
+    "districtCode": "823",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Bình Nhì",
+    "code": "28666",
+    "districtName": "Huyện Gò Công Tây",
+    "districtCode": "823",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Bình Phú",
+    "code": "28657",
+    "districtName": "Huyện Gò Công Tây",
+    "districtCode": "823",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Bình Tân",
+    "code": "28681",
+    "districtName": "Huyện Gò Công Tây",
+    "districtCode": "823",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Long Bình",
+    "code": "28687",
+    "districtName": "Huyện Gò Công Tây",
+    "districtCode": "823",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Long Vĩnh",
+    "code": "28678",
+    "districtName": "Huyện Gò Công Tây",
+    "districtCode": "823",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thành Công",
+    "code": "28663",
+    "districtName": "Huyện Gò Công Tây",
+    "districtCode": "823",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thạnh Nhựt",
+    "code": "28675",
+    "districtName": "Huyện Gò Công Tây",
+    "districtCode": "823",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thạnh Trị",
+    "code": "28672",
+    "districtName": "Huyện Gò Công Tây",
+    "districtCode": "823",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Vĩnh Hựu",
+    "code": "28684",
+    "districtName": "Huyện Gò Công Tây",
+    "districtCode": "823",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Yên Luông",
+    "code": "28669",
+    "districtName": "Huyện Gò Công Tây",
+    "districtCode": "823",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Đồng Sơn",
+    "code": "28654",
+    "districtName": "Huyện Gò Công Tây",
+    "districtCode": "823",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Đồng Thạnh",
+    "code": "28660",
+    "districtName": "Huyện Gò Công Tây",
+    "districtCode": "823",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Thị trấn Tân Hòa",
+    "code": "28702",
+    "districtName": "Huyện Gò Công Đông",
+    "districtCode": "824",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Thị trấn Vàm Láng",
+    "code": "28720",
+    "districtName": "Huyện Gò Công Đông",
+    "districtCode": "824",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Bình Nghị",
+    "code": "28741",
+    "districtName": "Huyện Gò Công Đông",
+    "districtCode": "824",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Bình Ân",
+    "code": "28735",
+    "districtName": "Huyện Gò Công Đông",
+    "districtCode": "824",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Gia Thuận",
+    "code": "28714",
+    "districtName": "Huyện Gò Công Đông",
+    "districtCode": "824",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Kiểng Phước",
+    "code": "28726",
+    "districtName": "Huyện Gò Công Đông",
+    "districtCode": "824",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Phước Trung",
+    "code": "28744",
+    "districtName": "Huyện Gò Công Đông",
+    "districtCode": "824",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Phước",
+    "code": "28711",
+    "districtName": "Huyện Gò Công Đông",
+    "districtCode": "824",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "28747",
+    "districtName": "Huyện Gò Công Đông",
+    "districtCode": "824",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Tây",
+    "code": "28723",
+    "districtName": "Huyện Gò Công Đông",
+    "districtCode": "824",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Điền",
+    "code": "28738",
+    "districtName": "Huyện Gò Công Đông",
+    "districtCode": "824",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Đông",
+    "code": "28732",
+    "districtName": "Huyện Gò Công Đông",
+    "districtCode": "824",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tăng Hoà",
+    "code": "28705",
+    "districtName": "Huyện Gò Công Đông",
+    "districtCode": "824",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Phú Thạnh",
+    "code": "28696",
+    "districtName": "Huyện Tân Phú Đông",
+    "districtCode": "825",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Phú Tân",
+    "code": "28753",
+    "districtName": "Huyện Tân Phú Đông",
+    "districtCode": "825",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Phú Đông",
+    "code": "28750",
+    "districtName": "Huyện Tân Phú Đông",
+    "districtCode": "825",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Phú",
+    "code": "28693",
+    "districtName": "Huyện Tân Phú Đông",
+    "districtCode": "825",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Thạnh",
+    "code": "28699",
+    "districtName": "Huyện Tân Phú Đông",
+    "districtCode": "825",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Thới",
+    "code": "28690",
+    "districtName": "Huyện Tân Phú Đông",
+    "districtCode": "825",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Thị trấn Mỹ Phước",
+    "code": "28321",
+    "districtName": "Huyện Tân Phước",
+    "districtCode": "818",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Hưng Thạnh",
+    "code": "28342",
+    "districtName": "Huyện Tân Phước",
+    "districtCode": "818",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Phú Mỹ",
+    "code": "28336",
+    "districtName": "Huyện Tân Phước",
+    "districtCode": "818",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Phước Lập",
+    "code": "28357",
+    "districtName": "Huyện Tân Phước",
+    "districtCode": "818",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thạnh Hoà",
+    "code": "28333",
+    "districtName": "Huyện Tân Phước",
+    "districtCode": "818",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thạnh Mỹ",
+    "code": "28330",
+    "districtName": "Huyện Tân Phước",
+    "districtCode": "818",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thạnh Tân",
+    "code": "28327",
+    "districtName": "Huyện Tân Phước",
+    "districtCode": "818",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Hòa Thành",
+    "code": "28339",
+    "districtName": "Huyện Tân Phước",
+    "districtCode": "818",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Hòa Tây",
+    "code": "28348",
+    "districtName": "Huyện Tân Phước",
+    "districtCode": "818",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Hòa Đông",
+    "code": "28324",
+    "districtName": "Huyện Tân Phước",
+    "districtCode": "818",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Lập 1",
+    "code": "28345",
+    "districtName": "Huyện Tân Phước",
+    "districtCode": "818",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Lập 2",
+    "code": "28354",
+    "districtName": "Huyện Tân Phước",
+    "districtCode": "818",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 1",
+    "code": "28300",
+    "districtName": "Thành phố Gò Công",
+    "districtCode": "816",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 2",
+    "code": "28297",
+    "districtName": "Thành phố Gò Công",
+    "districtCode": "816",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 5",
+    "code": "28306",
+    "districtName": "Thành phố Gò Công",
+    "districtCode": "816",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường Long Chánh",
+    "code": "28315",
+    "districtName": "Thành phố Gò Công",
+    "districtCode": "816",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường Long Hòa",
+    "code": "28318",
+    "districtName": "Thành phố Gò Công",
+    "districtCode": "816",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường Long Hưng",
+    "code": "28309",
+    "districtName": "Thành phố Gò Công",
+    "districtCode": "816",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường Long Thuận",
+    "code": "28312",
+    "districtName": "Thành phố Gò Công",
+    "districtCode": "816",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Bình Xuân",
+    "code": "28717",
+    "districtName": "Thành phố Gò Công",
+    "districtCode": "816",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Bình Đông",
+    "code": "28708",
+    "districtName": "Thành phố Gò Công",
+    "districtCode": "816",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Trung",
+    "code": "28729",
+    "districtName": "Thành phố Gò Công",
+    "districtCode": "816",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 1",
+    "code": "28261",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 10",
+    "code": "28276",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 2",
+    "code": "28264",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 4",
+    "code": "28252",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 5",
+    "code": "28249",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 6",
+    "code": "28270",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 9",
+    "code": "28273",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường Tân Long",
+    "code": "28279",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Phong",
+    "code": "28288",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Phước Thạnh",
+    "code": "28567",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thới Sơn",
+    "code": "28591",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Trung An",
+    "code": "28285",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Mỹ Chánh",
+    "code": "28291",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Đạo Thạnh",
+    "code": "28282",
+    "districtName": "Thành phố Mỹ Tho",
+    "districtCode": "815",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 1",
+    "code": "28435",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 2",
+    "code": "28436",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 3",
+    "code": "28437",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 4",
+    "code": "28439",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường 5",
+    "code": "28440",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Phường Nhị Mỹ",
+    "code": "28474",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Long Khánh",
+    "code": "28486",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Hạnh Trung",
+    "code": "28453",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Hạnh Đông",
+    "code": "28450",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Mỹ Phước Tây",
+    "code": "28447",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Nhị Quý",
+    "code": "28477",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Phú Quý",
+    "code": "28483",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Thanh Hòa",
+    "code": "28480",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Bình",
+    "code": "28462",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Hội",
+    "code": "28468",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  },
+  {
+    "name": "Xã Tân Phú",
+    "code": "28459",
+    "districtName": "Thị xã Cai Lậy",
+    "districtCode": "817",
+    "provinceName": "Tỉnh Tiền Giang",
+    "provinceCode": "82"
+  }
+]

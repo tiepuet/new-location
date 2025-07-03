@@ -1,0 +1,70 @@
+{
+  "name": "Vĩnh Long",
+  "code": "86",
+  "from": "Bến Tre, Vĩnh Long, Trà Vinh",
+  "area": 6296.2,
+  "population": 4257581,
+  "adminCenter": "TP Vĩnh Long",
+  "hasSeaport": true,
+  "numSeaports": 3,
+  "numBerths": 6,
+  "grdp": 242.008,
+  "licensePlates": [
+    64,
+    71,
+    84
+  ],
+  "density": 676,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện  Vũng Liêm",
+      "code": "859",
+      "provinceName": "Tỉnh Vĩnh Long",
+      "provinceCode": "86"
+    },
+    {
+      "name": "Huyện Bình Tân",
+      "code": "863",
+      "provinceName": "Tỉnh Vĩnh Long",
+      "provinceCode": "86"
+    },
+    {
+      "name": "Huyện Long Hồ",
+      "code": "857",
+      "provinceName": "Tỉnh Vĩnh Long",
+      "provinceCode": "86"
+    },
+    {
+      "name": "Huyện Mang Thít",
+      "code": "858",
+      "provinceName": "Tỉnh Vĩnh Long",
+      "provinceCode": "86"
+    },
+    {
+      "name": "Huyện Tam Bình",
+      "code": "860",
+      "provinceName": "Tỉnh Vĩnh Long",
+      "provinceCode": "86"
+    },
+    {
+      "name": "Huyện Trà Ôn",
+      "code": "862",
+      "provinceName": "Tỉnh Vĩnh Long",
+      "provinceCode": "86"
+    },
+    {
+      "name": "Thành phố Vĩnh Long",
+      "code": "855",
+      "provinceName": "Tỉnh Vĩnh Long",
+      "provinceCode": "86"
+    },
+    {
+      "name": "Thị xã Bình Minh",
+      "code": "861",
+      "provinceName": "Tỉnh Vĩnh Long",
+      "provinceCode": "86"
+    }
+  ]
+}

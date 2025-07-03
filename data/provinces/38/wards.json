@@ -1,0 +1,4378 @@
+[
+  {
+    "name": "Thị trấn Cành Nàng",
+    "code": "14923",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Ban Công",
+    "code": "14971",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cổ Lũng",
+    "code": "14965",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hạ Trung",
+    "code": "14962",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Kỳ Tân",
+    "code": "14974",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Lũng Cao",
+    "code": "14959",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Lũng Niêm",
+    "code": "14956",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Lương Ngoại",
+    "code": "14941",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Lương Nội",
+    "code": "14947",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Lương Trung",
+    "code": "14953",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiết Kế",
+    "code": "14986",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiết Ống",
+    "code": "14980",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Lâm",
+    "code": "14968",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Sơn",
+    "code": "14938",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Văn Nho",
+    "code": "14977",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Ái Thượng",
+    "code": "14944",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Điền Hạ",
+    "code": "14929",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Điền Lư",
+    "code": "14950",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Điền Quang",
+    "code": "14932",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Điền Thượng",
+    "code": "14926",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Điền Trung",
+    "code": "14935",
+    "districtName": "Huyện Bá Thước",
+    "districtCode": "386",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Phong Sơn",
+    "code": "15127",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Bình",
+    "code": "15151",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Châu",
+    "code": "15160",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Giang",
+    "code": "15148",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Liên",
+    "code": "15145",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Long",
+    "code": "15172",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Lương",
+    "code": "15139",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Ngọc",
+    "code": "15169",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Phú",
+    "code": "15181",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Quý",
+    "code": "15136",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Thành",
+    "code": "15133",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Thạch",
+    "code": "15142",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Tâm",
+    "code": "15163",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Tân",
+    "code": "15178",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Tú",
+    "code": "15154",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Vân",
+    "code": "15184",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cẩm Yên",
+    "code": "15175",
+    "districtName": "Huyện Cẩm Thủy",
+    "districtCode": "390",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Bút Sơn",
+    "code": "15865",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Châu",
+    "code": "15979",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Cát",
+    "code": "15907",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Giang",
+    "code": "15880",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Hà",
+    "code": "15937",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Hải",
+    "code": "15991",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Hợp",
+    "code": "15919",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Kim",
+    "code": "15889",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Lưu",
+    "code": "15976",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Lộc",
+    "code": "15964",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Ngọc",
+    "code": "15994",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Phong",
+    "code": "15973",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Phú",
+    "code": "15883",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Phụ",
+    "code": "16003",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Quý",
+    "code": "15916",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Quỳ",
+    "code": "15886",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Sơn",
+    "code": "15901",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Thanh",
+    "code": "16000",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Thành",
+    "code": "15961",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Thái",
+    "code": "15955",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Thắng",
+    "code": "15949",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Thịnh",
+    "code": "15958",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Tiến",
+    "code": "15988",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Trinh",
+    "code": "15895",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Trung",
+    "code": "15892",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Trường",
+    "code": "16006",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Trạch",
+    "code": "15967",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Tân",
+    "code": "15982",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Xuyên",
+    "code": "15910",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Xuân",
+    "code": "15877",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Yến",
+    "code": "15985",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Đông",
+    "code": "15997",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Đạo",
+    "code": "15946",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Đạt",
+    "code": "15940",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Đồng",
+    "code": "15952",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoằng Đức",
+    "code": "15928",
+    "districtName": "Huyện Hoằng Hóa",
+    "districtCode": "399",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Hà Long",
+    "code": "15274",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Hà Lĩnh",
+    "code": "15316",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Hà Trung",
+    "code": "15271",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoạt Giang",
+    "code": "15283",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hà Bình",
+    "code": "15328",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hà Bắc",
+    "code": "15280",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hà Châu",
+    "code": "15334",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hà Giang",
+    "code": "15292",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hà Hải",
+    "code": "15343",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hà Ngọc",
+    "code": "15304",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hà Sơn",
+    "code": "15313",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hà Tiến",
+    "code": "15325",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hà Tân",
+    "code": "15322",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hà Vinh",
+    "code": "15277",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hà Đông",
+    "code": "15319",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Lĩnh Toại",
+    "code": "15298",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thái Lai",
+    "code": "15331",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Dương",
+    "code": "15286",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yến Sơn",
+    "code": "15307",
+    "districtName": "Huyện Hà Trung",
+    "districtCode": "392",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Hậu Lộc",
+    "code": "16012",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cầu Lộc",
+    "code": "16033",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoa Lộc",
+    "code": "16063",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hòa Lộc",
+    "code": "16075",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hưng Lộc",
+    "code": "16081",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hải Lộc",
+    "code": "16084",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Liên Lộc",
+    "code": "16066",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Lộc Sơn",
+    "code": "16030",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Minh Lộc",
+    "code": "16078",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Mỹ Lộc",
+    "code": "16045",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Ngư Lộc",
+    "code": "16090",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phú Lộc",
+    "code": "16072",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quang Lộc",
+    "code": "16069",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thuần Lộc",
+    "code": "16048",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Lộc",
+    "code": "16036",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tiến Lộc",
+    "code": "16027",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Triệu Lộc",
+    "code": "16021",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tuy Lộc",
+    "code": "16042",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Lộc",
+    "code": "16057",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đa Lộc",
+    "code": "16087",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đại Lộc",
+    "code": "16018",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đồng Lộc",
+    "code": "16015",
+    "districtName": "Huyện Hậu Lộc",
+    "districtCode": "400",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Lang Chánh",
+    "code": "15055",
+    "districtName": "Huyện Lang Chánh",
+    "districtCode": "388",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Giao An",
+    "code": "15040",
+    "districtName": "Huyện Lang Chánh",
+    "districtCode": "388",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Giao Thiện",
+    "code": "15043",
+    "districtName": "Huyện Lang Chánh",
+    "districtCode": "388",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Lâm Phú",
+    "code": "15052",
+    "districtName": "Huyện Lang Chánh",
+    "districtCode": "388",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tam Văn",
+    "code": "15049",
+    "districtName": "Huyện Lang Chánh",
+    "districtCode": "388",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trí Nang",
+    "code": "15037",
+    "districtName": "Huyện Lang Chánh",
+    "districtCode": "388",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tân Phúc",
+    "code": "15046",
+    "districtName": "Huyện Lang Chánh",
+    "districtCode": "388",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Khương",
+    "code": "15031",
+    "districtName": "Huyện Lang Chánh",
+    "districtCode": "388",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Thắng",
+    "code": "15034",
+    "districtName": "Huyện Lang Chánh",
+    "districtCode": "388",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đồng Lương",
+    "code": "15058",
+    "districtName": "Huyện Lang Chánh",
+    "districtCode": "388",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Mường Lát",
+    "code": "14845",
+    "districtName": "Huyện Mường Lát",
+    "districtCode": "384",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Mường Chanh",
+    "code": "14866",
+    "districtName": "Huyện Mường Lát",
+    "districtCode": "384",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Mường Lý",
+    "code": "14854",
+    "districtName": "Huyện Mường Lát",
+    "districtCode": "384",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nhi Sơn",
+    "code": "14864",
+    "districtName": "Huyện Mường Lát",
+    "districtCode": "384",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Pù Nhi",
+    "code": "14863",
+    "districtName": "Huyện Mường Lát",
+    "districtCode": "384",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quang Chiểu",
+    "code": "14860",
+    "districtName": "Huyện Mường Lát",
+    "districtCode": "384",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tam Chung",
+    "code": "14848",
+    "districtName": "Huyện Mường Lát",
+    "districtCode": "384",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trung Lý",
+    "code": "14857",
+    "districtName": "Huyện Mường Lát",
+    "districtCode": "384",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Nga Sơn",
+    "code": "16093",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Ba Đình",
+    "code": "16096",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga An",
+    "code": "16144",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Giáp",
+    "code": "16135",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Hiệp",
+    "code": "16120",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Hải",
+    "code": "16138",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Liên",
+    "code": "16159",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Phú",
+    "code": "16147",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Phượng",
+    "code": "16114",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Thanh",
+    "code": "16123",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Thiện",
+    "code": "16105",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Thành",
+    "code": "16141",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Thái",
+    "code": "16162",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Thạch",
+    "code": "16165",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Thắng",
+    "code": "16168",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Thủy",
+    "code": "16156",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Tiến",
+    "code": "16108",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Trường",
+    "code": "16171",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Tân",
+    "code": "16153",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Văn",
+    "code": "16102",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Vịnh",
+    "code": "16099",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Yên",
+    "code": "16132",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nga Điền",
+    "code": "16150",
+    "districtName": "Huyện Nga Sơn",
+    "districtCode": "401",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Ngọc Lặc",
+    "code": "15061",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cao Ngọc",
+    "code": "15079",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cao Thịnh",
+    "code": "15100",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Kiên Thọ",
+    "code": "15118",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Lam Sơn",
+    "code": "15064",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Lộc Thịnh",
+    "code": "15097",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Minh Sơn",
+    "code": "15124",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Minh Tiến",
+    "code": "15121",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Mỹ Tân",
+    "code": "15067",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nguyệt Ấn",
+    "code": "15115",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Ngọc Liên",
+    "code": "15091",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Ngọc Sơn",
+    "code": "15094",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Ngọc Trung",
+    "code": "15103",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phùng Giáo",
+    "code": "15106",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phùng Minh",
+    "code": "15109",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phúc Thịnh",
+    "code": "15112",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quang Trung",
+    "code": "15085",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thúy Sơn",
+    "code": "15070",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thạch Lập",
+    "code": "15073",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vân Âm",
+    "code": "15076",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đồng Thịnh",
+    "code": "15088",
+    "districtName": "Huyện Ngọc Lặc",
+    "districtCode": "389",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Bến Sung",
+    "code": "16228",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cán Khê",
+    "code": "16231",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hải Long",
+    "code": "16252",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Mậu Lâm",
+    "code": "16243",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phú Nhuận",
+    "code": "16249",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phượng Nghi",
+    "code": "16240",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thanh Kỳ",
+    "code": "16276",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thanh Tân",
+    "code": "16273",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Du",
+    "code": "16234",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Khang",
+    "code": "16246",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Phúc",
+    "code": "16261",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Thái",
+    "code": "16258",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Lạc",
+    "code": "16267",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Thọ",
+    "code": "16264",
+    "districtName": "Huyện Như Thanh",
+    "districtCode": "403",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Yên Cát",
+    "code": "16174",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Bãi Trành",
+    "code": "16177",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Bình Lương",
+    "code": "16204",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cát Tân",
+    "code": "16198",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Cát Vân",
+    "code": "16195",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hóa Quỳ",
+    "code": "16186",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thanh Hòa",
+    "code": "16213",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thanh Lâm",
+    "code": "16219",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thanh Phong",
+    "code": "16216",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thanh Quân",
+    "code": "16207",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thanh Sơn",
+    "code": "16222",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thanh Xuân",
+    "code": "16210",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thượng Ninh",
+    "code": "16225",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tân Bình",
+    "code": "16201",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Bình",
+    "code": "16183",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Hòa",
+    "code": "16180",
+    "districtName": "Huyện Như Xuân",
+    "districtCode": "402",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Nông Cống",
+    "code": "16279",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Công Chính",
+    "code": "16369",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Công Liêm",
+    "code": "16354",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoàng Giang",
+    "code": "16294",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hoàng Sơn",
+    "code": "16288",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Minh Khôi",
+    "code": "16324",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Minh Nghĩa",
+    "code": "16321",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thăng Bình",
+    "code": "16351",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thăng Long",
+    "code": "16342",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thăng Thọ",
+    "code": "16360",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trung Chính",
+    "code": "16297",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trung Thành",
+    "code": "16303",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trường Giang",
+    "code": "16336",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trường Minh",
+    "code": "16345",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trường Sơn",
+    "code": "16348",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trường Trung",
+    "code": "16330",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tân Khang",
+    "code": "16291",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tân Phúc",
+    "code": "16282",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tân Thọ",
+    "code": "16285",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tượng Lĩnh",
+    "code": "16363",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tượng Sơn",
+    "code": "16366",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tượng Văn",
+    "code": "16357",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tế Lợi",
+    "code": "16315",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tế Nông",
+    "code": "16318",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tế Thắng",
+    "code": "16309",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vạn Hòa",
+    "code": "16327",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vạn Thiện",
+    "code": "16339",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vạn Thắng",
+    "code": "16333",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Mỹ",
+    "code": "16375",
+    "districtName": "Huyện Nông Cống",
+    "districtCode": "404",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Hồi Xuân",
+    "code": "14869",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hiền Chung",
+    "code": "14896",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hiền Kiệt",
+    "code": "14899",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nam Tiến",
+    "code": "14902",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nam Xuân",
+    "code": "14914",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nam Động",
+    "code": "14917",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phú Lệ",
+    "code": "14884",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phú Nghiêm",
+    "code": "14911",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phú Sơn",
+    "code": "14887",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phú Thanh",
+    "code": "14878",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phú Xuân",
+    "code": "14890",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiên Phủ",
+    "code": "14908",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Sơn",
+    "code": "14872",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trung Sơn",
+    "code": "14875",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trung Thành",
+    "code": "14881",
+    "districtName": "Huyện Quan Hóa",
+    "districtCode": "385",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Sơn Lư",
+    "code": "15016",
+    "districtName": "Huyện Quan Sơn",
+    "districtCode": "387",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Mường Mìn",
+    "code": "15025",
+    "districtName": "Huyện Quan Sơn",
+    "districtCode": "387",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Na Mèo",
+    "code": "15013",
+    "districtName": "Huyện Quan Sơn",
+    "districtCode": "387",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Sơn Hà",
+    "code": "15004",
+    "districtName": "Huyện Quan Sơn",
+    "districtCode": "387",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Sơn Thủy",
+    "code": "15010",
+    "districtName": "Huyện Quan Sơn",
+    "districtCode": "387",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Sơn Điện",
+    "code": "15022",
+    "districtName": "Huyện Quan Sơn",
+    "districtCode": "387",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tam Lư",
+    "code": "15019",
+    "districtName": "Huyện Quan Sơn",
+    "districtCode": "387",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tam Thanh",
+    "code": "15007",
+    "districtName": "Huyện Quan Sơn",
+    "districtCode": "387",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trung Hạ",
+    "code": "15001",
+    "districtName": "Huyện Quan Sơn",
+    "districtCode": "387",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trung Thượng",
+    "code": "14998",
+    "districtName": "Huyện Quan Sơn",
+    "districtCode": "387",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trung Tiến",
+    "code": "14999",
+    "districtName": "Huyện Quan Sơn",
+    "districtCode": "387",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trung Xuân",
+    "code": "14995",
+    "districtName": "Huyện Quan Sơn",
+    "districtCode": "387",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Tân Phong",
+    "code": "16438",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Bình",
+    "code": "16468",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Chính",
+    "code": "16495",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Giao",
+    "code": "16519",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Hòa",
+    "code": "16483",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Hải",
+    "code": "16540",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Hợp",
+    "code": "16471",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Khê",
+    "code": "16489",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Long",
+    "code": "16477",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Lưu",
+    "code": "16543",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Lộc",
+    "code": "16546",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Ngọc",
+    "code": "16498",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Nham",
+    "code": "16552",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Nhân",
+    "code": "16462",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Ninh",
+    "code": "16465",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Phúc",
+    "code": "16510",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Thái",
+    "code": "16558",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Thạch",
+    "code": "16555",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Trung",
+    "code": "16492",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Trường",
+    "code": "16501",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Trạch",
+    "code": "16447",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Văn",
+    "code": "16474",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Yên",
+    "code": "16480",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Định",
+    "code": "16456",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Đức",
+    "code": "16453",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tiên Trang",
+    "code": "16549",
+    "districtName": "Huyện Quảng Xương",
+    "districtCode": "406",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Hậu Hiền",
+    "code": "15829",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Thiệu Hóa",
+    "code": "15772",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Chính",
+    "code": "15820",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Công",
+    "code": "15787",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Duy",
+    "code": "15799",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Giang",
+    "code": "15796",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Giao",
+    "code": "15853",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Hòa",
+    "code": "15823",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Hợp",
+    "code": "15805",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Long",
+    "code": "15793",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Lý",
+    "code": "15835",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Nguyên",
+    "code": "15802",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Ngọc",
+    "code": "15775",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Phúc",
+    "code": "15781",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Quang",
+    "code": "15811",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Thành",
+    "code": "15814",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Thịnh",
+    "code": "15808",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Tiến",
+    "code": "15784",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Toán",
+    "code": "15817",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Trung",
+    "code": "15841",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Viên",
+    "code": "15832",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Vũ",
+    "code": "15778",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Vận",
+    "code": "15838",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tân Châu",
+    "code": "15847",
+    "districtName": "Huyện Thiệu Hóa",
+    "districtCode": "398",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Thường Xuân",
+    "code": "15646",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Bát Mọt",
+    "code": "15607",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Luận Khê",
+    "code": "15637",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Luận Thành",
+    "code": "15634",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Lương Sơn",
+    "code": "15628",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Ngọc Phụng",
+    "code": "15655",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Thanh",
+    "code": "15652",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "15661",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vạn Xuân",
+    "code": "15622",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Cao",
+    "code": "15631",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Chinh",
+    "code": "15658",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Dương",
+    "code": "15649",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Lẹ",
+    "code": "15619",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Lộc",
+    "code": "15643",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Thắng",
+    "code": "15640",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Nhân",
+    "code": "15610",
+    "districtName": "Huyện Thường Xuân",
+    "districtCode": "396",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Kim Tân",
+    "code": "15187",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Vân Du",
+    "code": "15190",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Ngọc Trạo",
+    "code": "15268",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành An",
+    "code": "15250",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Công",
+    "code": "15235",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Hưng",
+    "code": "15265",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Long",
+    "code": "15259",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Minh",
+    "code": "15232",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Mỹ",
+    "code": "15223",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Thọ",
+    "code": "15253",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Tiến",
+    "code": "15256",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Trực",
+    "code": "15241",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Tâm",
+    "code": "15247",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Tân",
+    "code": "15238",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Vinh",
+    "code": "15229",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thành Yên",
+    "code": "15226",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thạch Bình",
+    "code": "15211",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thạch Cẩm",
+    "code": "15205",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thạch Long",
+    "code": "15220",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thạch Lâm",
+    "code": "15196",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thạch Quảng",
+    "code": "15199",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thạch Sơn",
+    "code": "15208",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thạch Tượng",
+    "code": "15202",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thạch Định",
+    "code": "15214",
+    "districtName": "Huyện Thạch Thành",
+    "districtCode": "391",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Lam Sơn",
+    "code": "15556",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Sao Vàng",
+    "code": "15553",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Thọ Xuân",
+    "code": "15499",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Bắc Lương",
+    "code": "15502",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nam Giang",
+    "code": "15505",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phú Xuân",
+    "code": "15577",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Phú",
+    "code": "15571",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thuận Minh",
+    "code": "15565",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Diên",
+    "code": "15538",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Hải",
+    "code": "15520",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Lâm",
+    "code": "15541",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Lập",
+    "code": "15568",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Lộc",
+    "code": "15511",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Xương",
+    "code": "15544",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trường Xuân",
+    "code": "15598",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tây Hồ",
+    "code": "15523",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Bái",
+    "code": "15547",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Giang",
+    "code": "15526",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Hòa",
+    "code": "15517",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Hưng",
+    "code": "15535",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Hồng",
+    "code": "15493",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Lai",
+    "code": "15583",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Lập",
+    "code": "15586",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Minh",
+    "code": "15592",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Phong",
+    "code": "15508",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Phú",
+    "code": "15550",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Sinh",
+    "code": "15532",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Thiên",
+    "code": "15559",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Trường",
+    "code": "15514",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Tín",
+    "code": "15574",
+    "districtName": "Huyện Thọ Xuân",
+    "districtCode": "395",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Nưa",
+    "code": "15718",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Triệu Sơn",
+    "code": "15664",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã An Nông",
+    "code": "15709",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Bình Sơn",
+    "code": "15769",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Dân Lý",
+    "code": "15703",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Dân Lực",
+    "code": "15700",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Dân Quyền",
+    "code": "15706",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hợp Lý",
+    "code": "15676",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hợp Thành",
+    "code": "15682",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hợp Thắng",
+    "code": "15688",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hợp Tiến",
+    "code": "15679",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Khuyến Nông",
+    "code": "15733",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Minh Sơn",
+    "code": "15691",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nông Trường",
+    "code": "15766",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thái Hòa",
+    "code": "15715",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Bình",
+    "code": "15670",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Cường",
+    "code": "15754",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Dân",
+    "code": "15742",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Ngọc",
+    "code": "15751",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Phú",
+    "code": "15760",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Sơn",
+    "code": "15667",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Thế",
+    "code": "15763",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Tiến",
+    "code": "15673",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thọ Tân",
+    "code": "15748",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tiến Nông",
+    "code": "15730",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Triệu Thành",
+    "code": "15685",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Văn Sơn",
+    "code": "15712",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Lộc",
+    "code": "15736",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Xuân Thọ",
+    "code": "15745",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đồng Lợi",
+    "code": "15721",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đồng Thắng",
+    "code": "15727",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đồng Tiến",
+    "code": "15724",
+    "districtName": "Huyện Triệu Sơn",
+    "districtCode": "397",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Vĩnh Lộc",
+    "code": "15349",
+    "districtName": "Huyện Vĩnh Lộc",
+    "districtCode": "393",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Minh Tân",
+    "code": "15382",
+    "districtName": "Huyện Vĩnh Lộc",
+    "districtCode": "393",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Ninh Khang",
+    "code": "15385",
+    "districtName": "Huyện Vĩnh Lộc",
+    "districtCode": "393",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vĩnh An",
+    "code": "15391",
+    "districtName": "Huyện Vĩnh Lộc",
+    "districtCode": "393",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vĩnh Hòa",
+    "code": "15376",
+    "districtName": "Huyện Vĩnh Lộc",
+    "districtCode": "393",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vĩnh Hùng",
+    "code": "15379",
+    "districtName": "Huyện Vĩnh Lộc",
+    "districtCode": "393",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vĩnh Hưng",
+    "code": "15367",
+    "districtName": "Huyện Vĩnh Lộc",
+    "districtCode": "393",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vĩnh Long",
+    "code": "15361",
+    "districtName": "Huyện Vĩnh Lộc",
+    "districtCode": "393",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vĩnh Phúc",
+    "code": "15364",
+    "districtName": "Huyện Vĩnh Lộc",
+    "districtCode": "393",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vĩnh Quang",
+    "code": "15352",
+    "districtName": "Huyện Vĩnh Lộc",
+    "districtCode": "393",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vĩnh Thịnh",
+    "code": "15388",
+    "districtName": "Huyện Vĩnh Lộc",
+    "districtCode": "393",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vĩnh Tiến",
+    "code": "15358",
+    "districtName": "Huyện Vĩnh Lộc",
+    "districtCode": "393",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Vĩnh Yên",
+    "code": "15355",
+    "districtName": "Huyện Vĩnh Lộc",
+    "districtCode": "393",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Quán Lào",
+    "code": "15469",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Quý Lộc",
+    "code": "15412",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Thống Nhất",
+    "code": "15397",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Thị trấn Yên Lâm",
+    "code": "15403",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Hùng",
+    "code": "15433",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Ninh",
+    "code": "15442",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Phong",
+    "code": "15427",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Phú",
+    "code": "15409",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Thái",
+    "code": "15430",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Thịnh",
+    "code": "15436",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Thọ",
+    "code": "15415",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Trung",
+    "code": "15418",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Trường",
+    "code": "15421",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Yên Tâm",
+    "code": "15406",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Định Bình",
+    "code": "15478",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Định Công",
+    "code": "15454",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Định Hòa",
+    "code": "15448",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Định Hưng",
+    "code": "15472",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Định Hải",
+    "code": "15475",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Định Liên",
+    "code": "15466",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Định Long",
+    "code": "15463",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Định Thành",
+    "code": "15451",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Định Tiến",
+    "code": "15460",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Định Tân",
+    "code": "15457",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Định Tăng",
+    "code": "15445",
+    "districtName": "Huyện Yên Định",
+    "districtCode": "394",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Bắc Sơn",
+    "code": "14833",
+    "districtName": "Thành phố Sầm Sơn",
+    "districtCode": "382",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Quảng Châu",
+    "code": "16531",
+    "districtName": "Thành phố Sầm Sơn",
+    "districtCode": "382",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Quảng Cư",
+    "code": "14839",
+    "districtName": "Thành phố Sầm Sơn",
+    "districtCode": "382",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Quảng Thọ",
+    "code": "16528",
+    "districtName": "Thành phố Sầm Sơn",
+    "districtCode": "382",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Quảng Tiến",
+    "code": "14842",
+    "districtName": "Thành phố Sầm Sơn",
+    "districtCode": "382",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Quảng Vinh",
+    "code": "16534",
+    "districtName": "Thành phố Sầm Sơn",
+    "districtCode": "382",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Trung Sơn",
+    "code": "14830",
+    "districtName": "Thành phố Sầm Sơn",
+    "districtCode": "382",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Trường Sơn",
+    "code": "14836",
+    "districtName": "Thành phố Sầm Sơn",
+    "districtCode": "382",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quảng Minh",
+    "code": "16513",
+    "districtName": "Thành phố Sầm Sơn",
+    "districtCode": "382",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đại Hùng",
+    "code": "16516",
+    "districtName": "Thành phố Sầm Sơn",
+    "districtCode": "382",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường An Hưng",
+    "code": "16435",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Ba Đình",
+    "code": "14776",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Hoằng Quang",
+    "code": "15925",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Hoằng Đại",
+    "code": "15970",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Hàm Rồng",
+    "code": "14755",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Lam Sơn",
+    "code": "14773",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Long Anh",
+    "code": "15922",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Nam Ngạn",
+    "code": "14761",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Ngọc Trạo",
+    "code": "14779",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Phú Sơn",
+    "code": "14770",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Quảng Cát",
+    "code": "16507",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Quảng Hưng",
+    "code": "14800",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Quảng Phú",
+    "code": "16522",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Quảng Thành",
+    "code": "14806",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Quảng Thắng",
+    "code": "14803",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Quảng Thịnh",
+    "code": "16441",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Quảng Tâm",
+    "code": "16525",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Quảng Đông",
+    "code": "16459",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Rừng Thông",
+    "code": "16378",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Thiệu Dương",
+    "code": "15859",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Thiệu Khánh",
+    "code": "15856",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Trường Thi",
+    "code": "14764",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Tào Xuyên",
+    "code": "15913",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Điện Biên",
+    "code": "14767",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Đông Cương",
+    "code": "14791",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Đông Hương",
+    "code": "14794",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Đông Hải",
+    "code": "14797",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Đông Lĩnh",
+    "code": "16396",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Đông Sơn",
+    "code": "14785",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Đông Thịnh",
+    "code": "16414",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Đông Thọ",
+    "code": "14758",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Đông Tân",
+    "code": "16432",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Đông Vệ",
+    "code": "14782",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thiệu Vân",
+    "code": "15850",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đông Hoàng",
+    "code": "16381",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đông Hòa",
+    "code": "16390",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đông Khê",
+    "code": "16408",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đông Minh",
+    "code": "16399",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đông Nam",
+    "code": "16423",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đông Ninh",
+    "code": "16384",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đông Phú",
+    "code": "16420",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đông Quang",
+    "code": "16426",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đông Thanh",
+    "code": "16402",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đông Tiến",
+    "code": "16405",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đông Vinh",
+    "code": "16429",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đông Văn",
+    "code": "16417",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Đông Yên",
+    "code": "16393",
+    "districtName": "Thành phố Thanh Hóa",
+    "districtCode": "380",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Ba Đình",
+    "code": "14812",
+    "districtName": "Thị xã Bỉm Sơn",
+    "districtCode": "381",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Bắc Sơn",
+    "code": "14809",
+    "districtName": "Thị xã Bỉm Sơn",
+    "districtCode": "381",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Lam Sơn",
+    "code": "14815",
+    "districtName": "Thị xã Bỉm Sơn",
+    "districtCode": "381",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Ngọc Trạo",
+    "code": "14818",
+    "districtName": "Thị xã Bỉm Sơn",
+    "districtCode": "381",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Phú Sơn",
+    "code": "14823",
+    "districtName": "Thị xã Bỉm Sơn",
+    "districtCode": "381",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Đông Sơn",
+    "code": "14821",
+    "districtName": "Thị xã Bỉm Sơn",
+    "districtCode": "381",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Quang Trung",
+    "code": "14824",
+    "districtName": "Thị xã Bỉm Sơn",
+    "districtCode": "381",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Bình Minh",
+    "code": "16618",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Hải An",
+    "code": "16585",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Hải Bình",
+    "code": "16633",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Hải Châu",
+    "code": "16564",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Hải Hòa",
+    "code": "16561",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Hải Lĩnh",
+    "code": "16597",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Hải Ninh",
+    "code": "16576",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Hải Thanh",
+    "code": "16621",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Hải Thượng",
+    "code": "16654",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Mai Lâm",
+    "code": "16645",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Nguyên Bình",
+    "code": "16609",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Ninh Hải",
+    "code": "16606",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Trúc Lâm",
+    "code": "16630",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Tân Dân",
+    "code": "16594",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Tĩnh Hải",
+    "code": "16642",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Phường Xuân Lâm",
+    "code": "16627",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Anh Sơn",
+    "code": "16579",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Các Sơn",
+    "code": "16591",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hải Hà",
+    "code": "16660",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Hải Nhân",
+    "code": "16612",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Nghi Sơn",
+    "code": "16657",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Ngọc Lĩnh",
+    "code": "16582",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phú Lâm",
+    "code": "16624",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Phú Sơn",
+    "code": "16603",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thanh Sơn",
+    "code": "16570",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Thanh Thủy",
+    "code": "16567",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Trường Lâm",
+    "code": "16648",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tân Trường",
+    "code": "16636",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Tùng Lâm",
+    "code": "16639",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  },
+  {
+    "name": "Xã Định Hải",
+    "code": "16600",
+    "districtName": "Thị xã Nghi Sơn",
+    "districtCode": "407",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "provinceCode": "38"
+  }
+]

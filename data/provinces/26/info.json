@@ -1,0 +1,60 @@
+{
+  "name": "Tỉnh Vĩnh Phúc",
+  "code": "26",
+  "districts": [
+    {
+      "name": "Huyện Bình Xuyên",
+      "code": "249",
+      "provinceName": "Tỉnh Vĩnh Phúc",
+      "provinceCode": "26"
+    },
+    {
+      "name": "Huyện Lập Thạch",
+      "code": "246",
+      "provinceName": "Tỉnh Vĩnh Phúc",
+      "provinceCode": "26"
+    },
+    {
+      "name": "Huyện Sông Lô",
+      "code": "253",
+      "provinceName": "Tỉnh Vĩnh Phúc",
+      "provinceCode": "26"
+    },
+    {
+      "name": "Huyện Tam Dương",
+      "code": "247",
+      "provinceName": "Tỉnh Vĩnh Phúc",
+      "provinceCode": "26"
+    },
+    {
+      "name": "Huyện Tam Đảo",
+      "code": "248",
+      "provinceName": "Tỉnh Vĩnh Phúc",
+      "provinceCode": "26"
+    },
+    {
+      "name": "Huyện Vĩnh Tường",
+      "code": "252",
+      "provinceName": "Tỉnh Vĩnh Phúc",
+      "provinceCode": "26"
+    },
+    {
+      "name": "Huyện Yên Lạc",
+      "code": "251",
+      "provinceName": "Tỉnh Vĩnh Phúc",
+      "provinceCode": "26"
+    },
+    {
+      "name": "Thành phố Phúc Yên",
+      "code": "244",
+      "provinceName": "Tỉnh Vĩnh Phúc",
+      "provinceCode": "26"
+    },
+    {
+      "name": "Thành phố Vĩnh Yên",
+      "code": "243",
+      "provinceName": "Tỉnh Vĩnh Phúc",
+      "provinceCode": "26"
+    }
+  ]
+}

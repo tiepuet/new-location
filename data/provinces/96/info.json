@@ -1,0 +1,75 @@
+{
+  "name": "Cà Mau",
+  "code": "96",
+  "from": "Bạc Liêu, Cà Mau",
+  "area": 7942.39,
+  "population": 2606672,
+  "adminCenter": "TP Cà Mau",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 1,
+  "grdp": 153.16,
+  "licensePlates": [
+    69,
+    94
+  ],
+  "density": 328,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Cái Nước",
+      "code": "969",
+      "provinceName": "Tỉnh Cà Mau",
+      "provinceCode": "96"
+    },
+    {
+      "name": "Huyện Ngọc Hiển",
+      "code": "973",
+      "provinceName": "Tỉnh Cà Mau",
+      "provinceCode": "96"
+    },
+    {
+      "name": "Huyện Năm Căn",
+      "code": "971",
+      "provinceName": "Tỉnh Cà Mau",
+      "provinceCode": "96"
+    },
+    {
+      "name": "Huyện Phú Tân",
+      "code": "972",
+      "provinceName": "Tỉnh Cà Mau",
+      "provinceCode": "96"
+    },
+    {
+      "name": "Huyện Thới Bình",
+      "code": "967",
+      "provinceName": "Tỉnh Cà Mau",
+      "provinceCode": "96"
+    },
+    {
+      "name": "Huyện Trần Văn Thời",
+      "code": "968",
+      "provinceName": "Tỉnh Cà Mau",
+      "provinceCode": "96"
+    },
+    {
+      "name": "Huyện U Minh",
+      "code": "966",
+      "provinceName": "Tỉnh Cà Mau",
+      "provinceCode": "96"
+    },
+    {
+      "name": "Huyện Đầm Dơi",
+      "code": "970",
+      "provinceName": "Tỉnh Cà Mau",
+      "provinceCode": "96"
+    },
+    {
+      "name": "Thành phố Cà Mau",
+      "code": "964",
+      "provinceName": "Tỉnh Cà Mau",
+      "provinceCode": "96"
+    }
+  ]
+}

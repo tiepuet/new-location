@@ -1,0 +1,1938 @@
+[
+  {
+    "name": "Thị trấn Hưng Hà",
+    "code": "12586",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Thị trấn Hưng Nhân",
+    "code": "12613",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Bắc Sơn",
+    "code": "12628",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Canh Tân",
+    "code": "12601",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Chi Lăng",
+    "code": "12656",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Chí Hòa",
+    "code": "12679",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Cộng Hòa",
+    "code": "12595",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Duyên Hải",
+    "code": "12619",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "12655",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hòa Tiến",
+    "code": "12604",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hồng An",
+    "code": "12661",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hồng Lĩnh",
+    "code": "12667",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hồng Minh",
+    "code": "12685",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Kim Chung",
+    "code": "12664",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Liên Hiệp",
+    "code": "12637",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Minh Hòa",
+    "code": "12682",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Minh Khai",
+    "code": "12658",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Minh Tân",
+    "code": "12670",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Phúc Khánh",
+    "code": "12634",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quang Trung",
+    "code": "12589",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thái Hưng",
+    "code": "12649",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thái Phương",
+    "code": "12652",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thống Nhất",
+    "code": "12643",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tiến Đức",
+    "code": "12646",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tân Hòa",
+    "code": "12622",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tân Lễ",
+    "code": "12592",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tân Tiến",
+    "code": "12610",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tây Đô",
+    "code": "12640",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Văn Cẩm",
+    "code": "12625",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Văn Lang",
+    "code": "12673",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đoan Hùng",
+    "code": "12616",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Đô",
+    "code": "12631",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Độc Lập",
+    "code": "12676",
+    "districtName": "Huyện Hưng Hà",
+    "districtCode": "339",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Thị trấn Kiến Xương",
+    "code": "13075",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Bình",
+    "code": "13087",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Bình Minh",
+    "code": "13138",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Bình Nguyên",
+    "code": "13096",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Bình Thanh",
+    "code": "13183",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Bình Định",
+    "code": "13186",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "13135",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hồng Thái",
+    "code": "13093",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hồng Tiến",
+    "code": "13189",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hồng Vũ",
+    "code": "13159",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Lê Lợi",
+    "code": "13102",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Minh Quang",
+    "code": "13171",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Minh Tân",
+    "code": "13177",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Nam Bình",
+    "code": "13180",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quang Bình",
+    "code": "13144",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quang Lịch",
+    "code": "13132",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quang Minh",
+    "code": "13162",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quang Trung",
+    "code": "13165",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quốc Tuấn",
+    "code": "13081",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thanh Tân",
+    "code": "13114",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thống Nhất",
+    "code": "13120",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Trà Giang",
+    "code": "13078",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tây Sơn",
+    "code": "13090",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ An",
+    "code": "13129",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Công",
+    "code": "13156",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Lễ",
+    "code": "13111",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Ninh",
+    "code": "13126",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Quí",
+    "code": "13141",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Trung",
+    "code": "13150",
+    "districtName": "Huyện Kiến Xương",
+    "districtCode": "343",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Thị trấn An Bài",
+    "code": "12523",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Thị trấn Quỳnh Côi",
+    "code": "12472",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Cầu",
+    "code": "12502",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Dục",
+    "code": "12571",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Hiệp",
+    "code": "12490",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Khê",
+    "code": "12475",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Lễ",
+    "code": "12550",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Mỹ",
+    "code": "12559",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Ninh",
+    "code": "12514",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Quí",
+    "code": "12538",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Thanh",
+    "code": "12541",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Thái",
+    "code": "12499",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Tràng",
+    "code": "12580",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Vinh",
+    "code": "12565",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Vũ",
+    "code": "12547",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Đồng",
+    "code": "12478",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Ấp",
+    "code": "12526",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Châu Sơn",
+    "code": "12532",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Giao",
+    "code": "12496",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Hoa",
+    "code": "12481",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Hoàng",
+    "code": "12493",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Hưng",
+    "code": "12553",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Hải",
+    "code": "12520",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Hồng",
+    "code": "12505",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Hội",
+    "code": "12529",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Khê",
+    "code": "12508",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Lâm",
+    "code": "12484",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Minh",
+    "code": "12511",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Mỹ",
+    "code": "12535",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Nguyên",
+    "code": "12562",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Ngọc",
+    "code": "12517",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Quỳnh Thọ",
+    "code": "12487",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Trang Bảo Xá",
+    "code": "12577",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Hải",
+    "code": "12574",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đồng Tiến",
+    "code": "12583",
+    "districtName": "Huyện Quỳnh Phụ",
+    "districtCode": "338",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Thị trấn Diêm Điền",
+    "code": "12826",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Tân",
+    "code": "12847",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Dương Hồng Thủy",
+    "code": "12916",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Dương Phúc",
+    "code": "12865",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hòa An",
+    "code": "12922",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hồng Dũng",
+    "code": "12841",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Mỹ Lộc",
+    "code": "12949",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Sơn Hà",
+    "code": "12925",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thuần Thành",
+    "code": "12964",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thái Giang",
+    "code": "12919",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thái Hưng",
+    "code": "12937",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thái Nguyên",
+    "code": "12910",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thái Phúc",
+    "code": "12934",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thái Thượng",
+    "code": "12907",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thái Thịnh",
+    "code": "12961",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thái Thọ",
+    "code": "12967",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thái Xuyên",
+    "code": "12943",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thái Đô",
+    "code": "12940",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Bình",
+    "code": "12871",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Chính",
+    "code": "12874",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Duyên",
+    "code": "12892",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Dân",
+    "code": "12877",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Hưng",
+    "code": "12853",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Hải",
+    "code": "12880",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Liên",
+    "code": "12889",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Ninh",
+    "code": "12850",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Phong",
+    "code": "12904",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Quỳnh",
+    "code": "12844",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Sơn",
+    "code": "12901",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Thanh",
+    "code": "12898",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Trình",
+    "code": "12868",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Trường",
+    "code": "12832",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Việt",
+    "code": "12856",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Văn",
+    "code": "12859",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thụy Xuân",
+    "code": "12862",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tân Học",
+    "code": "12958",
+    "districtName": "Huyện Thái Thụy",
+    "districtCode": "341",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Thị trấn Tiền Hải",
+    "code": "12970",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã An Ninh",
+    "code": "13012",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Bắc Hải",
+    "code": "13048",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Nam Chính",
+    "code": "13045",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Nam Cường",
+    "code": "13036",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Nam Hà",
+    "code": "13054",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Nam Hưng",
+    "code": "13066",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Nam Hải",
+    "code": "13069",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Nam Hồng",
+    "code": "13063",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Nam Phú",
+    "code": "13072",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Nam Thịnh",
+    "code": "13051",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Nam Tiến",
+    "code": "13057",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Nam Trung",
+    "code": "13060",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Phương Công",
+    "code": "13027",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tây Giang",
+    "code": "13021",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tây Lương",
+    "code": "12991",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tây Ninh",
+    "code": "12994",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vân Trường",
+    "code": "13039",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Lăng",
+    "code": "12985",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Ái Quốc",
+    "code": "13030",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Cơ",
+    "code": "13018",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Hoàng",
+    "code": "13000",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Long",
+    "code": "12979",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Lâm",
+    "code": "13024",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Minh",
+    "code": "13003",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Quang",
+    "code": "12997",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Trà",
+    "code": "12976",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Xuyên",
+    "code": "12988",
+    "districtName": "Huyện Tiền Hải",
+    "districtCode": "342",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Thị trấn Vũ Thư",
+    "code": "13192",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Bách Thuận",
+    "code": "13243",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Duy Nhất",
+    "code": "13279",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Dũng Nghĩa",
+    "code": "13231",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hiệp Hòa",
+    "code": "13204",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "13258",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hồng Lý",
+    "code": "13195",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hồng Phong",
+    "code": "13282",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Minh Khai",
+    "code": "13228",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Minh Lãng",
+    "code": "13222",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Minh Quang",
+    "code": "13234",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Nguyên Xá",
+    "code": "13261",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Phúc Thành",
+    "code": "13207",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Song An",
+    "code": "13249",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Song Lãng",
+    "code": "13213",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tam Quang",
+    "code": "13237",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Trung An",
+    "code": "13252",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tân Hòa",
+    "code": "13216",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "13240",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tân Phong",
+    "code": "13210",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tự Tân",
+    "code": "13246",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Việt Hùng",
+    "code": "13219",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Việt Thuận",
+    "code": "13264",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Hội",
+    "code": "13255",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Tiến",
+    "code": "13273",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Vinh",
+    "code": "13267",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Vân",
+    "code": "13276",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Đoài",
+    "code": "13270",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Xuân Hòa",
+    "code": "13201",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đồng Thanh",
+    "code": "13198",
+    "districtName": "Huyện Vũ Thư",
+    "districtCode": "344",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Thị trấn Đông Hưng",
+    "code": "12688",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hà Giang",
+    "code": "12745",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hồng Bạch",
+    "code": "12778",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hồng Giang",
+    "code": "12790",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Hồng Việt",
+    "code": "12739",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Liên An Đô",
+    "code": "12700",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Liên Hoa",
+    "code": "12763",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Lô Giang",
+    "code": "12715",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Minh Phú",
+    "code": "12823",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Minh Tân",
+    "code": "12721",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Mê Linh",
+    "code": "12712",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Nguyên Xá",
+    "code": "12730",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Phong Dương Tiến",
+    "code": "12736",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Phú Châu",
+    "code": "12760",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Phú Lương",
+    "code": "12709",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Thăng Long",
+    "code": "12754",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Trọng Quan",
+    "code": "12784",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Xuân Quang Động",
+    "code": "12775",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Các",
+    "code": "12757",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Cường",
+    "code": "12706",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Dương",
+    "code": "12811",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Hoàng",
+    "code": "12808",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Hợp",
+    "code": "12751",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Kinh",
+    "code": "12748",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông La",
+    "code": "12718",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Phương",
+    "code": "12694",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Quan",
+    "code": "12793",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Sơn",
+    "code": "12703",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Tân",
+    "code": "12769",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Vinh",
+    "code": "12772",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Xá",
+    "code": "12724",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Á",
+    "code": "12802",
+    "districtName": "Huyện Đông Hưng",
+    "districtCode": "340",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Phường Bồ Xuyên",
+    "code": "12436",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Phường Hoàng Diệu",
+    "code": "12460",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Phường Kỳ Bá",
+    "code": "12442",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Phường Lê Hồng Phong",
+    "code": "12433",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Phường Phú Khánh",
+    "code": "12448",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Phường Quang Trung",
+    "code": "12445",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Phường Tiền Phong",
+    "code": "12451",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Phường Trần Hưng Đạo",
+    "code": "12452",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Phường Trần Lãm",
+    "code": "12454",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Phường Đề Thám",
+    "code": "12439",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Phú Xuân",
+    "code": "12463",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Tân Bình",
+    "code": "13225",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Chính",
+    "code": "12469",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Lạc",
+    "code": "13108",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Phúc",
+    "code": "12466",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Vũ Đông",
+    "code": "13084",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Hòa",
+    "code": "12457",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Mỹ",
+    "code": "12817",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  },
+  {
+    "name": "Xã Đông Thọ",
+    "code": "12820",
+    "districtName": "Thành phố Thái Bình",
+    "districtCode": "336",
+    "provinceName": "Tỉnh Thái Bình",
+    "provinceCode": "34"
+  }
+]

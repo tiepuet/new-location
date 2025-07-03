@@ -1,0 +1,66 @@
+{
+  "name": "Tỉnh Bình Thuận",
+  "code": "60",
+  "districts": [
+    {
+      "name": "Huyện Bắc Bình",
+      "code": "596",
+      "provinceName": "Tỉnh Bình Thuận",
+      "provinceCode": "60"
+    },
+    {
+      "name": "Huyện Hàm Thuận Bắc",
+      "code": "597",
+      "provinceName": "Tỉnh Bình Thuận",
+      "provinceCode": "60"
+    },
+    {
+      "name": "Huyện Hàm Thuận Nam",
+      "code": "598",
+      "provinceName": "Tỉnh Bình Thuận",
+      "provinceCode": "60"
+    },
+    {
+      "name": "Huyện Hàm Tân",
+      "code": "601",
+      "provinceName": "Tỉnh Bình Thuận",
+      "provinceCode": "60"
+    },
+    {
+      "name": "Huyện Phú Quí",
+      "code": "602",
+      "provinceName": "Tỉnh Bình Thuận",
+      "provinceCode": "60"
+    },
+    {
+      "name": "Huyện Tuy Phong",
+      "code": "595",
+      "provinceName": "Tỉnh Bình Thuận",
+      "provinceCode": "60"
+    },
+    {
+      "name": "Huyện Tánh Linh",
+      "code": "599",
+      "provinceName": "Tỉnh Bình Thuận",
+      "provinceCode": "60"
+    },
+    {
+      "name": "Huyện Đức Linh",
+      "code": "600",
+      "provinceName": "Tỉnh Bình Thuận",
+      "provinceCode": "60"
+    },
+    {
+      "name": "Thành phố Phan Thiết",
+      "code": "593",
+      "provinceName": "Tỉnh Bình Thuận",
+      "provinceCode": "60"
+    },
+    {
+      "name": "Thị xã La Gi",
+      "code": "594",
+      "provinceName": "Tỉnh Bình Thuận",
+      "provinceCode": "60"
+    }
+  ]
+}

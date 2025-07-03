@@ -1,0 +1,205 @@
+{
+  "name": "TP Hà Nội",
+  "code": "01",
+  "from": "TP Hà Nội",
+  "area": 3359.82,
+  "population": 8718000,
+  "adminCenter": "TP Hà Nội",
+  "hasSeaport": false,
+  "numSeaports": null,
+  "numBerths": null,
+  "grdp": 1425.521,
+  "licensePlates": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    40
+  ],
+  "density": 2595,
+  "wardsCount": 0,
+  "placeType": "Thành phố Trung Ương",
+  "districts": [
+    {
+      "name": "Huyện Ba Vì",
+      "code": "271",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Chương Mỹ",
+      "code": "277",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Gia Lâm",
+      "code": "18",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Hoài Đức",
+      "code": "274",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Mê Linh",
+      "code": "250",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Mỹ Đức",
+      "code": "282",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Phú Xuyên",
+      "code": "280",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Phúc Thọ",
+      "code": "272",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Quốc Oai",
+      "code": "275",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Sóc Sơn",
+      "code": "16",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Thanh Oai",
+      "code": "278",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Thanh Trì",
+      "code": "20",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Thường Tín",
+      "code": "279",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Thạch Thất",
+      "code": "276",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Đan Phượng",
+      "code": "273",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Đông Anh",
+      "code": "17",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Huyện Ứng Hòa",
+      "code": "281",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Quận Ba Đình",
+      "code": "1",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Quận Bắc Từ Liêm",
+      "code": "21",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Quận Cầu Giấy",
+      "code": "5",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Quận Hai Bà Trưng",
+      "code": "7",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Quận Hoàn Kiếm",
+      "code": "2",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Quận Hoàng Mai",
+      "code": "8",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Quận Hà Đông",
+      "code": "268",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Quận Long Biên",
+      "code": "4",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Quận Nam Từ Liêm",
+      "code": "19",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Quận Thanh Xuân",
+      "code": "9",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Quận Tây Hồ",
+      "code": "3",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Quận Đống Đa",
+      "code": "6",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    },
+    {
+      "name": "Thị xã Sơn Tây",
+      "code": "269",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceCode": "01"
+    }
+  ]
+}

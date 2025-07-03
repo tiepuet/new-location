@@ -1,0 +1,890 @@
+[
+  {
+    "name": "Xã Bình Thắng",
+    "code": "25234",
+    "districtName": "Huyện Bù Gia Mập",
+    "districtCode": "691",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Bù Gia Mập",
+    "code": "25222",
+    "districtName": "Huyện Bù Gia Mập",
+    "districtCode": "691",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Phú Nghĩa",
+    "code": "25267",
+    "districtName": "Huyện Bù Gia Mập",
+    "districtCode": "691",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Phú Văn",
+    "code": "25229",
+    "districtName": "Huyện Bù Gia Mập",
+    "districtCode": "691",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Phước Minh",
+    "code": "25232",
+    "districtName": "Huyện Bù Gia Mập",
+    "districtCode": "691",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Đa Kia",
+    "code": "25231",
+    "districtName": "Huyện Bù Gia Mập",
+    "districtCode": "691",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Đak Ơ",
+    "code": "25225",
+    "districtName": "Huyện Bù Gia Mập",
+    "districtCode": "691",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Đức Hạnh",
+    "code": "25228",
+    "districtName": "Huyện Bù Gia Mập",
+    "districtCode": "691",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Thị trấn Đức Phong",
+    "code": "25396",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Bom Bo",
+    "code": "25405",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Bình Minh",
+    "code": "25404",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Minh Hưng",
+    "code": "25408",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Nghĩa Bình",
+    "code": "25424",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Nghĩa Trung",
+    "code": "25423",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Phú Sơn",
+    "code": "25400",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Phước Sơn",
+    "code": "25429",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Thọ Sơn",
+    "code": "25402",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Thống Nhất",
+    "code": "25420",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Đak Nhau",
+    "code": "25399",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Đoàn Kết",
+    "code": "25411",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Đăng Hà",
+    "code": "25426",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Đường 10",
+    "code": "25398",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Đồng Nai",
+    "code": "25414",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Đức Liễu",
+    "code": "25417",
+    "districtName": "Huyện Bù Đăng",
+    "districtCode": "696",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Thị trấn Thanh Bình",
+    "code": "25308",
+    "districtName": "Huyện Bù Đốp",
+    "districtCode": "693",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Hưng Phước",
+    "code": "25309",
+    "districtName": "Huyện Bù Đốp",
+    "districtCode": "693",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Phước Thiện",
+    "code": "25310",
+    "districtName": "Huyện Bù Đốp",
+    "districtCode": "693",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Thanh Hòa",
+    "code": "25315",
+    "districtName": "Huyện Bù Đốp",
+    "districtCode": "693",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Thiện Hưng",
+    "code": "25312",
+    "districtName": "Huyện Bù Đốp",
+    "districtCode": "693",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "25318",
+    "districtName": "Huyện Bù Đốp",
+    "districtCode": "693",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tân Tiến",
+    "code": "25321",
+    "districtName": "Huyện Bù Đốp",
+    "districtCode": "693",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Thị trấn Tân Khai",
+    "code": "25357",
+    "districtName": "Huyện Hớn Quản",
+    "districtCode": "694",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã An Khương",
+    "code": "25330",
+    "districtName": "Huyện Hớn Quản",
+    "districtCode": "694",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã An Phú",
+    "code": "25339",
+    "districtName": "Huyện Hớn Quản",
+    "districtCode": "694",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Minh Tâm",
+    "code": "25349",
+    "districtName": "Huyện Hớn Quản",
+    "districtCode": "694",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Minh Đức",
+    "code": "25348",
+    "districtName": "Huyện Hớn Quản",
+    "districtCode": "694",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Phước An",
+    "code": "25351",
+    "districtName": "Huyện Hớn Quản",
+    "districtCode": "694",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Thanh An",
+    "code": "25327",
+    "districtName": "Huyện Hớn Quản",
+    "districtCode": "694",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Thanh Bình",
+    "code": "25354",
+    "districtName": "Huyện Hớn Quản",
+    "districtCode": "694",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tân Hiệp",
+    "code": "25361",
+    "districtName": "Huyện Hớn Quản",
+    "districtCode": "694",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tân Hưng",
+    "code": "25345",
+    "districtName": "Huyện Hớn Quản",
+    "districtCode": "694",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tân Lợi",
+    "code": "25342",
+    "districtName": "Huyện Hớn Quản",
+    "districtCode": "694",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tân Quan",
+    "code": "25438",
+    "districtName": "Huyện Hớn Quản",
+    "districtCode": "694",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Đồng Nơ",
+    "code": "25360",
+    "districtName": "Huyện Hớn Quản",
+    "districtCode": "694",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Thị trấn Lộc Ninh",
+    "code": "25270",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc An",
+    "code": "25276",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Hiệp",
+    "code": "25282",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Hòa",
+    "code": "25273",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Hưng",
+    "code": "25303",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Khánh",
+    "code": "25306",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Phú",
+    "code": "25292",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Quang",
+    "code": "25291",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Thiện",
+    "code": "25285",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Thuận",
+    "code": "25288",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Thành",
+    "code": "25294",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Thái",
+    "code": "25297",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Thạnh",
+    "code": "25280",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Thịnh",
+    "code": "25305",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Tấn",
+    "code": "25279",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Lộc Điền",
+    "code": "25300",
+    "districtName": "Huyện Lộc Ninh",
+    "districtCode": "692",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Bình Sơn",
+    "code": "25244",
+    "districtName": "Huyện Phú Riềng",
+    "districtCode": "698",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Bình Tân",
+    "code": "25243",
+    "districtName": "Huyện Phú Riềng",
+    "districtCode": "698",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Bù Nho",
+    "code": "25252",
+    "districtName": "Huyện Phú Riềng",
+    "districtCode": "698",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Long Bình",
+    "code": "25240",
+    "districtName": "Huyện Phú Riềng",
+    "districtCode": "698",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Long Hà",
+    "code": "25255",
+    "districtName": "Huyện Phú Riềng",
+    "districtCode": "698",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Long Hưng",
+    "code": "25246",
+    "districtName": "Huyện Phú Riềng",
+    "districtCode": "698",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Long Tân",
+    "code": "25258",
+    "districtName": "Huyện Phú Riềng",
+    "districtCode": "698",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Phú Riềng",
+    "code": "25264",
+    "districtName": "Huyện Phú Riềng",
+    "districtCode": "698",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Phú Trung",
+    "code": "25261",
+    "districtName": "Huyện Phú Riềng",
+    "districtCode": "698",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Phước Tân",
+    "code": "25250",
+    "districtName": "Huyện Phú Riềng",
+    "districtCode": "698",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Thị trấn Tân Phú",
+    "code": "25363",
+    "districtName": "Huyện Đồng Phú",
+    "districtCode": "695",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Thuận Lợi",
+    "code": "25366",
+    "districtName": "Huyện Đồng Phú",
+    "districtCode": "695",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Thuận Phú",
+    "code": "25387",
+    "districtName": "Huyện Đồng Phú",
+    "districtCode": "695",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tân Hòa",
+    "code": "25384",
+    "districtName": "Huyện Đồng Phú",
+    "districtCode": "695",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tân Hưng",
+    "code": "25375",
+    "districtName": "Huyện Đồng Phú",
+    "districtCode": "695",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "25381",
+    "districtName": "Huyện Đồng Phú",
+    "districtCode": "695",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tân Lợi",
+    "code": "25378",
+    "districtName": "Huyện Đồng Phú",
+    "districtCode": "695",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tân Phước",
+    "code": "25372",
+    "districtName": "Huyện Đồng Phú",
+    "districtCode": "695",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tân Tiến",
+    "code": "25393",
+    "districtName": "Huyện Đồng Phú",
+    "districtCode": "695",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Đồng Tiến",
+    "code": "25390",
+    "districtName": "Huyện Đồng Phú",
+    "districtCode": "695",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Đồng Tâm",
+    "code": "25369",
+    "districtName": "Huyện Đồng Phú",
+    "districtCode": "695",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Tiến Thành",
+    "code": "25210",
+    "districtName": "Thành phố Đồng Xoài",
+    "districtCode": "689",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Tân Bình",
+    "code": "25201",
+    "districtName": "Thành phố Đồng Xoài",
+    "districtCode": "689",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Tân Phú",
+    "code": "25195",
+    "districtName": "Thành phố Đồng Xoài",
+    "districtCode": "689",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Tân Thiện",
+    "code": "25205",
+    "districtName": "Thành phố Đồng Xoài",
+    "districtCode": "689",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Tân Xuân",
+    "code": "25204",
+    "districtName": "Thành phố Đồng Xoài",
+    "districtCode": "689",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Tân Đồng",
+    "code": "25198",
+    "districtName": "Thành phố Đồng Xoài",
+    "districtCode": "689",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tiến Hưng",
+    "code": "25213",
+    "districtName": "Thành phố Đồng Xoài",
+    "districtCode": "689",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "25207",
+    "districtName": "Thành phố Đồng Xoài",
+    "districtCode": "689",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường An Lộc",
+    "code": "25324",
+    "districtName": "Thị xã Bình Long",
+    "districtCode": "690",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Hưng Chiến",
+    "code": "25320",
+    "districtName": "Thị xã Bình Long",
+    "districtCode": "690",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Phú Thịnh",
+    "code": "25325",
+    "districtName": "Thị xã Bình Long",
+    "districtCode": "690",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Phú Đức",
+    "code": "25326",
+    "districtName": "Thị xã Bình Long",
+    "districtCode": "690",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Thanh Lương",
+    "code": "25333",
+    "districtName": "Thị xã Bình Long",
+    "districtCode": "690",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Thanh Phú",
+    "code": "25336",
+    "districtName": "Thị xã Bình Long",
+    "districtCode": "690",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Hưng Long",
+    "code": "25432",
+    "districtName": "Thị xã Chơn Thành",
+    "districtCode": "697",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Minh Hưng",
+    "code": "25441",
+    "districtName": "Thị xã Chơn Thành",
+    "districtCode": "697",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Minh Long",
+    "code": "25444",
+    "districtName": "Thị xã Chơn Thành",
+    "districtCode": "697",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Minh Thành",
+    "code": "25447",
+    "districtName": "Thị xã Chơn Thành",
+    "districtCode": "697",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Thành Tâm",
+    "code": "25433",
+    "districtName": "Thị xã Chơn Thành",
+    "districtCode": "697",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Minh Lập",
+    "code": "25435",
+    "districtName": "Thị xã Chơn Thành",
+    "districtCode": "697",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Minh Thắng",
+    "code": "25453",
+    "districtName": "Thị xã Chơn Thành",
+    "districtCode": "697",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Nha Bích",
+    "code": "25450",
+    "districtName": "Thị xã Chơn Thành",
+    "districtCode": "697",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Quang Minh",
+    "code": "25439",
+    "districtName": "Thị xã Chơn Thành",
+    "districtCode": "697",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Long Phước",
+    "code": "25220",
+    "districtName": "Thị xã Phước Long",
+    "districtCode": "688",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Long Thủy",
+    "code": "25217",
+    "districtName": "Thị xã Phước Long",
+    "districtCode": "688",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Phước Bình",
+    "code": "25219",
+    "districtName": "Thị xã Phước Long",
+    "districtCode": "688",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Sơn Giang",
+    "code": "25237",
+    "districtName": "Thị xã Phước Long",
+    "districtCode": "688",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Phường Thác Mơ",
+    "code": "25216",
+    "districtName": "Thị xã Phước Long",
+    "districtCode": "688",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Long Giang",
+    "code": "25245",
+    "districtName": "Thị xã Phước Long",
+    "districtCode": "688",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  },
+  {
+    "name": "Xã Phước Tín",
+    "code": "25249",
+    "districtName": "Thị xã Phước Long",
+    "districtCode": "688",
+    "provinceName": "Tỉnh Bình Phước",
+    "provinceCode": "70"
+  }
+]

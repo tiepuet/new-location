@@ -1,0 +1,92 @@
+{
+  "name": "Hà Tĩnh",
+  "code": "42",
+  "from": "Hà Tĩnh",
+  "area": 5994.4,
+  "population": 1622901,
+  "adminCenter": "TP Hà Tĩnh",
+  "hasSeaport": true,
+  "numSeaports": 1,
+  "numBerths": 8,
+  "grdp": 96.08,
+  "licensePlates": [
+    38
+  ],
+  "density": 271,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Can Lộc",
+      "code": "443",
+      "provinceName": "Tỉnh Hà Tĩnh",
+      "provinceCode": "42"
+    },
+    {
+      "name": "Huyện Cẩm Xuyên",
+      "code": "446",
+      "provinceName": "Tỉnh Hà Tĩnh",
+      "provinceCode": "42"
+    },
+    {
+      "name": "Huyện Hương Khê",
+      "code": "444",
+      "provinceName": "Tỉnh Hà Tĩnh",
+      "provinceCode": "42"
+    },
+    {
+      "name": "Huyện Hương Sơn",
+      "code": "439",
+      "provinceName": "Tỉnh Hà Tĩnh",
+      "provinceCode": "42"
+    },
+    {
+      "name": "Huyện Kỳ Anh",
+      "code": "447",
+      "provinceName": "Tỉnh Hà Tĩnh",
+      "provinceCode": "42"
+    },
+    {
+      "name": "Huyện Nghi Xuân",
+      "code": "442",
+      "provinceName": "Tỉnh Hà Tĩnh",
+      "provinceCode": "42"
+    },
+    {
+      "name": "Huyện Thạch Hà",
+      "code": "445",
+      "provinceName": "Tỉnh Hà Tĩnh",
+      "provinceCode": "42"
+    },
+    {
+      "name": "Huyện Vũ Quang",
+      "code": "441",
+      "provinceName": "Tỉnh Hà Tĩnh",
+      "provinceCode": "42"
+    },
+    {
+      "name": "Huyện Đức Thọ",
+      "code": "440",
+      "provinceName": "Tỉnh Hà Tĩnh",
+      "provinceCode": "42"
+    },
+    {
+      "name": "Thành phố Hà Tĩnh",
+      "code": "436",
+      "provinceName": "Tỉnh Hà Tĩnh",
+      "provinceCode": "42"
+    },
+    {
+      "name": "Thị xã Hồng Lĩnh",
+      "code": "437",
+      "provinceName": "Tỉnh Hà Tĩnh",
+      "provinceCode": "42"
+    },
+    {
+      "name": "Thị xã Kỳ Anh",
+      "code": "449",
+      "provinceName": "Tỉnh Hà Tĩnh",
+      "provinceCode": "42"
+    }
+  ]
+}

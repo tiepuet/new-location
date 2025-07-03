@@ -1,0 +1,54 @@
+{
+  "name": "Tỉnh Thái Bình",
+  "code": "34",
+  "districts": [
+    {
+      "name": "Huyện Hưng Hà",
+      "code": "339",
+      "provinceName": "Tỉnh Thái Bình",
+      "provinceCode": "34"
+    },
+    {
+      "name": "Huyện Kiến Xương",
+      "code": "343",
+      "provinceName": "Tỉnh Thái Bình",
+      "provinceCode": "34"
+    },
+    {
+      "name": "Huyện Quỳnh Phụ",
+      "code": "338",
+      "provinceName": "Tỉnh Thái Bình",
+      "provinceCode": "34"
+    },
+    {
+      "name": "Huyện Thái Thụy",
+      "code": "341",
+      "provinceName": "Tỉnh Thái Bình",
+      "provinceCode": "34"
+    },
+    {
+      "name": "Huyện Tiền Hải",
+      "code": "342",
+      "provinceName": "Tỉnh Thái Bình",
+      "provinceCode": "34"
+    },
+    {
+      "name": "Huyện Vũ Thư",
+      "code": "344",
+      "provinceName": "Tỉnh Thái Bình",
+      "provinceCode": "34"
+    },
+    {
+      "name": "Huyện Đông Hưng",
+      "code": "340",
+      "provinceName": "Tỉnh Thái Bình",
+      "provinceCode": "34"
+    },
+    {
+      "name": "Thành phố Thái Bình",
+      "code": "336",
+      "provinceName": "Tỉnh Thái Bình",
+      "provinceCode": "34"
+    }
+  ]
+}

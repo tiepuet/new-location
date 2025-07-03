@@ -1,0 +1,60 @@
+{
+  "name": "Tỉnh Phú Yên",
+  "code": "54",
+  "districts": [
+    {
+      "name": "Huyện Phú Hoà",
+      "code": "563",
+      "provinceName": "Tỉnh Phú Yên",
+      "provinceCode": "54"
+    },
+    {
+      "name": "Huyện Sông Hinh",
+      "code": "561",
+      "provinceName": "Tỉnh Phú Yên",
+      "provinceCode": "54"
+    },
+    {
+      "name": "Huyện Sơn Hòa",
+      "code": "560",
+      "provinceName": "Tỉnh Phú Yên",
+      "provinceCode": "54"
+    },
+    {
+      "name": "Huyện Tuy An",
+      "code": "559",
+      "provinceName": "Tỉnh Phú Yên",
+      "provinceCode": "54"
+    },
+    {
+      "name": "Huyện Tây Hoà",
+      "code": "562",
+      "provinceName": "Tỉnh Phú Yên",
+      "provinceCode": "54"
+    },
+    {
+      "name": "Huyện Đồng Xuân",
+      "code": "558",
+      "provinceName": "Tỉnh Phú Yên",
+      "provinceCode": "54"
+    },
+    {
+      "name": "Thành phố Tuy Hoà",
+      "code": "555",
+      "provinceName": "Tỉnh Phú Yên",
+      "provinceCode": "54"
+    },
+    {
+      "name": "Thị xã Sông Cầu",
+      "code": "557",
+      "provinceName": "Tỉnh Phú Yên",
+      "provinceCode": "54"
+    },
+    {
+      "name": "Thị xã Đông Hòa",
+      "code": "564",
+      "provinceName": "Tỉnh Phú Yên",
+      "provinceCode": "54"
+    }
+  ]
+}

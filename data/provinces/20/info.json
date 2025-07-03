@@ -1,0 +1,86 @@
+{
+  "name": "Lạng Sơn",
+  "code": "20",
+  "from": "Lạng Sơn",
+  "area": 8310.2,
+  "population": 813978,
+  "adminCenter": "Lạng Sơn",
+  "hasSeaport": false,
+  "numSeaports": null,
+  "numBerths": null,
+  "grdp": 67.247,
+  "licensePlates": [
+    12
+  ],
+  "density": 98,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Bình Gia",
+      "code": "181",
+      "provinceName": "Tỉnh Lạng Sơn",
+      "provinceCode": "20"
+    },
+    {
+      "name": "Huyện Bắc Sơn",
+      "code": "185",
+      "provinceName": "Tỉnh Lạng Sơn",
+      "provinceCode": "20"
+    },
+    {
+      "name": "Huyện Cao Lộc",
+      "code": "183",
+      "provinceName": "Tỉnh Lạng Sơn",
+      "provinceCode": "20"
+    },
+    {
+      "name": "Huyện Chi Lăng",
+      "code": "187",
+      "provinceName": "Tỉnh Lạng Sơn",
+      "provinceCode": "20"
+    },
+    {
+      "name": "Huyện Hữu Lũng",
+      "code": "186",
+      "provinceName": "Tỉnh Lạng Sơn",
+      "provinceCode": "20"
+    },
+    {
+      "name": "Huyện Lộc Bình",
+      "code": "188",
+      "provinceName": "Tỉnh Lạng Sơn",
+      "provinceCode": "20"
+    },
+    {
+      "name": "Huyện Tràng Định",
+      "code": "180",
+      "provinceName": "Tỉnh Lạng Sơn",
+      "provinceCode": "20"
+    },
+    {
+      "name": "Huyện Văn Lãng",
+      "code": "182",
+      "provinceName": "Tỉnh Lạng Sơn",
+      "provinceCode": "20"
+    },
+    {
+      "name": "Huyện Văn Quan",
+      "code": "184",
+      "provinceName": "Tỉnh Lạng Sơn",
+      "provinceCode": "20"
+    },
+    {
+      "name": "Huyện Đình Lập",
+      "code": "189",
+      "provinceName": "Tỉnh Lạng Sơn",
+      "provinceCode": "20"
+    },
+    {
+      "name": "Thành phố Lạng Sơn",
+      "code": "178",
+      "provinceName": "Tỉnh Lạng Sơn",
+      "provinceCode": "20"
+    }
+  ]
+}

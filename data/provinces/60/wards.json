@@ -1,0 +1,970 @@
+[
+  {
+    "name": "Thị trấn Chợ Lầu",
+    "code": "23005",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Thị trấn Lương Sơn",
+    "code": "23032",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Bình An",
+    "code": "23014",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Bình Tân",
+    "code": "23047",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hòa Thắng",
+    "code": "23053",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hải Ninh",
+    "code": "23020",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hồng Phong",
+    "code": "23056",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hồng Thái",
+    "code": "23041",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Phan Hiệp",
+    "code": "23044",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Phan Hòa",
+    "code": "23035",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Phan Lâm",
+    "code": "23011",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Phan Rí Thành",
+    "code": "23050",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Phan Sơn",
+    "code": "23008",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Phan Thanh",
+    "code": "23038",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Phan Tiến",
+    "code": "23026",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Phan Điền",
+    "code": "23017",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Sông Bình",
+    "code": "23029",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Sông Lũy",
+    "code": "23023",
+    "districtName": "Huyện Bắc Bình",
+    "districtCode": "596",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Thị trấn Ma Lâm",
+    "code": "23059",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Thị trấn Phú Long",
+    "code": "23062",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hàm Chính",
+    "code": "23098",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hàm Hiệp",
+    "code": "23101",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hàm Liêm",
+    "code": "23095",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hàm Phú",
+    "code": "23077",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hàm Thắng",
+    "code": "23104",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hàm Trí",
+    "code": "23089",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hàm Đức",
+    "code": "23092",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hồng Liêm",
+    "code": "23080",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hồng Sơn",
+    "code": "23086",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã La Dạ",
+    "code": "23065",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Thuận Hòa",
+    "code": "23071",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Thuận Minh",
+    "code": "23083",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Đa Mi",
+    "code": "23107",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Đông Giang",
+    "code": "23074",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Đông Tiến",
+    "code": "23068",
+    "districtName": "Huyện Hàm Thuận Bắc",
+    "districtCode": "597",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Thị trấn Thuận Nam",
+    "code": "23110",
+    "districtName": "Huyện Hàm Thuận Nam",
+    "districtCode": "598",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hàm Cường",
+    "code": "23128",
+    "districtName": "Huyện Hàm Thuận Nam",
+    "districtCode": "598",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hàm Cần",
+    "code": "23116",
+    "districtName": "Huyện Hàm Thuận Nam",
+    "districtCode": "598",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hàm Kiệm",
+    "code": "23125",
+    "districtName": "Huyện Hàm Thuận Nam",
+    "districtCode": "598",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hàm Minh",
+    "code": "23137",
+    "districtName": "Huyện Hàm Thuận Nam",
+    "districtCode": "598",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hàm Mỹ",
+    "code": "23131",
+    "districtName": "Huyện Hàm Thuận Nam",
+    "districtCode": "598",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hàm Thạnh",
+    "code": "23122",
+    "districtName": "Huyện Hàm Thuận Nam",
+    "districtCode": "598",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Mương Mán",
+    "code": "23119",
+    "districtName": "Huyện Hàm Thuận Nam",
+    "districtCode": "598",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Mỹ Thạnh",
+    "code": "23113",
+    "districtName": "Huyện Hàm Thuận Nam",
+    "districtCode": "598",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Thuận Quí",
+    "code": "23140",
+    "districtName": "Huyện Hàm Thuận Nam",
+    "districtCode": "598",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tân Lập",
+    "code": "23134",
+    "districtName": "Huyện Hàm Thuận Nam",
+    "districtCode": "598",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tân Thuận",
+    "code": "23143",
+    "districtName": "Huyện Hàm Thuận Nam",
+    "districtCode": "598",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "23146",
+    "districtName": "Huyện Hàm Thuận Nam",
+    "districtCode": "598",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Thị trấn Tân Minh",
+    "code": "23230",
+    "districtName": "Huyện Hàm Tân",
+    "districtCode": "601",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Thị trấn Tân Nghĩa",
+    "code": "23236",
+    "districtName": "Huyện Hàm Tân",
+    "districtCode": "601",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Sông Phan",
+    "code": "23239",
+    "districtName": "Huyện Hàm Tân",
+    "districtCode": "601",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Sơn Mỹ",
+    "code": "23266",
+    "districtName": "Huyện Hàm Tân",
+    "districtCode": "601",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Thắng Hải",
+    "code": "23255",
+    "districtName": "Huyện Hàm Tân",
+    "districtCode": "601",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tân Hà",
+    "code": "23257",
+    "districtName": "Huyện Hàm Tân",
+    "districtCode": "601",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tân Phúc",
+    "code": "23242",
+    "districtName": "Huyện Hàm Tân",
+    "districtCode": "601",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tân Thắng",
+    "code": "23254",
+    "districtName": "Huyện Hàm Tân",
+    "districtCode": "601",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tân Xuân",
+    "code": "23260",
+    "districtName": "Huyện Hàm Tân",
+    "districtCode": "601",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tân Đức",
+    "code": "23251",
+    "districtName": "Huyện Hàm Tân",
+    "districtCode": "601",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Long Hải",
+    "code": "23275",
+    "districtName": "Huyện Phú Quí",
+    "districtCode": "602",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Ngũ Phụng",
+    "code": "23272",
+    "districtName": "Huyện Phú Quí",
+    "districtCode": "602",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tam Thanh",
+    "code": "23278",
+    "districtName": "Huyện Phú Quí",
+    "districtCode": "602",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Thị trấn Liên Hương",
+    "code": "22969",
+    "districtName": "Huyện Tuy Phong",
+    "districtCode": "595",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Thị trấn Phan Rí Cửa",
+    "code": "22972",
+    "districtName": "Huyện Tuy Phong",
+    "districtCode": "595",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Bình Thạnh",
+    "code": "22999",
+    "districtName": "Huyện Tuy Phong",
+    "districtCode": "595",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Chí Công",
+    "code": "22996",
+    "districtName": "Huyện Tuy Phong",
+    "districtCode": "595",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Hòa Minh",
+    "code": "22993",
+    "districtName": "Huyện Tuy Phong",
+    "districtCode": "595",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Phan Dũng",
+    "code": "22975",
+    "districtName": "Huyện Tuy Phong",
+    "districtCode": "595",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Phong Phú",
+    "code": "22978",
+    "districtName": "Huyện Tuy Phong",
+    "districtCode": "595",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Phú Lạc",
+    "code": "22987",
+    "districtName": "Huyện Tuy Phong",
+    "districtCode": "595",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Phước Thể",
+    "code": "22990",
+    "districtName": "Huyện Tuy Phong",
+    "districtCode": "595",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Vĩnh Hảo",
+    "code": "22981",
+    "districtName": "Huyện Tuy Phong",
+    "districtCode": "595",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Vĩnh Tân",
+    "code": "22984",
+    "districtName": "Huyện Tuy Phong",
+    "districtCode": "595",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Thị trấn Lạc Tánh",
+    "code": "23149",
+    "districtName": "Huyện Tánh Linh",
+    "districtCode": "599",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Bắc Ruộng",
+    "code": "23152",
+    "districtName": "Huyện Tánh Linh",
+    "districtCode": "599",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Gia An",
+    "code": "23176",
+    "districtName": "Huyện Tánh Linh",
+    "districtCode": "599",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Gia Huynh",
+    "code": "23182",
+    "districtName": "Huyện Tánh Linh",
+    "districtCode": "599",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Huy Khiêm",
+    "code": "23164",
+    "districtName": "Huyện Tánh Linh",
+    "districtCode": "599",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã La Ngâu",
+    "code": "23161",
+    "districtName": "Huyện Tánh Linh",
+    "districtCode": "599",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Măng Tố",
+    "code": "23167",
+    "districtName": "Huyện Tánh Linh",
+    "districtCode": "599",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Nghị Đức",
+    "code": "23158",
+    "districtName": "Huyện Tánh Linh",
+    "districtCode": "599",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Suối Kiết",
+    "code": "23188",
+    "districtName": "Huyện Tánh Linh",
+    "districtCode": "599",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Đồng Kho",
+    "code": "23173",
+    "districtName": "Huyện Tánh Linh",
+    "districtCode": "599",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Đức Bình",
+    "code": "23179",
+    "districtName": "Huyện Tánh Linh",
+    "districtCode": "599",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Đức Phú",
+    "code": "23170",
+    "districtName": "Huyện Tánh Linh",
+    "districtCode": "599",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Đức Thuận",
+    "code": "23185",
+    "districtName": "Huyện Tánh Linh",
+    "districtCode": "599",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Thị trấn Võ Xu",
+    "code": "23191",
+    "districtName": "Huyện Đức Linh",
+    "districtCode": "600",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Thị trấn Đức Tài",
+    "code": "23194",
+    "districtName": "Huyện Đức Linh",
+    "districtCode": "600",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Mê Pu",
+    "code": "23203",
+    "districtName": "Huyện Đức Linh",
+    "districtCode": "600",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Nam Chính",
+    "code": "23206",
+    "districtName": "Huyện Đức Linh",
+    "districtCode": "600",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Sùng Nhơn",
+    "code": "23200",
+    "districtName": "Huyện Đức Linh",
+    "districtCode": "600",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Trà Tân",
+    "code": "23227",
+    "districtName": "Huyện Đức Linh",
+    "districtCode": "600",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tân Hà",
+    "code": "23221",
+    "districtName": "Huyện Đức Linh",
+    "districtCode": "600",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Vũ Hoà",
+    "code": "23218",
+    "districtName": "Huyện Đức Linh",
+    "districtCode": "600",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Đa Kai",
+    "code": "23197",
+    "districtName": "Huyện Đức Linh",
+    "districtCode": "600",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Đông Hà",
+    "code": "23224",
+    "districtName": "Huyện Đức Linh",
+    "districtCode": "600",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Đức Hạnh",
+    "code": "23212",
+    "districtName": "Huyện Đức Linh",
+    "districtCode": "600",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Đức Tín",
+    "code": "23215",
+    "districtName": "Huyện Đức Linh",
+    "districtCode": "600",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Bình Hưng",
+    "code": "22951",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Hàm Tiến",
+    "code": "22918",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Lạc Đạo",
+    "code": "22945",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Mũi Né",
+    "code": "22915",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Phú Hài",
+    "code": "22921",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Phú Thủy",
+    "code": "22924",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Phú Trinh",
+    "code": "22930",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Phú Tài",
+    "code": "22927",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Thanh Hải",
+    "code": "22936",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Xuân An",
+    "code": "22933",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Đức Long",
+    "code": "22954",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Phong Nẫm",
+    "code": "22960",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Thiện Nghiệp",
+    "code": "22957",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tiến Lợi",
+    "code": "22963",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tiến Thành",
+    "code": "22966",
+    "districtName": "Thành phố Phan Thiết",
+    "districtCode": "593",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Bình Tân",
+    "code": "23237",
+    "districtName": "Thị xã La Gi",
+    "districtCode": "594",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Phước Hội",
+    "code": "23231",
+    "districtName": "Thị xã La Gi",
+    "districtCode": "594",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Phước Lộc",
+    "code": "23232",
+    "districtName": "Thị xã La Gi",
+    "districtCode": "594",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Tân An",
+    "code": "23235",
+    "districtName": "Thị xã La Gi",
+    "districtCode": "594",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Phường Tân Thiện",
+    "code": "23234",
+    "districtName": "Thị xã La Gi",
+    "districtCode": "594",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tân Bình",
+    "code": "23248",
+    "districtName": "Thị xã La Gi",
+    "districtCode": "594",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tân Hải",
+    "code": "23245",
+    "districtName": "Thị xã La Gi",
+    "districtCode": "594",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tân Phước",
+    "code": "23268",
+    "districtName": "Thị xã La Gi",
+    "districtCode": "594",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  },
+  {
+    "name": "Xã Tân Tiến",
+    "code": "23246",
+    "districtName": "Thị xã La Gi",
+    "districtCode": "594",
+    "provinceName": "Tỉnh Bình Thuận",
+    "provinceCode": "60"
+  }
+]

@@ -1,0 +1,1378 @@
+[
+  {
+    "name": "Thị trấn Hương Sơn",
+    "code": "05908",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Bàn Đạt",
+    "code": "05911",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Bảo Lý",
+    "code": "05929",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Dương Thành",
+    "code": "05965",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Hà Châu",
+    "code": "05968",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Kha Sơn",
+    "code": "05959",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Lương Phú",
+    "code": "05953",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Nga My",
+    "code": "05956",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Nhã Lộng",
+    "code": "05938",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Thanh Ninh",
+    "code": "05962",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Thượng Đình",
+    "code": "05932",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tân Hòa",
+    "code": "05935",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tân Khánh",
+    "code": "05917",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tân Kim",
+    "code": "05920",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tân Thành",
+    "code": "05923",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tân Đức",
+    "code": "05947",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Xuân Phương",
+    "code": "05944",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Úc Kỳ",
+    "code": "05950",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Điềm Thụy",
+    "code": "05941",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Đào Xá",
+    "code": "05926",
+    "districtName": "Huyện Phú Bình",
+    "districtCode": "173",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Thị trấn Giang Tiên",
+    "code": "05644",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Thị trấn Đu",
+    "code": "05611",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Cổ Lũng",
+    "code": "05650",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Hợp Thành",
+    "code": "05638",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phú Đô",
+    "code": "05635",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phủ Lý",
+    "code": "05632",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tức Tranh",
+    "code": "05641",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Vô Tranh",
+    "code": "05647",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Yên Lạc",
+    "code": "05623",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Yên Ninh",
+    "code": "05614",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Yên Trạch",
+    "code": "05617",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Yên Đổ",
+    "code": "05620",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Ôn Lương",
+    "code": "05626",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Động Đạt",
+    "code": "05629",
+    "districtName": "Huyện Phú Lương",
+    "districtCode": "168",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Thị trấn Đình Cả",
+    "code": "05716",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Bình Long",
+    "code": "05758",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Cúc Đường",
+    "code": "05737",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Dân Tiến",
+    "code": "05755",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã La Hiên",
+    "code": "05740",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Liên Minh",
+    "code": "05752",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Lâu Thượng",
+    "code": "05743",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Nghinh Tường",
+    "code": "05722",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phú Thượng",
+    "code": "05734",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phương Giao",
+    "code": "05749",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Sảng Mộc",
+    "code": "05719",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Thượng Nung",
+    "code": "05731",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Thần Xa",
+    "code": "05725",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tràng Xá",
+    "code": "05746",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Vũ Chấn",
+    "code": "05728",
+    "districtName": "Huyện Võ Nhai",
+    "districtCode": "170",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Thị trấn Hùng Sơn",
+    "code": "05761",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Thị trấn Quân Chu",
+    "code": "05851",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã An Khánh",
+    "code": "05824",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Bình Thuận",
+    "code": "05830",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Bản Ngoại",
+    "code": "05800",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Cát Nê",
+    "code": "05848",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Cù Vân",
+    "code": "05809",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Hoàng Nông",
+    "code": "05818",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Hà Thượng",
+    "code": "05812",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Khôi Kỳ",
+    "code": "05821",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã La Bằng",
+    "code": "05815",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Lục Ba",
+    "code": "05833",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Minh Tiến",
+    "code": "05770",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Mỹ Yên",
+    "code": "05836",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phú Cường",
+    "code": "05779",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phú Lạc",
+    "code": "05785",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phú Thịnh",
+    "code": "05791",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phú Xuyên",
+    "code": "05797",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phúc Lương",
+    "code": "05767",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phục Linh",
+    "code": "05794",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tiên Hội",
+    "code": "05803",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tân Linh",
+    "code": "05788",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tân Thái",
+    "code": "05827",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Văn Yên",
+    "code": "05842",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Vạn Phú",
+    "code": "05845",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Yên Lãng",
+    "code": "05773",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Đức Lương",
+    "code": "05776",
+    "districtName": "Huyện Đại Từ",
+    "districtCode": "171",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Thị trấn Chợ Chu",
+    "code": "05569",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Bình Thành",
+    "code": "05605",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Bình Yên",
+    "code": "05587",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Bảo Linh",
+    "code": "05554",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Bộc Nhiêu",
+    "code": "05596",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Kim Phượng",
+    "code": "05551",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Lam Vỹ",
+    "code": "05542",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Linh Thông",
+    "code": "05539",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phú Tiến",
+    "code": "05593",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phú Đình",
+    "code": "05602",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phúc Chu",
+    "code": "05560",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phượng Tiến",
+    "code": "05566",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Quy Kỳ",
+    "code": "05545",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Sơn Phú",
+    "code": "05599",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Thanh Định",
+    "code": "05578",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Trung Hội",
+    "code": "05581",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Trung Lương",
+    "code": "05584",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tân Dương",
+    "code": "05563",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tân Thịnh",
+    "code": "05548",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Điềm Mặc",
+    "code": "05590",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Định Biên",
+    "code": "05575",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Đồng Thịnh",
+    "code": "05572",
+    "districtName": "Huyện Định Hóa",
+    "districtCode": "167",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Thị trấn Hóa Thượng",
+    "code": "05692",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Thị trấn Sông Cầu",
+    "code": "05656",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Thị trấn Trại Cau",
+    "code": "05662",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Cây Thị",
+    "code": "05689",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Hòa Bình",
+    "code": "05671",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Hóa Trung",
+    "code": "05683",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Hợp Tiến",
+    "code": "05698",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Khe Mo",
+    "code": "05686",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Minh Lập",
+    "code": "05677",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Nam Hòa",
+    "code": "05707",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Quang Sơn",
+    "code": "05674",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tân Long",
+    "code": "05668",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Văn Hán",
+    "code": "05680",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Văn Lăng",
+    "code": "05665",
+    "districtName": "Huyện Đồng Hỷ",
+    "districtCode": "169",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Ba Hàng",
+    "code": "05860",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Bãi Bông",
+    "code": "05854",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Bắc Sơn",
+    "code": "05857",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Hồng Tiến",
+    "code": "05869",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Nam Tiến",
+    "code": "05890",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Thuận Thành",
+    "code": "05905",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Tiên Phong",
+    "code": "05884",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Trung Thành",
+    "code": "05899",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Tân Hương",
+    "code": "05893",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Tân Phú",
+    "code": "05902",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Đông Cao",
+    "code": "05896",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Đắc Sơn",
+    "code": "05875",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Đồng Tiến",
+    "code": "05878",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Minh Đức",
+    "code": "05872",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phúc Thuận",
+    "code": "05866",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phúc Tân",
+    "code": "05863",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Thành Công",
+    "code": "05881",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Vạn Phái",
+    "code": "05887",
+    "districtName": "Thành phố Phổ Yên",
+    "districtCode": "172",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Bách Quang",
+    "code": "05528",
+    "districtName": "Thành phố Sông Công",
+    "districtCode": "165",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Châu Sơn",
+    "code": "05509",
+    "districtName": "Thành phố Sông Công",
+    "districtCode": "165",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Cải Đan",
+    "code": "05515",
+    "districtName": "Thành phố Sông Công",
+    "districtCode": "165",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Lương Sơn",
+    "code": "05506",
+    "districtName": "Thành phố Sông Công",
+    "districtCode": "165",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Mỏ Chè",
+    "code": "05512",
+    "districtName": "Thành phố Sông Công",
+    "districtCode": "165",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Phố Cò",
+    "code": "05521",
+    "districtName": "Thành phố Sông Công",
+    "districtCode": "165",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Thắng Lợi",
+    "code": "05518",
+    "districtName": "Thành phố Sông Công",
+    "districtCode": "165",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Bá Xuyên",
+    "code": "05533",
+    "districtName": "Thành phố Sông Công",
+    "districtCode": "165",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Bình Sơn",
+    "code": "05530",
+    "districtName": "Thành phố Sông Công",
+    "districtCode": "165",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tân Quang",
+    "code": "05527",
+    "districtName": "Thành phố Sông Công",
+    "districtCode": "165",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Cam Giá",
+    "code": "05467",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Chùa Hang",
+    "code": "05659",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Gia Sàng",
+    "code": "05461",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Hoàng Văn Thụ",
+    "code": "05440",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Hương Sơn",
+    "code": "05473",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Phan Đình Phùng",
+    "code": "05449",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Phú Xá",
+    "code": "05470",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Quang Trung",
+    "code": "05446",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Quang Vinh",
+    "code": "05434",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Quán Triều",
+    "code": "05431",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Thịnh Đán",
+    "code": "05455",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Trung Thành",
+    "code": "05476",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Trưng Vương",
+    "code": "05443",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Tân Long",
+    "code": "05482",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Tân Lập",
+    "code": "05464",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Tân Thành",
+    "code": "05479",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Tân Thịnh",
+    "code": "05452",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Tích Lương",
+    "code": "05500",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Túc Duyên",
+    "code": "05437",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Đồng Bẩm",
+    "code": "05710",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Phường Đồng Quang",
+    "code": "05458",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Cao Ngạn",
+    "code": "05695",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Huống Thượng",
+    "code": "05713",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Linh Sơn",
+    "code": "05701",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phúc Hà",
+    "code": "05485",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phúc Trìu",
+    "code": "05494",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Phúc Xuân",
+    "code": "05488",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Quyết Thắng",
+    "code": "05491",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Sơn Cẩm",
+    "code": "05653",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Thịnh Đức",
+    "code": "05497",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Tân Cương",
+    "code": "05503",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  },
+  {
+    "name": "Xã Đồng Liên",
+    "code": "05914",
+    "districtName": "Thành phố Thái Nguyên",
+    "districtCode": "164",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "provinceCode": "19"
+  }
+]

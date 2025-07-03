@@ -1,0 +1,69 @@
+{
+  "name": "Quảng Trị",
+  "code": "44",
+  "from": "Quảng Bình, Quảng Trị",
+  "area": 12700,
+  "population": 1870845,
+  "adminCenter": "TP Đồng Hới",
+  "hasSeaport": true,
+  "numSeaports": 2,
+  "numBerths": 6,
+  "grdp": 99.763,
+  "licensePlates": [
+    73,
+    74
+  ],
+  "density": 147,
+  "wardsCount": 0,
+  "placeType": "Tỉnh",
+  "districts": [
+    {
+      "name": "Huyện Bố Trạch",
+      "code": "455",
+      "provinceName": "Tỉnh Quảng Bình",
+      "provinceCode": "44"
+    },
+    {
+      "name": "Huyện Lệ Thủy",
+      "code": "457",
+      "provinceName": "Tỉnh Quảng Bình",
+      "provinceCode": "44"
+    },
+    {
+      "name": "Huyện Minh Hóa",
+      "code": "452",
+      "provinceName": "Tỉnh Quảng Bình",
+      "provinceCode": "44"
+    },
+    {
+      "name": "Huyện Quảng Ninh",
+      "code": "456",
+      "provinceName": "Tỉnh Quảng Bình",
+      "provinceCode": "44"
+    },
+    {
+      "name": "Huyện Quảng Trạch",
+      "code": "454",
+      "provinceName": "Tỉnh Quảng Bình",
+      "provinceCode": "44"
+    },
+    {
+      "name": "Huyện Tuyên Hóa",
+      "code": "453",
+      "provinceName": "Tỉnh Quảng Bình",
+      "provinceCode": "44"
+    },
+    {
+      "name": "Thành Phố Đồng Hới",
+      "code": "450",
+      "provinceName": "Tỉnh Quảng Bình",
+      "provinceCode": "44"
+    },
+    {
+      "name": "Thị xã Ba Đồn",
+      "code": "458",
+      "provinceName": "Tỉnh Quảng Bình",
+      "provinceCode": "44"
+    }
+  ]
+}

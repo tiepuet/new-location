@@ -1,0 +1,54 @@
+{
+  "name": "Tỉnh Đắk Nông",
+  "code": "67",
+  "districts": [
+    {
+      "name": "Huyện Cư Jút",
+      "code": "662",
+      "provinceName": "Tỉnh Đắk Nông",
+      "provinceCode": "67"
+    },
+    {
+      "name": "Huyện Krông Nô",
+      "code": "664",
+      "provinceName": "Tỉnh Đắk Nông",
+      "provinceCode": "67"
+    },
+    {
+      "name": "Huyện Tuy Đức",
+      "code": "667",
+      "provinceName": "Tỉnh Đắk Nông",
+      "provinceCode": "67"
+    },
+    {
+      "name": "Huyện Đăk Glong",
+      "code": "661",
+      "provinceName": "Tỉnh Đắk Nông",
+      "provinceCode": "67"
+    },
+    {
+      "name": "Huyện Đắk Mil",
+      "code": "663",
+      "provinceName": "Tỉnh Đắk Nông",
+      "provinceCode": "67"
+    },
+    {
+      "name": "Huyện Đắk R'Lấp",
+      "code": "666",
+      "provinceName": "Tỉnh Đắk Nông",
+      "provinceCode": "67"
+    },
+    {
+      "name": "Huyện Đắk Song",
+      "code": "665",
+      "provinceName": "Tỉnh Đắk Nông",
+      "provinceCode": "67"
+    },
+    {
+      "name": "Thành phố Gia Nghĩa",
+      "code": "660",
+      "provinceName": "Tỉnh Đắk Nông",
+      "provinceCode": "67"
+    }
+  ]
+}

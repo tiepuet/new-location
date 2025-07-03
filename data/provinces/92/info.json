@@ -1,0 +1,76 @@
+{
+  "name": "TP Cần Thơ",
+  "code": "92",
+  "from": "Sóc Trăng, Hậu Giang, TP Cần Thơ",
+  "area": 6360.83,
+  "population": 4199824,
+  "adminCenter": "TP Cần Thơ",
+  "hasSeaport": true,
+  "numSeaports": 3,
+  "numBerths": 22,
+  "grdp": 281.675,
+  "licensePlates": [
+    65,
+    83,
+    95
+  ],
+  "density": 660,
+  "wardsCount": 0,
+  "placeType": "Thành phố Trung Ương",
+  "districts": [
+    {
+      "name": "Huyện Cờ Đỏ",
+      "code": "925",
+      "provinceName": "Thành phố Cần Thơ",
+      "provinceCode": "92"
+    },
+    {
+      "name": "Huyện Phong Điền",
+      "code": "926",
+      "provinceName": "Thành phố Cần Thơ",
+      "provinceCode": "92"
+    },
+    {
+      "name": "Huyện Thới Lai",
+      "code": "927",
+      "provinceName": "Thành phố Cần Thơ",
+      "provinceCode": "92"
+    },
+    {
+      "name": "Huyện Vĩnh Thạnh",
+      "code": "924",
+      "provinceName": "Thành phố Cần Thơ",
+      "provinceCode": "92"
+    },
+    {
+      "name": "Quận Bình Thuỷ",
+      "code": "918",
+      "provinceName": "Thành phố Cần Thơ",
+      "provinceCode": "92"
+    },
+    {
+      "name": "Quận Cái Răng",
+      "code": "919",
+      "provinceName": "Thành phố Cần Thơ",
+      "provinceCode": "92"
+    },
+    {
+      "name": "Quận Ninh Kiều",
+      "code": "916",
+      "provinceName": "Thành phố Cần Thơ",
+      "provinceCode": "92"
+    },
+    {
+      "name": "Quận Thốt Nốt",
+      "code": "923",
+      "provinceName": "Thành phố Cần Thơ",
+      "provinceCode": "92"
+    },
+    {
+      "name": "Quận Ô Môn",
+      "code": "917",
+      "provinceName": "Thành phố Cần Thơ",
+      "provinceCode": "92"
+    }
+  ]
+}
